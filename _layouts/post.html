@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+
+  <div class="post-info">
+    <span>Écrit par&nbsp;</span>
+    {%- if page.author -%}
+      {{- page.author -}}
+    {%- else -%}
+      {{- site.author.name -}}
+    {%- endif %}
+
+    {% if page.date %}
+      <br>
+      <span>Le</span>
+      <time datetime="{{ page.date }}">
+        {% assign m = page.date | date: "%-m" %}
+        {{ page.date | date: "%-d" }}
+
+        {% case m %}
+          {% when '1' %}janvier
+          {% when '2' %}février
+          {% when '3' %}mars
+          {% when '4' %}avril
+          {% when '5' %}mai
+          {% when '6' %}juin
+          {% when '7' %}juillet
+          {% when '8' %}août
+          {% when '9' %}septembre
+          {% when '10' %}octobre
+          {% when '11' %}novembre
+          {% when '12' %}décembre
+        {% endcase %}
+
+        {{ page.date | date: "%Y" }}
+      </time>
+    {%- endif -%}
+  </div>
+
+  <div class="post-line"></div>
+
+  {{ content }}
+
+</div>
+
+<div class="pagination">
+  {% if page.next.url %}
+    <a href="{{ page.next.url }}" class="left arrow" title="{{ page.next.title }}">&#8592;</a>
+  {% endif %}
+
+  {% if page.previous.url %}
+    <a href="{{ page.previous.url }}" class="right arrow" title="{{ page.previous.title }}">&#8594;</a>
+  {% endif %}
+</div>
