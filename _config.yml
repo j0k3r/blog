@@ -7,7 +7,6 @@ paginate: 100
 
 plugins:
   - jekyll-feed
-  - jekyll-redirect-from
 
 # Assets
 sass:

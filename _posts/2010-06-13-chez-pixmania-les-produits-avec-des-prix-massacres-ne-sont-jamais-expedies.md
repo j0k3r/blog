@@ -162,8 +162,8 @@ Je ne retournerais certainement jamais chez PIXmania pour faire une commande. On
 
   [1]: http://www.jeuxvideo.com/reportages-videos-jeux/0000/00000436/red-dead-redemption-serie-de-gameplay-introduction.htm#containerlienVoirDirectementlaVideo
   [2]: http://www.fnac.com
-  [3]: http://www.j0k3r.net/media/news/thumbnail/box_view_pix_1.png
+  [3]: https://www.j0k3r.net/media/news/thumbnail/box_view_pix_1.png
   [4]: http://twitter.com/pixmania/status/15837080706
-  [5]: http://www.j0k3r.net/media/news/thumbnail/gallery_view_pix_2.png
-  [6]: http://www.j0k3r.net/media/news/thumbnail/gallery_index_pix_3.png
+  [5]: https://www.j0k3r.net/media/news/thumbnail/gallery_view_pix_2.png
+  [6]: https://www.j0k3r.net/media/news/thumbnail/gallery_index_pix_3.png
   [7]: http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000018048016&dateTexte=2010061

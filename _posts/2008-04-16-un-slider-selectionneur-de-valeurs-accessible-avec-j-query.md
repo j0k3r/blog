@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/un-slider-selectionneur-de-valeurs-accessible-avec-j-query
 layout: post
 title: 'Un slider (sélectionneur de valeurs) accessible avec jQuery'
 date: '2008-04-16 07:19:55'

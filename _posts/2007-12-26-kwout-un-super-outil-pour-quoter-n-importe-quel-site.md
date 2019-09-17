@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/kwout-un-super-outil-pour-quoter-n-importe-quel-site
 layout: post
 title: 'Kwout, un super outil pour quoter n''importe quel site !'
 date: '2007-12-26 11:17:03'

@@ -34,8 +34,6 @@ GEM
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
     jekyll-paginate (1.1.0)
-    jekyll-redirect-from (0.15.0)
-      jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-theme-hydeout (3.7.1)
@@ -78,7 +76,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  jekyll-redirect-from
   jekyll-theme-hydeout (~> 3.4)
 
 BUNDLED WITH

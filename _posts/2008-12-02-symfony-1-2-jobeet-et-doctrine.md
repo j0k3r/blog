@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/symfony-1-2-jobeet-et-doctrine
 layout: post
 title: 'symfony 1.2, Jobeet et Doctrine'
 date: '2008-12-02 10:05:58'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/proto-check-et-spinner-control
 layout: post
 title: 'Proto Check et Spinner Control'
 date: '2008-02-29 05:54:02'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-calendriers-de-l-avent-2008
 layout: post
 title: 'Les calendriers de l''Avent 2008 !'
 date: '2008-12-02 08:02:26'
