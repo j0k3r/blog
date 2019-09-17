@@ -20,4 +20,4 @@ Au programme :
 
 Téléchargez le mag à cette adresse : [http://magazine.developpez.com/](http://magazine.developpez.com/) (format PDF, 782 Ko, 13 pages)
 
-![image](http://magazine.developpez.com/images/couverture-200509.jpg)
+![image](https://magazine.developpez.com/images/couverture-200509.jpg)

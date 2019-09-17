@@ -13,4 +13,4 @@ excerpt: '[COil](http://www.coilblog.com/index.php/2007/03/10/11-breve-de-compto
 
 On retrouve une longue colonne à gauche représentant l'arborescence type d'un projet Symfony et sur la droite un récapitulatif des commandes Symfony les plus utilisées/utiles, avec à chaque fois une description et les paramètres de la commande.
 
- [![image](http://andreiabohner.files.wordpress.com/2007/03/cheat1ptbrmenor.gif)](http://andreiabohner.wordpress.com/2007/03/03/symfony-cheat-sheet-estrutura-de-diretorio-e-cli-linha-de-comando/)
+ [![image](https://andreiabohner.files.wordpress.com/2007/03/cheat1ptbrmenor.gif)](http://andreiabohner.wordpress.com/2007/03/03/symfony-cheat-sheet-estrutura-de-diretorio-e-cli-linha-de-comando/)

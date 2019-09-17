@@ -15,4 +15,4 @@ Vous voulez savoir si quelqu'un copie littéralement votre site ... savoir si vo
 
   Il vous permet aussi d'afficher une petite bannière sur votre site montrant qu'il est protégé par CopyScape contre la copie.
 
-   ![image](http://www.copyscape.com/images/cs-wh-234x16.gif)
+   ![image](https://www.copyscape.com/images/cs-wh-234x16.gif)

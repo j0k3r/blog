@@ -14,4 +14,4 @@ En effet, Edin Kadribasic nous informe que c'est une des bonnes choses à connai
 
 Le feedback sur ce [nouvel installeur](http://mirrors.emini.eu/php-installer/php-5.2.0RC1-win32-installer.msi) sera fortement aprécié.
 
- ![image](http://edin.dk/uploads/php-installer.jpg)
+ ![image](https://edin.dk/uploads/php-installer.jpg)

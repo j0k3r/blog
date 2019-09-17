@@ -12,7 +12,7 @@ excerpt: "Le PHP Security Consortium lance un tout nouveau projet plus qu'intér
 Le PHP Security Consortium lance un tout nouveau projet plus qu'intéressant !
 L'idée est de fournir une fonction (équivalente à phpinfo()) qui effectuera plusieurs rapports de sécurité de l'environnement PHP et qui proposera des solutions pour règler les éventuels problèmes.   Voici un aperçu du rendu :
 
- ![image](http://phpsec.org/images/_phpsecinfo_ss.gif)
+ ![image](https://phpsec.org/images/_phpsecinfo_ss.gif)
 
 [PHPSecInfo](http://phpsec.org/projects/phpsecinfo/), le nom de ce nouveau projet, possède pour le moment 16 tests.   Le projet est tout jeune et cherche toujours des développeurs qui seraient prêts à rédiger des tests pour enrichir cette belle initiative !
 

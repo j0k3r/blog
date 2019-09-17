@@ -20,6 +20,6 @@ Une fois ouvert il présente plusieurs fenêtres comme un vrai débuggeur. Ca va
 * Source code
 * Interfactive session
 
- ![image](http://developpeur.journaldunet.com/exemples/firefox/venkman-01.jpg)
+ ![image](https://developpeur.journaldunet.com/exemples/firefox/venkman-01.jpg)
 
 Le JDN donne [plus d'infos](http://developpeur.journaldunet.com/tutoriel/out/060529-extension-firefox-venkman-debogeur-javascript.shtml) à son sujet.

@@ -19,5 +19,5 @@ Tout le monde connait maintenant le principe d'une lightbox, lors d'un clic sur 
  * Redimensionnement automatique de la popup en fonction de la taille de l'image
  * Et ce qui est vraiment intéressant, **possibilité de lancer le défilement de la galerie en mode "slideshow"**.
 
- ![image](http://kwout.com/cutout/a/bd/qs/2uk_bor_rou_efefef.jpg)
+ ![image](https://kwout.com/cutout/a/bd/qs/2uk_bor_rou_efefef.jpg)
 Pour finir, ce script est du même auteur que [Prototip](http://www.j0k3r.net/news-prototip-les-infobulles-tooltips-pour-prototype-js-1891.html) et [Starbox](http://www.nickstakenburg.com/projects/starbox) (un système de notation à la volée).

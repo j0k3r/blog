@@ -14,8 +14,8 @@ Depuis la parution de PHP 5, JpGraph est divisé en deux librairie : une pour PH
 
 Les lignes de guidages servent à identifier une part d'un camembert par exemple :
 
- ![image](http://developpeur.journaldunet.com/exemples/php_jpgraph/060428-guidelines.gif)
+ ![image](https://developpeur.journaldunet.com/exemples/php_jpgraph/060428-guidelines.gif)
 Les axes Y multiples permettent d'afficher plusieurs données sur un même graphiques :
 
- ![image](http://developpeur.journaldunet.com/exemples/php_jpgraph/060428-multi-y.gif)
+ ![image](https://developpeur.journaldunet.com/exemples/php_jpgraph/060428-multi-y.gif)
 Le JDN présente comment exploiter ces deux nouveautés dans un de leur dernier [article](http://developpeur.journaldunet.com/tutoriel/php/060428-php-jpgraph-lignes.shtml).

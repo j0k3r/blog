@@ -10,7 +10,7 @@ excerpt: "Le deuxième salon du webmaster aura lieu les 17 et 18 mai prochain et
 ---
 
 Le deuxième salon du webmaster aura lieu les 17 et 18 mai prochain et se déroulera toujours à Paris.
- ![image](http://www.webmasters-expo.com/logos-salon/468x60_WME_1.gif)
+ ![image](https://www.webmasters-expo.com/logos-salon/468x60_WME_1.gif)
 
 Au programme de ce salon, il y aura des conférences sur :
 

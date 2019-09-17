@@ -18,4 +18,4 @@ Le tout est en JavaScript et disponible sur le [site de l'auteur](http://phasetw
 
 Je trouve que cela ressemble plus à un casse-tête pour daltoniens qu'autres chose :D
 
- ![image](http://www.j0k3r.net/img/news/tagcloud.gif)
+ ![image](https://www.j0k3r.net/img/news/tagcloud.gif)

@@ -13,4 +13,4 @@ Suite du feuilleton des feuilles de style chez pompage.net.   Entre en jeux cett
 
 Quand à l'[épisode 9](http://pompage.net/pompe/cssdezero-9/), il est une suite logique de l'épisode 8, il mets tout ensemble. C'est à dire que l'on mélange les id, les class et les spans pour arriver à quelques choses de concret : l'architecture d'un site.
 
- ![image](http://pompage.net/IMG/gif/threecols_fr.gif)
+ ![image](https://pompage.net/IMG/gif/threecols_fr.gif)

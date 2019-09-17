@@ -21,4 +21,4 @@ Ce dernier point est très intéressant puisqu'il permet de faire ses propres th
 
 A essayer d'urgence ! :)
 
- ![image](http://blogus.xilinus.com/beta/doc/logo.gif)
+ ![image](https://blogus.xilinus.com/beta/doc/logo.gif)

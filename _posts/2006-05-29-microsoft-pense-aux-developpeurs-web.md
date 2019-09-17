@@ -13,4 +13,4 @@ On s'en plaignait, microsoft l'a fait... en retard... Mais comme on dit, mieux v
 
 Liens :   [La toolbar](http://www.microsoft.com/downloads/details.aspx?FamilyID=e59c3964-672d-4511-bb3e-2d5e1db91038&amp;displaylang=en)   [Le debuggeur javascript](http://www.microsoft.com/downloads/details.aspx?familyid=2f465be0-94fd-4569-b3c4-dffdf19ccd99&amp;displaylang=en)
 
- ![image](http://www.wikistuce.info/lib/exe/fetch.php/logiciels/internet_explorer/addons/ie_devbar.jpg?cache=cache&amp;w=550)
+ ![image](https://www.wikistuce.info/lib/exe/fetch.php/logiciels/internet_explorer/addons/ie_devbar.jpg?cache=cache&amp;w=550)

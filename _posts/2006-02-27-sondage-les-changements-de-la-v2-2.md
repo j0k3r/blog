@@ -13,6 +13,6 @@ Ca faisait un moment qu'il durait celui là !   Les résultats sont ceux que je 
 
 C'est vrai que les changements ne sont pas explicites, même si la boite de login et le chat ont subit changement assez radicaux.   Mais pour le visiteur qui ne fait que passer, les changements sont néants :)
 
- ![image](http://www.j0k3r.net/img/sond/v2.2.png)
+ ![image](https://www.j0k3r.net/img/sond/v2.2.png)
 
 Je vous remercie de votre participation à ce sondage et vous invite à participer au nouveau :)

@@ -11,7 +11,7 @@ excerpt: 'Google nous autorise à fouiller dans tous les codes sources (Open Sou
 
 Le grand Google a publié au début du moins un tout nouvel outil qui permet de faire une recherche sur tous les codes sources en Open Source que Google connait sur le web : [Google Code Search](http://www.google.com/codesearch).  Il permet aussi de faire des recherches au sein d'archive zip contenant un code source.
 
-   ![image](http://www.google.com/intl/en/images/codesearch_logo.gif)
+   ![image](https://www.google.com/intl/en/images/codesearch_logo.gif)
 
   Très innovant me direz-vous, mais cela a tout de suite intéressé les hackers ou les p'tits plaisantins, qui forcément commencent à rechercher les fichiers de config de Wordpress par exemple ([wp-config.php](http://www.google.com/codesearch?hl=en&lr=&q=file%3Awp-config.php&btnG=Search)) et tombe bien souvent sur une archive sur le site web lui même avec les identifiants de la base de donnée dedans.
 

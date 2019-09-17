@@ -11,7 +11,7 @@ excerpt: "Encore un sondage dont la réponse était évidente avant même la pub
 
 Encore un sondage dont la réponse était évidente avant même la publication du sondage.   Je crois que la réponse est assez unanime avec quelques nons et encore je comprendrai les personnes qui ont votés non parce qu'ils en avaient marre de voir ce sondage (ils se reconnaitront !).
 
- ![image](http://www.j0k3r.net/img/sond/plus-d-ajax.png)
+ ![image](https://www.j0k3r.net/img/sond/plus-d-ajax.png)
 
 Ok, vous voulez plus d'AJAX, j'ai compris.   Je verrai dans les mois à venir où est ce que je peux en mettre utilement.
 

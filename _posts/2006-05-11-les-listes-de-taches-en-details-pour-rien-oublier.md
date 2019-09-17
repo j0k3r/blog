@@ -21,7 +21,7 @@ Nombreux sont les sites qui maintenant proposent des todolists en ligne. Vous po
 * Remember The Milk
 * Voo2Do
 
- ![image](http://www.techcrunch.com/wp-content/todologos.gif)
+ ![image](https://www.techcrunch.com/wp-content/todologos.gif)
 
 Un p'tit récapitulatif est fait pour chacune d'entre elle. En conclusion on remarque que c'est souvent la simplicité qui est gagnante et pas forcément l'usine à gaz qui fait tout, surtout avec tout.    J'utilise Ta-da List depuis un moment, et c'est vrai qu'il est ultra simple. Je me suis mis récemment chez Remember The Milk et là l'interface est plus lourde et moins intuitive aux premiers abords, mais ça vient ensuite :)
 

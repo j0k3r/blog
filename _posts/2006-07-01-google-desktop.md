@@ -16,4 +16,4 @@ Ainsi on peut [retrouver](http://desktop.google.com/fr/features.html#search) des
   Couplé à Gmail, il peut même permettre le [partage de fichiers ](http://desktop.google.com/fr/features.html#share)...
 
 La version 4.0, en béta, est [disponible](http://desktop.google.com/) et un descriptif complet et en français est aussi [disponible](http://desktop.google.com/fr/features.html).
-   ![image](http://desktop.google.com/fr/images/fb_home2.gif)
+   ![image](https://desktop.google.com/fr/images/fb_home2.gif)

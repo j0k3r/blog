@@ -17,9 +17,9 @@ Faut pas se leurrer ... les favoris c'est la galère !  Un formatage, un plantag
 
   Voila différentes utilisation possible de Memotoo :
 
-  ![image](http://www.memotoo.com/img/85.gif)
+  ![image](https://www.memotoo.com/img/85.gif)
 
-![image](http://www.memotoo.com/img/86.gif)
+![image](https://www.memotoo.com/img/86.gif)
 
   Memotoo permet aussi de gérer les adresses, numéros de téléphone, mails de vos contacts, un agenda ...
 

@@ -12,7 +12,7 @@ excerpt: "Quand on poste des news ou des infos sur un site, c'est toujours bien 
 Quand on poste des news ou des infos sur un site, c'est toujours bien de rajouter une petite illustration. Je pense qu'on tiens un peu ça des magazines papiers : quand une info possède une image, on l'a regarde souvent avant de lire son contenu.
 Le truc, c'est que sur le web, les images ne manquent pas, mais souvent pour illustrer quelques choses de précis, et bien on n'a pas d'image à mettre ...   Le plus simple est de "quoter" le site qui contient la news. Par exemple, là je vous parle de [Kwout](http://kwout.com), et bien plutôt que de rajouter tout simplement son logo (que j'aurai, au préalable, mis sur un [serveur d'images](http://imageshack.us/) pour ne pas manger de sa bande passante, hein on est d'accord), je fais un kwout du site :
 
- ![image](http://kwout.com/cutout/u/5s/2u/kni_bor_rou_sha_efefef.jpg)
+ ![image](https://kwout.com/cutout/u/5s/2u/kni_bor_rou_sha_efefef.jpg)
 
 Les étapes sont simples :
 

@@ -11,7 +11,7 @@ excerpt: 'YUI (Yahoo! User Interface), la librairie d''interface JavaScript de Y
 
 YUI (Yahoo! User Interface), la librairie d'interface JavaScript de Yahoo!, ne cesse d'évoluer.   La version 2.5.0 sortie il y a 3 jours présentes de nombreuses nouvelles fonctionnalités !
 
- ![image](http://kwout.com/cutout/9/jn/8p/mv7_bor_rou_efefef.jpg)
+ ![image](https://kwout.com/cutout/9/jn/8p/mv7_bor_rou_efefef.jpg)
 
  * **DataTable Control** (amélioration) : permet de gérer de façon très interactive avec l'utilisateur, un tableau de donnée.
  * **Layout Manager** (nouveauté) : offre la possibilité de mettre en place du contenu d'une façon très interactive (oui encore !). Il reprend l'idée de Yahoo! Mail avec une interface riche (mais lourde?) pour gérer du contenu. Un [exemple très concret](http://developer.yahoo.com/yui/examples/layout/adv_layout_source.html) est d'ailleurs proposé. C'est une interface riche, calqué sur Yahoo! Mail, mais qui montre bien le fonctionnement du Layout Manager

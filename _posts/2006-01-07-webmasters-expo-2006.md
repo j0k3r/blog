@@ -14,4 +14,4 @@ Après les éditions réussies de 2004 et 2005, ce troisième salon rassemblera 
 
 Le programme n'est pas encore disponible mais il ne saurai tarder je pense !   Au passage, le site a été refait depuis l'[année dernière](http://www.j0k3r.net/news-webmasters-expo-les-17-et-18-mai-428.html), il est plus joli quand même :)
 
- [![image](http://webmasters-expo.com/images/banners/468x60_WME_4.2.gif)](http://www.webmasters-expo.com/)
+ [![image](https://webmasters-expo.com/images/banners/468x60_WME_4.2.gif)](http://www.webmasters-expo.com/)

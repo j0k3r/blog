@@ -10,7 +10,7 @@ excerpt: "Depuis le temps que je cherchais un slider digne de ce nom, en Javascr
 ---
 
 Depuis le temps que je cherchais un slider digne de ce nom, en Javascript et qui me permettait de prendre une sélection de valeurs qui ne soit des dates !! Je l'ai enfin trouvé. Certes j'utilise prototype plutôt que jQuery, mais déjà el fait d'en avoir trouver un, ça me soulage.
- ![image](http://kwout.com/cutout/n/w2/mv/7gy_bor_rou_f4f4f4.jpg)
+ ![image](https://kwout.com/cutout/n/w2/mv/7gy_bor_rou_f4f4f4.jpg)
 
 Bon tout d'abord, un slider c'est quoi?   J'appellerai un slider, un sélectionneur de valeurs. Il permet en effet de sélectionner une fourchette de valeurs pour faire une sorte de filtre. Dans l'idée, ça serait de définir un prix minimum et un prix maximum. Le premier acteur français à l'avoir fait sur son site eCommerce, est [Darty](http://www.darty.com/nav/achat/telephonie/telephonie_mobile/telephone_portable/guide.html) (il me semble).
 

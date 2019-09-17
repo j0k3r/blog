@@ -11,7 +11,7 @@ excerpt: 'Je sais très bien que la plupart des webdesigners travaillent sous Fi
 
 Je sais très bien que la plupart des webdesigners travaillent sous Firefox et qu'il existe une flopée d'extension qui permettent de leur faciliter grandement leur travail.   Cependant, il y a aussi les autres, qui ne travaillent pas sous Firefox et pour eux, il existe Design.
 
- ![image](http://kwout.com/cutout/m/ep/jb/qs2_bor_rou_efefef.jpg)
+ ![image](https://kwout.com/cutout/m/ep/jb/qs2_bor_rou_efefef.jpg)
 [Design](http://www.sprymedia.co.uk/article/Design) est une suite de 4 outils qui s'utilise directement au sein d'une page web grace à des fonctions JavaScript.
 En utilisant ce lien JavaScript, vous ferez apparaitre une petite fenêtre qui contiendra les 4 outils suivant :
 

@@ -16,4 +16,4 @@ On y trouve aussi le planning de ces deux jours avec une journée qui présenter
 
 Les [préinscriptions](http://www.parisweb2006.org/inscription.php) sont d'ores et déjà ouvertes, le nombre de places étant limité, il est conseillé de s'inscrire tout de suite si l'on souhaite y aller. Le prix des places est assez cher, mais si vous avez la chance d'être étudiant, le prix ne sera &quot;que&quot; de 30€ par jour :)
 
- [![image](http://www.j0k3r.net/img/news/parisweb2006.gif)](http://www.parisweb2006.org/)
+ [![image](https://www.j0k3r.net/img/news/parisweb2006.gif)](http://www.parisweb2006.org/)

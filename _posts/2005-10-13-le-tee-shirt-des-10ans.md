@@ -14,4 +14,4 @@ Pour cette occasion (même si c'est un peu longtemps après la réelle date ...)
 
 Le plus dans tout cela, c'est qu'une fois votre t-shirt acheté, vous le prenez en photo, vous le renvoyez à Zend qui mettra votre nom dans une belle boiboite. Suite à un tirage au sort pendant la Conférence Zend/PHP à San Francisco (18 au 21 octobre), vous pourrez peut être gagner un iPod nano.
 
- ![image](http://zend.com/images/php/10anniversary/front.jpg)
+ ![image](https://zend.com/images/php/10anniversary/front.jpg)

@@ -14,7 +14,7 @@ Sur une grande majorité des sites internets actuels, on retrouve des captchas q
 
 Une jeune équipe de cette même université a eu la bonne idée d'utiliser les captchas pour digitaliser les livres anciens ! Ces livres anciens sont généralement mis sous format électronique grâce à des logiciels OCR qui permettent de reconnaitre des mots via une image. Mais ces logiciels s'avèrent de temps en temps défaillant sur certains mots.
 
- ![image](http://img521.imageshack.us/img521/2098/captchahomepageiy0.gif)
+ ![image](https://img521.imageshack.us/img521/2098/captchahomepageiy0.gif)
 
 Le principe de [reCAPTCHA](http://recaptcha.net/) est d'afficher deux mots à reconnaitre. Le premier étant un mot déjà connu par les logiciels OCR et le deuxième leur est inconnu. Ainsi, en répondant correctement vous informer l'ordinateur de la véritable orthographe du deuxième mot. Il suffit que 3 personnes valident ce même mot pour que l'ordinateur soit sûr de son orthographe.
 

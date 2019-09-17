@@ -12,6 +12,6 @@ excerpt: "Un nouveau service va bientôt voir le jour : [Menthe-Fresh](http://ww
 Un nouveau service va bientôt voir le jour : [Menthe-Fresh](http://www.menthe-fresh.com/).
 Menthe-Fresh sera bientôt opérationnel, vous pouvez dors et déjà vous inscrire et peut-être avoir la chance de pouvoir participer à la bêta privée qui sera lancée.   Je fais entre autre parti de l'équipe de ce projet qui est mené par [loopion](http://blog.loopion.com/).
 
- ![image](http://www.menthe-fresh.com/images/logo_menthe-fresh.gif)
+ ![image](https://www.menthe-fresh.com/images/logo_menthe-fresh.gif)
 
 [Inscrivez-vous](http://www.menthe-fresh.com/) pour connaitre la suite ;)

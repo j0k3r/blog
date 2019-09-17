@@ -15,5 +15,5 @@ Souvent on cherche à trouver la valeur contenu dans un cookie ou tout simplemen
 
 Et bien [Firecookie](http://www.softwareishard.com/blog/?page_id=5) permet d'avoir un intégration parfaite de la gestion des cookies dans Firebug ! Il vous permet de voir les cookies (en live !) qui sont ajoutés par un site web, d'en voir leur contenu, et le domaine sur lequel ils sont valables. Vous avez aussi la possibilité de les supprimer voir même d'en créer !   Pour ma part, je pense qu'il manque juste l'édition pour que cette extension soit parfaite.
 
- ![image](http://img258.imageshack.us/img258/1875/scrfirecookie1pk4.png)
+ ![image](https://img258.imageshack.us/img258/1875/scrfirecookie1pk4.png)
 Certains me diront que la gestion des cookies est déjà très bien faite dans l'extension WebDevelopper, mais j'utilise très peu cette extension (bien que pratique de temps en temps) alors que je suis très souvent rivé sur Firebug.

@@ -14,7 +14,7 @@ Lorsqu'on développe un site on ne se préoccupe plus des connexions (et surtout
 Un bon moyen de tester la qualité de son site pour une connexion donnée est donnée dans cet [article de wikistuce.](http://www.wikistuce.info/doku.php/logiciels/speedlimiter_-_reduisez_votre_debit_pour_tester_vos_sites)
 
   Le principe : Installer un logiciel gratuit ( [speedlimiter](http://www.delight.ch/download/43/SpeedLimiter.exe) ) qui va en fait limiter la bande passante d'accés au site ...
-   ![image](http://www.wikistuce.info/lib/exe/fetch.php/nouvelle_page_id_articles/speedlimiter.png)
+   ![image](https://www.wikistuce.info/lib/exe/fetch.php/nouvelle_page_id_articles/speedlimiter.png)
   Il suffisait d'y penser ...
 
  Pour l'avoir testé, c'est vraiment efficace !

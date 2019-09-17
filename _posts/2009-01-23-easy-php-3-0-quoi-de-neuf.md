@@ -21,33 +21,33 @@ EasyPHP est maintenant sorti depuis quelques jours en version 3.0 (d'un coup com
 
 Curieux de voir les changements de cette version *majeure*, je l'ai installé sur mon Windows Se7en (fraîchement installé lui aussi), voilà ce que ça donne :
 
- ![image](http://img209.imageshack.us/img209/8477/easyphp31fl7.png)
+ ![image](https://img209.imageshack.us/img209/8477/easyphp31fl7.png)
 
 L'installation en elle même n'est pas longue, j'ai quand même regretté le manque de configuration demandé pendant l'installation : pas de configuration de PHP, pas de configuration d'Apache ou autre ..
 
 Je ne crois pas que le menu contextuel est beaucoup changé.   On retrouve basiquement la gestion de la configuration de toutes les applications et l'accès aux fichiers logs.
 
- ![image](http://img238.imageshack.us/img238/5913/easyphp34gl6.png)
+ ![image](https://img238.imageshack.us/img238/5913/easyphp34gl6.png)
 
 Le panel de monitorisation des serveurs n'a pas non plus changé.   Il se lance toujours depuis l'icône dans le systray. Dommage cependant de ne pas l'avoir complètement intégrer dans le menu contextuel, ça fait une fenêtre en plus, des clics en plus, etc ...
 
- ![image](http://img443.imageshack.us/img443/4039/easyphp35gw7.png)
+ ![image](https://img443.imageshack.us/img443/4039/easyphp35gw7.png)
 
 Une fois que tout a correctement démarré, que tous les feux sont au vert, on peut aller voir ce qu'il se passe sur la home.   On remarque que le design a reçu un petit lifting (rien de bien méchant non plus) qui comme à l'accoutumé se retrouve aussi sur le [site officiel](http://www.easyphp.org).   Cette interface est disponible en plusieurs langues (il me semble que la version 2.0 avait lancé des appels à la communauté pour les traductions).
 
- ![image](http://img294.imageshack.us/img294/3448/easyphp32pr5.png)
+ ![image](https://img294.imageshack.us/img294/3448/easyphp32pr5.png)
 
 Le listing des extensions chargés dans PHP est plaisant, on peut ainsi voir toutes les extensions mais aussi les fonctions activées (rien de spectaculaire non plus).
 
- [![image](http://img206.imageshack.us/img206/755/easyphp33lz1.th.png)](http://img206.imageshack.us/img206/755/easyphp33lz1.png)
+ [![image](https://img206.imageshack.us/img206/755/easyphp33lz1.th.png)](http://img206.imageshack.us/img206/755/easyphp33lz1.png)
 
 Ce que j'ai bien aimé, c'est la configuration d'un nouvel alias par exemple.   Le remplissage du formulaire est bien clair, bien documenté et toutes les étapes sont rassemblés pour ne pas que l'on en oublie une. Contrairement à WampServer qui propose une interface en mode console, cette approche est plus conviviale !
 
- ![image](http://img339.imageshack.us/img339/6448/easyphp36uf6.png)
+ ![image](https://img339.imageshack.us/img339/6448/easyphp36uf6.png)
 
 L'arborescence des fichiers n'a pas changé par rapport aux précédentes versions, tout est placé au même niveau.   Je pense qu'il sera aussi compliqué de jongler avec différentes versions de PHP, Apache, etc .. qu'avant.   Là aussi, dommage.
 
- ![image](http://img240.imageshack.us/img240/3794/easyphp310qv6.png)
+ ![image](https://img240.imageshack.us/img240/3794/easyphp310qv6.png)
 
 **En résumé...**   Et bien j'ai envie de dire que cette version 3.0 est en fait la version 2.0 finale qui est attendu depuis maintenant bientôt 4ans ! Et puis ... c'est tout.
 

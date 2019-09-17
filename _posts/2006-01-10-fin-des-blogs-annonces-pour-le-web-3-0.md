@@ -14,6 +14,6 @@ Ainsi on voit qu'au début, dans le **Web 0.0** les sites été lus et créés p
 
 Rien de mieux qu'un graphique (pour les deux du fond qui viennent de se réveiller) pour illustrer tout cela :
 
- ![image](http://www.gasteroprod.com/IMG/jpg/web2_graphe.jpg)
+ ![image](https://www.gasteroprod.com/IMG/jpg/web2_graphe.jpg)
 
 Un retour de lecture d'un retour de lecture de [Gasteropod](http://www.gasteroprod.com/le-web-3.0-verra-t-il-la-fin-des-blogs.html).

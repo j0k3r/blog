@@ -12,7 +12,7 @@ excerpt: "script.aculo.us a fait un peu parler de lui dernièrement.     \nTout 
 script.aculo.us a fait un peu parler de lui dernièrement.
 Tout d'abord, ils ont lancé un p'tit teaser concernant leur prochaine version 2.0, qui sera en fait une grande refonte de la librairie :
 
- ![image](http://img515.imageshack.us/img515/5530/scripty20ib4.gif)
+ ![image](https://img515.imageshack.us/img515/5530/scripty20ib4.gif)
 
 Si la librairie pouvait être plus rapide, moins lourde et avec plus de fonctionnalités, ça serait le pied :-)
 
