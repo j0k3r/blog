@@ -4,6 +4,8 @@ permalink: /:title
 # Setup
 title: j0k3r.net
 paginate: 100
+url: "https://www.j0k3r.net"
+baseurl: ""
 
 plugins:
   - jekyll-feed
