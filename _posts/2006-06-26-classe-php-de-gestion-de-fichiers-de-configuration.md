@@ -3,7 +3,7 @@ layout: post
 title: 'Classe Php de gestion de fichiers de configuration'
 date: '2006-06-26 09:12:41'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Ce [tutoriel de phpIt](http://www.phpit.net/article/create-settings-class-php/) nous dévoile comment créer une classe de gestion de fichier de configuration en Php.     \nPlusieurs formats de fichiers ( PHP, INI, XML and YAML ) sont traités par une interface Php unique avec un load(...) et un get(...) à l'aide du polymorphisme.  \n  \nAussi avec      …"
 ---
 

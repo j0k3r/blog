@@ -3,7 +3,7 @@ layout: post
 title: 'Sept erreurs d''accessibilité - 1ère partie'
 date: '2006-07-02 02:26:35'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Pompage publie une traduction d'un article de Christian Heilmann. Cet article est en deux parties et traite des raisons qui font que certains produits web n'arrivent pas à être accessibles.     \nDans cette première partie on retrouve les 3 premières erreurs sur 7 :   * Croire à des produits sans avoir les avoir testé   * Prendre trop de      …"
 ---
 

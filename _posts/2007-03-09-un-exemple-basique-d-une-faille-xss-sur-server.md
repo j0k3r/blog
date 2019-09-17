@@ -3,7 +3,7 @@ layout: post
 title: 'Un exemple basique d''une faille XSS sur `$_SERVER`'
 date: '2007-03-09 10:02:01'
 author: j0k
-tags: '[php,security,xss]'
+tags: php security xss
 excerpt: "Les failles XSS sont les failles qui sont le plus à redouter en ce moment.     \nL'exécution de code JavaScript par injection chez le client permet notamment de récupérer de précieux cookie et autre.   L'exemple ici peut être assez courant si le développeur n'est pas assez attentionné sur le code qu'il produit.  \n  \nLa technique s'applique sur      …"
 ---
 

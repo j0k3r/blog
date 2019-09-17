@@ -3,7 +3,7 @@ layout: post
 title: 'Google Desktop'
 date: '2006-07-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: 'Marre de l''explorateur Windows insipide et de votre Bureau déséspérement vide ? Et bien Google vous propose une autre façon de gérer vos fichiers.'
 ---
 

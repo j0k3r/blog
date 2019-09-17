@@ -3,7 +3,7 @@ layout: post
 title: 'Microsoft s''intéresse à AJAX'
 date: '2005-06-30 12:59:20'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "On parle d'AJAX partout maintenant, des classes PHP pleuvent, Google en fait son jouet préféré ... et forcément Microsoft plonge son nez dedans !     \nBillou et ses camarades ont commencés le développement d'un framework orienté objet baptisé Atlas, destiné selon lui à faciliter l'utilisation d'AJAX. Microsoft explique que les développeurs pourront par ailleurs      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Améliorer la crédibilité d''un site'
 date: '2006-09-03 03:50:46'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Un guide comportant 10 règles pour améliorer la crédibilité d'un site Web a été élaboré en 2002.    La rédaction de ce guide s'est appuyée sur 3 années de recherche auxquelles auraient participé 4 500 personnes. Les documents de recherche qui ont permis d'arriver à ces résultats sont accessibles sur le site du projet.  \n  \nErgonomique.com publie une      …"
 ---
 

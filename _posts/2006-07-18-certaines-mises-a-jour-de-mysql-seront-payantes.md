@@ -3,7 +3,7 @@ layout: post
 title: 'Certaines mises à jour de MySQL seront payantes'
 date: '2006-07-18 07:51:33'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'L''information vient du [MondeInformatique](http://www.lemondeinformatique.fr/actualites/lire-certaines-mises-a-jour-de-mysql-seront-payantes-20092.html), MySQL vient de décider de cesser de supporter gratuitement les versions obsolètes de son système de gestion de bases de données. Dès le mois d''août, les mises à jour et correctifs pour les versions de MySQL      ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Webdesign International Festival 2006'
 date: '2005-11-03 12:21:01'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Oua, vous allez encore me dire qu'avec un nom anglais comme celui la c'est un festival à toutaouenne les bains. Et bien pas du tout.   Le WIF 2006 (Webdesign International Festival) est un concours regroupant un millier de designers de 10 pays différents...  \n  \nLes présélections se passent les 18 et 19 novembre prochains pour ensuite se finir en finale le      …"
 ---
 

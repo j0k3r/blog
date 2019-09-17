@@ -3,7 +3,7 @@ layout: post
 title: 'Sondage : La mise en page de vos sites'
 date: '2005-05-25 01:12:16'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voila je viens de clôture le dernier sondage qui concerné la mise en page de vos sites (depuis le temps qu'il tourne ^^).     \nOn remarque que vous êtes encore nombreux à utiliser la balise &lt;table&gt; pour faire vos sites. Ce n'est pas une \"tare\" ... mais bon, les tableaux sont fait pour afficher des données de façon tabulaires, et absolument pas pour faire de      …"
 ---
 

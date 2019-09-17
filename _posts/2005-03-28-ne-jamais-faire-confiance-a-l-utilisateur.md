@@ -3,7 +3,7 @@ layout: post
 title: 'Ne jamais faire confiance à l''utilisateur !'
 date: '2005-03-28 11:23:26'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Un des concepts que saisissent assez difficilement les nouveaux créateurs d''applications Web / WebMaster, est qu''il dangeureux de faire confiance aux  entrées de l''utilisateur.    )   La semaine dernière, il y a eu des différents rapports sur une douzaine de vulnérabilités trouvées dans des applications de Web * la plupart du temps tous tournent autour des entrée      ...'
 ---
 

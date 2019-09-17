@@ -3,7 +3,7 @@ layout: post
 title: 'FireFox / ThunderBird 1.0.6'
 date: '2005-07-20 07:35:04'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Firefox 1.0.6 est finalement sorti.)     \nComme d'habitude, la mise à jour contient plusieurs correctifs de sécurité et améliorations de stabilité.  \n  \nC'est mieux quoi. Allez on télécharges tous la version"
 ---
 

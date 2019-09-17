@@ -3,7 +3,7 @@ layout: post
 title: 'Un livre gratuit en ligne sur JavaScript'
 date: '2007-08-03 04:47:40'
 author: j0k
-tags: '[javascript,livre]'
+tags: javascript livre
 excerpt: "Un nouveau e-books (on dit comme ça?), fin ... un nouveau livre en ligne et gratuit sur JavaScript est disponible depuis hier : [Eloquent JavaScript](http://eloquentjavascript.net/)     \nIl se veut être un livre interactif, puisqu'il propose des exemples concrets qui se lance dans une console JavaScript dans le bas de site. Cette console est (apparemment)      …"
 ---
 

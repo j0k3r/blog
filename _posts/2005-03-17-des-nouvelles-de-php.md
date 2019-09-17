@@ -3,7 +3,7 @@ layout: post
 title: 'Des nouvelles de php'
 date: '2005-03-17 01:12:13'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Ce que je vous avais annoncé mercredi dernier, concernant les RC de PHP 5.0.4 et PHP 4.3.11 était bien vrai ! Mais apparament pas encore disponible pour windows ...   Mais l''info n''a vraissemblablement pas été plus diffusé que ça ... mais j0k3r.n3t vous en a fait part ! ^^   )   Pour les nouvelles de php lui même, un nouvelle fonctionnalité de la fonction      ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Suivre le cours des mémoires RAM'
 date: '2003-10-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: 'Suivre le cours des mémoires RAM'
 ---
 

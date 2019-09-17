@@ -3,7 +3,7 @@ layout: post
 title: 'Créer un design complet (XHTML / CSS) en 5 étapes'
 date: '2005-04-08 06:01:33'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voila un [tutoriel](http://css.alsacreations.com/Faire-une-mise-en-page-sans-tableaux/design-css) super pratique comme dirai l'autre.   Alsacreations vous montre en 5 étapes les différentes politiques qu'il faut prendre en compte pour faire un design en XHTML et CSS et ainsi obtenir facilement un site compatible XHTML 1.0 Strict.  \n  \nLe résultat      …"
 ---
 

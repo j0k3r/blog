@@ -3,7 +3,7 @@ layout: post
 title: 'Quel est le rendu de votre site sur un téléphone portable?'
 date: '2007-05-29 11:26:22'
 author: j0k
-tags: '[telephone]'
+tags: telephone
 excerpt: "Le rendu de votre site est certainement impeccable sur PC mais qu'en est-il de son rendu sur un téléphone portable?     \nC'est rare d'avoir la possibilité de tester le rendu sur différent téléphone portable. Il n'existe pas encore de site qui vous permettent de tester tous les téléphone, un peu comme tester tous les navigateurs PC.   Par contre, il existe      …"
 ---
 

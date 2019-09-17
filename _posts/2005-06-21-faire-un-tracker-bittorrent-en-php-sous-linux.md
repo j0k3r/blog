@@ -3,7 +3,7 @@ layout: post
 title: 'Faire un tracker BitTorrent en PHP sous Linux'
 date: '2005-06-21 09:53:03'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le BitTorrent fait aujourd'hui partie des technologies très en vogue sur Internet pour transmettre des fichiers volumineux à un grand nombre d'individus.     \nVous connaissez certainement le fonctionnement de BitTorrent, lorsque vous téléchargez un fichier .torrent ce dernier contient deux informations importantes : le HASH File et l'URL du tracker.  \n     …"
 ---
 

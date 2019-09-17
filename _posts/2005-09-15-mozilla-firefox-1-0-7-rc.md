@@ -3,7 +3,7 @@ layout: post
 title: 'Mozilla Firefox 1.0.7 RC'
 date: '2005-09-15 07:49:40'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "[Mozilla Quality](http://weblogs.mozillazine.org/qa/archives/2005/09/107_release_candidate_builds_a.html) mets à disposition les versions Mozilla Firefox 1.0.7 et Mozilla 1.7.12 en Release Candidates.     \nCes versions contiennent plusieurs correctifs de sécurité, dont une solution à la vulnérabilité de dépassement de mémoire tampon pour les liens avec      …"
 ---
 

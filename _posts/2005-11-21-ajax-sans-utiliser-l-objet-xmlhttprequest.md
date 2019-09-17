@@ -3,7 +3,7 @@ layout: post
 title: 'AJAX sans utiliser l''objet XmlHttpRequest'
 date: '2005-11-21 05:07:49'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Notre grand AJAX repose sur l''objet XmlHttpRequest. Selon l''auteur c''est là qu''est le problème d''AJAX. L''objet XmlHttpRequest est très bien implémenté sur les récents navigateurs comme Firefox par exemple. Cependant sur Internet Explorer, le support natif de cet objet est inexistant ! Mais Internet Explorer supporte cet objet via un ActiveX (*composants logiciels de      ...'
 ---
 

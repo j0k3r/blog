@@ -3,7 +3,7 @@ layout: post
 title: 'Une classe pour gèrer les fenêtres avec prototype.js'
 date: '2006-06-08 12:08:20'
 author: j0k
-tags: '[class,prototype]'
+tags: class prototype
 excerpt: "Prototype Window Class est une classe JavaScript pour la librairie prototype.js.      \nCette classe permet de gérer plusieurs fenêtre. Par exemple plutôt que d'afficher une alert en JavaScript, on peut utiliser la méthode Window qui permet d'afficher une fenêtre par-dessus le site avec un système d'overlay pour éviter que l'on puisse cliquer en dehors de la      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'ZenPhoto, une galerie d''images ultra simple en PHP/Ajax'
 date: '2007-09-30 02:59:17'
 author: j0k
-tags: '[gallery,php]'
+tags: gallery php
 excerpt: 'Pour le mise en ligne de mes [dernières vacances](http://fr.wikipedia.org/wiki/%C3%8Eles_Canaries), j''ai cherché une galerie sympa pour mettre mes photos et faire une sorte de récit de ce qu''on a fait.   Je voulais passer par Flickr au début, histoire d''avoir tout le contenu ailleurs que "chez moi", mais finalement il s''est avéré que ce n''était pas      ...'
 ---
 

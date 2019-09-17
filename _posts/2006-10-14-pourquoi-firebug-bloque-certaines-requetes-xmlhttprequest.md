@@ -3,7 +3,7 @@ layout: post
 title: 'Pourquoi Firebug bloque certaines requêtes XMLHttpRequest ?'
 date: '2006-10-14 12:31:22'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous l'avez peut-être déjà remarqué, mais selon l'utilisation que vous faites de l'objet XMLHttpRequest (en utilisant une librairie ou en le faisant à la main), Firebug bloque souvent les requêtes, comme si il capturait la requête et la garder pour lui !     \nFirebug permet de voir, entre autres, les requêtes XMLHttpRequest qui sont effectué par un site web.      …"
 ---
 

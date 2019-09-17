@@ -3,7 +3,7 @@ layout: post
 title: 'PHPSecInfo v0.2, des nouveautés intéressantes'
 date: '2007-02-27 10:16:32'
 author: j0k
-tags: '[php,security]'
+tags: php security
 excerpt: "Rappelez vous, [PHPSecInfo](http://www.j0k3r.net/news-une-fonction-qui-rapporte-le-niveau-de-securite-de-php-1563.html) c'est le phpinfo de la sécurité pour votre serveur.     \nIl est distribué sous forme de script et permet de voir rapidement les lacunes de votre serveur web, plus précisément, de votre configuration de PHP en termes de sécurité.  \n      …"
 ---
 

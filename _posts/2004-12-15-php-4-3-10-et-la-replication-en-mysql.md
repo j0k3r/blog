@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 4.3.10 et la réplication en MySQL'
 date: '2004-12-15 09:07:34'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Et voilà, [PHP 4.3.10](http://www.php.net/downloads.php) est sorti !   On retrouve une foule de [corrections de buGs (~30)](http://www.php.net/ChangeLog-4.php#4.3.10) par rapport à la précédente version mais aussi des améliorations sur les fonctions fprintf, foreach, addslashes et le couple serialize/unserialize.   Evidemment, tous les utilisateurs      ...'
 ---
 

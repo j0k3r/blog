@@ -3,7 +3,7 @@ layout: post
 title: 'Nexen va faire peau neuve'
 date: '2005-12-12 10:22:50'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Dans la dernière newsletter, Damien Seguy présente rapidement la nouvelle version de nexen.net. Le design a été revu. C'est dans une premier temps un bon lifting mais ça va leur permettre aussi de faire une réorganisation et surtout un gros dépoussiérage pour mettre à jour les contenus, les bibliothèques, les forums ...     \nCette nouvelle version est bien épuré      …"
 ---
 

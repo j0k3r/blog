@@ -3,7 +3,7 @@ layout: post
 title: 'Un aide mémoire papier pour PHP'
 date: '2005-04-29 09:38:51'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Ah ... je suis sûr que bien souvent lorsque vous utilisez la fonction date en PHP, vous ne vous rappelez pas tout le temps de tous les paramètres possibles pour afficher une date exactement comme vous le souhaitez.   Vous faites comme moi, comme tout le monde, vous allez sur la page de la fonction date de la documentation online et là, vous êtes sauvé, vous avez tous      ...'
 ---
 

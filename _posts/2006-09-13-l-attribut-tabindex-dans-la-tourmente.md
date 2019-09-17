@@ -3,7 +3,7 @@ layout: post
 title: 'L''attribut tabindex dans la tourmente'
 date: '2006-09-13 09:22:52'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le collectif Alsacréations s'est penché sur le sujet de l'attribut tabindex au niveau de son accessibilité et de sa praticité.     \nIl s'avère que tabindex permet de changer l'ordre dans lequel la touche tabulation va scruter le site. Ainsi vous pouvez changer la navigation par défaut sur un site en chiffrant les tabindex, champs ou bouton.  \n  \n     …"
 ---
 

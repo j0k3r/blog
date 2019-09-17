@@ -3,7 +3,7 @@ layout: post
 title: 'Faire un système de vote en AJAX'
 date: '2006-06-15 07:41:07'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Un système que l'on avait déjà vu auparavant, un vote entièrement en AJAX qui permet via un survol de la souris de choisir la note à attribuer à l'article (par exemple).     \nContrairement au système qu'on avait [déjà vu](http://www.j0k3r.net/news-systeme-de-vote-par-etoiles-en-css-1019.html), celui ci est complètement détaillé. Il se sépare en 5 parties :      …"
 ---
 

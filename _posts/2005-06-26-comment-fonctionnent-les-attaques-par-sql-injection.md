@@ -3,7 +3,7 @@ layout: post
 title: 'Comment fonctionnent les attaques par SQL Injection ?'
 date: '2005-06-26 10:58:02'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Une injection SQL est une vulnérabilité de sécurité qui se produit dans la base de donnée de l'application. Cela vient d'un mauvais échappement des variables incluses dans les requêtes SQL. C'est en fait un exemple de vulnérabilité due au fait qu'un langage est inclut dans un autre langage.     \nC'est assez difficile à mettre en place. Souvent les hébergeurs      …"
 ---
 

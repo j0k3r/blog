@@ -3,7 +3,7 @@ layout: post
 title: 'Mambo CMS s''appelle maintenant Jango CMS !'
 date: '2005-05-03 09:43:35'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La variante commerciale du populaire CMS, Mambo, sera dorénavant connue sous le nom de Jango CMS.     \nAu début Mambo a été développé comme un CMS facile à utiliser pour les entreprise. Une version était disponible en tant que source ouverte, sous la licence GPL (qui s'est appelé \"Mambo Open Source\"), et une autre continuait à être développer, la version      …"
 ---
 

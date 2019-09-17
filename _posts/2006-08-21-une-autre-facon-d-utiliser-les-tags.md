@@ -3,7 +3,7 @@ layout: post
 title: 'Une autre façon d''utiliser les tags'
 date: '2006-08-21 09:41:42'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Les tags sont souvent utilisés de façon à hiérarchiser le contenu de votre site / blog. La plupart des moteurs de blogs place ainsi les tags que vous avez associés à votre article / billet dans le bas de celui ci.     \nCes tags sont référencés via des balises rel dans les entêtes de la page HTML et en cliquant dessus, on arrive sur tous les articles que vous avez      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Guide de sécurité en PHP'
 date: '2005-04-24 04:56:13'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Le Consortium de sécurité PHP possède un guide sur la sécurité en PHP en ligne.   )   Il présente le précaution à prendre lors de la création d''une application PHP.   Il présente aussi le filtrage des données passées de page en page, que se soit par la méthode GET ou par la méthode POST. Via des exemples concret il montre comment filtré les données quand      ...'
 ---
 

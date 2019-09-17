@@ -3,7 +3,7 @@ layout: post
 title: 'Outil de référencement'
 date: '2004-11-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: 'Le référencement d''un site, c''est le cauchemar du webmaster ... alors voici un site qui vous aide dans cette démarche.'
 ---
 

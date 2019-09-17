@@ -3,7 +3,7 @@ layout: post
 title: 'Uploader des fichiers avec barre de progression'
 date: '2005-11-02 04:28:38'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Uploader un fichier sur un serveur en passant par une page PHP, rien de bien compliquer et de surprenant. Mais uploader un fichier avec une barre de progression qui indique en temps réel l'évolution de l'upload et le tout sans flash ni ruby ??     \nEntièrement possible, AJAX est là pour ça !   Couplé à la puissance de Perl, il vous offre un formulaire      …"
 ---
 

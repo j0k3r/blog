@@ -3,7 +3,7 @@ layout: post
 title: 'Les tarifs pour la creation de site internet'
 date: '2005-01-20 06:39:40'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Blog-Webmaster publie un [article](http://www.blog-webmaster.com/CommentView,guid,757baac8-d543-4fb5-8d55-6e17c5e6e3b5.aspx) fort interessant sur la tarification d'un site internet.     \nComme de nombreux webmasters (amateurs pour la plupart du temps), nous n'avons pas la notion du prix à donner pour la création d'un site internet.   )   Dans      …"
 ---
 

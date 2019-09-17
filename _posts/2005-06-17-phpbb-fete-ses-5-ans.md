@@ -3,7 +3,7 @@ layout: post
 title: 'phpBB fête ses 5 ans !'
 date: '2005-06-17 05:43:33'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Après les [10 ans de PHP](http://www.j0k3r.net/news-php-fete-sa-decennie-527.html) la semaine dernière, c''est autour de phpBB de fêter son [anniversaire](http://www.phpbb.com/phpBB/viewtopic.php?f=14&amp;t=299352).   )   Il y a 5 ans, James Atkinson (theFinn) créait avec ces 10 doigts et un peu de temps phpBB. Peut de temps après la version 1.0 fut      ...'
 ---
 

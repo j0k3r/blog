@@ -3,7 +3,7 @@ layout: post
 title: 'Un debugger dans la nouvelle version 0.4 de FireBug'
 date: '2006-05-24 02:18:07'
 author: Casimir
-tags: '[]'
+tags: blabla
 excerpt: 'Une nouvelle version du plugin FireBug pour Firefox est disponible depuis peu.   Les grosses nouveautés :   * un [debugger Javascript](http://www.joehewitt.com/blog/images/2006-05-23/debugger.png)   * un [pile des dernières erreurs javascript](http://www.joehewitt.com/blog/images/2006-05-23/stacktrace.png)   * des [logs à la      ...'
 ---
 

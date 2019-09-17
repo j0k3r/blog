@@ -3,7 +3,7 @@ layout: post
 title: 'Yahoo! Media Player, un player pour vos mp3 dans votre site'
 date: '2008-01-09 07:54:42'
 author: j0k
-tags: '[player,yahoo]'
+tags: player yahoo
 excerpt: "Yahoo! vient tout juste de publier un nouveau player. Il permet très facilement d'ajouter un player multimedia à votre site.     \nL'utilisation est simple, il suffit de faire des liens vers des fichiers mp3, d'inclure les fichiers JavaScript de [Yahoo! Media Player](http://developer.yahoo.com/mediaplayer/) et le script se chargera de faire le reste. Il      …"
 ---
 

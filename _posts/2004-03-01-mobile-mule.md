@@ -3,7 +3,7 @@ layout: post
 title: MobileMule
 date: '2004-03-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: 'MobileMule vous permet de garder un œil sur vos téléchargements depuis votre mobile !'
 ---
 

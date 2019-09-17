@@ -3,7 +3,7 @@ layout: post
 title: 'Comment fonctionne le W3C ?'
 date: '2005-06-22 05:18:02'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le JDN fait un [description](http://developpeur.journaldunet.com/tutoriel/theo/050621-fonctionnement-w3c.shtml) longue mais efficace de ce qu'est le W3C. On le connait de par les validation que l'on trouve ci et là, montrant que le site est valide XHTML ou CSS, mais comment fonctionne ce consortium ?   )   Petite introduction rapide :  \n Fondé en      …"
 ---
 

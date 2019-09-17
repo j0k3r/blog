@@ -3,7 +3,7 @@ layout: post
 title: 'Le programmateur d''évènements sous MySQL'
 date: '2006-06-20 09:11:03'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Cet article présente une des nouvelles fonctionnalités de MySQL 5.1 : le programmateur d'évènements.      \nCette fonctionnalité permet de programmer des évènements qui vont déclencher des requêtes SQL, des procédures stockées, comme je vous l'avais présenté lors de la publication de la [version 5.1.6      …"
 ---
 

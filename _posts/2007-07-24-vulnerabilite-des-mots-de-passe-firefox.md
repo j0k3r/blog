@@ -3,7 +3,7 @@ layout: post
 title: 'Vulnérabilité des mots de passe Firefox'
 date: '2007-07-24 01:42:01'
 author: DanRaZor
-tags: '[firefox,security]'
+tags: firefox security
 excerpt: "J'ai lu la news chez [Génération-NT](http://www.generation-nt.com/firefox-vulnerabilite-mot-passe-actualite-43428.html).     \nEn gros un site malfaisant peut extraire des mots de passes ( même sécurisés ) de votre firefox par l'intermédiare de javascript.  \n  \nJ'ai d'ailleurs pu tester la ruse ( GNT propose un site qui explique la faille ...      …"
 ---
 

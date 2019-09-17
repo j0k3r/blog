@@ -3,7 +3,7 @@ layout: post
 title: 'Ajax - Les frameworks AJAX'
 date: '2006-02-25 11:15:25'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Un framework est un espace de travail qui permet le développement rapide d''applications. C''est en fait un ensemble de fonctions, méthodes, objets (...) qui facilite la production d''application.'
 ---
 

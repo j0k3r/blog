@@ -3,7 +3,7 @@ layout: post
 title: 'Interview de l''auteur du livre : Ruby On Rails'
 date: '2006-02-22 07:41:42'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Dans une interview sur le site de [Eyrolles](http://www.eyrolles.com/Informatique/Interviews/LJulliard/) Laurent Julliard (développeur Ruby, co-écrivain du livre Ruby On Rails) nous présente les principes fondamentaux de la programmation en Ruby.     \nIl en décrit les points forts : orienté objet, lisibilité, extensibilité ...   les faiblesses : Pas      …"
 ---
 

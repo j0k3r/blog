@@ -3,7 +3,7 @@ layout: post
 title: 'Introduction à Xdebug, l''extension PHP'
 date: '2006-06-25 10:10:57'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "[Xdebug](http://xdebug.org/) est une extension pour PHP (PHP4 et PHP5) écrite par Derick Rethans et disponible dans PECL qui vous permet de faire du déboguage avancé de vos scripts, ainsi que du traçage, et surtout du profiling.     \nLe profiling va vous permettre notamment de cerner précisément les portions de vos scripts les plus gourmandes en temps      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'WAMP5 : Deux nouvelles versions'
 date: '2004-11-01 03:07:11'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Le staff de WAMP5 sort [2 nouvelles versions](http://www.wampserver.com/download.php). Pourquoi deux et pas une comme d''habitude ? Tout simplement car dans PHP5, l''extension mysqli remplace les fonctions mysql_****() par des fonctions mysqli_****() et une utilisation légèrement différente. Et donc il nous laisse la possibilité de travailler sur MySQL 4.0.22 ou MySQL      ...'
 ---
 

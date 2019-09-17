@@ -3,7 +3,7 @@ layout: post
 title: 'GoogieSpell, le correcteur orthographique en AJAX'
 date: '2006-04-18 08:39:11'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "GoogieSpell est un correcteur orthographique en AJAX qui offre les mêmes possibilités que le correcteur Gmail (pour ceux qui le connaissent) pour vos applications. C'est à dire que vous pouvez l'intégrez dans votre site très facilement.     \nC'est un peu le même principe que sous Word. Quand le mot est mal orthographié, il est souligné en rouge. Quand vous      …"
 ---
 

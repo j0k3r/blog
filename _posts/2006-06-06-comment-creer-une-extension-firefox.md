@@ -3,7 +3,7 @@ layout: post
 title: 'Comment créer une extension Firefox ?'
 date: '2006-06-06 12:49:57'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "A vrai dire, ce n'est pas très compliqué. Le plus dur est d'avoir une bonne idée et surtout de regarder si l'extension n'existe pas déjà.     \nIl faut tout d'abord un peu de connaissances en XUL et en JavaScript, le XUL n'étant pas si loin de l'HTML ou du Flex que ça. Il faut savoir qu'en fait une extension .xpi est en fait une sorte d'archive que l'on peut      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Statistiques PHP : Septembre 2006'
 date: '2006-10-11 10:13:56'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Comme chaque mois, Nexen nous [résume](http://www.nexen.net/actualites/php/etat_du_monde_php_en_septembre_2006.php) l'état du monde PHP.     \nOn y trouvera comme d'habitude les évolutions des versions 4 et 5.  \n  \nEn résumé :  \n  \n[PHP 4.4 commence à reprendre le dessus sur la      …"
 ---
 

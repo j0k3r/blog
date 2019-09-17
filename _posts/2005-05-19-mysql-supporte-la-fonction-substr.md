@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL supporte la fonction substr'
 date: '2005-05-19 12:38:10'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voila une info tirée entièrement de nexen.   Il nous informe que la fonction [substr](http://www.j0k3r.net/php-fonction-substr-8.html) est complètement supportée par MySQL 4.1 qui permet d'extraire une partie d'une chaîne.  \n  \nCette fonction n'est pas documentée, et sert à la même chose que la fonction MID(). Notez aussi que SUBSTR() supporte les      …"
 ---
 

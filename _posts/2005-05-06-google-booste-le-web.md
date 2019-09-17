@@ -3,7 +3,7 @@ layout: post
 title: 'Google booste le web ?'
 date: '2005-05-06 10:51:33'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Google n'en fini plus de faire de nouvelles choses qui traite de nouveau sujet ...   Dernier né, le \"[Google Web accelerator](http://webaccelerator.google.com/)\" est un logiciel qui utilise le réseau de Google pour accélérer l'affichage des pages web sur votre navigateur.  \n  \nCe petit logiciel est disponible uniquement sous Windows mais fonctionne      …"
 ---
 

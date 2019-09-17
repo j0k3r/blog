@@ -3,7 +3,7 @@ layout: post
 title: 'Nvu 0.90 parmis nous et déjà en français'
 date: '2005-03-12 03:38:48'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La quatrième pre-release de Nvu 1.0 Beta, la version 0.90, est disponible depuis quelques jours, mais la voilà déjà disponible en français.   )   Voici les nouveautés de cette version (de [frenchmozilla](http://frenchmozilla.sourceforge.net/nvu/)) :  \n  \n * Le pinger autorise maintenant les paramètres de connection  \n * La sélection de      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Microsoft veut faire breveter les smileys'
 date: '2005-07-31 04:14:48'
 author: keupsonite
-tags: '[]'
+tags: blabla
 excerpt: "Microsoft continue sa course aux brevets ... )   en janvier 2004, la firme de redmond a déposé une demande de brevet pour ... les smileys.  \n  \nLa demande couvre le fait de choisir des pixels pour créer un smiley, d'assigner une série spécifique de caractères à cette image, et de permettre qu'elle s'affiche sur le logiciel du destinataire.  \n  \n   …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'MAJ et fin de l''article sur EasyPHP'
 date: '2004-11-21 07:34:26'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voila je viens de terminer completement l'article concernant la mise à jour d'EasyPHP de A à Z (en gros un EasyPHP 1.8 ^^).     \nCet article vous détaille l'installation de :  \n  \nFaites en bonne lecture, et      …"
 ---
 

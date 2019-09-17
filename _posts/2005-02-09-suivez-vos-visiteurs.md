@@ -3,7 +3,7 @@ layout: post
 title: 'Suivez vos visiteurs ...'
 date: '2005-02-09 06:38:13'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Frédéric Bouchery publie un [nouvel article](http://frederic.bouchery.free.fr/?2005/02/09/37-souriez-vous-etes-traques) (ou billet comme vous voulez) sur le suivit de vos visiteurs.     \nIl vous explique comment vous pouvez savoir où sont allés vos visiteurs après être passé sur votre site, par le simple biais d'un cookie. Avec une petite astuce et une      …"
 ---
 

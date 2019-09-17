@@ -3,7 +3,7 @@ layout: post
 title: 'HTML - Page de chargement'
 date: '2004-02-12 23:58:21'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Pour faire une joli barre de chargement pendant que tout son site s''affiche, c''est très simple :).'
 ---
 

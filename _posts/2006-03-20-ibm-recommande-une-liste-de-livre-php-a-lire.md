@@ -3,7 +3,7 @@ layout: post
 title: 'IBM recommande une liste de livre PHP à lire'
 date: '2006-03-20 12:06:15'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "IBM, qui diffuse grandement des tutoriels sur PHP, mets à disposition une sorte de liste de [tous les bons livres PHP](http://www-128.ibm.com/developerworks/library/os-php-read/) &quot;à lire&quot;. Cette liste décrit les ressources qui s'appliquent à l'écriture de programme en PHP. Elle est régulièrement mise à jour par IBM.     \nNeuf grands thèmes ont      …"
 ---
 

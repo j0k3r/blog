@@ -3,7 +3,7 @@ layout: post
 title: 'La barre des 600 news aux couleurs d''Halloween !'
 date: '2005-10-27 12:00:11'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Ouaaa ça change non ?   j0k3r.n3t se mets au couleur d'Halloween (voilà ce que cela donne de faire des heures de trains en ayant la flemme de bosser ^^).  \n  \nLe tout n'a pas été aussi facile que ça à gérer puisqu'à l'époque je n'avais pas du tout construit le site via des feuilles de style perfomantes. Il a fallu modifier (dynamiquement, certes) tous les      …"
 ---
 

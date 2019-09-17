@@ -3,7 +3,7 @@ layout: post
 title: 'Un gros tutoriel sur les Regex'
 date: '2005-07-07 12:45:59'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "C'est en fait un rassemblement de tout plein d'expressions régulières.   L'auteur cherchait sur le net des informations, mais il arrivait souvent sur plusieurs informations disponibles sur plusieurs pages. Il fallait jongler entre les pages pour arriver à trouver toutes les infos.  \n  \nEn rassemblant tout ce qu'il a pu trouver, on arrive ainsi à un [gros      …"
 ---
 

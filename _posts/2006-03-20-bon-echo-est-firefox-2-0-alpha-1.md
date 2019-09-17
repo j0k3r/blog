@@ -3,7 +3,7 @@ layout: post
 title: 'Bon Echo est Firefox 2.0 Alpha 1'
 date: '2006-03-20 02:10:47'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Prévu pour cette semaine, la première version alpha de Firefox 2.0 (2.0a1) est parue ce week end. Discrètement lancé, cette version alpha de la Grande version 2.0 de Firefox ne présente pas beaucoup de changement, aux premiers abords.     \nOn note simplement l'ajout d'une petite croix sur les onglets qui permet de les fermer plus rapidement (ce qui est possible      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Les .eu disponibles à partir du 7 avril'
 date: '2006-04-06 08:29:49'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Les extensions .eu seront diponibles le 7 Avril 2006.     \nCette nouvelle extension a pour but de promouvoir l'identité européenne ...  \n  \nBien évidemment cette extension est réservée à Toute Marque, Entreprise, Organisme Publique basée dans la communauté européenne ainsi qu'à Toute Personne physique résidant au sein de l'union européenne. Les      …"
 ---
 

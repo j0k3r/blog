@@ -3,7 +3,7 @@ layout: post
 title: 'Les dates du forum PHP 2005 à Paris'
 date: '2005-06-01 10:53:17'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'AFUP vient de publier les dates du prochain forum PHP 2005 qui aura lieu à Paris, il se déroule les mardi et mercredi 8 et 9 Novembre 2005.   )   A cet effet et pour cet événement unique en France, l'AFUP recherche des experts francophones qui souhaitent partager leurs expériences et leurs savoirs-faire.  \n  \nLe Forum PHP 2005 présente deux jours      …"
 ---
 

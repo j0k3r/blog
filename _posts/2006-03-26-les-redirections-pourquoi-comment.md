@@ -3,7 +3,7 @@ layout: post
 title: 'Les redirections : Pourquoi ? Comment ?'
 date: '2006-03-26 10:04:20'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Cet [article](http://www.webmaster-hub.com/publication/article158.html) du Hub nous rappelle la définition d'une redirection et ce à quoi elle peuvent servir ( statistiques, urls multiples, filtrage robot/humain, ... ).     \nOn y apprend aussi les différentes façons de procéder ( htaccess, meta refresh, ... ) ainsi que quelques exemples mais aussi et      …"
 ---
 

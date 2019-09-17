@@ -3,7 +3,7 @@ layout: post
 title: 'WampServer 2 et PHP 6 !'
 date: '2007-12-02 10:41:38'
 author: j0k
-tags: '[php,wampserver]'
+tags: php wampserver
 excerpt: "La toute nouvelle version de WampServer 2.0 est sorti la semaine dernière.     \nLe grand avantage de cette version, c'est que l'on peut aisément prendre n'importe quel version de PHP, MySQL ou Apache pour monter son serveur web.   De cette façon, il est ainsi simple de pouvoir utiliser des versions bêtas voir RC de ces logiciels."
 ---
 

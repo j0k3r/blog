@@ -3,7 +3,7 @@ layout: post
 title: 'Dix frameworks PHP au crible'
 date: '2006-03-20 12:42:15'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'En ce moment les frameworks PHP sont à la mode. Le [JDN](http://www.j0k3r.net/news-dix-frameworks-php-1161.html), [nexen](http://www.j0k3r.net/news-framework-oui-mais-lequel-choisir-1149.html) et bien d''autres ... depuis la sortie du [framework Zend](http://www.j0k3r.net/news-zend-rend-disponible-son-framework-1129.html), on a l''impression que cela a tout      ...'
 ---
 

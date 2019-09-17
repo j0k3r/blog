@@ -3,7 +3,7 @@ layout: post
 title: 'Un nouveau validateur pour les 10 ans de CSS'
 date: '2006-12-19 09:53:50'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'équipe du W3C vient de publier, avec notamment l'aide de Sun Microsystems, une nouvelle version du [validateur CSS](http://jigsaw.w3.org/css-validator/) du W3C.     \nC'est plus une nouvelle apparence graphique qu'une nouvelle version contenant de nouvelle fonctionnalité. On peut apercevoir le Mont Fuji dans le header du validateur. Il est d'ailleurs      …"
 ---
 

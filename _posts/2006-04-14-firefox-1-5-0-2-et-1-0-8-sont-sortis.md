@@ -3,7 +3,7 @@ layout: post
 title: 'Firefox 1.5.0.2 et 1.0.8 sont sortis'
 date: '2006-04-14 09:07:59'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La fondation Mozilla vient de publier des mises à jour de sécurité pour Firefox.      \nAinsi Firefox 1.5.0.2 et 1.0.8 viennent d'être publiées. Cette version est déjà traduite dans 37 langues. Si vous possédez déjà Firefox 1.5.x, vous recevrez une alerte d'ici les 24 prochaines heures vous invitant à mettre à jour votre version. Firefox 1.5.0.2 supporte      …"
 ---
 

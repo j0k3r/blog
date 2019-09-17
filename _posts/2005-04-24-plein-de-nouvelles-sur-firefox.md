@@ -3,7 +3,7 @@ layout: post
 title: 'Plein de nouvelles sur FireFox'
 date: '2005-04-24 05:13:29'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'C''est la folie des news depuis hier sur Firefox.   )   Le site The Inquirer publie un [article](http://www.theinquirer.net/?article=22634) sur les dix principaux désagréments de Firefox. Cela regroupe tout ce qu''un journaliste trouve de "mal" dans Firefox.   Dans ce lot, on retrouve le fait qu''à chaque correction de faille ou autre buG, une nouvelle      ...'
 ---
 

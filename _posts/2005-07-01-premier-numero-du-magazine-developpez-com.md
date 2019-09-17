@@ -3,7 +3,7 @@ layout: post
 title: 'Premier numéro du Magazine Developpez.com'
 date: '2005-07-01 03:52:46'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'équipe de rédaction de Developpez.com a le plaisir de vous faire part de la disponibilité du premier numéro du [Magazine gratuit Developpez.com](http://blog.developpez.com/index.php?blog=7&amp;title=le_magazine_developpez&amp;more=1&amp;c=1&amp;tb=1&amp;pb=1).     \nAu format universel PDF et toujours gratuit, ce Magazine est une forme ultra enrichie de      …"
 ---
 

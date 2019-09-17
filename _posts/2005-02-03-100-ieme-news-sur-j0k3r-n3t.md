@@ -3,7 +3,7 @@ layout: post
 title: '100 ième news sur j0k3r.n3t !!'
 date: '2005-02-03 06:48:26'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Et oui on a passé le cap des 100 news sur j0k3r.n3t² !   Je ne sais pas si on est à la 100ième ou 101ième, mais qu''importe j0k3r.n3t² a franchi un premier cap.)   100 news depuis la [fin octobre](http://www.j0k3r.net/forum/la-v2-est-publique-34.htm), date de lancement officiel de la v2 ([mi-octobre](http://www.j0k3r.net/forum/tout-nouveau-4.htm)      ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Insérer des CSS dans votre animation Flash'
 date: '2005-12-08 10:55:52'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous avez bien lu. Autant il est possible d'insérer facilement de l'HTML dans du Flash, autant il est aisé de mettre des CSS.     \nGrâce à Flash 8, il est désormais possible d'appliquer des CSS sur les champs texte de votre animation. Pour cela rien de plus simple, étant donné qu'il existe un objet *StyleSheet* qui s'occupe (quasiment) de tout. Tout comme le      …"
 ---
 

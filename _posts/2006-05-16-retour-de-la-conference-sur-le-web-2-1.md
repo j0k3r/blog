@@ -3,7 +3,7 @@ layout: post
 title: 'Retour de la conférence sur le Web 2.1'
 date: '2006-05-16 10:58:36'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Ce soir je suis allé à une [conférence gratuite sur le web 2.1](http://altaide.typepad.com/jacques_froissant_altade/2006/05/web_21_une_conf.html) qui avait lieu à la mairie du IIe arrondissement de Paris.     \nLa conférence étant gratuite et sur mon chemin je dirai, j'y suis allé avec un pot. Et je dois dire que la conférence n'a pas forcément bien répondu      …"
 ---
 

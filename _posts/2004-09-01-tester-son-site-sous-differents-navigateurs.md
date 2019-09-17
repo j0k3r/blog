@@ -3,7 +3,7 @@ layout: post
 title: 'Tester son site sous différents navigateurs'
 date: '2004-09-01 00:00:00'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Visualisez l''ensemble de votre site sur tous les navigateurs sans les installer !'
 ---
 

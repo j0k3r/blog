@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 5.2.2 et PHP 4.4.7 sont disponibles'
 date: '2007-05-04 09:16:02'
 author: j0k
-tags: '[php]'
+tags: php
 excerpt: "La version 5.2.2 et 4.4.7 de PHP est finalement disponible au téléchargement sur le site de [php.net](http://www.php.net/downloads.php).     \nLa version 5.2.2 fixe quelques 120 buGs mais aussi une grande partie des buGs qui avaient été trouvé lors du [mois des buGs de PHP](http://www.php-security.org/). Au passage, la version de GD (pour gérer les      …"
 ---
 

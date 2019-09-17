@@ -3,7 +3,7 @@ layout: post
 title: 'Des SMS gratuits via Skype'
 date: '2005-02-26 10:49:48'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Vous connaissez certainement tous [Skype](http://www.skype-france.com/). Ce logiciel, créé par les fondateurs de Kazaa, permet de passer des communications téléphoniques partout dans le monde gratuitement (VoIP).   Il utilise le procédé P2P de PC à PC. Il suffit pour cela que les deux correspondants possèdent le logiciel et un casque.   C''est un véritable      ...'
 ---
 

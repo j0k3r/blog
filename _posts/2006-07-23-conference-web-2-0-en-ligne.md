@@ -3,7 +3,7 @@ layout: post
 title: 'Conférence web 2.0 en ligne'
 date: '2006-07-23 01:36:50'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "On voit de plus en plus d'outils qui permettent de faire des powerpoints en ligne, des présentations plutôt sympathiques.     \nLà, c'est un peu la même chose sauf que cela présente une conférence un peu comme si vous y étiez. Fait en flash, et non pas d'AJAX, on voit une vidéo de la conférence, le défilement des slides powerpoints sur le côté et un menu de      …"
 ---
 

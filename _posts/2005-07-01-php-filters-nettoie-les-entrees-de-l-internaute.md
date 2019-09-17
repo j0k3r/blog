@@ -3,7 +3,7 @@ layout: post
 title: 'PHP Filters nettoie les entrées de l''internaute'
 date: '2005-07-01 09:12:23'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La sécurité joue beaucoup sur le traitement des données que rentre les internautes dans les formulaires en ligne. C'est pourquoi il est impératif que chaque entrée d'un formulaire soit obligatoirement vérifiée, validée, parfois même convertie pour s'assurer qu'elle ne mettra pas en péril le site.     \nS'assurer qu'un formulaire répond correctement à tous les      …"
 ---
 

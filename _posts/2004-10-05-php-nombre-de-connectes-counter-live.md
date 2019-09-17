@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Nombre de connectés (counter live)'
 date: '2004-10-05 23:32:36'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: "e script permet de connaître le nombre de connectés sur un site internet en temps réel. On appelle ceci en anglais un \"live counter\".  \n  Le principe de fonctionnement est simple : l'adresse IP et le temps de connexion de chaque visiteur sont stockés dans une base de données MySQL."
 ---
 

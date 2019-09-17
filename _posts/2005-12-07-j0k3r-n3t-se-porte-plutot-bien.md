@@ -3,7 +3,7 @@ layout: post
 title: 'j0k3r.n3t se porte plutôt bien'
 date: '2005-12-07 04:41:48'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Mini bilan avant la publication de la v2.2.   Le site cumule actuellement une base de plus de 700 news, la barre des 3000 messages sur le forum a été passé et 145 membres sont inscrit. Je ne compte pas le nombre de membres qui participe au forum, ça pourrai faire un froid dans cette énumération. Évidemment je sais que vous êtes aussi nombreux à passer sur le site      ...'
 ---
 

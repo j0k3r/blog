@@ -3,7 +3,7 @@ layout: post
 title: 'Lightbox JS v2.0'
 date: '2006-03-30 12:30:55'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Quatre mois après la publication de la première version de [Lightbox JS](http://www.j0k3r.net/news-afficher-vos-images-par-dessus-votre-site-986.html), l'auteur publie une nouvelle version.     \nL'auteur, Lokesh Dhakar, a certainement du trouver intéressant d'y rajouter la bibliothèque scriptaculous couplée à prototype.js pour faire de meilleurs effets.       …"
 ---
 

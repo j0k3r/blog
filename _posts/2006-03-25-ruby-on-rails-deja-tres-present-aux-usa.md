@@ -3,7 +3,7 @@ layout: post
 title: 'Ruby on Rails déjà très présent aux USA !'
 date: '2006-03-25 07:06:14'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'engouement autour du langage Ruby et de son framework Web Rails ne cesse de croître. Les traducteurs du premier livre sur le sujet en France, ont pendant une heure rassuré les inquiets et conforté les convaincus dans une interview &quot;chat&quot; sur le JDN.     \nOn débute sur l'origine de Ruby, puis sur une question qui peut revenir assez souvent, pourquoi      …"
 ---
 

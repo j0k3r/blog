@@ -3,7 +3,7 @@ layout: post
 title: 'Design, un outil pour les webdesigners'
 date: '2007-12-30 09:38:55'
 author: j0k
-tags: '[design,firefox]'
+tags: design firefox
 excerpt: 'Je sais très bien que la plupart des webdesigners travaillent sous Firefox et qu''il existe une flopée d''extension qui permettent de leur faciliter grandement leur travail.   Cependant, il y a aussi les autres, qui ne travaillent pas sous Firefox et pour eux, il existe Design.'
 ---
 

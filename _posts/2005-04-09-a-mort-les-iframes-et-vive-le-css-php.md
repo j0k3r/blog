@@ -3,7 +3,7 @@ layout: post
 title: 'A mort les iFrames, et vive le CSS/PHP'
 date: '2005-04-09 11:18:36'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Enfin un article qui propose autre chose que des moches iframes.   Des fois quand on développe un design, on ne prévoit pas forcément que celui ci pourra être extensible en hauteur. Du coup on est obligé de mettre une iframe dans le code html qui inclut le contenu de votre site. Ceci afin d'éviter qu'il soit complètement déformer si vous on mets un contenu normal.  \n  …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Le .fr ouvert à tous dès aujourd''hui'
 date: '2006-06-20 09:26:36'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Premier arrivé, premier servi !     \nCe sera la règle aujourd'hui et ce depuis 9h ce matin ! Le .fr est ouvert à tous en ce mardi 20 juin, chacun peut acheter une adresse web .fr. Il suffit juste d'être majeur et d'avoir une adresse postale.   Les prix commencent à partir de 10€ par an.  \n  \nL'AFNIC compte bien atteindre le million de .fr et      …"
 ---
 

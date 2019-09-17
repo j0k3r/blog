@@ -3,7 +3,7 @@ layout: post
 title: 'Regrouper tous vos fils RSS en un seul'
 date: '2006-04-19 11:38:09'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Avec l'abondance des fils RSS sur tous les sites que l'on trouve / aime bien, on croule souvent sous la masse. Bon c'est sur que des [pages d'accueil en AJAX](http://www.j0k3r.net/chtit-truc-page-d-accueil-en-ajax-37.html) aident beaucoup à centraliser tous ces fils. Mais des fois, on possède plusieurs fils RSS pour un même site.     \nPar exemple pour un      …"
 ---
 

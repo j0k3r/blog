@@ -3,7 +3,7 @@ layout: post
 title: 'SeaMonkey 1.0 est enfin là !'
 date: '2006-01-31 11:35:57'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Le SeaMonkey Council est fier de vous annoncer la sortie de SeaMonkey 1.0 !   C''est la première version finale destiné à l''utilisateur de la suite Internet. Cette version contient un navigateur Web de pointe, un client de courriel puissant, un éditeur de pages Web WYSIWYG et un client de discussion en direct sur IRC aux nombreuses fonctions. Pour les développeurs Web,      ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Le dernier Magazine Développez.com est disponible'
 date: '2006-05-31 06:19:11'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Le numéro gratuit du mois de Mai/Juin 2006 est disponible :      \nhttp://magazine.developpez.com/  \n  \nPour le consulter il vous faudra télécharger le [PDF](ftp://ftp-developpez.com/magazine/DevMag200605.pdf).  \n  \nAu programe de ce numéro :   \n  \nUn tutoriel JAVA et spring MVC   Un article sur le Web 2.0      …"
 ---
 

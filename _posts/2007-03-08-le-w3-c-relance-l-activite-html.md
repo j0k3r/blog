@@ -3,7 +3,7 @@ layout: post
 title: 'Le W3C relance l''activité HTML'
 date: '2007-03-08 11:02:13'
 author: j0k
-tags: '[html,w3c]'
+tags: html w3c
 excerpt: "Le 7 mars 2007, le W3C invite aujourd'hui les fournisseurs de navigateur, développeurs d'application et créateurs de contenu Web à contribuer à la conception de la prochaine version du langage HTML.     \nLes fournisseurs de navigateur n'ont pas pressé le pas pour adopter le XHTML ce qui ne motivait pas trop les développeurs à adopter le XHTML. C'est pour cela que      …"
 ---
 

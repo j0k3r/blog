@@ -3,7 +3,7 @@ layout: post
 title: 'Une bibliothèque PHP évitant l''utilisation des RegEx'
 date: '2005-12-14 11:22:51'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Les expressions régulières sont les bourreaux des développeurs novices. Quand on découvre les RegEx (Expressions régulières), c'est généralement le moment où l'on commence à perdre ces cheveux !     \n[Qwix](http://qwix.media-box.net/index.php/2005/12/14/130-SePasserDesExpressionsRegulieres) rempli son pense bête avec la librairie ctype de PHP qui permet      …"
 ---
 

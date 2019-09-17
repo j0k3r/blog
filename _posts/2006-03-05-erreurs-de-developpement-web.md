@@ -3,7 +3,7 @@ layout: post
 title: 'Erreurs de Développement Web'
 date: '2006-03-05 04:55:20'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'On effectue (trop ?) souvent des erreurs de développement web. On trouve souvent plusieurs solutions alors voici une traduction d''un long billet sur les différentes erreurs communes en développement web.   Cette liste répertorie les erreurs qui sont communément rencontrées sur le Web, accompagnées d''une explication de la raison pour laquelle l''auteur les considère comme      ...'
 ---
 

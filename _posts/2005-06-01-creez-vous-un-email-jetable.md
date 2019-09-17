@@ -3,7 +3,7 @@ layout: post
 title: 'Créez vous un email jetable'
 date: '2005-06-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: 'Marre de l''envahissement des courriers indésirables, d''être spammer, de devoir donner son mail à chaque inscription ... une solution existe: les mails temporaires !'
 ---
 

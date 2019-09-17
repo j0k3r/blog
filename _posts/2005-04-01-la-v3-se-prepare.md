@@ -3,7 +3,7 @@ layout: post
 title: 'La v3 se prépare !'
 date: '2005-04-01 02:04:29'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et oui déjà la v3 ?!     \nBen ouais. Et elle va apporter son lot de nouveautés. Le plus gros changement concernera, je pense, l'hébergement puisque je me suis fais offrir gracieusement une plate-forme Windows Server 2000 avec SQL Server 2000 et tout le bazard qui va avec dessus (un bon serveur dédié quoi ^^).   Du coup recodage complet du site en asp, qui      …"
 ---
 

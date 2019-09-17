@@ -3,7 +3,7 @@ layout: post
 title: 'Quiz Alsacréations : testez vos connaissances'
 date: '2007-01-22 11:39:02'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "AlsacréationS vient de mettre en ligne [13 quiz](http://quiz.alsacreations.com) pour tester vos connaissances au sujet du web et de XHTML, CSS, DOM (JavaScript), PHP, MySQL, l'accessibilité du web,...     \nLe but est double : celui de divertir les participants, mais aussi d'apporter des pistes de connaissance sur les questions non maîtrisées, car chaque      …"
 ---
 

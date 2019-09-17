@@ -3,7 +3,7 @@ layout: post
 title: 'Webmasters Expo 2006'
 date: '2006-01-07 08:36:25'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le troisième salon du webmaster aura lieu les 3 et 4 mai 2006 à l'Espace Condorcet, situé à la Cité des sciences et de l'industrie, La Villette, PARIS.     \nAprès les éditions réussies de 2004 et 2005, ce troisième salon rassemblera à nouveau les principaux acteurs du e-commerce. Les conférences, stands et espaces formations permettront d'échanger des      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Le problème de l''autocompletion en AJAX'
 date: '2006-06-25 10:36:07'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'autocompletion en AJAX permet de suggérer des mots lors de la saisit de quelques lettres. Google Suggest a été le premier à lancer ça.      \nC'est très pratique et cela a un certain succès. Le problème c'est qu'en général dès que l'on commence à taper des lettres, une première requête est envoyée au serveur avec ces quelques lettres. Mais si on continue à taper      …"
 ---
 

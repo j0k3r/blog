@@ -3,7 +3,7 @@ layout: post
 title: 'PHP GTK 2 viendra avec PHP 5.1'
 date: '2005-06-14 11:59:52'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Une news sur Nexen.net nous révèle que PHP GTK 2 devrait arriver avec PHP 5.1 donc courant d''ici la fin de l''année 2005.   )   Andrei Zmievski contribue au projet PHP via PHP-Gtk (et Smarty). Lors de la PHP Conference 2005 qui a lieu actuellement à Amsterdam, il a [présenté](http://www.gravitonic.com/downloads/talks/intlphpcon2005/php_gtk2.pdf) deux      ...'
 ---
 

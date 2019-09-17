@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyVisites 2.0 version stable !'
 date: '2005-12-25 07:31:23'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Pour Noël, phpMyVisites 2.0 vient de sortir en version stable !!   Après plus de 6 mois de développements, des milliers d'utilisateurs en test pour le cycle de bêta, voici la très puissante version 2.0. Disponible en 25 langues. Elle propose des dizaines de nouvelles fonctionnalités.  \n  \nLes corrections par rapport à l'unique version RC sont :  \n       …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Statistiques de PHP pour le mois de décembre'
 date: '2006-01-04 08:16:20'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "En résumé les variations d'utilisation de PHP ...     \nL'utilisation mondiale de php reste [stable](http://www.nexen.net/phpversion/cartes/2005-12/evolution.global.png). PHP 5  [s'enflamme](http://www.nexen.net/phpversion/cartes/2005-12/evolution.majeure2356.png). PHP 4      …"
 ---
 

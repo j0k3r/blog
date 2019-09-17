@@ -3,7 +3,7 @@ layout: post
 title: 'Uploader plusieurs fichiers dans un seul champ !'
 date: '2005-10-19 04:04:24'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voilà quelques choses d'assez révolutionnaire !   Vous avez certainement déjà rencontré le problème lors de l'upload de plusieurs fichiers (galerie d'image, pièces jointes de mails, etc ...). La seule solution est de mettre plusieurs champs pour uploader plusieurs fichiers.  \n  \nUne solution en javascript existe et permet d'uploader plusieurs fichiers en      …"
 ---
 

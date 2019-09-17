@@ -3,7 +3,7 @@ layout: post
 title: 'Construire un système de cache en PHP'
 date: '2005-11-07 06:48:06'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Quand votre site commence à recevoir beaucoup de visiteurs et que vous ne possédez pas (encore) un hébergement assez costaud pour encaisser tout cela, il est bon de ce tourner vers un système de cache en PHP qui réduira fortement le temps de réponse de votre site.     \nEn plaçant en cache les données les plus visitées, par exemple, la page d'accueil ou encore les      …"
 ---
 

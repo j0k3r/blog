@@ -3,7 +3,7 @@ layout: post
 title: 'Les difficultés pour passer aux standards'
 date: '2006-02-05 02:48:51'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Lorsque l'on veut passer son sites au standards W3C (et autres ...), on rencontre bien souvent pas mal de difficultés. Antoine Cailliau et Renaud Gaudin traduise un article de Steve Smith pour pompage.net qui traite de ce problème.     \nDans cet [article](http://www.pompage.net/article16.html) il essai de cerner les principaux problèmes et donne quelques      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Mise à jour de toutes les versions d''Apache'
 date: '2007-09-09 12:07:54'
 author: j0k
-tags: '[apache]'
+tags: apache
 excerpt: "En début de semaine la fondation Apache [a mis à jour](http://www.jimjag.com/imo/index.php?/archives/165-2.2.6-and-2.0.61-and-1.3.39.html) toutes ces versions.     \nAinsi, la branche 1.3.x passe à la version 1.3.39. Les principaux changements sont des corrections de sécurité.   La branche 2.0.x passe à la version 2.0.61. Les changements sont      …"
 ---
 

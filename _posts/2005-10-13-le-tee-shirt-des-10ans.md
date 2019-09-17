@@ -3,7 +3,7 @@ layout: post
 title: 'Le tee-shirt des 10ans !'
 date: '2005-10-13 08:50:27'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Comme vous avez pu le lire sur j0k3r.n3t, PHP a [fêté sa décennie](http://www.j0k3r.net/news-php-fete-sa-decennie-527.html) le mois de juin dernier.     \nPour cette occasion (même si c'est un peu longtemps après la réelle date ...), [Zend](http://zend.com/php10anniversary/t-shirt.php) mets en vente le T-shirt des 10 ans de PHP. La seule taille      …"
 ---
 

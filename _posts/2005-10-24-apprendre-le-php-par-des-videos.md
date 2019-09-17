@@ -3,7 +3,7 @@ layout: post
 title: 'Apprendre le PHP par des vidéos !'
 date: '2005-10-24 01:19:28'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "C'est le but que se lance le site [PHP-Training](http://www.php-training.net/).     \nPHP-Training a été conçu pour fournir des vidéos accessibles à tous sur des leçons de PHP. Cela aborde les fonctions généralement les plus courantes et les plus utilisées mais pas forcément les plus faciles.   Présenté par Richard Heyes, l'auteur d'une quantité      …"
 ---
 

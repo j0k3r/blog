@@ -3,7 +3,7 @@ layout: post
 title: 'La sécurité en PHP par l''exemple'
 date: '2005-09-17 12:00:58'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Un article qui a été très populaire pendant quelques représentations en PHP fût sur la sécurité en PHP par les exemples.     \nC'est une sorte d'entretien qui est uniquement guidé par les exemples. C'est une approche unique qui montre comment exploiter une faille par des exemples pour ensuite, une fois la faille comprise, la corrigée convenablement.  \n  \n…"
 ---
 

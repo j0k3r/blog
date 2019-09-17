@@ -3,7 +3,7 @@ layout: post
 title: 'The day of the ...'
 date: '2005-03-08 01:23:00'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Et oui cher visiteur(se) c''est la journée de la femme !   Alors y''a pas de "mais" qui tienne ... aujourd''hui chère femme vous êtes ... la reine de la maison.   )   Vous allez être ravi de voir votre homme faire la vaisselle dans un élan de spontanéité ... de faire le ménage, de ce lavé les mains une fois sorti des toilettes ... de ne pas passer toute la      ...'
 ---
 

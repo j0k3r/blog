@@ -3,7 +3,7 @@ layout: post
 title: 'Trouver une police à partir d''une image'
 date: '2005-04-01 00:00:00'
 author: j0k
-tags: '[webdesign]'
+tags: webdesign
 excerpt: 'Envie de trouver la police d''un texte ... mais ce texte est sur une image ... pas de problème, j''ai le petit programme qu''il vous faut ! Et vous ne serez pas déçu ! :)'
 ---
 

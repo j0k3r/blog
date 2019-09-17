@@ -3,7 +3,7 @@ layout: post
 title: 'Une introduction aux bases de données'
 date: '2005-10-29 12:16:52'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Codewalkers publie un article sur les débuts que tout le monde a certainement ou va faire. C'est lorsque l'on commence à toucher un peu à PHP, on regarde dans un premier temps le stockage dans des fichiers. Puis on regarde (enfin) le stockage dans les bases de données. Mais là gros problème, c'est pas du tout pareil !     \nAlors voici un      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Symfony 1.0.0 disponible en version finale !'
 date: '2007-02-19 04:27:51'
 author: j0k
-tags: '[symfony]'
+tags: symfony
 excerpt: "Elle est enfin là, la version finale 1.0.0 de Symfony !     \nAprès plusieurs mois d'attente, la version finale et stable est publiée depuis quelques heures. Une bonne nouvelle pour tout ceux qui attendait cette version pour upgrader leur projet avec une version stable (même si la rc2 a été annoncé comme stable).  \n  \nCette version n'est pas une      …"
 ---
 

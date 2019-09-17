@@ -3,7 +3,7 @@ layout: post
 title: 'Et 1Go d''espace web pour tout le monde chez Free'
 date: '2005-01-28 11:24:56'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'C''est la fête !   Il y a quelques temps, Free donnait la possibilité au compte dont l''espace web dépassé les 90Mo pendant plus de 30 jours de passer à un ftp de 1Go ... alors tout le monde c''est empressé de mettre plein de trucs sur son ftp pour faire sauter la barre des 90Mo.   )   Mais maintenant plus la peine de remplir son ftp avec plein de trucs dont      ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'L''avenir de PHP en 2006'
 date: '2005-12-28 11:39:41'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'En 2006, il est possible que plusieurs versions de PHP soient disponible en même temps sur le "marché". Il s''agit bien évidemment des versions PHP 4, PHP 5 et probablement PHP 6. Etant donné que le projet de lancer PHP 6 est vraiment tout chaud (en voici le [roadmap](http://www.j0k3r.net/news-un-apercu-des-nouvelles-fonctionnalites-de-php-6-861.html)), une première      ...'
 ---
 

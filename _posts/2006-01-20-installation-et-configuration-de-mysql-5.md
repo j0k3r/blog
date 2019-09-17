@@ -3,7 +3,7 @@ layout: post
 title: 'Installation et configuration de MySQL 5'
 date: '2006-01-20 03:49:53'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Le club Developpez.com propose un nouveau [tutoriel](http://maximilian.developpez.com/mysql/installation_mysql5/) qui vous guide sur l''installation et la configuration de MySQL 5. Plus précisément, il vous explique pas à pas comment installer un serveur de bases de données MySQL 5 sous Windows et Linux, et comment effectuer les paramétrages post-installation de base.       ...'
 ---
 

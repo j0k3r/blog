@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 5.0.4 pour bientôt ?'
 date: '2005-03-28 11:28:40'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Selon [Zeev Suraski](http://www.php-mag.net/itr/news/psecom,id,20799,nodeid,113.html), qui avait annoncé le retard de PHP 5.0.4 RC2 la semaine dernière, nous annonce maintenant que PHP 5.0.4 pourrait sortir la semaine prochaine.   )   En effet après avoir corriger bon nombres de buGs dans la RC1, il espere publier la version stable de PHP 5.0.4 dans la      ...'
 ---
 

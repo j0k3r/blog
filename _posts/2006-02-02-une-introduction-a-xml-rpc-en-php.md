@@ -3,7 +3,7 @@ layout: post
 title: 'Une introduction à XML-RPC en PHP'
 date: '2006-02-02 11:47:29'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Avant de me lancer dans la description de l'article en lui même, je vais commencer par vous expliquer ce qu'est l'XML-RPC en PHP. XML-RPC permet à une application d'appeler une fonction applicative distante, la requête étant transportée sur HTTP et son corps décrit en XML. ([Wikipedia](http://fr.wikipedia.org/wiki/XML-RPC))     \nCa ne vous parle pas trop      …"
 ---
 

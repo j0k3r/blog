@@ -3,7 +3,7 @@ layout: post
 title: 'Wamp5 1.4.5 et nouvel add-on PHP4'
 date: '2005-10-25 01:42:31'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Avec la publication de la version finale de MySQL 5.0.x ([MySQL 5.0.15](http://www.j0k3r.net/news-mysql-5-0-15-pret-pour-de-la-production-773.html)), Wamp5 a été mis à jour.     \nCette nouvelle version intègre forcément MySQL 5.0.5, mais aussi PHP 5.0.5, sqlitemanager 1.1.2, phpMyAdmin 2.6.4-pl3 et aussi eAccelerator.   La prochaine version de      …"
 ---
 

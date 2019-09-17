@@ -3,7 +3,7 @@ layout: post
 title: 'Découvrez Mozilla Cleaner'
 date: '2005-04-26 09:49:19'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Mozilla Cleaner fait partie de la suite Mozilla et vous permet de faire un peu le ménage dans les différents logiciels de la suite.     \nAinsi on peut supprimer son historique de navigation, ses pages en cache, ses cookies et ses courriels envoyés. Cet outil peut aussi nettoyer des données standard que Windows mémorise telles que le dossier des fichiers      …"
 ---
 

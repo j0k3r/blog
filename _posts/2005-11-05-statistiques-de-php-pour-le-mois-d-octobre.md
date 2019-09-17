@@ -3,7 +3,7 @@ layout: post
 title: 'Statistiques de PHP pour le mois d''octobre'
 date: '2005-11-05 12:21:55'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Nexen.net publie les dernières [statistiques](http://www.nexen.net/interview/index.php?id=52) de diffusion de PHP dans le monde, au mois de septembre 2005."
 ---
 

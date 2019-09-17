@@ -3,7 +3,7 @@ layout: post
 title: 'Des popups sans nouvelle fenêtre'
 date: '2005-05-24 06:48:49'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Ils est souvent pratique d'afficher des informations pour l'internaute dans des popups (petite fenêtre qui s'ouvre).     \nMais cette méthode tends à être bloqué et donc stoppé puisque des barres comme la Google Toolbar, celle de Yahoo! bloque déjà les popups, et Firefox aussi.   Ainsi grâce au JavaScript couplé avec du CSS, ce que l'on appelle du DHTML,      …"
 ---
 

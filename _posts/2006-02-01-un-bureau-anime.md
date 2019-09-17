@@ -3,7 +3,7 @@ layout: post
 title: 'Un bureau animé'
 date: '2006-02-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: 'Marre du bureau statique Windows ? Donnez lui un peu de vie en utilisant tout simplement du HTML/Flash. Ce sera du plus bel effet !'
 ---
 

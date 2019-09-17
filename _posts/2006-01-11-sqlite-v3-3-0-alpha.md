@@ -3,7 +3,7 @@ layout: post
 title: 'SQLite v3.3.0 alpha'
 date: '2006-01-11 08:30:00'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Depuis le mois de septembre de l'année dernière, les versions de SQLite ne se sont pas bousculées pour être sur le devant de la scène. Une version de corrections très minimes a été publié fin décembre mais rien de nouveau avait été inclut dans cette version.     \nC'est maintenant chose faite, puisque voici SQLite v3.3.0 alpha. Cette version  supporte les      …"
 ---
 

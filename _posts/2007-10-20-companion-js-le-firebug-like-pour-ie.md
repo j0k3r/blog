@@ -3,7 +3,7 @@ layout: post
 title: 'Companion.JS, le Firebug-like pour IE !'
 date: '2007-10-20 12:00:20'
 author: j0k
-tags: '[debugger,ie,javascript]'
+tags: debugger ie javascript
 excerpt: "En juin 2006, je vous parlais d'un [débugger pour IE](http://www.j0k3r.net/chtit-truc-un-debugger-pour-ie-40.html), Microsoft Script Debugger. Il permet d'avoir une console pour tracker les erreurs sous IE.     \nEt récemment je suis tombé sur [Companion.JS](http://www.my-debugbar.com/wiki/CompanionJS/HomePage) (prononcer Companion dot JS ou CJS).      …"
 ---
 

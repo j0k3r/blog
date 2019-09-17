@@ -3,7 +3,7 @@ layout: post
 title: 'Les choix du lecteur chez PHP Magazin'
 date: '2005-03-26 01:05:55'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le site [PHP Magazin](http://www.php-mag.de/itr/service/psecom,id,222,nodeid,64.html) (et son magazine) publie ce matin le choix de leurs lecteurs en ce qui concerne les produits de developpement. Ils entendent par produit de développement les bases de données, les serveurs web, les debugguers ...     \nAinsi *MySQL* arrive en premier dans les bases de      …"
 ---
 

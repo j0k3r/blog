@@ -3,7 +3,7 @@ layout: post
 title: 'Un peu d''optimisation PHP ne fait pas de mal'
 date: '2006-03-04 02:58:27'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Une fois n'est pas coutume, on va parler un peu d'optimisation en PHP. Est ce qu'il est mieux de faire comme ça ou comme ça, le tout sera appuyer de benchmark pour bien voir la différence.     \nVulgarisation-informatique.com a fait des tests un peu comme [dew](http://www.j0k3r.net/news-php-et-optimisation-226.html) en ce qui concerne la différence entre un      …"
 ---
 

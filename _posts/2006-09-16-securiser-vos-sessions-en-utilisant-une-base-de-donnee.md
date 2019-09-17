@@ -3,7 +3,7 @@ layout: post
 title: 'Sécuriser vos sessions en utilisant une base de donnée'
 date: '2006-09-16 04:12:40'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le club Developpez.com publie un article sur la sécurité des sessions en les stockant dans une base de données.     \nLes sessions créées sur un site sont enregistrées dans un dossier sur le serveur nommé par défaut /tmp. Si par mégarde le serveur venait à être mal configuré, tout le monde hébergé sur ce serveur aurait accès à ce répertoire et donc aux      …"
 ---
 

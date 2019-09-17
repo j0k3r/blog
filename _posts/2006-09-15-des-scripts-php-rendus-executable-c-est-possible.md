@@ -3,7 +3,7 @@ layout: post
 title: 'Des scripts PHP rendus executable, c''est possible.'
 date: '2006-09-15 06:29:00'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Nexen nous apprend dans cette [news](http://www.nexen.net/actualites/logiciels/bambalam_:_vos_scripts_php_convertis_en_applications_windows.php) qu'il existe un outil de conversion de scripts PHP en applications Windows indépendantes.     \nCe logiciel au nom bien étrange : [bamcompile](http://www.bambalam.se/bamcompile/), est apparemment gratuit et      …"
 ---
 

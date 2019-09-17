@@ -3,7 +3,7 @@ layout: post
 title: 'Oui à l''e-pub mais comment ?'
 date: '2005-03-08 05:57:15'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Un article interessant est disponible sur [blog-webmaster](http://www.blog-webmaster.com/PermaLink,guid,6148cdda-b25e-4bd5-81e7-9ba891d0e571.aspx) parlant de l'e-pub.     \nParce que l'e-pub c'est bien beau mais c'est plus orienté pour qui ? Comment le mettre en place ? Quelle rentabilité ? Qui choisir ?  \n  \nPas mal de question que doivent se      …"
 ---
 

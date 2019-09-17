@@ -3,7 +3,7 @@ layout: post
 title: 'Le RSS s''installe'
 date: '2005-06-10 01:43:29'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le RSS (Really Simple Syndication) est un moyen pour extraire d'un site web du contenu régulièrement mis à jour. Un fichier RSS est un simple fichier texte au format XML comportant la description synthétique du contenu.     \nIl est entrain d'exploser, si on peut le dire ainsi. Quasiment tous les gros sites d'information dispose de plusieurs fils RSS, tous les      …"
 ---
 

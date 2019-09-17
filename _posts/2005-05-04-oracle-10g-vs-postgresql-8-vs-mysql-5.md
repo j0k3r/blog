@@ -3,7 +3,7 @@ layout: post
 title: 'Oracle 10g vs PostgreSQL 8 vs MySQL 5'
 date: '2005-05-04 10:46:15'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après l'article sur le choc de MySQL et PostgreSQL, il faut maintenant comparer tout le monde en prenant en compte leur dernière version.     \nAinsi ce comparatif prends en compte Oracle dans sa version 10g et évidemment MySQL 5 et PostgreSQL 8. Même si pour l'instant MySQL 5 est toujours en version bêta, l'auteur a hésité à prendre la version 4 ... mais étant      …"
 ---
 

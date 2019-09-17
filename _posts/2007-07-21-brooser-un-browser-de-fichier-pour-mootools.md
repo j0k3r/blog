@@ -3,7 +3,7 @@ layout: post
 title: 'Brooser, un browser de fichier pour Mootools'
 date: '2007-07-21 11:12:02'
 author: j0k
-tags: '[browser,mootools]'
+tags: browser mootools
 excerpt: "Country a développé un [browser de fichier pour Mootools](http://www.k1der.net/blog/country/post/2007/06/11/Brooser-un-browser-de-fichier-pour-Mootools) qui fait la même chose que quand vous cliquez sur le bouton parcourir d'un formulaire mais côté serveur.     \nEn fait le principe, c'est d'afficher une fenêtre de navigation qui permet de voir tous les      …"
 ---
 

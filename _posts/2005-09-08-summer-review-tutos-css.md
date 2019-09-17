@@ -3,7 +3,7 @@ layout: post
 title: 'Summer Review: Tutos CSS'
 date: '2005-09-08 02:06:32'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Je vais essayer de faire une sorte de recensement des différents tutoriels qui ont été publié cet été sur le net. Évidemment ce n'est que ceux que je connais, il y en a forcément plein d'autres."
 ---
 

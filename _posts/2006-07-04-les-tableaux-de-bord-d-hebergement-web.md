@@ -3,7 +3,7 @@ layout: post
 title: 'Les tableaux de bord d''hébergement Web'
 date: '2006-07-04 09:59:23'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'La démocratisation de l''hébergement Web nécessitait de rendre la gestion d''un compte Web aussi simple d''accès que possible. Les outils dédiés aux administrateurs réseau et aux gurus d''Unix ont donc rapidement laissé la place aux tableaux de bord (ou panneaux de contrôle), offrant aux hébergés tout loisir de gérer leur compte sans devoir recourir à des scripts abscons pour le      ...'
 ---
 

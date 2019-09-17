@@ -3,7 +3,7 @@ layout: post
 title: 'Tutoriel JDN : Tests unitaires en JavaScript'
 date: '2006-11-02 07:01:08'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Débogguer une application Javascript relève souvent de l'impossible.   Cependant il existe des moyens ultra simples de prévenir les erreurs : les tests unitaires.  \n  \nCe [tutoriel du JDN](http://developpeur.journaldunet.com/tutoriel/dht/061031-javascript-tests-unitaires-firebug-jsunit/0.shtml) nous rapelle qu'il existe des outils pour cela (      …"
 ---
 

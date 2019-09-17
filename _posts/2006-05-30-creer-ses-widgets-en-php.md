@@ -3,7 +3,7 @@ layout: post
 title: 'Créer ses Widgets en PHP'
 date: '2006-05-30 11:08:29'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Avec ce [tutorial phpIt](http://www.phpit.net/article/create-html-widgets-php/) vous allez apprendre à créer vos propres tags HTML   et les remplacer par du contenu dynamique, et tout ça en PHP.  \n  \nCe tutorial montre donc comment créer ses propres      …"
 ---
 

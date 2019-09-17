@@ -3,7 +3,7 @@ layout: post
 title: 'gotAPI, le must de la documentation'
 date: '2006-04-15 10:29:00'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voilà une bien belle trouvaille !     \n[gotAPI.com](http://gotapi.com/) a pour but de référencer le style, les tags, les attributs, les fonctions, les classes de la plupart des langages populaires du moment. Cela comprends le CSS, l'XML, l'HTML, le PHP, DOM, etc ...   Mais gotAPI.com ne s'arrête pas là, il référence aussi les fonctions MySQL, XPath      …"
 ---
 

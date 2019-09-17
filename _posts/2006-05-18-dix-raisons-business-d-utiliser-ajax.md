@@ -3,7 +3,7 @@ layout: post
 title: 'Dix raisons business d''utiliser AJAX'
 date: '2006-05-18 07:08:01'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Faut-il encore vous prouver qu'il faut utiliser AJAX ?   Apparemment oui ou alors certain s'obstine à trouver des arguments pour, ce qui n'est pas un mal de toute façon.  \n  \nDietrich Kappe a rassemblé 10 raisons business d'utiliser AJAX, une sorte de Top 10. La question qui revient beaucoup en ce moment, c'est comme l'entreprise peut elle tirer partie de      …"
 ---
 

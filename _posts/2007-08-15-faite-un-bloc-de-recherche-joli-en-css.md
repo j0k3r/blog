@@ -3,7 +3,7 @@ layout: post
 title: 'Faite un bloc de recherche joli en CSS'
 date: '2007-08-15 07:15:39'
 author: j0k
-tags: '[css,form,input]'
+tags: css form input
 excerpt: "Dans cette ère web 2.0 tout doit être joli .. ok avant aussi il le fallait un peu, mais maintenant les designs sont tellement travailler qu'il faut être perfectionniste.     \nPeu de personne change les choses simples, que l'on voit tout le temps pour les rendre plus belle. Comme par exemple le formulaire pour le moteur de recherche (comme sur ce site). Alors que      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Sécurisation PHP'
 date: '2004-10-05 23:06:53'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Trop de webmasters font régulièrement confiance en leur restriction d''accès htaccess... Voici comment outrepasser une sécurisation htaccess soit sans mots de passe soit en récupérant le pass sans aucunes difficultées !'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Halte au display none'
 date: '2006-01-29 06:34:58'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Alsacréations pointe sur un sujet intéressant. Souvent pour faciliter l''accessibilité, les webmasters remplace du texte par des images tout laissant le texte.   Par exemple en plaçant du texte dans des balises span le tout à l''intérieur de balise h1. En CSS, on place dans la balise h1 une image et on cache le texte contenu dans le span, souvent à l''aide de display:none.      ...'
 ---
 

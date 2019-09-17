@@ -3,7 +3,7 @@ layout: post
 title: 'Internet Explorer 7 integrera des onglets'
 date: '2005-05-17 01:27:56'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "C'est officiel, Internet Explorer 7 proposera une navigation par onglets, c'est ce qu'à confirmer Dean Hachamovitch responsable de l'équipe liée à Internet Explorer chez Microsoft.     \nLe pov' Dean se réfugie sous une erreur que lui tout seul trouvera valable. Il dit que cela est une erreur de ne pas avoir intégré la navigation par onglet plus tôt (là on est      …"
 ---
 

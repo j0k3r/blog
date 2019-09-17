@@ -3,7 +3,7 @@ layout: post
 title: 'Les .be gratuits !'
 date: '2005-11-02 11:20:29'
 author: keupsonite
-tags: '[]'
+tags: blabla
 excerpt: "Vous avez un site, mais pas de nom de domaines ?   Votre url est toute moche du genre `http://pseudo.free.fr/phpBB2/index.php` et vous aimeriez que ce soit plutôt www.pseudo.be ?   Mais vous n'avez pas d'argent, pas de soucis ! [OVH](http://www.ovh.com/be/) vous **offre pendant 1ans les .be** gratuitement !  \n  \nDe plus Ovh propose à tout      …"
 ---
 

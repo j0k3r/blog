@@ -3,7 +3,7 @@ layout: post
 title: 'Auto complétion en AJAX'
 date: '2006-02-22 07:51:50'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'auto complétion est notamment utilisé par Google Suggest. C'est une nouvelle démonstration pour le mettre en place. Ce type de fonction est surtout utilisé pour faire un moteur de recherche &quot;interactif&quot; avec le visiteur.     \nDans cet article, l'auteur présente vraiment (et j'insiste sur le vraiment) l'auto complétion &quot;pour les nuls&quot; !      …"
 ---
 

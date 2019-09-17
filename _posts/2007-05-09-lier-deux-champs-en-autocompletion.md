@@ -3,7 +3,7 @@ layout: post
 title: 'Lier deux champs en autocompletion'
 date: '2007-05-09 10:36:55'
 author: j0k
-tags: '[ajax,autocompletion,j0k3r_net]'
+tags: ajax autocompletion j0k3r_net
 excerpt: "Enfiin un nouveau tutoriel AJAX sur j0k3r.n3t, il vous montrera comment [lier deux champs en autocompletion](http://www.j0k3r.net/ajax-lier-deux-champs-en-autocompletion-7.html).     \nMon précédent tutoriel sur l'[autocompletion avancée en AJAX](http://www.j0k3r.net/ajax-une-autocompletion-avancee-en-ajax-6.html) a plu à beaucoup de monde :)  \n    …"
 ---
 

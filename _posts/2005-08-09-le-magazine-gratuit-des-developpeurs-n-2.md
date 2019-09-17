@@ -3,7 +3,7 @@ layout: post
 title: 'Le magazine gratuit des développeurs : N°2'
 date: '2005-08-09 12:47:34'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'équipe de rédaction du Club Developpez.com a le plaisir de vous faire part de la disponibilité du deuxième numéro du Magazine gratuit Developpez.com      \nVous retrouverez notamment la liste de tous les nouveaux articles (ainsi qu'une courte description, critiques de livres nouvellement publiées, débats en cours, etc). Mais en plus, certains articles, critiques      …"
 ---
 

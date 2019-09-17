@@ -3,7 +3,7 @@ layout: post
 title: 'Nouvelle interview de Raphaël Goetter'
 date: '2005-06-25 01:36:55'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Quand on fait des livres de qualité et surtout qui traite concrètement du sujet (et non comme certains autres livres ...), il en va de soit que l''on s''intéresse à l''auteur. C''est ce qui se passe avec Raphaël Goetter et son nouveau livre [CSS2 Pratique du design web](http://www.j0k3r.net/news-css2-pratique-du-design-web-543.html). C''est autour du      ...'
 ---
 

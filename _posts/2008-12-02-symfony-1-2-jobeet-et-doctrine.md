@@ -3,7 +3,7 @@ layout: post
 title: 'symfony 1.2, Jobeet et Doctrine'
 date: '2008-12-02 10:05:58'
 author: j0k
-tags: '[doctrine,jobeet,symfony]'
+tags: doctrine jobeet symfony
 excerpt: "Ce mois de décembre commence fort en nouvelles fraiches !   Plein de nouveautés du côté de symfony, dont l'apparition d'un calendrier de l'Avent, toujours intéressant à suivre !  \n  \n**symfony 1.2**   Tout d'abord la [nouvelle version de symfony](http://www.symfony-project.org/blog/2008/12/01/symfony-1-2-is-already-available) a été publié      …"
 ---
 

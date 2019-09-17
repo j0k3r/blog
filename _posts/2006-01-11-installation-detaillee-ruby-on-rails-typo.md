@@ -3,7 +3,7 @@ layout: post
 title: 'Installation détaillée Ruby On Rails / Typo'
 date: '2006-01-11 09:53:51'
 author: NiLuJe
-tags: '[]'
+tags: blabla
 excerpt: 'Hopla, comme j''ai un peu lutté à grappiller des informations à droite et à gauche lors de la mise en place de mon [blog](http://blog.ak-team.com), qui tourne donc sous [Typo](http://typo.leetsoft.com/), qui utilise lui-même le framework [Ruby On Rails](http://www.rubyonrails.org), j''ai décidé de rédiger un petit ''guide'' de mise en place du framework RoR      ...'
 ---
 

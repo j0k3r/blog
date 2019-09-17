@@ -3,7 +3,7 @@ layout: post
 title: 'Un futur attribut ping pour la balise a ?'
 date: '2006-01-27 03:17:25'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Souvent pour comptabiliser les clics sortant, certains webmasters font directement appel à un fichier interne qui comptabilise le clic et ensuite redirige le visiteur vers le site qu'il veut visiter. Cette méthode est souvent mise en place dans les annuaires de liens, ce qui permet ensuite d'afficher des statistiques de visites par sites ou globales.     \n     …"
 ---
 

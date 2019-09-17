@@ -3,7 +3,7 @@ layout: post
 title: 'Comment être un meilleur programmeur ?'
 date: '2006-09-03 06:26:07'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Paul Penrod a répondu à la question : Comment devenir un programmeur sur une mailing liste à laquelle est inscrit Richard K Miller.     \nRichard K Miller [affirme](http://www.richardkmiller.com/blog/archives/2006/09/how-to-be-a-better-programmer) que beaucoup de ces possibilités peuvent être appliqué à d'autres professions.  \n  \nPaul Penrod      …"
 ---
 

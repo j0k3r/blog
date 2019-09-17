@@ -3,7 +3,7 @@ layout: post
 title: 'Safari 3 disponible pour Windows !'
 date: '2007-06-11 11:43:21'
 author: j0k
-tags: '[browser,safari,windows]'
+tags: browser safari windows
 excerpt: "C'est une première et je pense que nombreux d'entre vous seront content d'apprendre que la version 3 de Safari sera compatible avec Windows !     \nLa version est pour le moment en bêta publique.   Apple mets en avant le fait que Safari serait le plus rapide de tous les navigateurs du moment. Seul Opéra arriverait à le talonner sur certains points (dixit      …"
 ---
 

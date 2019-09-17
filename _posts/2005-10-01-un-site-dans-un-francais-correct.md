@@ -3,7 +3,7 @@ layout: post
 title: 'Un site dans un français correct'
 date: '2005-10-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: 'Plus le net pullule, et plus l''orthographe se dégrade. Certains essaient le plus possible de ne pas faire de fautes. Voilà quelques liens pour y remédier.'
 ---
 

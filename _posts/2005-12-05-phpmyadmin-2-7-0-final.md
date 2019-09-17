@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyAdmin 2.7.0 final'
 date: '2005-12-05 03:28:47'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après trois mois de développement, [phpMyAdmin 2.7.0](http://www.phpmyadmin.net/home_page/downloads.php#2.7.0) est maintenant disponible.     \nPour rappel, il est maintenant possible d'importer directement dans un base de donnée ou sans sélectionner une base un fichier SQL, ou même via un onglet *SQL* de lancer des requêtes.   Les tableaux ont      …"
 ---
 

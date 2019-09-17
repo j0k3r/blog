@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 5.1.3 RC3 publié officiellement'
 date: '2006-04-21 12:55:31'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après avoir publié une version officieuse de PHP 5.1.3 RC3 la semaine dernière, Ilia Alshanetsky a libéré officiellement aujourd'hui la version de PHP 5.1.3 RC3.     \nLes failles de sécurité, présente dans la version officieuse, ont été rapportées à la version RC2 de façon à ce que la version officielle RC3 soit nikel. Le changelog de cette nouvelle release      …"
 ---
 

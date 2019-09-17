@@ -3,7 +3,7 @@ layout: post
 title: 'Un correcteur d''orthographes dans Firefox ?'
 date: '2005-04-04 01:03:41'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et oui il en existait déjà un sous Konqueror et certain linuxien pouvait s'en venter. Mais ce temps est révolu. Puisque je viens de trouver (grâce au blog de [L©S ßlog * CyberSDF](http://cybersdf.org/?2005/03/28/52-verificateur-orthographique-pour-formulaires)) une extension qui permet de vérifier l'orthographe des champs *textarea* de votre page.     \n     …"
 ---
 

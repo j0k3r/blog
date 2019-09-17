@@ -3,7 +3,7 @@ layout: post
 title: 'Le W3C veut améliorer la navigation sur les téléphones'
 date: '2005-05-14 12:12:14'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le consortium W3C de normalisation du web veut améliorer la navigation des téléphones portables afin d'encourager à appliquer ses recommandations.     \nIl a ainsi créé deux groupes de travail dans le cadre d'une opération intitulée [Mobile Web Initiative](http://www.w3.org/2005/MWI/) (MWI). Ces groupes de travail auront pour but principal de promouvoir les      …"
 ---
 

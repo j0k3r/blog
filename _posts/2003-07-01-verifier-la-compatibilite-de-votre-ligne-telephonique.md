@@ -3,7 +3,7 @@ layout: post
 title: 'Vérifier la compatibilité de votre ligne téléphonique...!'
 date: '2003-07-01 00:00:00'
 author: j0k
-tags: '[divers]'
+tags: divers
 excerpt: "Votre ligne a-t-elle accès à l'ADSL ?  \nVais-je pouvoir faire exploser mon DD dans les prochains jours ??  \nAinsi que mon ch'ti porte-feuille ??"
 ---
 

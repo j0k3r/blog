@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 5.1 supportera Unicode et Gtk2'
 date: '2005-06-01 12:08:22'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Andrei Zmievski et un éminent contributeur au projet PHP via notamment PHP-Gtk et Smarty. Il est actuellement employé chez Yahoo!. Lors de la PHP Conference 2005 qui a lieu actuellement à Amsterdam, il a présenté deux nouveautés à venir pour PHP5 :     \nTout d'abord, le [support Unicode](http://www.gravitonic.com/downloads/talks/intlphpcon2005/php_unicode.pdf      …"
 ---
 

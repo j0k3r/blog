@@ -3,7 +3,7 @@ layout: post
 title: 'Un antispam non intrusif en CSS'
 date: '2007-07-21 11:04:48'
 author: j0k
-tags: '[antispam,css]'
+tags: antispam css
 excerpt: "Le spam nous pollue tous dès que l'on commence à avoir une certaine (même des fois toute petite) notoriété sur internet.     \nUne solution largement utilisée est la mise en place de [CAPTCHA](http://www.j0k3r.net/faire-une-recherche.html?q=captcha). Quelques fois on a droit à un décryptage assez complexe de chiffres et de lettres ou alors on doit aussi      …"
 ---
 

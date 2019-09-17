@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 5 avancé, seconde édition'
 date: '2005-06-02 10:32:40'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Publié au mois de juin l'année dernière, les 3500  exemplaires de \"PHP 5 avancé, 1ère édition\" ont largement été écoulé. Deux choix ce proposer pour les auteurs, refaire une série de livre de la même édition ou refaire une nouvelle version. Chance pour nous ils ont choisit la deuxième solution !     \n )   \n  \nVoilà la belle devanture de la seconde      …"
 ---
 

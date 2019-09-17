@@ -3,7 +3,7 @@ layout: post
 title: 'Google aime vos sitemaps !'
 date: '2006-01-21 05:05:45'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Lancé en juin 2005, Google Sitemaps propose un outils pour faciliter le travail de son (pauvre) robot d'indexations. Le principe est simple, il suffit de placer un sitemap.xml à la racine de votre site. Ce fichier doit contenir toutes les pages que vous souhaitez voir indexé par Google.     \nIl faut savoir que ce fichier permet à Google d'explorer plus facilement      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Collection de hacks CSS'
 date: '2006-09-17 12:03:58'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "On le sait tous, les différences de rendus CSS entre tous les navigateurs est souvent un calvaire, surtout entre IE et Firefox (les plus utilisés, je pense).     \nWeb Devout rassemble une bonne partie de [ces hacks](http://www.webdevout.net/articles/css_hacks.php) qui permettent d'avoir un rendu identique quelque soit le navigateur que l'on utilise. Je      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Comment choisir son framework JavaScript ?'
 date: '2007-11-01 06:19:18'
 author: j0k
-tags: '[framework,javascript]'
+tags: framework javascript
 excerpt: 'Il existe beaucoup de framework JavaScript, même si quelques uns sortent cependant du lot.   D''bug propose des [questions simples](http://blog.reindel.com/2007/10/30/how-to-choose-a-javascript-framework/) pour répondre à votre besoin. Il ne donne pas de résultat ou de préférence sur un framework mais s''efforce de cibler vos attentes de façon à trouver un      ...'
 ---
 

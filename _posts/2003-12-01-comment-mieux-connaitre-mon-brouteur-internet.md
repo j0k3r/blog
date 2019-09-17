@@ -3,7 +3,7 @@ layout: post
 title: 'Comment mieux connaitre mon Brouteur internet ?!'
 date: '2003-12-01 00:00:00'
 author: j0k
-tags: '[divers]'
+tags: divers
 excerpt: 'Récupérez un maximum d''informations sur votre navigateur, grâce à un pseudo espion'
 ---
 

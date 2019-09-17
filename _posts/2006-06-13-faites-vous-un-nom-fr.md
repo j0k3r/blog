@@ -3,7 +3,7 @@ layout: post
 title: 'Faites vous un nom .fr'
 date: '2006-06-13 09:33:13'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "J-7 avant l'ouverture aux particuliers des noms de domaines en .fr.     \n&quot;L'AFNIC, organisme neutre et indépendant, souhaite donner la possibilité à tous les Français de créer leur propre nom de domaine en .fr. Les noms en .fr véhiculent des valeurs fortes telles que la proximité, l'appartenance et la francophonie&quot;, déclare Jean-Claude Gorichon,      …"
 ---
 

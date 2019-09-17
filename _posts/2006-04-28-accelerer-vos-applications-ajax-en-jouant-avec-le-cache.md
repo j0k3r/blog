@@ -3,7 +3,7 @@ layout: post
 title: 'Accélérer vos applications AJAX en jouant avec le cache'
 date: '2006-04-28 04:41:22'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'En développant en AJAX, vous utilisez certainement une libraire adéquate (comme prototype.js par exemple) et vous vous êtes certainement rendu compte qu''en général leur taille était assez importante. Ce qui engendre en général un téléchargement de la page plus long.   Par exemple, digg charge une quantité assez affolante de fichiers JavaScript et ça se sent lors de la      ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Feuille de route de Mozilla 1.8 et plus'
 date: '2005-06-15 09:44:47'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Brendan Eich [décrit](http://weblogs.mozillazine.org/roadmap/archives/008240.html) sur son blog la feuille de route des versions 1.8 et plus de Mozilla.   Vous ne le saviez peut être pas, mais Firefox 1.1 est en fait basé sur Mozilla 1.8. Via la publication de Deer Park Alpha 1, la fondation a validé la version 1.8 bêta 2. La prochaine étape est le 1.8 bêta 3,      ...'
 ---
 

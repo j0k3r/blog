@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Afficher la date du jour'
 date: '2004-10-05 23:15:56'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Ce script est très simple et se compose de trois étapes : récupérer la date du jour, la mettre en forme et l''afficher. La première étape dépend en fait de la troisième car selon le format d''affichage que l''on veut utiliser, il faut récupérer les informations appropriées.'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Se familiariser avec le buffer de sortie de PHP'
 date: '2006-04-16 09:24:35'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Pas assez utiliser par les webmasters, le buffer de sortie de PHP (PHP's output buffer) alors que cela apporte beaucoup d'avantage.     \nPar exemple, les erreurs du type &quot;Cannot modify header information * headers already sent&quot; arrive fréquemment. Tandis qu'il suffit juste d'éviter de modifier les en-têtes une fois qu'elles sont envoyées. Facile à dire,      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Surligner les mots clés Google sur votre site'
 date: '2005-11-20 02:33:32'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Google représente certainement une bonne partie de vos visites. Le plus souvent les visiteurs ont auparavant cliqué sur le lien \"En cache\" de Google pour voir votre page. Ainsi les mots clés qu'ils ont tapés sont surlignés.   Mais si le visiteur clique directement sur votre site, il ne retrouve pas directement les mots clés qu'il a tapé.  \n  \nCe petit      …"
 ---
 

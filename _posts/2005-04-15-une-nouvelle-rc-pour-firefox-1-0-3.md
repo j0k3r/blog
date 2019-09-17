@@ -3,7 +3,7 @@ layout: post
 title: 'Une nouvelle RC pour Firefox 1.0.3'
 date: '2005-04-15 04:01:21'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Une nouvelle [Release Candidate](http://weblogs.mozillazine.org/asa/archives/007945.html) de Firefox 1.0.3 est disponible.   Ce qui emmène le nombre RC pour cette version de Firefox à sept !   )   Tous ces tests sont due à la correction d''une vielle faille qui, une fois corrigée, pause beaucoup de problème aux extensions. Au fur et à mesure des      ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Google''s Summer of Code'
 date: '2006-05-01 11:57:52'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le Google's Summer of Code, qui a lieu tous les étés (ouaw), donne la possibilité à des étudiants développeurs de créer des nouveaux programmes Open Source ou d'aider des projets actuellement en cours.   La date de lancement est fixée à aujourd'hui.  \n  \nPHP.net a proposé à Google [différents projets](http://php.net/ideas.php) et pour le moment, ils      …"
 ---
 

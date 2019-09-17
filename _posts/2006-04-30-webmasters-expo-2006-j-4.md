@@ -3,7 +3,7 @@ layout: post
 title: 'Webmasters Expo 2006, J-4 !'
 date: '2006-04-30 11:15:16'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le Webmasters Expo 2006 approche à grand pas !   Je vous rappelle qu'il se tient les 3 et 4 mai à la cité des sciences et de l'industrie, à la villette à Paris.  \n  \nLes ventes en ligne sont maintenant closes. Si vous voulez vous procurez des billets il vous reste juste la solution de vous pointer le jour des conférences et de payer votre billet à      …"
 ---
 

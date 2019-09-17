@@ -3,7 +3,7 @@ layout: post
 title: 'Créez votre blog avec Rails'
 date: '2006-03-16 10:10:23'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après vous avoir dit ce qu'était RoR ([Ruby On Rails](http://www.j0k3r.net/news-ror-ruby-on-rails-863.html)) et vous ayant proposé une vidéo qui vous présente une personne qui créé un blog avec Rails en 15 minutes, les éditions Eyrolles publient un tutoriel pour créer votre blog, mais cette fois tout est sur papier.     \n[Ce      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Thunderbird/Firefox 1.5.0.5'
 date: '2006-07-28 09:34:22'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Comme [annoncé](http://www.j0k3r.net/news-des-dates-pour-firefox-et-thunderbird-1.5.0.5-1401.html) , Mozilla fournit dès aujourd'hui la dernière version pour FireFox et Thunderbird.     \nPour les obtenir, 2 solutions :  \n  \n* Attendre la mise à jour auto ( si ce n'est pas déja fait ) ou la forcer.   * Télécharger les versions      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyVisites 2.0 beta1'
 date: '2005-10-12 06:49:04'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous voulez des changements, vous les avez !     \nLa version 2.0 de phpMyVisites a été publié hier dans la journée. C'est la première bêta de cette version qui en comportera normalement 4. Au bout de ces quatre bêtas, une nouvelle documentation sera disponible et la version sera officiellement stable !  \n  \nLe but premier de cette nouvelle version      …"
 ---
 

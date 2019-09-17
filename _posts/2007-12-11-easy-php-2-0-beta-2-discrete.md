@@ -3,7 +3,7 @@ layout: post
 title: 'EasyPHP 2.0, bêta 2 discrète'
 date: '2007-12-11 10:06:52'
 author: j0k
-tags: '[easyphp]'
+tags: easyphp
 excerpt: 'La nouvelle version d''EasyPHP, celle qui apportera enfin officiellement PHP 5, tarde à voir le jour.   La bêta 1 est sortie il y a bientôt un an, et je viens de voir qu''une bêta 2 avait été diffusée discrètement au mois de juillet. Cependant, elle était mise à disposition des "habitués" afin de la tester. "Normalement" la release aurait du suivre      ...'
 ---
 

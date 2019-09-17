@@ -3,7 +3,7 @@ layout: post
 title: 'Les "magic_quotes" par Fred'
 date: '2005-02-22 08:16:48'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Fred nous gratifie d''un [nouvel article](http://frederic.bouchery.free.fr/?2005/02/22/40-la-magie-noire-des-apostrophes-magiques) sur les magic_quotes.   )   Il commence par définir ce qu''est une chaine de caractères en PHP avec les divers problèmes que l''on peut rencontrer due aux accents. De fil en aiguille, il arrive à nous parler de l''échappement de      ...'
 ---
 

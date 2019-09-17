@@ -3,7 +3,7 @@ layout: post
 title: 'Les nouveautés de PHP 6'
 date: '2006-03-07 09:14:42'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Dans cet [article](http://www.dotvoid.com/view.php?id=57) on peut découvrir ce qui nous attend avec PHP 6.     \nEn résumé ce sera un PHP 5 amélioré et encore plus orienté objet.  \n  \nOn y constatera :   * La disparition des variables globales ( suppression de register_globals ) ainsi que de magic_quotes ...   * Le support de      …"
 ---
 

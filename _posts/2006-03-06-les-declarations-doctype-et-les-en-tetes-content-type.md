@@ -3,7 +3,7 @@ layout: post
 title: 'Les déclarations Doctype et les en-têtes Content-type'
 date: '2006-03-06 06:10:25'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Sur beaucoup de forums pour les développeurs web, une question récurrente est posée par rapport au XHTML.      \nFaut-il l'utiliser ? Est ce utile ?   \n  \nA de telle question, Tommy Olsson a décidé de répondre éclaircir une peu ce point. Les réponses n'étant pas forcément pertinente pour le simple lecteur de ce genre de discutions. Tommy aborde      …"
 ---
 

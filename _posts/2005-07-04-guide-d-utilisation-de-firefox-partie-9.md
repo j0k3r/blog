@@ -3,7 +3,7 @@ layout: post
 title: 'Guide d''utilisation de Firefox : Partie 9'
 date: '2005-07-04 10:12:10'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Geckozone publie la [9ième partie](http://www.geckozone.org/articles/2005/07/03/93-guide-d-utilisation-de-firefox-1-0-pour-debutants-partie-9) de son Guide d'utilisation de Firefox.      \nCette fois l'équipe de Geckozone nous détaille la sécurité au sein de Firefox en répondant à quelques points et en nous expliquant comment réglé le niveau de confiance.       …"
 ---
 

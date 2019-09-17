@@ -3,7 +3,7 @@ layout: post
 title: 'OVH vous offre un .fr'
 date: '2006-06-23 02:05:42'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La folie que provoque l'ouverture des noms de domaines en .fr aux particuliers fait fleurir des offres promotionnelles intéressantes chez les hébergeurs.     \nAinsi OVH [propose](http://www.ovh.com/fr/produits/dotfr_offert.xml) un nom de domaine .fr pour tout achat d'un hébergement chez eux. L'année suivante, vous êtes libre de renouveler le domaine à 3.47      …"
 ---
 

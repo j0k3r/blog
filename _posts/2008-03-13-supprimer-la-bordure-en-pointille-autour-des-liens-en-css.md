@@ -3,7 +3,7 @@ layout: post
 title: 'Supprimer la bordure en pointillé autour des liens en CSS'
 date: '2008-03-13 08:47:07'
 author: j0k
-tags: '[border,css]'
+tags: border css
 excerpt: "Des tricks, encore des tricks, toujours des tricks !!   Le net regorge de tricks CSS (sorte d'astuces) pour parer à un peu tous les problèmes que l'on peut rencontrer quand on fait de l'intégration. D'ailleurs, une personne qui fait de l'intégration HTML, ne s'appelle pas un *intégrateur* mais un _développeur front office_. Forcément, c'est plus class ;-)  \n  \n …"
 ---
 

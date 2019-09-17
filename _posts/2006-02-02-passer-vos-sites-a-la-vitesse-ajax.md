@@ -3,7 +3,7 @@ layout: post
 title: 'Passer vos sites à la vitesse AJAX'
 date: '2006-02-02 11:32:23'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le JDN publie un dossier intéressant sur l'ajaxation (on invente des mots aussi ^^) d'un site internet. Ne vous attendez pas à vous retrouvez avec un site complètement en AJAX avec des fondus dans tous les sens !     \nCeux sont simplement des bouts de code qui vont vous permette d'utiliser consciencieusement AJAX sur votre site.   Dans les bouts de code      …"
 ---
 

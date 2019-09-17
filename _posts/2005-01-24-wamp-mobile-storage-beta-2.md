@@ -3,7 +3,7 @@ layout: post
 title: 'WAMP Mobile Storage beta 2'
 date: '2005-01-24 09:55:03'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous connaissez certainement WAMP5 Serveur (Windows Apache MySQL PHP) qui est un \"concurrent\" direct d'EasyPHP, et encore le mot concurent est trop fort.     \nEt bien voila que le site uni-d.net vient de lancer un projet qui consiste à installer un mini serveur WAMP sur un disque amovible (Clé USB, Disque externe).   L'intérêt ?   La possibilité      …"
 ---
 

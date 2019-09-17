@@ -3,7 +3,7 @@ layout: post
 title: 'Où en est php ?'
 date: '2005-03-08 02:23:35'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et bien dans le dernier [billet](http://www.phpmag.net/itr/kolumnen/psecom,id,36,nodeid,207.html) d'Aaron Wormus, quelques infos sur php nous sont données.     \nAinsi la sortie de php 5.0.4 RC est retardée due à des petits problèmes toujours en cours de discussion. De même pour la première bêta de php 5.1 qui devait sortir le premier de ce mois, elle est      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Compteur de visites'
 date: '2004-10-08 20:03:33'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: "Il est toujours gratifiant et surtout intéressant de connaître le nombre de personne qui fréquente son site.  Je vais donc vous présenter comment en mettre un sur votre site. Bien sûr ce n'est que le minimum, libre à vous de l'améliorer :p"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'LA 5.1.6 alpha de MySQL'
 date: '2006-02-16 10:39:14'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "LA (oui tout en majuscule !) tant attendu version 5.1.6 de MySQL vient d'etre publié. Du moins son annonce de publication, puisqu'elle est apparemment disponible depuis début février.     \nComme je vous en avais parlé dans une [précédente news](http://www.j0k3r.net/news-mysql-5-1-5-alpha-1014.html), cette version de MySQL supporte les événements. C'est à      …"
 ---
 

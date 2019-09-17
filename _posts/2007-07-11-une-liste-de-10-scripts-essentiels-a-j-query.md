@@ -3,7 +3,7 @@ layout: post
 title: 'Une liste de 10 scripts essentiels à jQuery'
 date: '2007-07-11 08:13:18'
 author: j0k
-tags: '[jquery]'
+tags: jquery
 excerpt: "Dans la jungle des frameworks JavaScript, jQuery est grandement apprécié entre autre par la facilité avec laquelle il permet de produire du code JS.     \nMd Emran Hasan utilise depuis quelques semaines jQuery et nous dresse [une liste de 10 scripts essentiels](http://www.phpfour.com/blog/2007/06/30/jquery-essentials/) qu'il a utilisé avec jQuery.  \n      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Roadmap pour Dotclear 2'
 date: '2006-01-09 10:58:30'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Dotclear 2 sera la prochaine grosse évolution de Dotclear. Ce ne sera pas Dotclear 2.0 mais Dotclear 2 tout court.     \nIl est déjà en &quot;test&quot; sur le blog officiel de l'auteur, [Olivier](http://www.neokraft.net/). L'annonce a été faite hier, Olivier a officiellement annoncé que Dotclear 2 était bien vivant !  \n  \nDans son [deuxième      …"
 ---
 

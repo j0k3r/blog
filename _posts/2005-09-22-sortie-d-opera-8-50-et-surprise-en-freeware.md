@@ -3,7 +3,7 @@ layout: post
 title: 'Sortie d''Opera 8.50, et, surprise, en freeware!'
 date: '2005-09-22 05:39:27'
 author: NiLuJe
-tags: '[]'
+tags: blabla
 excerpt: 'Vous connaissez tous Opera, l''autre browser ... Vous vous souvenez aussi de ces horribles bannières de pub affichées en dessous de la barre de menu... Et bien, ce temps est révolu ;) Après le succès de l''opération ''Opera Gratuit'', organisée pour les 10ans d''Opera, la version Desktop (Windows, Linux, Mac, FreeBSD, Solaris mais pas la version mobile) passe en freeware, et      ...'
 ---
 

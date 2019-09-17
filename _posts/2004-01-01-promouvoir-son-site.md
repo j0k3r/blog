@@ -3,7 +3,7 @@ layout: post
 title: 'Promouvoir son site'
 date: '2004-01-01 23:46:21'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Qui n''a jamais rêver voir apparaitre son site dans les premiers résultat de google !! :p'
 ---
 

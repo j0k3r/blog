@@ -3,7 +3,7 @@ layout: post
 title: 'Intéraction PHP et JavaScript - 3ieme partie'
 date: '2005-05-19 12:00:43'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Devshed publie le troisième et dernier article sur l'interaction de PHP et JavaScript.     \nCe fût une bonne expérience pour lui de faire ces trois articles, on peut ainsi découvrir l'importance que peut prendre cette interaction dans un projet web.   Étant donné la complexité qu'est cette interaction, il faudrai plus de trois partie pour traiter de tout      …"
 ---
 

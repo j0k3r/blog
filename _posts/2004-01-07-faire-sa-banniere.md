@@ -3,7 +3,7 @@ layout: post
 title: 'Faire sa bannière'
 date: '2004-01-07 10:34:21'
 author: j0k
-tags: '[webdesign]'
+tags: webdesign
 excerpt: 'Comment vous débrouillez pour faire votre bannière pou facilement promouvoir votre site, la réponse dans la suite !'
 ---
 

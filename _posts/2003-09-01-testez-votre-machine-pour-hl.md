@@ -3,7 +3,7 @@ layout: post
 title: 'Testez votre machine pour HL²'
 date: '2003-09-01 00:00:00'
 author: j0k
-tags: '[divers]'
+tags: divers
 excerpt: 'Testez votre machine pour HL²'
 ---
 

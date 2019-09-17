@@ -3,7 +3,7 @@ layout: post
 title: 'Enquête sur le spamdexing'
 date: '2005-03-07 12:50:24'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le site Abondance et l'association IPEA-SMA, en collaboration avec les moteurs Gooster, DeepIndex et la société de référencement Webformance, lancent [une enquête en ligne](http://sondage.abondance.com/spam.html) pour vous permettre de donner votre avis sur le spamdexing.     \nLe spamdexing est une tentative de spam spécifiquement orientée vers les moteurs      …"
 ---
 

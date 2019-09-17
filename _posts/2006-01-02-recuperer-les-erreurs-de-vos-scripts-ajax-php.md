@@ -3,7 +3,7 @@ layout: post
 title: 'Récupérer les erreurs de vos scripts AJAX/PHP'
 date: '2006-01-02 03:39:35'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous n'avez peut-être pas encore testé AJAX, mais je peux vous dire que pour le débugage et les erreurs ce n'est pas facile du tout. Il faut mettre des alerts dans tous les sens dans votre code javascript pour essayer de débuguer et encore des fois ça ne marche pas.     \nVoici une [méthode](http://www.litfuel.net/plush/?postid=94) fort intéressante qui      …"
 ---
 

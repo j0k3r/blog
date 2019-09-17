@@ -3,7 +3,7 @@ layout: post
 title: 'Le schéma d''une base de Tag Cloud'
 date: '2006-03-23 01:47:01'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Les [Tag Clouds](http://www.j0k3r.net/news-faire-votre-propre-systeme-de-tags-en-php-1036.html), dont je vous avais déjà parlé, sont ce que l'on appelle littéralement un nuage de mot clés. Cela permet de voir apparaître les mots les plus utilisés dans les news sur un site, par exemple.     \nPhilipp Keller, après avoir rapidement discuté sur la structure du      …"
 ---
 

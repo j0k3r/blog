@@ -3,7 +3,7 @@ layout: post
 title: 'Déjà phpMyAdmin 2.6.1-pl2 !'
 date: '2005-02-25 09:55:48'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et oui le premier patch de la version 2.6.1 de phpMyAdmin est sorti seulement depuis hier mais ce nouveau patch instauré un probleme de stabilité qui pouvait poser divers problèmes.   )   Le tout est fixé dans un nouveau patch, le deuxième.   Apparemment cela provenait d'un problème dans le fichier *grab_globals.lib.php*.  \n  \nIl est donc      …"
 ---
 

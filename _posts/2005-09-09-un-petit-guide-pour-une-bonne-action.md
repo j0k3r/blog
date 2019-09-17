@@ -3,7 +3,7 @@ layout: post
 title: 'Un petit guide pour une bonne action'
 date: '2005-09-09 01:10:21'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "php|architect publie un petit guide rassemblant tout ce qu'il faut savoir sur PHP allant de ses extensions à sa syntaxe en passant par toutes les fonctions."
 ---
 

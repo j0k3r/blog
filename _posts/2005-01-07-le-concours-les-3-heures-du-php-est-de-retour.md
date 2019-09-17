@@ -3,7 +3,7 @@ layout: post
 title: 'Le concours "Les 3 heures du PHP" est de retour'
 date: '2005-01-07 02:43:16'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Les 3H du PHP est un [concours de programmation](http://3hphp.lephpfacile.com/) basé sur le langage PHP.   Le concours sera bimestriel (un concours tous les deux mois) à 21H précisemment.  \n  \nPour ceux qui n'ont pas connu ce concours le principe est simple :"
 ---
 

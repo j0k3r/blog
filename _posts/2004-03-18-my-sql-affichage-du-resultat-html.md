@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL - Affichage du résultat (HTML)'
 date: '2004-03-18 14:28:56'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Je vais vous montrer comment afficher le résultat d''une requête sql dans un tableau HTML.'
 ---
 

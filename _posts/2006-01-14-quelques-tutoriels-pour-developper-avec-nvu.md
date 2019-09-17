@@ -3,7 +3,7 @@ layout: post
 title: 'Quelques tutoriels pour developper avec Nvu'
 date: '2006-01-14 09:49:43'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Nvu est un éditeur HTML de type WYSIWYG (Ce que vous voyez est ce que vous obtenez) basé sur le module d'édition HTML de Mozilla, il permet de créer des pages web en PHP, HTML ...     \nUn professeur dans l'enseignement supérieur belge diffuse quelques tutoriels sur Nvu. Pour l'instant il n'y en a &quot;que&quot; trois :  \n  \n* Mon premier site web      …"
 ---
 

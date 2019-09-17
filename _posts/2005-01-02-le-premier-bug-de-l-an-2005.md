@@ -3,7 +3,7 @@ layout: post
 title: 'Le premier buG de l''an 2005'
 date: '2005-01-02 11:25:29'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Bonjour à tous et à toutes !     \nA peine réveillé le samedi matin ou plutot milieu de journée, je m'envais cherché les croissants et les pains au chocolat avec les courageux matinaux. Après avoir parlé quelques minutes avec le boulanger il me dit que toutes les cartes bancaires qui expirent en 2005 ne passent plus dans la machine ... premier buG ... je sais pas.      …"
 ---
 

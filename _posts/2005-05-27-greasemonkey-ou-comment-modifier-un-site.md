@@ -3,7 +3,7 @@ layout: post
 title: 'GreaseMonkey, ou comment modifier un site'
 date: '2005-05-27 02:34:53'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Je vous rassure, GreaseMonkey n'est pas mon nouvel animal domestique, ni le nouveau KingKong qui monte sur la tour Eiffel, mais tout simplement une extension de Firefox qui commence à avoir la \"cote\".     \nGrâce à cette extension et avec quelques scripts vous pouvez modifier l'apparence d'un site. Cela parait assez surprenant tout de même.  \n  \nIl      …"
 ---
 

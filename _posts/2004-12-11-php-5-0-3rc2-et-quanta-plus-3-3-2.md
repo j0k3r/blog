@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 5.0.3RC2 et Quanta Plus 3.3.2'
 date: '2004-12-11 02:20:26'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Nouvelle version de Quanta plus, la [3.3.2](http://freshmeat.net/projects/quantaplus/?branch_id=8709&amp;release_id=181376). Je vous rappelle que Quanta plus est un environnement de developpement orienté web sous Linux.     \nA noter aussi une [nouvelle RC](http://qa.php.net/) de php5, on devait s'y attendre vu que la deuxième RC de php4 était sortie      …"
 ---
 

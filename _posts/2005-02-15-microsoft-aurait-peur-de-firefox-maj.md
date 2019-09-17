@@ -3,7 +3,7 @@ layout: post
 title: 'Microsoft aurait peur de FireFox ? [MAJ]'
 date: '2005-02-15 03:04:16'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Enfin ... depuis le temps que Firefox grignote des parts de marchés à IE, voilà que Billou commence à ce dire qu'il faudrai p'tet revoir son bon vieux browser.     \nFirefox atteint déjà les 25 Millions de téléchargement (pour la version 1.0) et presque 10% du marché des navigateurs.   )   Microsoft n'a pas prévu de sortir de nouvelle version      …"
 ---
 

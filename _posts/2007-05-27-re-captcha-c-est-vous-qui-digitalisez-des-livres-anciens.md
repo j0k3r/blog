@@ -3,7 +3,7 @@ layout: post
 title: 'reCAPTCHA, c''est vous qui digitalisez des livres anciens'
 date: '2007-05-27 10:51:24'
 author: j0k
-tags: '[antispam,captcha]'
+tags: antispam captcha
 excerpt: "L'idée est très ingénieuse et mérite d'être connu de tous !     \nSur une grande majorité des sites internets actuels, on retrouve des captchas qui permettent d'identifier un véritable internaute d'un ordinateur. Ils sont placés à la fin de formulaires d'inscription et présentent des lettres et/ou des chiffres que vous devez reconnaitre. C'est l'Université      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Thunderbird 1.0RC1 et Mandrakelinux 10.1'
 date: '2004-12-02 11:34:43'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'La version [1.0RC1](http://frenchmozilla.sourceforge.net/FTP/Thunderbird/TEST/marche_pas/) de Mozilla Thunderbird vient d''être publié par la fondation Mozilla. Elle est sortie cette nuit en anglais et déjà disponible en français au petit matin.   Néanmoins, l''auteur de la publication française nous prévient que ce sont des versions de test, non seulement parce      ...'
 ---
 

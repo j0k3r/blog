@@ -3,7 +3,7 @@ layout: post
 title: 'Créer des éléments avec prototype.js'
 date: '2006-03-31 07:11:12'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Pour faire office de validation automatique d'un formulaire, on utilise souvent la création à la volée d'élément pour y mettre l'erreur remonté.     \nC'est l'exemple concret du formulaire d'inscription du [Remember The Milk](http://www.rememberthemilk.com/signup/) ou encore de la page contact de la [ville de gap](http://www.ville-gap.info/fr/contact.html      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Tests de Performance Javascript'
 date: '2006-04-25 10:03:43'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Personne ne se préoccupe des performances du JavaScript, pourtant il est trés important de cerner et éviter les codes coûteux en temps pour le confort de l'utilisateur.     \nCette [page](http://www.jorendorff.com/articles/javascript/speed-test.html) propose de tester sur votre machine le temps de réponse de quelques exemples en Javascript (Boucles, Calculs      …"
 ---
 

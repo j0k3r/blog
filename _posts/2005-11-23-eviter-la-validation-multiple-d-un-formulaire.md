@@ -3,7 +3,7 @@ layout: post
 title: 'Eviter la validation multiple d''un formulaire'
 date: '2005-11-23 12:10:05'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'inconvénient d'un formulaire est qu'il peut très souvent être validé deux fois de suite. Ainsi les données sont transmises deux fois en un temps très court. Plusieurs solutions existent utilisant le PHP ou le JavaScript.     \nLa première en JavaScript permet de désactiver le bouton *submit* une fois que l'on a cliqué dessus. Ainsi on ne peut pas cliquer une      …"
 ---
 

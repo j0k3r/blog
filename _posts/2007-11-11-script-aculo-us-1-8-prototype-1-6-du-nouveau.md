@@ -3,7 +3,7 @@ layout: post
 title: 'script.aculo.us 1.8, Prototype 1.6, du nouveau !'
 date: '2007-11-11 11:05:41'
 author: j0k
-tags: '[prototype,scriptaculous]'
+tags: prototype scriptaculous
 excerpt: "La version finale de [script.aculo.us 1.8](http://mir.aculo.us/2007/11/7/script-aculo-us-1-8-prototype-1-6-and-the-book-released) et [Prototype 1.6](http://prototypejs.org/2007/11/7/prototype-1-6-0-script-aculo-us-1-8-0-and-the-bungee-book-now-available) ont été publié dans la même journée en début de semaine.     \nC'est une des plus importantes      …"
 ---
 

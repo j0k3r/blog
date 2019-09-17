@@ -3,7 +3,7 @@ layout: post
 title: 'Le nouveau nexen.net'
 date: '2006-01-24 07:17:16'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Damien Seguy en avait parlé lors de la newsletter publiée [mi-décembre](http://www.j0k3r.net/news-nexen-va-faire-peau-neuve-912.html), la nouvelle version de nexen.net est (partiellement) en activité. Je dis partiellement parce que lorsque l''on accède à nexen [sans le www](http://nexen.net/), on tombe toujours sur l''ancienne version. Mais cela ne devrai      ...'
 ---
 

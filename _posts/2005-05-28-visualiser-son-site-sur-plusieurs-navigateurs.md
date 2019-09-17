@@ -3,7 +3,7 @@ layout: post
 title: 'Visualiser son site sur plusieurs navigateurs'
 date: '2005-05-28 09:35:27'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "J'avais posté, il y a bien longtemps, un ch'tit truc du mois concernant l'[affichage de votre site sous différents navigateurs](http://www.j0k3r.net/chtit-truc-tester-son-site-sous-differents-navigateurs-19.html) mais cet outil a (du) rencontrer un succès fou et n'est plus fonctionnel à l'heure actuelle et ce depuis un petit bout de temps.     \nDes outils      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Émulé les liens de l''outils du W3C'
 date: '2005-10-29 12:30:39'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous ne le savez peut-être pas, mais le W3C propose un outil que l'on pourrai qualifier d'assez intéressant. Son but est simple, permettre à n'importe qui te tester n'importe quelle page avec n'importe quel outil de validation (html, css, lien ...) que propose le W3C.     \nCet [outils](http://www.w3.org/,tools) n'a pas de nom, mais est caractérisé par une      …"
 ---
 

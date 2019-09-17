@@ -3,7 +3,7 @@ layout: post
 title: 'Yahoo! diffuse son framework AJAX'
 date: '2006-02-14 09:24:13'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La nouvelle commence à se répendre un peu partout, Yahoo! vient de publier son framework AJAX (Yahoo! User Interface Library) ainsi que sa bibliothèque de design pattern (schémas de conception) !     \nCe [framework AJAX](http://developer.yahoo.net/yui/) s'appuie sur le vécu et bénéficie du retour d'expérience de Yahoo!, ce qui n'est pas négligeable. Libre      …"
 ---
 

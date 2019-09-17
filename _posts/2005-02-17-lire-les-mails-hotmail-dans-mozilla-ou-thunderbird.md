@@ -3,7 +3,7 @@ layout: post
 title: 'Lire les mails Hotmail dans Mozilla ou Thunderbird'
 date: '2005-02-17 02:31:24'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Snap, de chez Geckozone, publie un article sur [comment lire les mails dans Mozilla ou Thunderbird](http://www.geckozone.org/articles/2005/02/17/18-comment-lire-son-courrier-hotmail-dans-mozilla-et-thunderbird).     \nC'est un guide pour les utilisateurs de Thunderbird (et de Mozilla, la méthode est la même) qui ne veulent pas quitter leur adresse Hotmail,      …"
 ---
 

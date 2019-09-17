@@ -3,7 +3,7 @@ layout: post
 title: 'Direction|PHP du mois d''avril est gratuit !'
 date: '2006-04-24 09:30:43'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Direction|PHP est le premier mensuel francophone dédié aux professionnels de la plate-forme PHP-MySQL, publié en format PDF et distribué électroniquement.      \nCe mois ci, Direction|PHP est gratuit !   Au sommaire de ce mois ci :    * Présentation du Zend Framework par Mike Naberezny   * Le recrutement de compétences PHP par Brent      …"
 ---
 

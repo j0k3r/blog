@@ -3,7 +3,7 @@ layout: post
 title: 'Les calendriers de l''Avent 2008 !'
 date: '2008-12-02 08:02:26'
 author: j0k
-tags: '[avent,calendrier,php]'
+tags: avent calendrier php
 excerpt: 'Après les news fraiches sur symfony, le mois de décembre est aussi l''occasion de retrouver annuellement les calendriers de l''Avent. Outre certain calendrier de l''Avent plutôt [graphique](http://www.lecalendrierdenoel.com/) et [divertissant](http://www.lecalendrierdenoel.com/pere_noel_express) (note: y''a un [défi](http://twitpic.com/pn0i)), il y a ceux plus      ...'
 ---
 

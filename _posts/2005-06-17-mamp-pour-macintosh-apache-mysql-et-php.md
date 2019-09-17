@@ -3,7 +3,7 @@ layout: post
 title: 'MAMP pour Macintosh, Apache, Mysql et PHP'
 date: '2005-06-17 10:21:10'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: '[MAMP](http://mamp.info/fr/home/) signifie: Macintosh, Apache, Mysql et PHP.   Avec MAMP et simplement en quelques clics, vous pouvez installer Apache, PHP et MySQL pour Mac OS X, PowerBook ou encore iMac.   )   MAMP est installé dans les "normes" des installations MAC, c''est à dire très facilement. MAMP ne dérangera et ne portera aucun préjudice à      ...'
 ---
 

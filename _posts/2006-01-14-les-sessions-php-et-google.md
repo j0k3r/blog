@@ -3,7 +3,7 @@ layout: post
 title: 'Les sessions PHP et Google'
 date: '2006-01-14 11:00:40'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Quand on parle de référencement d'un site ou d'un forum, la première chose à faire est en général d'éviter d'afficher l'identifiant de session de l'utilisateur.     \nPourquoi ?   Tout simplement parce cet identifiant de session est en général unique, et qu'il est renouvelé à chaque nouvelle visite. Ainsi notre cher GoogleBot verra à chaque fois des pages      …"
 ---
 

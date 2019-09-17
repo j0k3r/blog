@@ -3,7 +3,7 @@ layout: post
 title: 'Manipuler les dates en PHP'
 date: '2006-04-13 01:52:15'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Cet article de PHPit vous montrera comment employer des dates et des périodes en PHP/MySQL, en jetant un coup d'oeil aux problèmes qui surgissent et à la façon les résoudre.     \nAprès nous avoir montré comment manipuler rapidement les dates en PHP, cet article nous présente une classe qui permet :   * Voir la date GMT et celle du serveur   *      …"
 ---
 

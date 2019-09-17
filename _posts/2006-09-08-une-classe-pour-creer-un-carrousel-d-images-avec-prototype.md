@@ -3,7 +3,7 @@ layout: post
 title: 'Une classe pour créer un carrousel d''images avec prototype'
 date: '2006-09-08 09:50:58'
 author: j0k
-tags: '[class,prototype,window]'
+tags: class prototype window
 excerpt: "L'auteur de [Prototype Window Class](http://www.j0k3r.net/news-une-classe-pour-gerer-les-fenetres-avec-prototype-js-1340.html), Mr Proto, récidive avec une nouvelle classe toujours basée sur prototype.js / script.aculo.us.     \nCelle ci vous permet de créer des carrousels d'image. C'est à dire que vous avez une liste d'images et cette classe vous permet      …"
 ---
 

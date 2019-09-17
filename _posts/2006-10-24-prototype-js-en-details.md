@@ -3,7 +3,7 @@ layout: post
 title: 'Prototype.js en détails'
 date: '2006-10-24 10:50:29'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le JDN se penche (enfin) sur la célèbre librairie prototype.js pour nous offrir un très bon dossier.     \nIl récapitule le principe capital de ce genre de framework puis commence à prendre un par un les avantages de cette librairie.   Dans un premier temps, il s'occupe des fonctions utilitaires qui remplace getElementById, ou encore qui permettent de gérer      …"
 ---
 

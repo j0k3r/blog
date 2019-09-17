@@ -3,7 +3,7 @@ layout: post
 title: 'Créer des diaporamas de présentation en AJAX'
 date: '2006-04-23 10:01:26'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'iPhoto, d''Apple, a popularisé la présentation d''image en tant que diaporama de présentation. Dans une projection de diapositives, les images apparaissent dans un ordre prédéfini avec des effets de fondu avant (pour apparaître) et arrière (pour disparaître). Des fois les images sont déplacées et zoomées dans ce que l''on commence à connaître sous le nom de &quot;l''effet Ken      ...'
 ---
 

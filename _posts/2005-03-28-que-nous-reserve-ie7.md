@@ -3,7 +3,7 @@ layout: post
 title: 'Que nous réserve IE7 ... ?'
 date: '2005-03-28 07:03:35'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "IE7 a été annoncé pour début 2006 par notre cher Billou.   Il est évident que le succès de FireFox a (enfin) fait réagir microsoft par rapport à son navigateur qui commence à perdre de sa popularité.  \n  \nFireFox ,qui certes a perdu de sa superbe accélération depuis son lancement, possède entre 5 et 22% du marché des navigateurs Web.  \n  \nLe      …"
 ---
 

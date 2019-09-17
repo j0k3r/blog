@@ -3,7 +3,7 @@ layout: post
 title: 'Guide d''utilisation de Firefox'
 date: '2005-01-17 10:54:20'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le portail Geckozone vient de publier les premières pages du [guide d'utilisation de Firefox](http://www.geckozone.org/articles/2005/01/16/75-guide-d-utilisation-de-firefox-1-0-pour-debutants-partie-1-13). Ce guide comportera 13 pages et en voici déjà 4.     \nVoici la table des matières provisoires :   \n   1. Table des matières  \n   2.      …"
 ---
 

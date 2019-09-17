@@ -3,7 +3,7 @@ layout: post
 title: 'Mise à jour du tutorial sur l''optimisation d''une BDD'
 date: '2005-02-22 12:03:05'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Je viens de rajouter un petit script en php qui permet d'optimser toutes les tables de votre base de donnée.   )   Il va chercher toutes les tables de votre base (via *mysql_list_tables* qui retourne toutes les tables d'une base) puis il les optimise une par une.  \n  \nJe vous rappelle qu'il est fortement recommandé d'optimiser ces tables de temps en      …"
 ---
 

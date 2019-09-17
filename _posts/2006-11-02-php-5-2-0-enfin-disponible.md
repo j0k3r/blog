@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 5.2.0 enfin disponible !'
 date: '2006-11-02 11:59:54'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après 6 release candidate, PHP 5.2.0 est enfin disponible au grand public.   Cette version corrige près de 200 buGs et apporte son fleau de faille de sécurité corrigé. Cette version est à considérer comme LA version de PHP 5 à utiliser. Elle rend, par la même occasion, la branche 5.1 obsolète.  \n  \nLes nouvelles fonctionnalités (en anglais) :   *      …"
 ---
 

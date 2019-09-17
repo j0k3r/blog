@@ -3,7 +3,7 @@ layout: post
 title: 'Métier : Web-ergonome'
 date: '2005-05-24 01:31:14'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Qu'est ce que peux bien être un Web-ergonome ... ?   Quels sont les domaines d'intervention du Web-ergonome ?   Comment exerce-t-il sa profession au quotidien ?   Comment a-t-il été amené à cette fonction ?  \n  \nToute les réponses à ces questions font parti d'une toute nouvelle      …"
 ---
 

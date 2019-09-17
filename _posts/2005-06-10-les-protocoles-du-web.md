@@ -3,7 +3,7 @@ layout: post
 title: 'Les protocoles du Web'
 date: '2005-06-10 01:17:05'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous vous servez du web tous les jours, mais connaissez vous vraiment ce qui le forme ? De quoi est il composé ?     \nInternet s'appuie sur IP qui a été lancé dans les années 60 et qui aujourd'hui permet de communiquer par voix orales, qui aurait pu l'imaginer à cette époque. Cependant IP est dépassé et IPv6 ce fait sentir de plus en plus.  \n  \n     …"
 ---
 

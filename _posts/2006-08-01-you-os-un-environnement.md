@@ -3,7 +3,7 @@ layout: post
 title: 'YouOS : Un environnement'
 date: '2006-08-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: "Avoir un paquet de logiciels sans rien installer sur votre PC ? \nOui, c'est possible grâce à YouOS."
 ---
 

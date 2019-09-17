@@ -3,7 +3,7 @@ layout: post
 title: 'La bibliothèque d''erreurs PHP'
 date: '2006-01-02 04:14:43'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La [bibliothèque d'erreurs PHP](http://www.nexen.net/erreurs/) recense les messages d'erreurs émis par PHP, parfois un peu cabalistiques. Elle les rassemble, et permet de rechercher facilement les erreurs, et de partager les expériences de chacun, pour corriger cette erreur.     \nIl est toujours intéressant de trouver l'erreur que l'on a, et surtout de      …"
 ---
 

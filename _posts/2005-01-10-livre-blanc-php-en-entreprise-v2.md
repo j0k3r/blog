@@ -3,7 +3,7 @@ layout: post
 title: 'Livre Blanc "PHP en entreprise" v2'
 date: '2005-01-10 06:14:24'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'L''[afup](http://www.afup.org/) publie aujourd''hui la deuxième version de son livre blanc "PHP en entreprise". C''est un document fait pour les entreprises, pour leur donner des réponses à leurs questions :'
 ---
 

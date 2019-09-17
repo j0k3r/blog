@@ -3,7 +3,7 @@ layout: post
 title: 'Faire un rectangle aux coins arrondis en CSS'
 date: '2005-03-18 04:19:14'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voila un article bien complet sur comment réaliser un rectangle avec des jolis bord arrondis. Le codeur n'a pas utilisé seulement le CSS mais aussi quatre petites images qui forment les coins.     \nOn aurait très bien pu le faire seulement avec du CSS, grace à *-moz-border-radius* mais seulement compatible avec mozilla/firefox ou encore avec *border-radius*, mais      …"
 ---
 

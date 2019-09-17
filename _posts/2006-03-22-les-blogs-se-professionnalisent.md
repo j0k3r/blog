@@ -3,7 +3,7 @@ layout: post
 title: 'Les blogs se professionnalisent'
 date: '2006-03-22 12:12:10'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Les blogs sont partout.      \nCe nouvel outil de publication sur le Web a su séduire par sa simplicité de création et de gestion. Mais au-delà du simple carnet intime, inscrit dans une logique d'Intelligence collective, de Groupware, de Knowledge Management et de veille stratégique, le potentiel de ces outils de gestion de contenu est bien plus grand qu'il n'y      …"
 ---
 

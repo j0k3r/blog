@@ -3,7 +3,7 @@ layout: post
 title: 'Aller plus vite sur Google avec Firefox'
 date: '2005-03-31 03:51:14'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Google est maintenant plus rapide que jamais sur les navigateurs Firefox, Mozilla et tout ceux qui sont basés sur le moteur Gecko.   )   Google utilise le [préchargement (prefetching)](http://mozinet.free.fr/moz/fcn/prefetch.html) disponible seulement sur les navigateurs basés sur le moteur Gecko.   Ainsi quand vous faites une recherche, Google      ...'
 ---
 

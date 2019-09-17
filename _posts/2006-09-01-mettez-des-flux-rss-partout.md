@@ -3,7 +3,7 @@ layout: post
 title: 'Mettez des flux RSS partout'
 date: '2006-09-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: 'Tous les sites internets ne possèdent pas (encore) de flux RSS. Voilà un outil qui vous permet de mettre du RSS vraiment partout !'
 ---
 

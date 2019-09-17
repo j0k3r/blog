@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Créer un fil RSS pour votre site'
 date: '2005-01-11 18:11:43'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: "Vous avez certainement déjà vu des sites qui affichés les news d'autres sites. Avant (et encore un peu maintenant) cela ce faisait via un fichier que l'on appelle entre des balises javascript. Mais le web évolue, et la tendance est au RSS.  \nLe but de ce tuto est de récupérer vos données de MySQL pour ensuite les mettre dans un fichier RSS."
 ---
 

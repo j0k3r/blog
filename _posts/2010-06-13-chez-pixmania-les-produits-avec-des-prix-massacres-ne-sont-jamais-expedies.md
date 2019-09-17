@@ -3,7 +3,7 @@ layout: post
 title: 'Chez @pixmania, les produits avec des prix massacrés ne sont jamais expédiés …'
 date: '2010-06-13 13:03:14'
 author: j0k
-tags: '[fail,fnac,pixmania,ps3]'
+tags: fail fnac pixmania ps3
 excerpt: "C'est pas du tout mon genre de pousser des coups de gueules par ici. Mais là l'histoire m'a tellement énervé, énervé de voir que PIXmania diffuse des informations mensongères et ne communique en rien avec ces clients. Tout commença avec la réception d'une newsletter affichant un prix massacré sur Red Dead Redemption …"
 ---
 

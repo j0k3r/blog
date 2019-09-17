@@ -3,7 +3,7 @@ layout: post
 title: 'Votre forum phpBB tout en AJAX'
 date: '2006-09-27 09:20:12'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "On a souvent l'impression, en voyant le travail de certain, qu'ils ont du temps à tuer à faire des choses ou à prouver des choses qui au final ne sont pas si utiles que ça ...     \nJack Slocum, de chez Yahoo!, vient de faire une instance de son forum phpBB entièrement en AJAX. On a l'impression d'être sur Yahoo Mail ou dans Outlook. Le rendu est pas mal, c'est      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Formulaires : Méthode post ou get ?'
 date: '2005-02-15 22:44:09'
 author: Serius
-tags: '[développement]'
+tags: développement
 excerpt: 'Vous avez sûrement déjà vu des sites parler de méthode POST ou GET mais vous n''avez aucune idée de ce que c''est ?  Ça tombe bien, je vais vous expliquer !'
 ---
 

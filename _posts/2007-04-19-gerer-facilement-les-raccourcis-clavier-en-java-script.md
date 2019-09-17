@@ -3,7 +3,7 @@ layout: post
 title: 'Gérer facilement les raccourcis clavier en JavaScript'
 date: '2007-04-19 02:11:06'
 author: j0k
-tags: '[javascript]'
+tags: javascript
 excerpt: "Il est difficile de trouver des librairies JavaScript qui facilite l'utilisation des raccourcis clavier.      \nOn peut très bien faire soit même un p'tit bout de code en JavaScript pour faire une raccourci clavier (comme sur le site avec le chat et la touche \"entrée\"). Mais si on souhaite mettre en place une réelle navigation au sein de son site, basée      …"
 ---
 

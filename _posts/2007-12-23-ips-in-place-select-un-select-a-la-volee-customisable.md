@@ -3,7 +3,7 @@ layout: post
 title: 'IPS (In Place Select), un select à la volée customisable'
 date: '2007-12-23 03:08:02'
 author: j0k
-tags: '[in-place,scriptaculous,select]'
+tags: in-place scriptaculous select
 excerpt: "Il existe déjà l'édition à la volée qui est grandement utilisée pour améliorer l'interactivité avec l'utilisateur, on l'appelle l'[edit in place](http://www.j0k3r.net/ajax-edition-a-la-volee-en-ajax-edit-in-place-5.html). Elle permet, en cliquant sur du texte, de pouvoir le modifier à la volée.     \nSelon les besoins du projet, il est souvent utile d'avoir      …"
 ---
 

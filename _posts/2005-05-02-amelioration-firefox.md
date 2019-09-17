@@ -3,7 +3,7 @@ layout: post
 title: 'Amélioration FireFox'
 date: '2005-05-02 08:33:05'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Voici la traduction d’une petite astuce pour augmenter la rapidité d’affichage des pages Web sous Firefox (source : [Forevergeek](http://forevergeek.com/)) :     \n_1._ Dans la barre d’adresse de Firefox tapez : **about:config**. Recherchez les paramètres suivants :  \n  \n**network.http.pipelining**   **network.http.proxy.pipelining**       …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Status du projet eAccelerator'
 date: '2005-09-10 12:09:42'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après une période de silence plutôt longue du côté d'eAccelerator, voici quelques nouvelles :     \n* Début juillet, et à force de travail sur l'encodeur, l'équipe s'est rendu comptes qu'il serait préférable de revoir tout le code afin de le rendre plus propre, pour permettre l'ajout de nouvelles fonctionnalités plus rapidement et aussi faciliter le deboggage.       …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Optimiser ses images pour Google Image'
 date: '2006-06-15 10:58:41'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Google Image ne fonctionne pas tout à fait de la même façon que Google tout court. C'est pour cela que l'optimisation d'un site pour Google Image ne s'effectue pas de la même manière. MSN et Yahoo! possèdent eux aussi une recherche d'images, mais globalement l'optimisation fonctionne pour eux aussi.     \nRappelez vous que Google Image (tout comme Google) doit      …"
 ---
 

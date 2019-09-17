@@ -3,7 +3,7 @@ layout: post
 title: 'Première bêta pour PHP 5.1'
 date: '2005-06-11 02:31:50'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Annoncé il y a quelques jours, la première bêta de PHP 5.1 est maintenant disponible. '
 ---
 

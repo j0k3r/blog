@@ -3,7 +3,7 @@ layout: post
 title: 'Micro$oft utilise des logiciels crackés !'
 date: '2004-11-14 12:20:42'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'C''est ce que nous apprend [PC-Welt](http://www.pcwelt.de/news/software/104785/index1.html) ... !   Pour voir la ch''tite bête, allez dans votre répertoire *C:/Windows/Help/Tours/WindowsMediaPlayer/Audio/Wav* et ouvrez n''importe quel fichier .wav avec votre bloc-notes adoré. Allez à la derniere ligne du fichier et vous pourrez voir *LISTB INFOICRD 2000-04-06 IENG      ...'
 ---
 

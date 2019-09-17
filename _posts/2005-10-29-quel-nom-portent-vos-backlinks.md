@@ -3,7 +3,7 @@ layout: post
 title: 'Quel nom portent vos backlinks ?'
 date: '2005-10-29 12:40:57'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Le backlink c''est quoi ?   Rapidement, un backlink est tout simplement un lien externe qui pointe vers votre site. Il peut être dans un annuaire, sur un site partenaire ou tout simplement posté dans un forum pour indiquer un tutoriel.   Le nombre de backlinks que possède un site est une indication de la popularité ou de l''importance de ce site Web. Ainsi plus      ...'
 ---
 

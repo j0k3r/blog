@@ -3,7 +3,7 @@ layout: post
 title: 'HTML - Anti-clic droit'
 date: '2004-03-12 23:58:21'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'On a souvent envie de bloquer les gens, enfin ... de bloquer le clic droit de la souris de nos visteurs. Souvent parce qu''on se dit qu''il ne pourra pas récupérer telle ou telle image ou comme ça il ne pourra voir le source de ma page ... et plein de chose comme ça.'
 ---
 

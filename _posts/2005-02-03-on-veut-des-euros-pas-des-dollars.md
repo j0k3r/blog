@@ -3,7 +3,7 @@ layout: post
 title: 'On veut des Euros pas des Dollars !'
 date: '2005-02-03 05:35:28'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Nous (webmasters) sommes nombreux à utiliser de la publicité pour avoir un peu de revenu, pour pouvoir rembourser nos frais : domaines, hébergements, services ...    Google AdSense offre ce type de publicité. Malheureusement pour nous, européens, Google AdSense paie les webmasters en dollars américains, ce qui a forcément des conséquences :'
 ---
 

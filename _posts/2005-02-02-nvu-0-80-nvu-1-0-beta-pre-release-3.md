@@ -3,7 +3,7 @@ layout: post
 title: 'Nvu 0.80 (Nvu 1.0 Beta pre-Release 3)'
 date: '2005-02-02 10:01:50'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Nvu 1.0 Beta pre-Release 3 ou encore Nvu 0.80 vient de sortir.     \nJe vous rappelle qu'Nvu (prononcé N-viou) est un éditeur WYSIWYG (What You See Is What You Get / Ce que vous voyez est ce que vous obtenez) un peu dans le même genre que DreamWeaver ou encore Frontpage sous Cro$oft. Mais celui ci est open source et fonctionne aussi bien sous Linux, Windows ou      …"
 ---
 

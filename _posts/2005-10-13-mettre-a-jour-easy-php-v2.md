@@ -3,7 +3,7 @@ layout: post
 title: 'Mettre à jour EasyPHP v2'
 date: '2005-10-13 22:05:16'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: "Depuis le [premier article](http://www.j0k3r.net/articles-mettre-a-jour-easyphp-v1-6.html) sur la mise à jour d'EasyPHP, une nouvelle version est sortie, la 1.8, rendant ce tutoriel \"obsolète\". Cependant ce tutoriel reste toujours valide pour mettre à jour PHP 4.x, Apache 1.x, MySQL 4.x depuis EasyPHP 1.7 ou 1.8.  \nLe staff d'EasyPHP a aussi parlé d'une version 2.0 avec Apache2 et PHP5, mais si on doit attendre aussi longtemps que pour la 1.8, il va falloir faire quelques choses avant. Remarquez qu'ils n'ont pas qu'EasyPHP dans la vie aussi hein !  \n C'est chose faite grâce à ce tutoriel qui permet de mettre à jour EasyPHP 1.7 ou 1.8 avec _toutes_ les dernières versions citées ci-dessous, vous obtiendrez ainsi votre propre version d'EasyPHP 2.0 avant l'heure !"
 ---
 

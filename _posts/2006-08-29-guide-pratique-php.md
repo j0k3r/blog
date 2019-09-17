@@ -3,7 +3,7 @@ layout: post
 title: 'Guide pratique PHP'
 date: '2006-08-29 12:20:23'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le JDN dresse une sorte de mini guide pratique sur PHP.     \nHistorique, succès, syntaxe fonctionnelle et principaux outils : l'essentiel de ce qu'il faut savoir en un coup d'oeil sur le langage de programmation Web.  \n  \nArchitecturé autour des 5 parties suivantes :   * Introduction   * L'historique   * La popularité   *      …"
 ---
 

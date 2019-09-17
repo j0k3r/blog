@@ -3,7 +3,7 @@ layout: post
 title: 'Quelques perturbations à prévoir ce week end'
 date: '2007-08-17 07:12:57'
 author: j0k
-tags: '[j0k3r_net,ovh]'
+tags: j0k3r_net ovh
 excerpt: "Non je n'habite pas sur le chemin de [Dean](http://www.rhooo.com/blog/le-calme-avant-la-tempete/), qui est certainement entrain de faire un ravage, je vais juste changer de serveur ([ouais encore](http://www.j0k3r.net/news-dedibox-loaded-1869.html) ...).     \nCette fois ci, je vais (fin reviens) chez OVH mais sur un serveur dédié (on est nettement      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Un apéroPHP pour l''anniversaire de PHP'
 date: '2005-05-30 11:32:40'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Cyril PIERRE de GEYER, auteur du livre PHP5 Avancé, co-fondateur de l''AFUP [...] organise un [ApéroPHP](http://www.aperophp.net/apero.php?id=132) le 8 juin prochain pour fêter les 10 ans de PHP.   )   Les ApéroPHP sont tout simplement des rassemblements de programmeurs (généralement en PHP) pour parler de tout et de rien entre PHP''eurs, mais quand même      ...'
 ---
 

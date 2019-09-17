@@ -3,7 +3,7 @@ layout: post
 title: 'Kwout, un super outil pour quoter n''importe quel site !'
 date: '2007-12-26 11:17:03'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Quand on poste des news ou des infos sur un site, c'est toujours bien de rajouter une petite illustration. Je pense qu'on tiens un peu ça des magazines papiers : quand une info possède une image, on l'a regarde souvent avant de lire son contenu.     \nLe truc, c'est que sur le web, les images ne manquent pas, mais souvent pour illustrer quelques choses de précis,      …"
 ---
 

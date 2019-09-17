@@ -3,7 +3,7 @@ layout: post
 title: 'C''est le thème de nowel !'
 date: '2005-12-04 12:18:57'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous avez certainement remarqué le nouveau header pour cette période dédié à nowel (sur le site et sur le forum). Si ce n'est pas le cas, videz le cache de votre navigateur (Ctrl + F5).     \nA vrai dire, le vrai thème de nowel ne ressemble pas trop à celui ci. Plein de petite chose change, et pas seulement le header. Mais ce fameux thème de nowel est sur la      …"
 ---
 

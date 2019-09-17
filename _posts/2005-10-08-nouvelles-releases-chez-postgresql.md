@@ -3,7 +3,7 @@ layout: post
 title: 'Nouvelles releases chez PostgreSQL'
 date: '2005-10-08 12:35:48'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "De nouvelles releases pour PostgreSQL ont été [publié](http://www.postgresql.org/download) cette semaine. Elles concernent les versions 7.3.11, 7.4.9 et 8.0.4."
 ---
 

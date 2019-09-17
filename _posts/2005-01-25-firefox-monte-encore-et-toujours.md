@@ -3,7 +3,7 @@ layout: post
 title: 'FireFox monte encore et toujours !'
 date: '2005-01-25 01:32:37'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Aaaaah notre bien aimé FireFox ne cesse pas de grimper ... et tant mieux pour lui.   Il vient de passer les 20 millions de téléchargement (cf le nombre au moment de la  news).   )   Toute la [team SFX](http://www.spreadfirefox.com/) remercie les personnes qui ont téléchargés FireFox 1.0, et ainsi montrer que l''opensource peut rivaliser face      ...'
 ---
 

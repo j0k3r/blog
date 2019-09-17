@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Fonction mktime'
 date: '2004-10-05 23:11:08'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'La fonction **mktime** retourne, pour une date donnée, un entier contenant le nombre de secondes écoulées depuis le **1 Janvier 1970** (époque UNIX).'
 ---
 

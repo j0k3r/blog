@@ -3,7 +3,7 @@ layout: post
 title: 'Les résultats du Trophées du Libre'
 date: '2005-05-27 02:43:07'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Les [Trophées du Libre](http://www.tropheesdulibre.org/) visent à valoriser et récompenser le travail des développeurs, des entreprises et des institutions qui oeuvrent au développement et à l'amélioration des solutions Open Source à travers le monde.     \nCette année les Trophées du Libre ont distingué les 6 catégories suivantes :  \n  \n*       …"
 ---
 

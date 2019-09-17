@@ -3,7 +3,7 @@ layout: post
 title: 'L''Extreme Programming rend votre travail plus gratifiant'
 date: '2006-03-12 01:43:19'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le JDN continue les interviews de son dossier sur l'Extreme Programming.   Cette fois ci, c'est Emmanuel Gaillot, de Octo Technology, qui passe à la moulinette.  \n  \nSon rôle actuel de coach XP l'amène à travailler avec des équipes qui souhaitent changer leur processus de développement vers XP ; Notamment en mettant en place des tests automatisés avant de      …"
 ---
 

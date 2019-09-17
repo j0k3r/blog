@@ -3,7 +3,7 @@ layout: post
 title: 'Sondage : Une section pour proposer des news'
 date: '2005-09-19 06:58:00'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le dernier sondage lancé par Dan vient de se conclure. Comme je l'avais pressenti (et Dan aussi), la majorité des visiteurs est d'accord pour proposer des news sur le site ... du moins est d'accord pour que la création d'une section pour y proposer éventuellement des news soit faites.     \nC'est donc chose faite. La section se trouve dans le forum ([Proposer une      …"
 ---
 

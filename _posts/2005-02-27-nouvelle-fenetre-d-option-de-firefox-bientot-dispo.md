@@ -3,7 +3,7 @@ layout: post
 title: 'Nouvelle fenêtre d''option de Firefox bientôt dispo'
 date: '2005-02-27 09:52:15'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "[MozillaZine-fr](http://www.mozillazine-fr.org/archive.phtml?article=6133) publie un article assez long sur la nouvelle fenêtre d'options/préférence de firefox.   Cette fenêtre change de la précédente, et les options, icones et autres ont pas mal changé de place, il faudra partir à la recherche pour retrouver vos options favorites.  \n  \nLa fenêtre      …"
 ---
 

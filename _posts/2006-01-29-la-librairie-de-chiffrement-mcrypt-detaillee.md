@@ -3,7 +3,7 @@ layout: post
 title: 'La librairie de chiffrement mcrypt détaillée'
 date: '2006-01-29 02:57:32'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La documentation officielle sur cette librairie est assez confuse et présente un grand nombre d'algorithmes et de modes de chiffrement différents.     \nPHPFrance publie ce tutoriel sur la librairie mcrypt. Ils la détaillent plus explicitement. Voici le suivit des différentes étapes :  \n  \n* Une rapide d'explication sur la raison de ce document  \n  …"
 ---
 

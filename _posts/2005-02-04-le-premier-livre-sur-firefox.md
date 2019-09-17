@@ -3,7 +3,7 @@ layout: post
 title: 'Le premier livre sur FireFox'
 date: '2005-02-04 01:19:53'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Les éditions Eyrolles publient ce mois ci le livre [Firefox](http://www.editions-eyrolles.com/Livre/9782212116045/firefox).   Il est accompagné d''un CD-ROM qui contient Mozilla Firefox 1.0 et Mozilla Thunderbird 1.0 (en français pour Linux, MS-Windows et Mac OS X), ZoneAlarm ainsi que OpenOffice.org 1.1.3 fr.   )   Il aborde l''installation, l''ajout      ...'
 ---
 

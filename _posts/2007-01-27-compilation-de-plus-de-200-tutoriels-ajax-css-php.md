@@ -3,7 +3,7 @@ layout: post
 title: 'Compilation de plus de 200 tutoriels :Ajax, CSS, PHP ...'
 date: '2007-01-27 02:15:17'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après avoir publié un article sur [53 techniques CSS à connaître](http://www.j0k3r.net/news-un-lot-de-53-technique-css-que-vous-devez-connaitre-1692.html) en tant que webdesigner, Smashing Magazine revient sur le devant de la scène avec une liste de 200 tutoriels.      \nAu menu, on retrouve :   * Ajax   * CSS   * Flash   *      …"
 ---
 

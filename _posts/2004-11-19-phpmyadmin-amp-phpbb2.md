@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyAdmin &amp; phpBB2'
 date: '2004-11-19 07:39:38'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Nouvelle version de phpMyAdmin, la [2.6.0-pl3](http://www.phpmyadmin.net/home_page/downloads.php). C'est le troisième patch pour phpMyAdmin 2.6.0 qui corrige une faille de sécurité au niveau des CSS et quelques buGs.     \nUne nouvelle version de phpBB aussi, la [2.0.11](http://www.phpbb.com/phpBB/viewtopic.php?t=240636). Elle corrige des failles      …"
 ---
 

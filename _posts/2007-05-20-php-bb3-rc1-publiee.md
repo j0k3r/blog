@@ -3,7 +3,7 @@ layout: post
 title: 'phpBB3 RC1 publiée !'
 date: '2007-05-20 06:22:12'
 author: j0k
-tags: '[phpbb]'
+tags: phpbb
 excerpt: "La première version candidate de phpBB 3 vient tout juste d'être publiée.   Il prévoit de publier d'autres versions candidates au fil des buGs qui seront découverts.  \n  \nLa mise à jour d'une version 2.0.x version cette RC n'est pas franchement recommandée surtout si vous avez installé plusieurs MODs. Il est plus conseillé d'attendre la version finale qui      …"
 ---
 

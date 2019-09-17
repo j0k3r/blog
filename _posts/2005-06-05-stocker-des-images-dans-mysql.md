@@ -3,7 +3,7 @@ layout: post
 title: 'Stocker des images dans MySQL'
 date: '2005-06-05 05:47:14'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Cela peut paraître impossible pour ceux qui ne connaissent pas tous les formats de MySQL (varchar, int, text ...) mais pour les autres qui savent ce qu'est le format BLOB cela parait logique.     \nLe format BLOB permet de stocker des données binaires, des 0 et des 1 en gros. Ce qui permet de stocker tout et n'importe quoi comme fichier informatique, notamment les      …"
 ---
 

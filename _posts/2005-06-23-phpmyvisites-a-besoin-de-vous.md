@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyVisites a besoin de vous !'
 date: '2005-06-23 09:19:33'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Dans la dernière newsletter, Matthieu Aubry, créateur de phpMyVisites, indique qu'il a besoin de vos avis et conseils pour évoluer et améliorer son script.     \nIl a besoin de connaître vos souhaits en terme"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Suivez la qualité de vos sites grâce à un site !'
 date: '2006-01-14 12:03:44'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le premier outil collaboratif de suivi de la qualité des sites Internet s'appelle [Opquast](http://www.opquast.com/), dirigé par Elie Sloïm, responsable du projet.     \nOpquast est la première liste ouverte et publique de bonnes pratiques pour l'amélioration de la qualité des services en ligne. Elles ont été mises au point publiquement (vous pouvez aussi y      …"
 ---
 

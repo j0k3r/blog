@@ -3,7 +3,7 @@ layout: post
 title: 'Summer Review: PHP'
 date: '2005-09-08 01:31:44'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Les versions de PHP ont continué à avancer durant l'été. Tout le monde ne part pas forcément en vacance et heureusement !     \nCourant du mois de Juillet la version [PHP 4.4.0](http://www.j0k3r.net/news-php-4.4.0-disponible-628.html) a été publié dans sa version finale.   Début août, c'est la première RC de [PHP      …"
 ---
 

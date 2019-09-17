@@ -3,7 +3,7 @@ layout: post
 title: 'Google aide Wikipedia'
 date: '2005-04-22 12:31:16'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Vous connaissez certainement [Wikipedia](http://fr.wikipedia.org/wiki/Accueil) qui est la (ou du moins une des) plus grande encyclopédie online et qui plus est "open source". Tout le monde peu y ajouter ou même modifier le contenu de cette encyclopédie.   )   Et bien par hasard je cherchais la définition de MPEG, j''ai donc tapé "[MPEG      ...'
 ---
 

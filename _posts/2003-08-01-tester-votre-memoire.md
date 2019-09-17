@@ -3,7 +3,7 @@ layout: post
 title: 'Tester votre mémoire'
 date: '2003-08-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: 'Tester votre mémoire'
 ---
 

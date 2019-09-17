@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Tronquer un texte'
 date: '2004-10-05 23:35:25'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Ce script permet de tronquer un texte et de rajouter **"…"** à la fin. Très pratique pour les présentations dynamiques, il permet de limiter l''affichage d''un texte à un certain nombre de caractères.'
 ---
 

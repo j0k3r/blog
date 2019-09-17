@@ -3,7 +3,7 @@ layout: post
 title: 'Editer à la volée grâce à AJAX'
 date: '2005-12-23 02:37:37'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Les gens qui utilisent [Flickr](http://www.flickr.com/) pour éditer leurs photos connaissent ce système, dit \"edit-in-place\", qui est utilisé pour modifier rapidement des titres et des descriptions sur des photographies.     \nPasser au-dessus d'un article pour que son fond passe au jaune pour indiquer qu'il est éditable. Un simple clic charge le texte      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Une API disponible pour le validateur du W3C'
 date: '2006-10-26 02:57:44'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le W3C vient de mettre en ligne une nouvelle version de son validateur.     \nCelui ci n'avait pas été mis à jour depuis le mois de février. Cette [version](http://validator.w3.org/), la v0.7.3, est une version de maintenance qui corrige des buGs et apporte des mises à jour.   La chose la plus importe est que la validateur se voit doter d'une toute      …"
 ---
 

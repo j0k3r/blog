@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 4.4.9 annonce la fin de PHP 4'
 date: '2008-08-08 07:56:35'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Cela avait été annoncé en [Janvier](http://www.j0k3r.net/forum/en-janvier-2008-php4-ne-sera-plus-supporte-1798.htm) [dernier](http://www.php.net/archive/2008.php#2008-01-03-1), la dernière version de PHP 4 verrait le jour au plus tard le 8 aout 2008.'
 ---
 

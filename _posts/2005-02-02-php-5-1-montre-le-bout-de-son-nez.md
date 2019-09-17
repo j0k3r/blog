@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 5.1 montre le bout de son nez'
 date: '2005-02-02 05:56:26'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "PHP 5.1 passe en mode de publication, c'est ce que viens d'annoncer [Andi Gutmans](http://news.php.net/php.internals/14469), le release master de la version 5.1.     \nVoici quelques modifications apportées à cette nouvelle version :    )"
 ---
 

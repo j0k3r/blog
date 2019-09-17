@@ -3,7 +3,7 @@ layout: post
 title: 'Tutoriel d''URL Rewriting'
 date: '2006-06-16 11:12:04'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Un nouveau tutoriel concernant l'URL Rewriting a été publié en mai dernier sur Developpez.com.     \nL'auteur nous indique les bienfaits de l'utilisation de l'URL Rewriting sur son site en prenant l'exemple d'un forum phpBB. Il utilise une méthode à laquelle je n'avais jamais pensé pour faire de la réécriture de liens : Il place tout le document dans le buffer de      …"
 ---
 

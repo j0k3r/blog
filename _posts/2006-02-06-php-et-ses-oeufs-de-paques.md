@@ -3,7 +3,7 @@ layout: post
 title: 'PHP et ses oeufs de Pâques'
 date: '2006-02-06 12:01:26'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Je pourrai plutôt dire : PHP et ses gadgets !   Vous l'avez p'tet remarqué mais en général le phpinfo() affiche toujours le logo de PHP comme tout le monde le connaît. Mais il y a un seul jour dans l'année où celui ci change, c'est le 1er avril, le jour du poisson d'avril quoi !  \n  \nEn général, l'intérieur du logo ne contient plus PHP mais complètement      …"
 ---
 

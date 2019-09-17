@@ -3,7 +3,7 @@ layout: post
 title: 'Imprimer un site internet'
 date: '2005-01-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: 'Il peut être pratique de pouvoir imprimer un site internet pour différentes raisons. Voici l''outil idéal et de surcroît gratuit !!'
 ---
 

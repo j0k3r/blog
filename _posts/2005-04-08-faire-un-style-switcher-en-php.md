@@ -3,7 +3,7 @@ layout: post
 title: 'Faire un Style switcher en PHP'
 date: '2005-04-08 05:30:45'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Tout le monde le dit et le répete, il faut séparer le code et l'affichage.   Ainsi on peut aisément changer de theme en changeant tout simplement de feuille de style.  \n  \nMais il fallait le faire en dur ou alors faire soi même un petit script PHP. Mais Alsacréations vient de publier un      …"
 ---
 

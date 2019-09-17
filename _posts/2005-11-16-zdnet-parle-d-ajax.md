@@ -3,7 +3,7 @@ layout: post
 title: 'ZDnet parle d''AJAX'
 date: '2005-11-16 03:15:14'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "AJAX, cette nouvelle chose dont tout le monde parle et surtout dont tout le monde est relativement fan. Le futur sera AJAX, \"Ajax va devenir incontournable pour les applications web\", conclut Tristan Rivoallan, expert du domaine chez Clever Age, un cabinet de conseil en architecture technique..     \nZDnet fait un point sur cet AJAX qui monte, qui monte. Un      …"
 ---
 

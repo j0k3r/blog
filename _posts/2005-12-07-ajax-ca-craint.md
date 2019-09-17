@@ -3,7 +3,7 @@ layout: post
 title: 'AJAX ça craint !'
 date: '2005-12-07 02:38:45'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et oui tout le monde n'est pas unanime sur le fait qu'AJAX est très pratique. L'auteur consignerai au nouveau, ou en quêtes de renouveau, développeur de tout simplement dire non à AJAX.     \nIl expose sa [théorie](http://www.usabilityviews.com/ajaxsucks.html) comme quoi AJAX n'est déjà pas compatible avec la plupart des navigateurs, les navigateurs qui      …"
 ---
 

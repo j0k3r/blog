@@ -3,7 +3,7 @@ layout: post
 title: 'Séminaire PHP au Ministère des Finances le 19 juin'
 date: '2006-06-06 07:49:26'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Lundi 19 juin se tiendra une conférence organisée par la DGME du Ministère des Finances à la salle Pierre Mendès France de Bercy.     \nA l'initiative de l'@dèle (Administration en ligne), la DGME (Direction Générale de la Modernisation de l’Etat) du Ministère des Finances organise un séminaire autour de PHP.  \n  \nLe thème principal sera de      …"
 ---
 

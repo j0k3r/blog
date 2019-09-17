@@ -3,7 +3,7 @@ layout: post
 title: 'j0k3r.n3t possède maintenant un annuaire !'
 date: '2005-09-29 01:04:26'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et voilà suite au [vieux sondage](http://www.j0k3r.net/news-sondage-un-annuaire-de-liens-167.html) concernant la mise en place ou non d'un annuaire de liens sur j0k3r.n3t, je viens d'en installer un.     \nIl n'est pas vraiment encore tout à fait fini, mais relativement bien fonctionnel. Pour cela j'ai fait confiance à un tout jeune annuaire (plutôt que de      …"
 ---
 

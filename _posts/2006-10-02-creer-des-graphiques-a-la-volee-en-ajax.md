@@ -3,7 +3,7 @@ layout: post
 title: 'Créer des graphiques à la volée en AJAX'
 date: '2006-10-02 12:03:16'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Softwareas présente huit façons de créer des graphiques via AJAX et donc à la volée.     \nIl y a plusieurs façon de faire, par forcément toutes parfaites, mais il est possible et faisable d'en faire aujourd'hui. Il nous présente huit façons de faire, de la plus évidente à la plus obscure.  \n  \nDans cette      …"
 ---
 

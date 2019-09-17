@@ -3,7 +3,7 @@ layout: post
 title: 'phpBB 3.0 Beta5 est tout frais'
 date: '2007-01-28 11:28:33'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La team phpBB vient de publier une nouvelle version bêta pour la versions 3.0.   La prochaine version qui sera publiée devrait être la première release candidate.  \n  \nAvec cette bêta, un convertisseur est inclut pour passer de la bêta 4 à la bêta 5 mais aussi pour upgrader vos versions 2.0.x vers la version 3.0.x.   Evidemment, ce convertisseur est      …"
 ---
 

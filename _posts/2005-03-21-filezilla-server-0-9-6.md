@@ -3,7 +3,7 @@ layout: post
 title: 'FileZilla Server 0.9.6'
 date: '2005-03-21 03:54:42'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et hop une belle version \"releasé\" pour FileZilla Server, la [0.9.6](http://sourceforge.net/project/showfiles.php?group_id=21558&package_id=21737&release_id=314473).     \nCette version corrige deux problèmes qui pouvaient être utiliser comme deny de service contre FileZilla Server.   Le premier problème concerné les nom MS DOS réservés comme CON,      …"
 ---
 

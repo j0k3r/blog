@@ -3,7 +3,7 @@ layout: post
 title: 'Site au ralenti ...'
 date: '2006-05-24 01:53:28'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous avez certainement remarqué qu'en ce moment les nouvelles sont généralements diffusées aux comptes gouttes et que le site en général n'est pas mis à jour.     \nLes nouvelles le seront encore pour quelques temps. Je suis très pris par mes (grumbl de) projets en ce moment et ils ne se finiront pas avant début juin. D'ici là il n'y aura probablement que très peu      …"
 ---
 

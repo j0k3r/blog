@@ -3,7 +3,7 @@ layout: post
 title: 'Faire son frameworks PHP'
 date: '2005-07-02 12:11:08'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'idée de préparer les squelettes des applications vient du développement propre au programmeur.   Il est connu que le code d'une application donnée ne constitue qu'une partie de programme. Tout le reste se répète et peut être utilisé plusieurs fois dans d'autres applications.  \n  \nVoici, expliquée pas à pas, une solution qui repose sur l'expérience de      …"
 ---
 

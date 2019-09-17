@@ -3,7 +3,7 @@ layout: post
 title: 'Ajax - L''objet XmlHttpRequest'
 date: '2006-02-24 22:08:24'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Comme je vous l''ai dit dans l''[introduction à AJAX](http://www.j0k3r.net/ajax-introduction-a-ajax-1.html "Lien"), l''objet XmlHttpRequest a été introduit par Microsoft via Internet Explorer 5 pour Windows sous la forme d''un ActiveX. La fondation Mozilla a, par la suite, implémenté une version compatible avec sa suite (et dans la foulée avec NetScape). Apple a fait la même chose pour son navigateur Safari.'
 ---
 

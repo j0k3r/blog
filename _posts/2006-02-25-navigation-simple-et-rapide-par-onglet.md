@@ -3,7 +3,7 @@ layout: post
 title: 'Navigation simple et rapide par onglet'
 date: '2006-02-25 06:21:55'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "On a vu précédemment la [navigation par onglet](http://www.j0k3r.net/news-gerer-des-onglets-en-ajax-1100.html) dynamique avec AJAX, voici la une navigation aussi par onglet mais d'une rapidité étonnante.     \nC'est en fait toute la page qui s'affiche directement et ensuite en cliquant sur les onglets seule la partie concernée s'affiche. Tout est géré via      …"
 ---
 

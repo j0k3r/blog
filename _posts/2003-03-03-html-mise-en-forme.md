@@ -3,7 +3,7 @@ layout: post
 title: 'HTML - Mise en forme'
 date: '2003-03-03 03:02:02'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Ces instructions, dites logiques, laissent le navigateur interpréter le formatage du texte. Ces balises sont souvent utilisées (mais de moins en moins) dans un environnement non graphique (sous DOS par exemple).'
 ---
 

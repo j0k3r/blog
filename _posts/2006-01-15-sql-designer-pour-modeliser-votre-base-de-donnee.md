@@ -3,7 +3,7 @@ layout: post
 title: 'SQL Designer pour modéliser votre base de donnée'
 date: '2006-01-15 03:54:07'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous avez certainement déjà utiliser des logiciels pour modéliser vos bases de données sur papier tel que [DB Designer](http://fabforce.net/dbdesigner4/) ou autre. C'est très pratique pour concevoir la base de données avant de la faire réellement ou tout simplement pour la présenter dans un rapport texte.     \nEt bien [SQL      …"
 ---
 

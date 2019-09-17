@@ -3,7 +3,7 @@ layout: post
 title: 'Afficher un aperçu avant l''impression'
 date: '2006-10-24 02:29:44'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Quand on développe un site internet, on oublie bien (trop) souvent le fait que certains utilisateurs souhaitent imprimer des pages de votre site internet pour les lire plus tard, dans le métro, bref pas tout de suite en tout cas.     \nUne alternative très simple consiste à mettre en place une feuille de style CSS qui spécifie la disposition de vos blocs pour      …"
 ---
 

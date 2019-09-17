@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL 4.1.9 et PostgreSQL 8.0.0 RC 4'
 date: '2005-01-07 06:07:28'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La dernière version de MySQL 4.1.x devrai paraitre d'ici quelques heures ou quelques jours.   Cette version, [4.1.9](http://dev.mysql.com/doc/mysql/en/News-4.1.9.html) améliore l'installation sous Mac OS 10.3 et corrige toute une petite floppée de buGs.  \n  \nAucun changement à prévoir si vous upgradez votre version d'EasyPHP en mettant cette version      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'WAMP5 1.4.6 propulsé par PHP 5.1'
 date: '2005-11-25 07:48:59'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "PHP 5.1 est sortie hier et le staff de WampServer a sauté sur l'occasion pour sortir une nouvelle version."
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Stats de PHP et Apache en avril 2005'
 date: '2005-04-14 07:21:38'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Les statistiques d'utilisation de PHP pour le [mois d'avril](http://www.php.net/usage.php) de cette année viennent d'être publiées. Elles se basent sur quelques 19 720 597 Domaines et 1 310 181 adresses IP.     \nPHP progresse encore et toujours !  \n  \nDe même pour les statistiques      …"
 ---
 

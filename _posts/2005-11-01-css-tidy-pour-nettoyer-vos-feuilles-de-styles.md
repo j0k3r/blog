@@ -3,7 +3,7 @@ layout: post
 title: 'CSSTidy pour nettoyer vos feuilles de styles'
 date: '2005-11-01 00:00:00'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'HTML Tidy nettoie votre code HTML. Voici CSSTidy qui nettoie et optimise vos feuilles de styles pour les rendre plus rapide et plus efficace.'
 ---
 

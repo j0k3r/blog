@@ -3,7 +3,7 @@ layout: post
 title: 'Du nouveau sur WAMP5 (v1.6.0)'
 date: '2005-12-21 09:27:30'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Comme vous avez tous été gentils, le père Noël vous a amené plein de cadeaux dans sa hotte avec cette nouvelle version de WAMP5 qui ouvre une nouvelle branche :     \n* un gestionnaire d'alias permettant de créer, modifier ou supprimer des alias mais également de gérer des fichiers .htaccess associés.   * intégration de Apache 2.0.55 par défaut en      …"
 ---
 

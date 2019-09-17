@@ -3,7 +3,7 @@ layout: post
 title: 'phpBB 3, la Gold Release !'
 date: '2007-12-13 09:29:42'
 author: j0k
-tags: '[phpbb]'
+tags: phpbb
 excerpt: "La toute première version bêta de phpBB 3 voyait le jour au mois de juin 2006, 1 an et demi plus tard, la version finale est disponible !     \nphpBB3 \"Olympus\" 3.0.0 est [officiellement disponible](http://www.phpbb.com/community/viewtopic.php?f=14&t=615945) en version stable après une longue série de versions candidates (8 au total)."
 ---
 

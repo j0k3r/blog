@@ -3,7 +3,7 @@ layout: post
 title: 'xajax 0.2 en version stable'
 date: '2006-01-04 08:21:02'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Tout le staff de xajax est heureux de vous annoncer sa dernière version stable, la 0.2. Elle comporte un certain nombre de nouveaux dispositifs, des améliorations du core et des corrections de buGs.     \nDe gros et importants changements ont été effectué sur cette version, le staff y a beaucoup travaillé pour accroître la popularité de xajax. Plus de détails      …"
 ---
 

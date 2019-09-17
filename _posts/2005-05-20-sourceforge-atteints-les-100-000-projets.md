@@ -3,7 +3,7 @@ layout: post
 title: 'SourceForge atteints les 100 000 projets'
 date: '2005-05-20 03:16:57'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'hébergeur de projets et de programmes libres SourceForge vient d'annoncer qu'il a avait dépassé la barre des 100 000 projets présents sur ses serveurs.     \nSourceForge est le plus gros hébergeur de projet libre dans le monde. Il a connu une belle croissance l'année dernière, accueillant ainsi des projets de la NASA, Microsoft, Google, IBM, et SalesForce.com.      …"
 ---
 

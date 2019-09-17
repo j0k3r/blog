@@ -3,7 +3,7 @@ layout: post
 title: 'Tablecloth facilite la navigation dans un tableau HTML'
 date: '2007-10-08 11:05:48'
 author: j0k
-tags: '[javascript,navigation,table]'
+tags: javascript navigation table
 excerpt: "Quand on est emmené à lire un gros tableau en HTML, souvent on se perd dans la lecture parce qu'il y a trop de ligne. La solution que tout le monde retient en général, c'est de colorer une ligne sur deux avec une couleur différente. La lecture est ainsi beaucoup plus facile !     \nCependant elle peut encore être améliorée grâve à JavaScript qui permet de colorer      …"
 ---
 

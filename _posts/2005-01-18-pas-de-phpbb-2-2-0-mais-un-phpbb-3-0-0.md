@@ -3,7 +3,7 @@ layout: post
 title: 'Pas de phpBB 2.2.0 mais un phpBB 3.0.0'
 date: '2005-01-18 05:19:15'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "psoTFX, developpeur de phpBB, [annonce](http://www.phpbb.com/phpBB/viewtopic.php?f=14&amp;t=256072) que l'actuelle version en développement de phpBB (la 2.2.0) ne verra jamais le jour.   Par contre, la version 3.0.0 sera sa remplaçante et aura comme nom de code \"**Olympus**\". Toutes les prochaines versions 3.x.x auront un nom de code pour les distinguées.  \n    …"
 ---
 

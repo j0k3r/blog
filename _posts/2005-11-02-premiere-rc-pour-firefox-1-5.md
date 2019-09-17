@@ -3,7 +3,7 @@ layout: post
 title: 'Première RC pour Firefox 1.5'
 date: '2005-11-02 09:04:13'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après avoir diffusé une [première version RC](http://www.j0k3r.net/news-firefox-1-5-rc1-de-test-780.html) dites de \"test\", voici maintenant la version finale de la Release Candidate. Si vous possédez la version bêta et que vous n'avez pas de notification pour mettre à jour, allez dans le menu d'aide et vérifiez les mises à jour.     \nIl y aura      …"
 ---
 

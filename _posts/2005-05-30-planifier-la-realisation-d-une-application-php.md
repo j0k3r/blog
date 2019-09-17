@@ -3,7 +3,7 @@ layout: post
 title: 'Planifier la réalisation d''une application PHP'
 date: '2005-05-30 01:31:17'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le plus gros problème lors de la création d'application PHP (projet, site, gros script ...) est le manque de structure et d'organisation. C'est tout simplement un manque de planification.     \nBeaucoup de programmeurs ne réfléchissent pas ou alors très peu sur un projet avant de se lancer directement dans le codage. Quand vous possédez un certain niveau de      …"
 ---
 

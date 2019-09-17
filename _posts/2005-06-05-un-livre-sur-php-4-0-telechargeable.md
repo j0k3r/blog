@@ -3,7 +3,7 @@ layout: post
 title: 'Un livre sur PHP 4.0 téléchargeable'
 date: '2005-06-05 05:16:44'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "C'est tout bien et en plus c'est gratuit !     \nC'est ce que propose le site [Apress.com](http://apress.com/free/) qui mets régulièrement des livres (avec l'accord des auteurs) en libre téléchargement. C'est autour d'un livre intitulé \"*A Programmer's Introduction to PHP 4.0*\" d'être disponible au format PDF. Il pèse 4.2Mo et on a même la chance d'avoir le      …"
 ---
 

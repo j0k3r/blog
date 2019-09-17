@@ -3,7 +3,7 @@ layout: post
 title: 'MooMonth, un calendrier entièrement en JavaScript'
 date: '2007-11-06 08:21:15'
 author: j0k
-tags: '[calendrier,mootools]'
+tags: calendrier mootools
 excerpt: "[MooMonth](http://moomonth.com/) est un calendrier JavaScript basé sur la librairie Mootools. Sa configuration est apparemment très avancée, tout comme son design.     \nIl propose [un changement \"smouth\" agréable](http://moomonth.com/demo/index.html) entre chaque mois, tout comme les transitions pour regarder le détails de chaque jour avec      …"
 ---
 

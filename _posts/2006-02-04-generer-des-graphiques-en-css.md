@@ -3,7 +3,7 @@ layout: post
 title: 'Générer des graphiques en CSS'
 date: '2006-02-04 12:32:58'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Une bien belle utilité du CSS est le fait que des fois on peut vraiment faire ce que l'on veut graphiquement.     \nAinsi on peut très bien faire de très jolies histogramme (faut pas demander la lune non plus !) en CSS en se passant du couplage PHP / GD.   Ca parait impossible mais le résultat est là. C'est tout simplement une liste d'élément sur lesquels      …"
 ---
 

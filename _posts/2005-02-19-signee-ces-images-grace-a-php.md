@@ -3,7 +3,7 @@ layout: post
 title: 'Signée ces images grâce à PHP'
 date: '2005-02-19 10:36:49'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous savez tous qu'il est possible de recadrer, redimensionner, modifier [...] des images en PHP. On peut ainsi faire un petit formulaire d'upload qui mets une image sur votre ftp, la redimensionne et tout, pour pouvoir ensuite l'utiliser dans une news ou un tutorial.     \nOui mais voilà, n'importe qui peut prendre cette image et la mettre sur son site, sans pour      …"
 ---
 

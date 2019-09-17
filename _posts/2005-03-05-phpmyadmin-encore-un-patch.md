@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyAdmin ... encore un patch'
 date: '2005-03-05 01:14:11'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et oui ... encore un ... en quasiment une semaine (une grosse semaine on dira), trois patchs correctifs sont sortis pour phpMyAdmin 2.6.1.   Je crois que c'est la première fois que cela leur arrive depuis un bout de temps.  \n  \nMais qu'importe, qui dit patch correctif, dit faille comblée ... ou même nouvelle fonctionnalité !   )   On notera      …"
 ---
 

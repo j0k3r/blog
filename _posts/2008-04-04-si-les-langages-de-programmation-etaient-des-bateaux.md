@@ -3,7 +3,7 @@ layout: post
 title: 'Si les langages de programmation étaient des bateaux...'
 date: '2008-04-04 06:23:29'
 author: j0k
-tags: '[fun,language]'
+tags: fun language
 excerpt: "Ce n'est certainement pas la première fois que l'on compare sous forme d'images les différents langages de programmation, mais je dois dire que celui ci est plus tôt original !     \nL'idée est tout simplement partie d'une personne qui voulait créer un bateau avec le langage …"
 ---
 

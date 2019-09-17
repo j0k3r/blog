@@ -3,7 +3,7 @@ layout: post
 title: 'Statistiques de PHP pour le mois d''avril'
 date: '2006-05-11 04:57:16'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Nexen publie les statistiques de PHP du mois d'avril.     \nOn remarque que PHP 5 accélère sa progression, mais reste minoritaire : 7,20%. PHP 4.4 prends petit à petit des &quot;parts de marché&quot; à sa petite soeur, la version 4.3. PHP 4.4.1 est maintenant la deuxième version la plus utilisée.  \n  \nLes graphiques pour le mois d'avril sont      …"
 ---
 

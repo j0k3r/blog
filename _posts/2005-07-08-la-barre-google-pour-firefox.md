@@ -3,7 +3,7 @@ layout: post
 title: 'La barre Google pour Firefox'
 date: '2005-07-08 01:33:52'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "La fameuse barre Google aux multiples fonctionnalités apparaît donc pour notre chère et tendre FireFox.     \nElle est compatible 1.0+ et offre, entre autres, les fonctionnalités suivantes :"
 ---
 

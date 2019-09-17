@@ -3,7 +3,7 @@ layout: post
 title: 'Validateur automatique pour OpQuast'
 date: '2006-04-20 10:20:35'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Il est enfin là !   Le validateur automatique d'[OpQuast](http://www.j0k3r.net/news-suivez-la-qualite-de-vos-sites-grace-a-un-site-1003.html) est officiellement disponible depuis quelques temps.  \n  \nLe validateur automatique permet d'analyser les pages de votre site web (il faut tout de même être inscrit sur le site      …"
 ---
 

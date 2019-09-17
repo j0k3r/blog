@@ -3,7 +3,7 @@ layout: post
 title: 'Trois templates xHTML gratuits pour votre backoffice'
 date: '2008-08-31 03:33:24'
 author: j0k
-tags: '[backoffice,free,html,template]'
+tags: backoffice free html template
 excerpt: 'Étant en plein refonte de mon site, sous symfony, pour une v3 qui devrait sortir d''ici la fin de l''année je pense (ouais je prends une bonne marge !), j''ai cherché des template de backoffice avec comme objectifs principaux ...'
 ---
 

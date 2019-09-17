@@ -3,7 +3,7 @@ layout: post
 title: 'Prototype.js : nouveau site, nouveau blog, nouvelle doc ...'
 date: '2007-01-19 12:01:49'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "A l'occasion de la sortie de la version 1.5.0 de prototype.js, Sam Stephenson vient de lui consacré un site beaucoup plus complet que le précédent.     \nOn retrouve maintenant une documentation complète est officielle de la librairie, des tutoriels pour l'utiliser, un blog pour se tenir à jour des dernières nouveautés.  \n  \nLes tutoriels sont pour      …"
 ---
 

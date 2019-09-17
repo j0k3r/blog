@@ -3,7 +3,7 @@ layout: post
 title: 'Site en maintenance'
 date: '2005-05-08 12:51:28'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Bonjour à tous,     \nJe suis entrain de refaire tous les articles et tutoriaux de façon à ce que leur affichage soit encore plus beau (intégration complete du BBcode).   Il se peut donc que certains articles / tutoriaux ne possèdent plus du tout de gras, italique, souligné ... ou autres pendant un certain moment. Le temps de tout mettre en place.  \n      …"
 ---
 

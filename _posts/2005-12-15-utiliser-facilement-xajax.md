@@ -3,7 +3,7 @@ layout: post
 title: 'Utiliser facilement xajax'
 date: '2005-12-15 09:31:12'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Je vous en avais parlé avant l'été, [xajax](http://www.j0k3r.net/news-xajax-0-1-beta3-manipule-les-applications-ajax-596.html) est un framework PHP qui vous permet d'utiliser facilement AJAX. Ainsi xajax vous fournit des fonctions simples pour vous aider à développer plus vite vos applications propulsé par AJAX.     \nDans ce      …"
 ---
 

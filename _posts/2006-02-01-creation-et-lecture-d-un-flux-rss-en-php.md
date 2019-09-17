@@ -3,7 +3,7 @@ layout: post
 title: 'Création et lecture d''un flux RSS en PHP'
 date: '2006-02-01 08:10:43'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Le club Developpez.com nous propose un nouveau tutoriel. Celui ci permet de créer un flux RSS et ensuite de le lire. Un peu comme mon tutoriel pour [créer un flux RSS](http://www.j0k3r.net/php-creer-un-fil-rss-pour-votre-site-21.html), celui ci vous détaille dans un premier temps comment est composé un fichier RSS (qui sont au format XML).   Puis il détailles      ...'
 ---
 

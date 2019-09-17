@@ -3,7 +3,7 @@ layout: post
 title: 'La 6e bougie est soufflée !'
 date: '2009-03-31 10:39:56'
 author: j0k
-tags: '[anniversaire,j0k3r_net]'
+tags: anniversaire j0k3r_net
 excerpt: "La première news est parue le 18 mars 2003 ! Yipiii     \nCela fait donc maintenant 6 années que le site vie comme il peut, il a eu des hauts biens hauts au niveau de la fréquence des actualités pour maintenant revenir à quelques choses de plus rare .. faute de temps comme d'habitude.  \n  \nJ'avais pour ambition de publier la nouvelle version du site      …"
 ---
 

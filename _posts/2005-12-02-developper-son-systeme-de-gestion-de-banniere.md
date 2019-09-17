@@ -3,7 +3,7 @@ layout: post
 title: 'Développer son système de gestion de bannière'
 date: '2005-12-02 11:58:58'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Il existe déjà le célèbre phpadnews pour gérer vos bannières très facilement mais voici un tutoriel qui vous montre comment créer le votre. Le but est simple afficher une publicité dans un emplacement spécifique et la laissé pendant un certain nombre de clics.     \nCet article est le premier d'une série de trois. Il présente la manière d'utiliser JavaScript      …"
 ---
 

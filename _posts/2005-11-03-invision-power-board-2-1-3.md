@@ -3,7 +3,7 @@ layout: post
 title: 'Invision Power Board 2.1.3'
 date: '2005-11-03 10:11:45'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Invision Power Services, Inc. vient d'annoncer la publication d'Invision Power Board 2.1.3.     \nInvision Power Board 2.1.3 est une version de maintenance incluant plus de 70 corrections de buGs ainsi que des améliorations du système de mise à jour.   \n  \nUne liste complète des fichiers et templates modifiés et des buGs corrigés est disponible plus      …"
 ---
 

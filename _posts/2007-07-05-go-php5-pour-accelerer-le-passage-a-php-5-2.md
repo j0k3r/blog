@@ -3,7 +3,7 @@ layout: post
 title: 'GoPHP5 : pour accélérer le passage à PHP 5.2 !'
 date: '2007-07-05 10:45:32'
 author: j0k
-tags: '[php]'
+tags: php
 excerpt: 'PHP4 est maintenant installé sur une très grande majorité de serveur et ce depuis 7 ans. PHP5 corrige la plupart des imperfections de PHP4 mais le changement de version traine et prends du temps à se mettre en place et ce pour plusieurs raisons.   )   Il est temps passer cette barrière et la communauté des développeurs PHP a décidé qu''il fallait tourner la page.       ...'
 ---
 

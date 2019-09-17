@@ -3,7 +3,7 @@ layout: post
 title: 'La documentation française du Zend Framework est disponible'
 date: '2006-04-13 02:29:42'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le fameux Zend Framework qui a fait son mouvement de foules dans les blogs et sites dédiés à PHP possède dorénavant sa documentation en français.     \nC'est [qwix](http://qwix.media-box.net/index.php/2006/04/10/169-LaDocumentationFranaiseDuZendFrameworkEstSortie) qui s'est en partie chargé de la traduction du manuel anglais.   Ca permettra au moins      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Google lance une API de recherche en AJAX'
 date: '2006-10-07 12:03:04'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Google propose un nouvelle API qui permet d'intégrer la puissance de son moteur de recherche au sein de votre site web.     \nAvant Google proposait d'intégrer un simple formulaire qui rediriger vers une page de Google avec les résultats de la recherche. Cette page pouvait être un minimum customisée en mettant par exemple votre logo.  \n  \nMaintenant      …"
 ---
 

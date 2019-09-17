@@ -3,7 +3,7 @@ layout: post
 title: 'Calendrier pour Firefox 1.0.8 et 1.5.0.2'
 date: '2006-02-20 11:12:02'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le calendrier des prochaines versions de Firefox vient d'être [mis à jour](http://wiki.mozilla.org/Firefox:1.5.0.2:Schedule).      \nLa branche pour la version 1.0.8 de Firefox a été créée et une première version est entrain de passer les premiers tests en interne. Une version RC devrait sortir d'ici une semaine normalement. Quant à la version finale, elle      …"
 ---
 

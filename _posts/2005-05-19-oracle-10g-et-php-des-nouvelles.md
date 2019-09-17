@@ -3,7 +3,7 @@ layout: post
 title: 'Oracle 10g et PHP, des nouvelles'
 date: '2005-05-19 12:29:48'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Oracle regarde au delà de Java pour ces applications et encourage les développeurs et architectes d'Oracle 10g d'employer PHP pour leurs prochains projets.     \nOracle et Zend devrai sortir le *Zend Core for Oracle* cet été. Il permettra de fournir toutes les librairies, sources, codes pour travailler rapidement sur Oracle dans une environnement PHP.  \n     …"
 ---
 

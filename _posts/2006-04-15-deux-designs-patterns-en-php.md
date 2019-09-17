@@ -3,7 +3,7 @@ layout: post
 title: 'Deux designs patterns en PHP'
 date: '2006-04-15 09:26:43'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Ceux qui programment en informatique industrielle les connaissent bien : les designs patterns.     \nEt bien c'est aussi valable en php comme nous le montre cet [article](http://developpeur.journaldunet.com/tutoriel/php/060414-php-design-patterns-singleton-factory-1.shtml) contenant deux exemples connus : le &quot;singleton&quot; ( classe uni-instanciée )      …"
 ---
 

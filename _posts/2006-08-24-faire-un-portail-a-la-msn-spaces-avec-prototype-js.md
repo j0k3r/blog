@@ -3,7 +3,7 @@ layout: post
 title: 'Faire un portail à la MSN Spaces avec prototype.js'
 date: '2006-08-24 09:53:54'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le but n'est pas de vous fournir un code complet pour faire votre propre MSN Spaces mais de vous montrer les premières pistes pour faire les premiers effets.     \nEn fait l'effet que l'on veut créer est un portail avec différents blocs (sorte de fenêtre) que l'on peut déplacer (drag and drop), un peu comme sur MSN Spaces, Live Spaces ou encore sur l'ancien My      …"
 ---
 

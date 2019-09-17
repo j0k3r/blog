@@ -3,7 +3,7 @@ layout: post
 title: 'Si vous lisez ce message, tout c''est bien passé !'
 date: '2007-08-19 11:05:23'
 author: j0k
-tags: '[apache,j0k3r_net,lighttpd]'
+tags: apache j0k3r_net lighttpd
 excerpt: 'Le transfert sur le nouveau serveur semble s''être passé sans réel soucis.   Au final, l''url rewriting sous Lighttpd est quasiment la même chose que pour Apache, mise à part le fait qu''il faille le faire directement dans le fichier de configuration du "vhost" (pas de htaccess sous Lighttpd) et du coup, redémarrer le serveur à chaque changement, un peu embêtant.      ...'
 ---
 

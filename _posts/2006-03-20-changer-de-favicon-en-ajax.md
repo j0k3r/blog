@@ -3,7 +3,7 @@ layout: post
 title: 'Changer de favicon en AJAX'
 date: '2006-03-20 12:33:47'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Pour ceux qui ne le savent pas, une favicon est une icône pour enjoliver les sites web qui l'utilisent. Elle est généralement utilisée dans la barre d'adresse, les favoris, les onglets, ou autres raccourcis.     \nPour en revenir au rapport avec AJAX, vous utilisez peut-être [meebo](http://www.meebo.com/) ou encore Gmail qui ont déjà mis en place un système      …"
 ---
 

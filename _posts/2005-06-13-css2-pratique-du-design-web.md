@@ -3,7 +3,7 @@ layout: post
 title: 'CSS2 Pratique du design web'
 date: '2005-06-13 09:48:52'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voilà un [livre](http://www.alsacreations.com/livre/xmedia/couverturerecto.gif) très intéressant sur CSS2. Ce livre est écrit pas l'auteur d'Alsacréations, Raphaël Goetter.     \nVous y découvrirez comment apprendre à faire un design web en utilisant les CSS (en passant par XHTML) et en les appliquant à des pages web propres et conformes, comment prendre en      …"
 ---
 

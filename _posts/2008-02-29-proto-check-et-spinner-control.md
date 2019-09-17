@@ -3,7 +3,7 @@ layout: post
 title: 'Proto Check et Spinner Control'
 date: '2008-02-29 05:54:02'
 author: j0k
-tags: '[checkbox,prototype,spinner]'
+tags: checkbox prototype spinner
 excerpt: "Prototype.js est souvent utilisé pour accroitre l'interactivité de l'utilisateur avec votre site, notamment au niveau des formulaires. Et ce n'est pas les scripts qui manquent de ce côté là !     \nEn voici deux nouveaux (pour moi) :  \n  \n**Proto Check**   L'idée n'est pas nouvelle, [Proto Check](http://bugrain.com/projects/protocheck/)      …"
 ---
 

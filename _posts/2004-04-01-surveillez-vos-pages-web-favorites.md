@@ -3,7 +3,7 @@ layout: post
 title: 'Surveillez vos pages web favorites'
 date: '2004-04-01 00:00:00'
 author: j0k
-tags: '[divers]'
+tags: divers
 excerpt: 'Surveillez vos pages web favorites'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Faire votre propre système de tags en PHP'
 date: '2006-01-23 07:26:04'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Née avec la vague de [Flickr](http://www.flickr.com/photos/tags/) et [Technorati](http://www.technorati.com/tag/), les tags (Tag Cloud en anglais) sont affichés en fonction du nombre de fois que le webmaster les a définit. C''est à dire que lors de la publication d''une photo, d''un article, on spécifie des mots clés (des tags) qui sont ensuite repris sur l''accueil.      ...'
 ---
 

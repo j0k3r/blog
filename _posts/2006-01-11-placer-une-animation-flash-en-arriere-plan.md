@@ -3,7 +3,7 @@ layout: post
 title: 'Placer une animation Flash en arrière plan'
 date: '2006-01-11 10:45:42'
 author: j0k
-tags: '[flash,javascript]'
+tags: flash javascript
 excerpt: 'Comme je l''ai constaté récemment, les images-objets Windows Media sont toujours au premier plan. C''est à dire que dès que l''on affiche une animation flash sur son site, elle sera forcément en premier plan. J''avais fait l''expérience sans le vouloir lorsque j''ai voulu afficher une bannière en haut à droite du site pour la vie est belle. L''image passait sous l''animation flash      ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Partenariat Zend / Microsoft pour le Web 2.0'
 date: '2006-11-02 06:51:52'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "On apprend dans cette [news de techcrunch](http://fr.techcrunch.com/2006/11/01/microsoft-20-est-en-route-et-fait-des-annonces-importantes/) que Microsoft a annoncé un partenariat avec la société PHP Zend.     \nCela donnera trés concrètement une version de Office Live ( béta ) dans moins de deux semaines.  \n  \nMicrosoft entre ainsi dans le      …"
 ---
 

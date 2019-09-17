@@ -3,7 +3,7 @@ layout: post
 title: 'Santy.B et PhpInclude.Worm'
 date: '2004-12-29 08:45:32'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Et bien en cette fin d''année, PHP n''est pas aimé des programmeurs de virus.   La semaine dernière, [Santy.A](http://www.j0k3r.net/news-le-virus-santy.a-le-virus-de-phpbb-97.html) commencait les ravages sur les forums phpBB en utilisant le moteur de recherche Google pour trouver ces vitimes. Google a vite bloqué [les requetes du      ...'
 ---
 

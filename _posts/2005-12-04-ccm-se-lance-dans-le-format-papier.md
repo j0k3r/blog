@@ -3,7 +3,7 @@ layout: post
 title: 'CCM se lance dans le format papier'
 date: '2005-12-04 12:10:03'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Tout le monde a déjà entendu parler du site CommentCaMarche.net, qui se veut être l'encyclopédie informatique libre. Histoire de finir l'année en beauté, CommentCaMarche dévoile les trois premiers ouvrages de la toute nouvelle collection de livres \"CommentCaMarche.net\", publiés aux éditions DUNOD et disponibles dans toutes les librairies.     \nIl concerne      …"
 ---
 

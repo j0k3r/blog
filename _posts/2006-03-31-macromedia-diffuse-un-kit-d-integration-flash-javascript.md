@@ -3,7 +3,7 @@ layout: post
 title: 'Macromedia diffuse un kit d''intégration Flash / JavaScript'
 date: '2006-03-31 06:26:59'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Ce fameux kit rend le dialogue entre Flash et JavaScript possible. Ainsi on peut lancer des fonctions Flash en JavaScript et vice versa.   Ce [kit](http://osflash.org/doku.php?id=flashjs) est compatible à partir de Flash 6.  \n  \nIl me rappelle ma news sur la façon de mettre du [Flash en arrière      …"
 ---
 

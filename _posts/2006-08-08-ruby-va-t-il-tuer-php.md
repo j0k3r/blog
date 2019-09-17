@@ -3,7 +3,7 @@ layout: post
 title: 'Ruby va-t-il tuer PHP ?'
 date: '2006-08-08 10:31:21'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Cet [article de devzone](http://devzone.zend.com/node/view/id/784) résume la pensée de Stefan Mischook sur [Will Ruby kill PHP ?](http://www.killerphp.com/articles/will-ruby-kill-php/).   ( Traduction : Ruby va-t-il tuer PHP ? )  \n  \nPour lui la réponse est NON.  \n  \nLa raison en est la force même de Ruby, un niveau      …"
 ---
 

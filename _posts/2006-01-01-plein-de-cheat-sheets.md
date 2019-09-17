@@ -3,7 +3,7 @@ layout: post
 title: 'Plein de Cheat Sheets'
 date: '2006-01-01 00:00:00'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'On cherche souvent les différents paramètres d''une fonction sur une documentation officielle. Sachez que l''alternative papier est maintes fois plus rapide !'
 ---
 

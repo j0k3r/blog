@@ -3,7 +3,7 @@ layout: post
 title: 'Un interpréteur JavaScript pour PHP'
 date: '2005-07-07 12:07:28'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Nexen nous [informe](http://www.nexen.net/news/gen.php/2004/03/06/4375,0,0,0,0.php) qu'un interpréteur JavaScript pour PHP est disponible dans sa version 1.0 depuis le 5 juillet dernier.     \nJ4P5 est un interpréteur JavaScript pour PHP 5, qui permet l'exécution de script JavaScript dans un contexte sécuritaire sur le site Web. Il vise à implémenter tout      …"
 ---
 

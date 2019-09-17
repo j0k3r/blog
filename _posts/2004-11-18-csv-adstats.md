@@ -3,7 +3,7 @@ layout: post
 title: 'CSV AdStats'
 date: '2004-11-18 12:29:13'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Tout bon webmaster qui se respecte prends des pubs chez Google AdSense ... nan j''rigol ^^   En bref ce p''tit log permet d''analyser les résultats de vos campagne de pub,  calcule des statistiques comme le CPM, taux de click, moyennes mobiles, cumul sur des périodes etc... avec affichage sous forme de graphiques visuels ... que du bonheur pour naviguer dans ces stats      ...'
 ---
 

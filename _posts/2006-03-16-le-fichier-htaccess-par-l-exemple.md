@@ -3,7 +3,7 @@ layout: post
 title: 'Le fichier htaccess par l''exemple'
 date: '2006-03-16 09:13:42'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après l'article en anglais qui détaillé beaucoup les possibilités des fichiers [htaccess](http://www.j0k3r.net/news-tout-sur-le-htaccess-1120.html), le club des développeurs, Developpez.com, diffuse un article concernant les principales utilisations du htaccess avec Apache.     \nIl n'est pas le cas ici de faire la même chose que l'article en anglais (qui      …"
 ---
 

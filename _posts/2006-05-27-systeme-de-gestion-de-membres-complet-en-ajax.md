@@ -3,7 +3,7 @@ layout: post
 title: 'Système de gestion de membres complet en AJAX'
 date: '2006-05-27 01:10:00'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Une chose plus que pratique en PHP c'est que l'on peut personnaliser l'affichage du site et offrir des fonctions personnalisées à vos membres via un espace membre.     \nCe tutoriel vous présente comment faire un système de membres complet en AJAX avec tout plein d'effet script.aculo.us à l'intérieur. Le résultat de ce tutoriel n'est pas très beau en somme, mais      …"
 ---
 

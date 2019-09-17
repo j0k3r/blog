@@ -3,7 +3,7 @@ layout: post
 title: 'Marquer ces images en PHP'
 date: '2005-12-29 11:10:11'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Dans une précédente news, je vous avez parlé d'un script qui permettait de [signer ces images](http://www.j0k3r.net/news-signee-ces-images-grace-a-php-202.html).     \nConcrètement cela consiste à prendre deux images, une image *source* et une image *copyright*. L'image source est par exemple une image de votre crue, que vous venez de créer. L'autre image      …"
 ---
 

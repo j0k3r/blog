@@ -3,7 +3,7 @@ layout: post
 title: 'La 3D dans les pages Web'
 date: '2006-11-21 09:38:56'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Cet [article du JDN](http://developpeur.journaldunet.com/dossiers/061120-langages-web-3d/0.shtml) nous révèle l'état actuel et futur de la 3D pour le Web.     \nTout a débuter par le VRML, aujourd'hui plus connus sous X3D.  \n  \nHier simpliciste, ce mode de représentation devient de plus en plus performant   surtout lorsque c'est devenu      …"
 ---
 

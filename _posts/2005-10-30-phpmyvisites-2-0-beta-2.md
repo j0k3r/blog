@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyVisites 2.0 bêta 2'
 date: '2005-10-30 12:04:45'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après avoir publié la [première bêta](http://www.j0k3r.net/news-phpmyvisites-2-0-beta1-743.html) il y a deux semaines, voici la deuxième du nom. Cette nouvelle version présente la grande nouvelle version de phpMyVisites. Elle tiens compte de tout le feedback qu'a reçu la version 1.     \nCette nouvelle bêta corrige 17 buGs notamment le problème      …"
 ---
 

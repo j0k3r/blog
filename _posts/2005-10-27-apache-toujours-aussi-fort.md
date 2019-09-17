@@ -3,7 +3,7 @@ layout: post
 title: 'Apache toujours aussi fort'
 date: '2005-10-27 07:58:33'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Apache a passé les 50 millions de sites !   Selon le sondage de [Netcraft](http://news.netcraft.com/archives/2005/10/04/october_2005_web_server_survey.html) du moins d'octobre, sur 17.5 millions de sites analysé, Apache est présent dans 69.89% des cas. Ce qui représente quelques 52 millions de sites webs !  \n  \nC'est la première fois qu'Apache      …"
 ---
 

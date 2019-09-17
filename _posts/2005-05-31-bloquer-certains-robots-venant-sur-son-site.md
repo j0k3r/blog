@@ -3,7 +3,7 @@ layout: post
 title: 'Bloquer certains robots venant sur son site'
 date: '2005-05-31 01:27:56'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La magie des htaccess permet de faire encore pas mal de chose très intéressantes à se sujet.     \nIl est question de bloquer des robots qui viendrez \"spammer\" votre site en mangeant toute votre bande passante ou tout simplement pour éviter les spammeurs.  \n  \nLe fichier [.htaccess](http://www.dicodunet.com/definitions/commenter-351.htm)      …"
 ---
 

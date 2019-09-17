@@ -3,7 +3,7 @@ layout: post
 title: 'La poire évolue : PEAR 1.5.0'
 date: '2007-01-25 09:25:26'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "[Nexen](http://www.nexen.net/actualites/pear/pear_1.5.0_est_disponible.php) nous annonce que Greg Beaver vient de publier officiellement PEAR 1.5.0.      \nCette nouvelle version corrige 46 bogues, et inclut de nouvelles fonctionnalités, en plus d'assurer la compatibilité ascendante avec le reste.  \n  \nVous pouvez très simplement mettre à jour      …"
 ---
 

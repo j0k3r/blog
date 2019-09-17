@@ -3,7 +3,7 @@ layout: post
 title: 'Imaginons les liens hypertextes 2.0'
 date: '2006-05-05 12:00:36'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Avant, dans le web 1.0, tout les webmasters voulaient savoir qui visitait leur site, qui revenait régulièrement, etc ... C'est ainsi que sont nés les outils de statistiques basés sur les logs des serveurs ou sur un marqueur placé sur chaque page.     \nLa méthode du web 2.0 pour tracker les visiteurs attribue un id à chaque page. Cet id est référencé dans la base      …"
 ---
 

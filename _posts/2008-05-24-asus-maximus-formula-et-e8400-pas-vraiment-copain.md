@@ -3,7 +3,7 @@ layout: post
 title: 'Asus Maximus Formula et E8400, pas vraiment copain !'
 date: '2008-05-24 08:49:06'
 author: j0k
-tags: '[asus,hardware,intel]'
+tags: asus hardware intel
 excerpt: "Pour une fois, je ne vais pas parler de programmation, de développement web ou d'un script révolutionnaire, mais tout simplement de matos informatique !     \nJ'ai acheté il y a 2/3 mois une nouvelle config PC (enfin, les achats se sont étalés sur plusieurs mois vu la disponibilité des processeurs e8000...) qui comprenait notamment une carte mère …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'HTML - Afficher l''heure'
 date: '2004-10-08 18:30:36'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: "Comme tout autre petit \"truc\" ou \"gadget\" que l'on peut afficher sur son site, je vais vous expliquer comme publier l'heure sur votre site.  \nDeux méthodes sont possibles et elles n'utilisent pas le même langage, une utilise le javascript et l'autre le php :)"
 ---
 

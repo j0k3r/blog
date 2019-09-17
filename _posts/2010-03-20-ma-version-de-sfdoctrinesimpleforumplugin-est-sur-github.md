@@ -3,7 +3,7 @@ layout: post
 title: 'Ma version de sfDoctrineSimpleForumPlugin est sur #github !'
 date: '2010-03-20 18:51:49'
 author: j0k
-tags: '[doctrine,github,phpBB2,sfDoctrineSimpleForumPlugin,symfony]'
+tags: doctrine github phpBB2 sfDoctrineSimpleForumPlugin symfony
 excerpt: "Nombreux ont été les développeurs Symfony à me demander la version du plugin sfSimpleForumPlugin que j'avais converti sous Doctrine sur mon site car ils ne trouvaient pas leur bonheur dans ce qui existait. C'est pourquoi je me suis décidé à la publier, \"brut de décoffrage\" sur github."
 ---
 

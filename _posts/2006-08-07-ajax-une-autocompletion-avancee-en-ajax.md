@@ -3,7 +3,7 @@ layout: post
 title: 'Ajax - Une autocompletion avancée en AJAX'
 date: '2006-08-07 09:16:38'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: "Vous avez certainement déjà mis en place une autocompletion en AJAX via la librairie script.aculo.us. Ce n'est globalement pas très compliqué même si l'exemple présent sur la [page de démo](http://demo.script.aculo.us/ajax/autocompleter) de leur site ne vous permet pas de le faire directement ... bien dommage d'ailleurs."
 ---
 

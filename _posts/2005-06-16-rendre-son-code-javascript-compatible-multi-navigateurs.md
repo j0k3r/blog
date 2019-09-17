@@ -3,7 +3,7 @@ layout: post
 title: 'Rendre son code JavaScript compatible multi-navigateurs'
 date: '2005-06-16 08:07:31'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Ce n''est pas nouveau JavaScript ayant été créé par Netscape, il est bien évident que Microsoft n''allait pas utilisé le même langage. Ils ont donc créé le JScript qui possède de grande ressemblance avec JavaScript.   Cependant un standard a ensuite été adopté, mais encore certains navigateurs utilisent leur propre fonction JavaScript qui ne sont pas les mêmes que sur les      ...'
 ---
 

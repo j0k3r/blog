@@ -3,7 +3,7 @@ layout: post
 title: 'Mozilla 1.8 bêta 2 retardé'
 date: '2005-03-17 09:53:15'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et oui vous lisez bien, moi même je suis étonné de voir ça ... la suite mozilla a été officiellement stoppée il y a quelques jours, mais le site MozillaZine nous indique que Mozilla 1.8 bêta 2 est retardé ...     \nCertainement que le developpement de cette version bêta était déjà en cours, et que du coup elle sortira avec un peu de retard. Mais il est sur que se      …"
 ---
 

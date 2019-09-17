@@ -3,7 +3,7 @@ layout: post
 title: 'Opéra, le plus rapide des Browsers ...'
 date: '2006-11-07 07:48:42'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "En surfant sur le net ( [NoFrag](http://www.nofrag.com) ), j'ai trouvé un petit lien intéressant   sur la comparaison des temps de réaction des différents browsers les plus répandus.  \n  \nLe résultat final se trouve [ICI](http://www.howtocreate.co.uk/browserSpeed.html#winspeed).   ( Cliquer sur &quot;Show graph&quot; un peu plus bas      …"
 ---
 

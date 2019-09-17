@@ -3,7 +3,7 @@ layout: post
 title: 'Personnaliser les liens sortant de votre site'
 date: '2005-04-08 06:40:23'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous avez peut-être déjà aperçu des petits icônes ()), sur les wikis notamment, qui indique que le lien sur lequel vous allez cliquer vous envoie sur une page extérieure au site.     \nC'est géré en CSS je ne vous apprends rien de nouveau. Mais le *_blank* de la balise target n'est pas apprécié des validateurs de code (fin la balise target, mais cela dépend du      …"
 ---
 

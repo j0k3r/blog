@@ -3,7 +3,7 @@ layout: post
 title: 'La phase de conception logicielle en 5 conseils'
 date: '2005-06-10 01:36:33'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après avoir publié la [planification d'une réalisation d'une application](http://www.j0k3r.net/news-planifier-la-realisation-d-une-application-php-498.html) (en PHP par exemple), le JDN publie maintenant 5 conseils à suivre pour bien gérer la phase conception logicielle.     \nTout comme la planification, c'est souvent une partie très importante de la      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Les limites de l''hébergement mutualisé'
 date: '2005-10-11 10:48:19'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Il est vrai que lorsque l'on prends un hébergement mutualisé, on n'est pas du tout maître de son administration. Dans tous les cas, c'est l'hébergeur qui les possède ! Ainsi cela limite fortement les possibilités de quelconques modifications au niveau du serveur.     \nEn règle générale, les hébergeurs donnent cependant le maximum de possibilités aux clients pour      …"
 ---
 

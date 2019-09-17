@@ -3,7 +3,7 @@ layout: post
 title: 'Tester votre connexion'
 date: '2003-04-01 00:00:00'
 author: j0k
-tags: '[divers]'
+tags: divers
 excerpt: 'Ce service vous permet d''évaluer les performances de votre connexion à Internet en terme de débits d''envoi et de réception de données'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL et Red Hat s''associent'
 date: '2005-04-22 12:28:40'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'MySQL et Red Hat [annoncent](http://www.mysql.com/news-and-events/press-release/release_2005_13.html) un partenariat pour proposer aux clients des solutions de croissances appelées ''Scale-out''. Au lieu de renforcer la dépendances des clients en poussant à l''achat d''architectures et de solutions propriétaires, le Scale-out laisse la liberté aux utilisateurs.   )       ...'
 ---
 

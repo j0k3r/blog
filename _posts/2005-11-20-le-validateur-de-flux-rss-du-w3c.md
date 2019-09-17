@@ -3,7 +3,7 @@ layout: post
 title: 'Le validateur de flux RSS du W3C'
 date: '2005-11-20 07:53:11'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le W3C possédait déjà deux bons validateurs, un concernant les fichiers HTML et un autre concernant les feuilles de styles (CSS).     \nDepuis aujourd'hui un [validateur de flux RSS](http://validator.w3.org/feed/) est désormais disponible. Il s'appuie en grande partie sur le projet [FeedValidator](http://sourceforge.net/projects/feedvalidator).  \n  …"
 ---
 

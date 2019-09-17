@@ -3,7 +3,7 @@ layout: post
 title: 'Prendre en compte les cases à cocher en PHP'
 date: '2005-04-18 07:57:46'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Que ce cache donc derrière ce titre non significatif ?   Tout simplement une petite astuce php/html qui permet de récupérer facilement les différentes cases cochées par l'utilisateur (checkbox).  \n  \nIl est souvent astucieux de laisser le choix à l'utilisateur lors d'un remplissage d'un formulaire de valider plusieurs entrées. Prenons l'exemple d'une      …"
 ---
 

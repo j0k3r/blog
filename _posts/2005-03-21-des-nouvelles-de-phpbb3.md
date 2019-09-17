@@ -3,7 +3,7 @@ layout: post
 title: 'Des nouvelles de phpBB3'
 date: '2005-03-21 04:32:32'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Le staff de phpBB.com tiens tout d''abord à s''excuser pour cette longue periode sans nouvelles (mouais .. juste 10 jours ...) mais apparament il y a eu des changements dans la team de developpement. Ils nous offrent (en guise d''excuse ?) une liste des principales choses sur lesquelles ils travaillent en ce moment :'
 ---
 

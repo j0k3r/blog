@@ -3,7 +3,7 @@ layout: post
 title: 'Archiver son site sur la toile'
 date: '2004-10-01 00:00:00'
 author: j0k
-tags: '[divers]'
+tags: divers
 excerpt: 'Rien de mieux que de voir l''interface de son site archiver sur le net de façon à pouvoir retracer toute l''histoire de votre site à travers les années qui arrive. ;)'
 ---
 

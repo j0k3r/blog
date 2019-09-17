@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Fonction substr'
 date: '2004-10-05 23:12:20'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'La fonction **substr** permet d''extraire une portion de chaîne de caractères.'
 ---
 

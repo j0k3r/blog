@@ -3,7 +3,7 @@ layout: post
 title: 'script.aculo.us v1.6.2'
 date: '2006-08-16 10:57:10'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Une nouvelle version de script.aculo.us a été publiée ce week end.   script.aculo.us vous permet de faire de beaux effets en JavaScript mais vous facilite aussi l'approche d'AJAX.  \n  \nComme vous avez pu le voir dans mes quelques tutoriels en AJAX, c'est la librairie que j'utilise tout le temps.  \n  \nCette mise à jour concerne uniquement des      …"
 ---
 

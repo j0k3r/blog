@@ -3,7 +3,7 @@ layout: post
 title: 'Mapstraction, une API commune pour tout cartographier !'
 date: '2007-12-09 09:17:41'
 author: j0k
-tags: '[api,map]'
+tags: api map
 excerpt: "Les APIs de cartographies ne manquent pas, dans les plus connus il y a Google map, Yahoo map, Microsoft Virtual Earth ... Toutes sont facilement intégrable à un site internet et relativement simple d'utilisation.     \nCependant, selon les besoins, il peut être intéressant de changer d'API (pour des raisons de couvertures ou autre), c'est ici qu'entre en jeux      …"
 ---
 

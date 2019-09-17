@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL - Connexion à une base'
 date: '2004-03-19 23:28:11'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Cette fonction est chargée d''établir la connexion au moteur MySQL et en cas de succès, d''assurer l''ouverture d''une base.'
 ---
 

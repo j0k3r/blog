@@ -3,7 +3,7 @@ layout: post
 title: 'phpBB 2.0.19, we wish you all a happy new year'
 date: '2006-01-02 03:58:47'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Comme nous l'a dit deejay dans le mini chat, phpBB 2.0.19, la &quot;we wish you all a happy new year&quot; release, a été publié le 30 décembre de l'année dernière (ça fait vieux de suite !).     \nCette version corrige quelques petits buGs mineurs, ainsi que quelques failles de sécurité de cross-site scripting affectant IE. Cette version ajoute une      …"
 ---
 

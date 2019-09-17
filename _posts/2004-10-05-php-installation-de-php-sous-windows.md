@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Installation de PHP sous Windows'
 date: '2004-10-05 22:50:45'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Avant toute chose, il existe plusieurs façon d''installer Apache, PHP et MySQL...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Google Fight'
 date: '2005-03-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: "Rien de plus rigolo que de tester quel mot est le meilleur par rapport à un autre sur google ... \nUn GoogleFight...ça vous tente ?"
 ---
 

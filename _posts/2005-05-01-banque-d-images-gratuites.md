@@ -3,7 +3,7 @@ layout: post
 title: 'Banque d''images gratuites'
 date: '2005-05-01 00:00:00'
 author: j0k
-tags: '[webdesign]'
+tags: webdesign
 excerpt: 'Vous avez besoin d''une banque d''images libre de droit pour réaliser l''interface graphique de votre site ? Pas de problèmes, j''ai ce qu''il vous faut !'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Microsoft pense aux développeurs WEB ?'
 date: '2006-05-29 04:56:48'
 author: iDo
-tags: '[]'
+tags: blabla
 excerpt: 'On s''en plaignait, microsoft l''a fait... en retard... Mais comme on dit, mieux vaux tard que jamais.   De quoi je parle ?   D''une toolbar POUR développeur WEB.   Au menu : inspecteur de DOM, outliner d''objet, affichage d''informations sur les objets, simulation de résolution, validation HTML ... ça ne vaut pas      ...'
 ---
 

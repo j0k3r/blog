@@ -3,7 +3,7 @@ layout: post
 title: 'The Regex Coach teste vos expressions régulières'
 date: '2005-06-26 09:57:29'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voila un petit logiciel très pratique !   Il vous permet de tester vos expressions régulières. Vous entrez votre regex, une chaîne à traiter et il vous indique si votre regex trouve les termes dans la chaîne."
 ---
 

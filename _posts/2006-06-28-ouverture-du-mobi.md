@@ -3,7 +3,7 @@ layout: post
 title: 'Ouverture du .mobi'
 date: '2006-06-28 09:53:24'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après l'[ouverture du .fr](http://www.j0k3r.net/news-le-fr-ouvert-a-tous-des-aujourd-hui-1360.html) la semaine dernière, c'est au tour du .mobi de faire parler de lui.     \nL'ICANN  est l'organisme chargé, au niveau mondial, de la gestion des noms de domaines et des noms de marques sur le Net. L'ICANN a approuvé la création d'une nouvelle extension : le      …"
 ---
 

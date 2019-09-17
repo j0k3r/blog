@@ -3,7 +3,7 @@ layout: post
 title: 'phpBB 2.0.13 "Beware of the furries"'
 date: '2005-02-28 12:45:13'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Une nouvelle version de phpBB, la 2.0.13, surnommée "Beware of the furries".   Cette version corrige deux récents exploits dont qui est critique. Ils ont été révélés peut après la sortie de la version 2.0.12, et tout le staff de phpBB est très gêné de devoir sortir une nouvelle version si peu de temps après la dernière...   )   Pour upgrader ça version,      ...'
 ---
 

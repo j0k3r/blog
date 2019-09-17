@@ -3,7 +3,7 @@ layout: post
 title: 'Une brève introduction au protocole HTTP'
 date: '2005-06-28 08:16:00'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous avez certainement déjà du avoir à faire à des connexions HTTP lors de certains de vos programmes (test de redirection, authentification ...).     \nVous ne connaissez peut être pas très bien le protocole HTTP, et bien [loadaveragezero.com](http://loadaveragezero.com/vnav/labs/PHP/HTTP.php) publie un article qui fait un bref passage en revue du      …"
 ---
 

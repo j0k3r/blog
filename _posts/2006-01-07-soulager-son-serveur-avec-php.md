@@ -3,7 +3,7 @@ layout: post
 title: 'Soulager son serveur avec PHP'
 date: '2006-01-07 11:24:34'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Certains scripts PHP sont très gourmand en matière de RAM (mémoire) comme phpBB par exemple. Et d'autres le sont beaucoup moins.     \nLe problème des gros scripts qui ne sont pas optimisé pour utiliser le moins de mémoire possible vous sature celle de votre serveur et ainsi il rend de plus en plus lent. Il existe quelques astuces en PHP pour qu'il puisse soulager      …"
 ---
 

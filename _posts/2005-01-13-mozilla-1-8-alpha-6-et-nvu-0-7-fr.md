@@ -3,7 +3,7 @@ layout: post
 title: 'Mozilla 1.8 alpha 6 et Nvu 0.7 FR'
 date: '2005-01-13 12:56:32'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Et voila une nouvelle version alpha pour Mozilla 1.8, la [sixième](http://ftp.mozilla.org/pub/mozilla.org/mozilla/releases/mozilla1.8a6/) du nom, est paru hier.   Elle corrige pas moins de [450 buGs](http://www.mozilla.org/releases/mozilla1.8a6/changelog.html) (!!).   Ce sera la dernière version alpha avant d''entammer les versions bêtas qui sont      ...'
 ---
 

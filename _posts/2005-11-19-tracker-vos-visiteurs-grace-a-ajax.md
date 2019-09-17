@@ -3,7 +3,7 @@ layout: post
 title: 'Tracker vos visiteurs grâce à AJAX'
 date: '2005-11-19 12:23:51'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Il pourrai être intéressant de suivre ce que fait le visiteur sur votre site. Certes vous pouvez utiliser un script de statistiques qui permet à peu près de savoir sur quelles pages surfent vos visiteurs mais pour vraiment suivre votre visiteur il faudrai savoir ce qu''il fait avec sa souris. Les yeux suivent généralement le pointer de la souris. On pourrai ainsi savoir ce que      ...'
 ---
 

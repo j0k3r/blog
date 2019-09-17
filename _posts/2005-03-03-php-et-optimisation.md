@@ -3,7 +3,7 @@ layout: post
 title: 'PHP et Optimisation'
 date: '2005-03-03 12:39:37'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Je viens de trouver un [article](http://www.estvideo.com/dew/index/page/phpbench) fort interessant qui concerne l''optimisation des codes php.   Ce sont en fait des benchs réalisés sur différentes fonctions ou règles d''écriture.   )   Ainsi l''auteur teste la différence entre double quotes et les quotes simples, au point de vue rapidité. Il inclut des      ...'
 ---
 

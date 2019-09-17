@@ -3,7 +3,7 @@ layout: post
 title: 'Faire son icone web'
 date: '2004-02-13 23:58:21'
 author: j0k
-tags: '[webdesign]'
+tags: webdesign
 excerpt: "Vous le trouvez comment le joli \"E\" présent devant toutes les urls de votre brouteur internet préféré ?  \nPersonnellement je le trouve trop classique, on le voit partout."
 ---
 

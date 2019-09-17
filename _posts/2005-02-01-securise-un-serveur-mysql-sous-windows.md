@@ -3,7 +3,7 @@ layout: post
 title: 'Sécurisé un serveur MySQL sous Windows'
 date: '2005-02-01 12:18:15'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "On a vu passer *Forbot* qui cherchait les serveurs MySQL mal configurés sous Windows pour transmettre des données sensibles sur le serveur lui même. *Forbot* n'est pas vraiment un vers à proprement dit, puisque une fois la communication entre lui et ses controleurs coupé, sa diffusion été stoppé.     \nIl est important de rappeler que Forbot n'a exploité aucunes      …"
 ---
 

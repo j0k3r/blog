@@ -3,7 +3,7 @@ layout: post
 title: 'Première bêta pour script.aculo.us 1.7'
 date: '2006-11-21 10:24:45'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Une toute nouvelle bêta de script.aculo.us 1.7 vient d'être publié. On découvre deux nouveaux effets Effect.Morph et Effect.Transform.     \nEffect.Morph permet de faire des effets de styles : changement de police, de couleur, de taille de bordure, etc ... le tout progressivement.  \n  \nEffect.Transform permet de transformer des éléments HTML, en les      …"
 ---
 

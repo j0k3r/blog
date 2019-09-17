@@ -3,7 +3,7 @@ layout: post
 title: 'Windoo, la windows class pour Mootools'
 date: '2007-06-04 11:37:26'
 author: j0k
-tags: '[class,mootools]'
+tags: class mootools
 excerpt: "Je vous avais déjà parlé de [Prototype Window Class](http://www.j0k3r.net/news-une-classe-pour-gerer-les-fenetres-avec-prototype-js-1340.html) qui permet de générer des popups en JavaScript très jolies, redimensionnable, alimenter en AJAX ...     \nEt bien, j'ai trouvé la même class utilisée avec Mootools. Ce projet fait parti de [Google      …"
 ---
 

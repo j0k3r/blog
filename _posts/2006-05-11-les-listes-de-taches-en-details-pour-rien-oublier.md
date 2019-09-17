@@ -3,7 +3,7 @@ layout: post
 title: 'Les listes de tâches en détails pour rien oublier'
 date: '2006-05-11 11:20:52'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Tout le monde a son bout de papier dans le coin de son bureau, un fichier Nouveau Document texte.txt sur le bureau avec tout ce que vous devez faire.   On appelle ça une todolist.  \n  \nNombreux sont les sites qui maintenant proposent des todolists en ligne. Vous pouvez gérer les ajouts, les taches que vous avez faites, celle qui vous restent (encore) à      …"
 ---
 

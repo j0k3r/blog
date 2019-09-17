@@ -3,7 +3,7 @@ layout: post
 title: 'Meta tags obsolètes ?'
 date: '2006-03-01 09:05:19'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Les webmasters connaissent bien ces balises et prennent encore souvent le temps de les remplir correctement dans le but d'être bien référencé.     \nOn apprend dans cet [article du JDN](http://solutions.journaldunet.com/0602/060224-usage-metatags.shtml) que certains moteurs de recherche ( Google, Yahoo et MSN ) n'en tiennent même plus compte.  \n  \n …"
 ---
 

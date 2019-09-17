@@ -3,7 +3,7 @@ layout: post
 title: 'Substruct, le premier CMS e-commerce en Ruby'
 date: '2006-03-20 12:13:41'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Ruby a éclaté depuis peu grâce au framework Ruby On Rails, et on voit apparaître ci et là, des applications qui tournent sous Ruby.      \nEn voici un bel exemple, avec ce premier projet e-commerce open source : [Substruct](http://dev.subimage.com/projects/substruct). Pour l'instant aucune version &quot;1.0&quot; n'est encore sortie, mais déjà quelques      …"
 ---
 

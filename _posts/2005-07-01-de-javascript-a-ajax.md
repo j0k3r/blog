@@ -3,7 +3,7 @@ layout: post
 title: 'De JavaScript à AJAX'
 date: '2005-07-01 09:29:51'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "C'est bien beau d'en parler tout le temps, de le voir s'installer partout, de le voir dans tous les forums, de découvrir tous les jours des nouvelles classes PHP qui facilite son utilisation ... mais il faudrai quand même savoir d'où vient AJAX !     \nMême si je vous ai déjà [présenté](http://www.j0k3r.net/news-c-est-quoi-ajax-548.html) un peu ce qu'était      …"
 ---
 

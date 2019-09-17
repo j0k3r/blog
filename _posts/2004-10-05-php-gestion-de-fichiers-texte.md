@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Gestion de fichiers texte'
 date: '2004-10-05 22:59:45'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: "Le PHP permet de gérer des fichiers textes. C'est à dire que le langage possède tout une série de fonctions permettant de lire, de créer, de modifier et de supprimer des fichiers texte.  \nEtant une bonne alternative aux bases de données pour des applications simples, la gestion de fichiers texte en PHP est facile à mettre en place."
 ---
 

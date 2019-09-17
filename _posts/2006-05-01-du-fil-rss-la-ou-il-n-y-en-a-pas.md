@@ -3,7 +3,7 @@ layout: post
 title: 'Du fil RSS là ou il n''y en a pas ...'
 date: '2006-05-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: 'Vous qui êtes fan de fil RSS pour vous tenir au courant, vous êtes déçu par les sites qui n''en dispose pas. PonyFish est la solution qu''il vous faut.'
 ---
 

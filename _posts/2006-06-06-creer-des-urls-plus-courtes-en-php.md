@@ -3,7 +3,7 @@ layout: post
 title: 'Créer des URLs plus courtes en PHP'
 date: '2006-06-06 01:19:08'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le principe ici n'est pas de faire de l'url rewriting, même si on sait qu'il faut en faire pour plus de lisibilité pour les utilisateurs comme pour les moteurs de recherches. Mais je pense que ce tutoriel s'apparente plus pour une utilisation dans un back office.     \nSouvent on a besoin de passer plusieurs paramètres à une page      …"
 ---
 

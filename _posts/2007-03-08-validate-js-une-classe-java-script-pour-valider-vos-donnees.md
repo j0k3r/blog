@@ -3,7 +3,7 @@ layout: post
 title: 'Validate.js : une classe JavaScript pour valider vos données'
 date: '2007-03-08 10:50:08'
 author: j0k
-tags: '[javascript]'
+tags: javascript
 excerpt: "Cette classe JavaScript n'est pas toute jeune, mais je viens tout juste de la découvrir. Certes, elle n'est pas lié à un framework comme l'était une [certaine classe](http://www.j0k3r.net/news-valider-un-formulaire-avec-prototype-js-1286.html) mais elle propose quelques fonctions très pratique.     \nEn fait c'est une sorte de centralisation de toutes les      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Trouver le texte contenu dans une image en PHP'
 date: '2006-04-03 07:29:41'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'OCR est une technique permettant de convertir les caractères d'une image en caractère ASCII et ainsi découvrir le texte contenu dans l'image. C'est une reconnaissance optique de caractères.     \nDivers programmes étaient déjà disponible dans le commerce pour par exemple transformer un document papier en document texte numérique et donc éditable.  \n  \n  …"
 ---
 

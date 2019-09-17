@@ -3,7 +3,7 @@ layout: post
 title: 'Intégrer un flux RSS protégé dans Google Reader'
 date: '2008-08-17 01:07:47'
 author: j0k
-tags: '[google,reader,rss,twitter]'
+tags: google reader rss twitter
 excerpt: 'Ayant récemment repris mon activité sur [Twitter](http://twitter.com/j0k) (un compte ouvert il y a près d''un an, jamais utilisé...), il était évidemment que pour suivre au mieux l''activité de mes amis sur Twitter, le flux RSS était la meilleure solution.'
 ---
 

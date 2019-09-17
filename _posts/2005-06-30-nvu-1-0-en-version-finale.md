@@ -3,7 +3,7 @@ layout: post
 title: 'Nvu 1.0 en version finale !'
 date: '2005-06-30 09:46:03'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Nvu 1.0 a été publié hier soir et tout le staff d''Nvu été très heureux d''annoncer cette nouvelle.   )   Comme d''habitude, il est disponible sur le [site officiel](http://www.nvu.com/) ou le [miroir officiel](http://nvu.viapanda.com/1.0/changelog/) pour Windows, Mac, Linspire5, FC3, Linux 2.6.10 et pour la première fois Mandriva.   Nvu a      ...'
 ---
 

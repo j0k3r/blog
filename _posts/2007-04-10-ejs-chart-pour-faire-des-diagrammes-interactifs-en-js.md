@@ -3,7 +3,7 @@ layout: post
 title: 'EJSChart, pour faire des diagrammes interactifs en JS'
 date: '2007-04-10 06:53:22'
 author: j0k
-tags: '[chart,javascript]'
+tags: chart javascript
 excerpt: "Quand je vois ce genre de script, je me dis que JavaScript n'a rien à envier à Flash !! :)     \n[Emprise JavaScript Chart](http://www.ejschart.com/) permet de faire des diagrammes zoomables avec un graduation qui s'ajuste au fur et à mesure. Pour zoomer, il suffit tout simplement de faire un rectangle de sélection avec sa souris. Avec un clic droit, on      …"
 ---
 

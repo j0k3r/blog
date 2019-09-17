@@ -3,7 +3,7 @@ layout: post
 title: 'Firecookie, prenez le contrôle de vos cookies via Firebug'
 date: '2008-03-07 10:00:35'
 author: j0k
-tags: '[cookie,firebug,firefox]'
+tags: cookie firebug firefox
 excerpt: "Amis utilisateurs de Firefox et Firebug, ce post est fait pour vous ! Quant aux autres .. qu'attendez vous pour passer à Firefox avec [Firebug](http://www.getfirebug.com/) ?? ;-)     \nSouvent on cherche à trouver la valeur contenu dans un cookie ou tout simplement à supprimer tous les cookies d'un domaine. Du coup, on prend son courage à deux mains et on      …"
 ---
 

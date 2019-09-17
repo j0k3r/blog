@@ -3,7 +3,7 @@ layout: post
 title: 'Le futur de l''HTML : XHTML 2.0'
 date: '2006-01-28 04:03:12'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Dans cet article et le [précédant](http://www.ibm.com/developerworks/xml/library/x-futhtml1/),Edd Dumbill examine les différentes voies que pourrai prendre le futur de l'HTML. Il tiens autant compte de l'approche des caractéristiques du [WHATWG](http://www.whatwg.org/) et du nettoyage radical du XHTML proposés par le W3C.     \nUn      …"
 ---
 

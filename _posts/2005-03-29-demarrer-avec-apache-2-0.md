@@ -3,7 +3,7 @@ layout: post
 title: 'Demarrer avec Apache 2.0'
 date: '2005-03-29 06:27:20'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voila le troisième volet de l'article (en anglais) sur comment bien démarrer avec Apache 2.     \n[Cette partie](http://www.devshed.com/c/a/Apache/Getting-Started-with-Apache-2-0-Part-III/) traite des informations suivantes"
 ---
 

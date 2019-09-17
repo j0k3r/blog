@@ -3,7 +3,7 @@ layout: post
 title: 'Ajax a redoré le blason de l''application Web'
 date: '2006-01-20 04:09:51'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le JDN nous propose une interview de [Mathieu Rondeau](http://developpeur.journaldunet.com/itws/060117-itw-solucience-rondeau.shtml), ingénieur pour Soluscience. Cette société développe des applications Web basé sur les navigateurs web.     \nIl nous confirme que le plus &quot;difficile&quot; dans le développement de ce genre d'application est la de rendre      …"
 ---
 

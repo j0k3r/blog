@@ -3,7 +3,7 @@ layout: post
 title: 'Utiliser intelligemment le cache en PHP'
 date: '2005-02-01 12:03:11'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le journal du net publie un article fort intéressant sur l'utilisation du cache en PHP : [Le cache par la pratique](http://developpeur.journaldunet.com/tutoriel/php/050131-php-directionphp-cache-6.shtml).     \nComme tout le monde le sait, et comme le fait remarquer la *Rédaction JDN Développeurs*, quand on veut optimiser un script PHP on pense d'abord à de      …"
 ---
 

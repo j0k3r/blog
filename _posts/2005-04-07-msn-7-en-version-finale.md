@@ -3,7 +3,7 @@ layout: post
 title: 'MSN 7 en version finale'
 date: '2005-04-07 10:38:05'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "MSN 7 est désormais disponible en version finale.   Pas mal de nouvelle chose dans cette version finale"
 ---
 

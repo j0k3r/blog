@@ -3,7 +3,7 @@ layout: post
 title: 'Gérer la roulette de votre souris en JavaScript'
 date: '2006-07-24 11:33:28'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Google Maps utilise déjà ce système pour zoomer en avant et en arrière.     \nIl peut être intéressant de pouvoir contrôler la roulette de la souris de l'utilisateur. Quand je dis contrôler, c'est plus pouvoir répondre aux mouvements effectués avec la roulette.  \n  \nCe [petit script](http://adomas.org/javascript-mouse-wheel/) vous permet de      …"
 ---
 

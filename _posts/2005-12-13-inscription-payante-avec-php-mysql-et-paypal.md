@@ -3,7 +3,7 @@ layout: post
 title: 'Inscription payante avec PHP/MySQL et PayPal'
 date: '2005-12-13 12:26:57'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le principe est simple : mettre en place un système d'inscription payante sur votre site via PayPal.     \nLes personnes intéressées (les clients) pourront s'inscrire et s'acquitter d'une modique somme. Une fois cette somme sur votre compte PayPal, votre base de données recevra automatiquement la confirmation de paiement et activera le compte de votre client qui      …"
 ---
 

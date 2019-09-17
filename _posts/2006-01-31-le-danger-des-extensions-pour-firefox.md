@@ -3,7 +3,7 @@ layout: post
 title: 'Le danger des extensions pour Firefox'
 date: '2006-01-31 11:09:24'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "David Baron, qui travaille à la Mozilla Corporation et participe à l'élaboration de Mozilla depuis 1998, nous fait part de ses inquiétudes quant à la qualité des extensions de Firefox.     \nPour lui, les extensions ne doivent pas être une plus value de Firefox, mais plus un moyen de réduire la demande de fonctionnalités supplémentaires qui ne sont utilisées que      …"
 ---
 

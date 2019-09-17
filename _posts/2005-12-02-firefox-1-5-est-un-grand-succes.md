@@ -3,7 +3,7 @@ layout: post
 title: 'Firefox 1.5 est un grand succès !'
 date: '2005-12-02 11:39:15'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "En un seul jour, Firefox 1.5 a été téléchargé plus d'1.5 millions de fois. Firefox 1.0 avait atteints le million de téléchargement lors du premier jour, ce qui fait tout de même la moitié en plus pour la 1.5 ! Et les téléchargements ne cesse de croître !     \nAsa Dotzler rappelle avec une pointe d'humour qu'il faut aider vos amis à télécharger Firefox. Qu'il      …"
 ---
 

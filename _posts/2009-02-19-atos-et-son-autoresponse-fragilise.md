@@ -3,7 +3,7 @@ layout: post
 title: 'Atos et son autoresponse fragilisé ...'
 date: '2009-02-19 02:17:27'
 author: j0k
-tags: '[atos,autoreponse,ecommerce]'
+tags: atos autoreponse ecommerce
 excerpt: "En début de semaine, j'ai passé en production le nouveau et premier site e-commerce de [Natalys](http://www.natalys.com). Un passage en production facilité par toutes les étapes qui l'ont précédé : le dev, la préprod et la prod \"cachée\".     \nNous avons eu la joie d'avoir les premières commandes passées hier dans la journée. Je pense qu'on est      …"
 ---
 

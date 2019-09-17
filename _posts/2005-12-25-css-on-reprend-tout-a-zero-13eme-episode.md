@@ -3,7 +3,7 @@ layout: post
 title: 'CSS : on reprend tout à zéro ! (13ème épisode)'
 date: '2005-12-25 07:23:25'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Suite du feuilleton de l'année CSS, le [13ème épisode](http://pompage.net/pompe/cssdezero-13/) vient de paraître !   Cette épisode traite des formulaires, d'ailleurs j'en ai pas mal parlé dans les précédentes news.  \n  \nLes formulaires n'attirent pas beaucoup les designers et sont souvent laisser pour compte. Voici quelques raisons de ce choix, qui      …"
 ---
 

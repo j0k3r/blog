@@ -3,7 +3,7 @@ layout: post
 title: 'La ZendBox !'
 date: '2006-11-02 09:44:18'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Non ce n'est pas un nième concurrent de la livebox, freebox ou dartybox, mais tout simplement une offre d'hébergement dédiée fournit par Zend basée sur PHP5 et qui contiendra Zend Core, Zend Framework et Zend Platform.     \nCette offre fait suite au [communiqué de      …"
 ---
 

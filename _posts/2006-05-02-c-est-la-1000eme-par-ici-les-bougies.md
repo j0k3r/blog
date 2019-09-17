@@ -3,7 +3,7 @@ layout: post
 title: 'C''est la 1000ème, par ici les bougies !'
 date: '2006-05-02 01:46:44'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "En postant la dernière news sur MySQL, je viens de m'apercevoir d'une chose assez importante en retournant dans la partie admin du site. J'ai aperçu dans les stats : Nombre total de news : 999 (!!!)     \nCa veut dire que je viens de poster le 1000 ème news (et quelle news d'ailleurs ...) !!! Ca fait quelques choses de passer la barre des 1000 ... (soupir). Je me      …"
 ---
 

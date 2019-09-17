@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyVisites 1.3.2'
 date: '2005-08-09 12:43:34'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voici la version 1.3.2 de phpMyVisites, qui propose comme uniques nouveautés 7 nouvelles langues"
 ---
 

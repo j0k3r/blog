@@ -3,7 +3,7 @@ layout: post
 title: 'Alterner entre plusieurs versions d''Apache et de PHP'
 date: '2006-10-16 04:20:54'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Ce tutoriel vous aidera à mettre en place un environnement de développement complet pour PHP / MySQL tout en vous laissant la flexibilité nécessaire à vos développements.     \nIl existe des softs comme WAMP ou EasyPHP qui vous permette de mettre en place votre propre environnement de travail. C'est simple et rapide. Cependant, une fois les connaissances acquises,      …"
 ---
 

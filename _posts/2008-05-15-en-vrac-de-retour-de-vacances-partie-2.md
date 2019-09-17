@@ -3,7 +3,7 @@ layout: post
 title: 'En vrac, de retour de vacances .. (partie 2)'
 date: '2008-05-15 12:12:23'
 author: j0k
-tags: '[doctrine,jquery,symfony,twitter,vrac]'
+tags: doctrine jquery symfony twitter vrac
 excerpt: 'Deuxième et dernière partie pour ce retour de vacances. Décidément c''est fou tout ce qu''il se passe sur le web quand on le quitte seulement quelques jours ... mais en même temps, ça fait un bien fou de décrocher de temps en temps ;-)'
 ---
 

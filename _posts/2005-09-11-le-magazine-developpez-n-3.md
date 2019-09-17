@@ -3,7 +3,7 @@ layout: post
 title: 'Le Magazine Developpez n°3'
 date: '2005-09-11 06:55:13'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le magazine des développeurs francophones, en ligne et gratuit, sort sa troisième édition (Septembre 2005).     \nAu programme :  \n  \n1. la suite du tutoriel inaugural de la rubrique Perl   2. Cours .Net : ClickOnce, Le déploiement facile d'applications .NET   3. toutes les nouveautés de la rentrée dans les rubriques de Developpez.com       …"
 ---
 

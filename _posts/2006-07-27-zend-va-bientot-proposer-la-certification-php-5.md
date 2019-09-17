@@ -3,7 +3,7 @@ layout: post
 title: 'Zend va bientôt proposer la certification PHP 5'
 date: '2006-07-27 07:59:45'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Question de logique, Zend travaille depuis un moment sur sa certification PHP 5.     \nIls nous indique qu'elle pourrait être [disponible](http://www.zend.com/education/certification/php_5_certification) d'ici l'automne prochain.   [PHP Angers](http://angers.afup.org/index.php/2006/07/27/23-certification-php-5-bientot-disponible) nous propose      …"
 ---
 

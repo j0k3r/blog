@@ -3,7 +3,7 @@ layout: post
 title: 'Un widget de feedback en AJAX'
 date: '2006-06-10 12:23:56'
 author: j0k
-tags: '[ajax,feedback]'
+tags: ajax feedback
 excerpt: "Une des définitions du Web 2.0, c'est de placer l'utilisateur au centre du site en lui permettant d'apporter du contenu au site, des commentaires et surtout du feedback.     \nAvant on faisait des sondages (on en fait toujours un peu quand même) pour connaître l'avis des utilisateurs ou encore un formulaire de contact nommé \"donnez votre avis\".      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'phpBB supporte MySQL 5.0.x'
 date: '2005-11-30 06:43:04'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "C'est plus une confirmation qu'une affirmation. Étant donné que les remontées des utilisateurs à ce sujet, la team de phpBB a pris soin de nous confirmer que phpBB 2.0.x supporte bien MySQL 5.0.x.     \nCependant, si vous migrez votre serveur sur MySQL 5.0.x, vous n'avez apparemment rien n'a faire et tout devrai fonctionnait correctement. Ceci dit, si vous faite      …"
 ---
 

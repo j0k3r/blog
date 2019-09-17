@@ -3,7 +3,7 @@ layout: post
 title: 'PHP et les templates'
 date: '2005-02-23 07:58:57'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Un nouvel article du staff de Developpez.com vient d''être mis en ligne.   Il concerne les [templates en PHP](http://christophe.developpez.com/php/templates/).   )   Cet article, destiné aux débutants, explique le concept du template et la réalisation d''un exemple utilisant PHP.   Il est dans sa première version. Une version plus élaborée est      ...'
 ---
 

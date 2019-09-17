@@ -3,7 +3,7 @@ layout: post
 title: 'Un nouvelle rubrique AJAX sur j0k3r.n3t'
 date: '2006-02-27 12:07:24'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous me l'avez pendant longtemps demandé et je vous avais tout le temps dis que je ne la ferai que quand j'aurai le temps. Et bien j'ai finalement pris le temps de la faire et la voici !     \nUne nouvelle rubrique AJAX est née dans la partie [programmation](http://www.j0k3r.net/programmation.html). Pour l'instant, je n'ai rempli que la partie thème de      …"
 ---
 

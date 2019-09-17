@@ -3,7 +3,7 @@ layout: post
 title: 'Conception d''un client de messagerie IMAP - 4ième partie'
 date: '2005-10-17 08:29:19'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Voici la quatrième partie de la conception d''un client de messagerie.   Après avoir fait une [première partie](http://www.j0k3r.net/news-conception-d-un-client-de-messagerie-imap-1ere-partie-437.html) qui traitait la réception et la consultation des mails dans votre boite aux lettres, une      ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Nouveau manager et patch pour EasyPHP 1.8'
 date: '2005-04-09 11:49:53'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Une vingtaine de jour après la sortie officielle d'EasyPHP 1.8, une nouveau manager et un patch était déjà disponible.   )   Une erreur au niveau des systèmes d'exploitation NT (Windows NT) empêche carrément EasyPHP de démarrer. Le staff a donc publié un [patch](http://www.easyphp.org/faq.php3#53) pour le corriger.  \n  \nUn nouveau manager est      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Afficher des fichiers PSD avec PHP'
 date: '2007-01-25 10:51:27'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Cette classe PHP permet de lire des fichiers au format PSD, des fichiers Photoshop donc, et d'en afficher un rendu graphique visible sur un site internet.     \nLe procédé utilise la librairie GD pour obtenir une rendu de l'image. Une fonction a été créé dans cette classe pour faciliter le traitement : imagecreatefrompsd().  \n  \nCa peut être pratique      …"
 ---
 

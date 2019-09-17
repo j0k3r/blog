@@ -3,7 +3,7 @@ layout: post
 title: 'Comment choisir un CMS'
 date: '2006-08-20 05:06:37'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Cet [article trouvé sur propulseur.net](http://www.propulseur.net/article_66_questions-gestion-contenu-csm.html) décrit les bonnes questions à se poser lorsqu'on choisit un CMS.     \nEn résumé, les bons points à prendre en compte :  \n  \n* Des urls claires et simples   * Des pages uniques et ciblées   * La flexibilité des pages       …"
 ---
 

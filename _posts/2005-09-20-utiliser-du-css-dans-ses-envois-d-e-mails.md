@@ -3,7 +3,7 @@ layout: post
 title: 'Utiliser du CSS dans ses envois d''e-mails'
 date: '2005-09-20 12:08:19'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le JDN réponds encore à une question que certain on déjà dû ce poser sans forcément avoir de réponse : \"Puis-je profiter des CSS dans mes envois d'e-mails en HTML ? Comme s'y prendre au mieux ?\"     \nC'est bien les CSS ont en entends de plus en plus parler, mais il faut quand même relativiser, tous les navigateurs ne l'interprète pas du tout pareil ! Et de la      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Des widgets sur vos mobiles !'
 date: '2006-09-12 05:52:34'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "En général, un widget est une petite application, un petit programme qui fait une chose simple, mais qui le fait très bien. Ils peuvent se combiner entre eux et sont relativement faciles à développer et vous en avez certainement déjà utilisé !     \nSur PC, le concept a été popularisé par [Konfabulator](http://widgets.yahoo.com/) (racheté par Yahoo! en      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'L''AFUP diffuse des conférences en vidéo'
 date: '2006-11-26 02:54:19'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "C'est tout nouveau (vu la date de création du compte), l'AFUP diffuse quelques vidéos du dernier [forum PHP 2006](http://www.j0k3r.net/news-ouverture-des-inscriptions-pour-le-forum-php-2006-1538.html) sur dailymotion.     \nTrois vidéos sont [disponibles](http://www.dailymotion.com/afup) pour le moment :   * Sécurité des applis PHP   *      …"
 ---
 

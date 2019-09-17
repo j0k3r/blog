@@ -3,7 +3,7 @@ layout: post
 title: 'SeaMonkey est lancé officiellement'
 date: '2005-07-04 05:36:11'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "[Geckozone](http://www.geckozone.org/actualites/2005/07/04/82-lancement-officiel-du-nouveau-projet-seamonkey) nous annonce que le projet SeaMonkey est lancé [officiellement](http://www.mozilla.org/projects/seamonkey/news.html#2005-07-02).     \nPour rappel, la fondation Mozilla a stoppé la \"production\" de sa suite applicative, assurant seulement les      …"
 ---
 

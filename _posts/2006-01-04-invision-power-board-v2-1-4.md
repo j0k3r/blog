@@ -3,7 +3,7 @@ layout: post
 title: 'Invision Power Board v2.1.4'
 date: '2006-01-04 07:57:32'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "IPS vient d'annoncer la mise à jour de son forum Invision Power Board. Ainsi la version 2.1.4 d'Invision Power Board est une version de maintenance corrigeant plus de 100 buGs ainsi que des améliorations du système de mise à jour."
 ---
 

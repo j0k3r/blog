@@ -3,7 +3,7 @@ layout: post
 title: 'Belle faille de sécurité dans Firefox'
 date: '2005-05-11 12:01:33'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Deux vulnérabilités ont été découvertes dans Firefox, qui peut être exploité par les personnes malveillantes pour conduire des attaques de types cross-site scripting et ainsi compromettre le système d'un utilisateur.   Il semble être la première faille \"extrêmement critique\" de Firefox répertoriée par Secunia.  \n  \nLe problème résulte d'une erreur de      …"
 ---
 

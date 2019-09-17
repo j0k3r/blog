@@ -3,7 +3,7 @@ layout: post
 title: 'Un rollover avec une seule image'
 date: '2005-04-08 07:09:43'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'C''est très agréable de passer sa souris sur un menu avec des images et de les voir changer au moment où on passe dessus. Mais souvent il faut attendre un cours instant (comme sur le site avec les grands titres du menu de gauche) pour voir s''afficher l''autre image (celle du rollover). Ceci est généré en javascript via la directive *onmouseover / onmouseout*, couplé à deux      ...'
 ---
 

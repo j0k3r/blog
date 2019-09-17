@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 5.2.0 RC1 vient de sortir'
 date: '2006-07-24 11:20:33'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Ilia nous annonce que PHP 5.2.0 RC1 vient tout juste d'être publié.   On peut dors et déjà télécharger cette nouvelle version sur le [site de la team QA de PHP](http://qa.php.net/).  \n  \nCela fait déjà quelques mois que la team PHP travaille sur la version 5.2. La liste des changements est, ainsi, apparemment bien longue.   On peut compter      …"
 ---
 

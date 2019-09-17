@@ -3,7 +3,7 @@ layout: post
 title: 'Doctrine 1.0 vient de sortir !!'
 date: '2008-09-01 11:56:29'
 author: j0k
-tags: '[doctrine]'
+tags: doctrine
 excerpt: "Après 3 ans de travail, de version 0.x publiées, de bugs corrigés, Jonathan H. Wage annonce la disponibilité immédiate de [Doctrine 1.0](http://www.doctrine-project.org/blog/doctrine-1-0-released) !     \nDoctrine est un ORM (object-relational mapping), au même titre que Propel, qui permet de travailler sur une couche d'abstraction de la base de donnée (qui      …"
 ---
 

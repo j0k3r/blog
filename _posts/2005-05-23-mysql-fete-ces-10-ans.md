@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL fête ces 10 ans'
 date: '2005-05-23 12:20:58'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "En l'honneur des 10 ans de MySQL, Mike Zinner, employé chez MySQL AB pour les interfaces graphiques, a créé un mug (une tasse à café) ou plutôt deux, un \"gros\" et un \"petit\".     \nA l'avant, vous trouverez le logo de MySQL avec la date de l'anniversaire, et au dos, vous trouverez tous les noms des employés de MySQL, de Aker à Zinner.  \n  \nCette      …"
 ---
 

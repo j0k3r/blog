@@ -3,7 +3,7 @@ layout: post
 title: 'Optimiser globalement son site'
 date: '2005-12-05 03:20:04'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Je viens de tomber sur une page intéressante sur l'optimisation générale d'un site, au niveau du codage. Cela concerne principalement l'optimisation PHP, MySQL et HTML, tout ce qui constitue un site dans sa globalité.     \nEffectivement, il est souvent judicieux d'utiliser le cache des navigateurs, d'optimiser ses requêtes, fermer et ouvrir une connexion MySQL      …"
 ---
 

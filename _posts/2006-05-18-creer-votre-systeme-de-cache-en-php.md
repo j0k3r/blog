@@ -3,7 +3,7 @@ layout: post
 title: 'Créer votre système de cache en PHP'
 date: '2006-05-18 08:38:54'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Dans un nouveau tutoriel PHP, le JDN présente deux façons de créer son propre système de cache : soit en passant les en-têtes HTTP soit en utilisant la mise en tampon des données.     \nLe fonctionnement fondamental d'un script de cache pourrait ce définir ainsi :  \n  \n1. recevoir la requête pour une ressource   2. vérifier s'il existe une      …"
 ---
 

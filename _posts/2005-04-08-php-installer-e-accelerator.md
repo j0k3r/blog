@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Installer eAccelerator'
 date: '2005-04-08 20:35:12'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Vous avez certainement remarqué les performances d''eAccelerator face à (un de ces concurrents) Zend Optimizer. Et bien je vous ai fait un petit tutoriel pour l''installer sur votre machine Windows (avec EasyPHP ou non).'
 ---
 

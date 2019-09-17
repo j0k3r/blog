@@ -3,7 +3,7 @@ layout: post
 title: 'Guide d''utilisation de Firefox : Partie 5'
 date: '2005-04-29 05:03:49'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Geckozone publie la [5ième partie](http://www.geckozone.org/articles/2005/04/29/83-guide-d-utilisation-de-firefox-1-0-pour-debutants-partie-5) de son Guide d''utilisation de Firefox.   )   Il concerne cette fois ci les onglets, comment les ouvrir, les fermer et les utiliser. Apparemment il y aurai 13 parties prévues, il en reste donc une bonne partie à être      ...'
 ---
 

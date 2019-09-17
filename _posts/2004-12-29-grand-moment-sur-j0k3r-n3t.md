@@ -3,7 +3,7 @@ layout: post
 title: 'Grand moment sur j0k3r.n3t'
 date: '2004-12-29 11:13:57'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Et oui, le début de la gloire, des américains visitent le site   donc il faut du monde pour gérer tout ça.  \n  \nDu coup voila un Newser de plus : Un certain DanRaZor.  \n  \nBienvenue à lui.  \n  \nAh non c'est moi ...  :D ... et bien je m'auto souhaite bon courage.  \n  \nAu passage pour ma première news. Je vous      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Page d''accueil en AJAX'
 date: '2006-03-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: 'Vous êtes certainement, comme beaucoup d''internautes, un lecteur de flux RSS assidus.  Plusieurs sites vous permettent de centraliser tous vos flux.'
 ---
 

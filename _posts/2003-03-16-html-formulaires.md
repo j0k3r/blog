@@ -3,7 +3,7 @@ layout: post
 title: 'HTML - Formulaires'
 date: '2003-03-16 04:04:21'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Les formulaires permettent avant tout de faire réagir votre visiteur, de l''inviter à laisser ses impressions, ses commentaires. Vous pouvez même gérer votre propre livre d''or. Alors jouez l''interactivité !!.'
 ---
 

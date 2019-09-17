@@ -3,7 +3,7 @@ layout: post
 title: 'Ajax en 5 questions'
 date: '2006-02-14 04:06:03'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le JDN se livre à une sorte d'interview avec AJAX.   Sous forme de questions/réponses il apporte une définition, des exemples et les limites exposées.  \n  \nCette fausse &quot;[interview](http://solutions.journaldunet.com/0602/060208_qr-ajax.shtml)&quot; permet de connaitre des applications utilisant AJAX mais aussi de découvrir des frameworks que      …"
 ---
 

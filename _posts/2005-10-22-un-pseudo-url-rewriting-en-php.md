@@ -3,7 +3,7 @@ layout: post
 title: 'Un pseudo URL Rewriting en PHP'
 date: '2005-10-22 12:31:43'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Il n'est pas donné à tout le monde de savoir mettre en place l'url rewriting. De plus, ce module d'Apache n'est pas forcément installé sur tous les serveurs des hébergeurs ... même si la plupart des mutualités l'ont, ce qui n'est pas le cas des hébergeurs gratuits.     \nAinsi un \"like url rewriting\" est apparue, notamment dans dotclear, qui permet de faire du      …"
 ---
 

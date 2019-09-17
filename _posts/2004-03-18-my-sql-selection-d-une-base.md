@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL - Sélection d''une base'
 date: '2004-03-18 06:48:22'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Voici la fonction en php qui permet de sélectionner une base'
 ---
 

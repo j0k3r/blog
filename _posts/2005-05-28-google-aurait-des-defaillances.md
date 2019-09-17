@@ -3,7 +3,7 @@ layout: post
 title: 'Google aurait des défaillances ?'
 date: '2005-05-28 08:56:03'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Depuis quelques jours divers problèmes ont été répertoriés chez le moteur de recherche le plus utilisé.   )   Hier dans l''après midi, certains datacenters de Google renvoyés une belle erreur 500 lors de l''affichage des pages se trouvant dans le cache :   *"Server Error The server encountered an error and could not complete your request. If the problem      ...'
 ---
 

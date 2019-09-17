@@ -3,7 +3,7 @@ layout: post
 title: 'PHP Tag Engine'
 date: '2006-08-03 09:53:42'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Nexen nous fait découvrir PHP Tag Engine. C'est une librairie PHP qui vous facilite l'ajout de fonction de tagging en PHP.     \nL'interface utilise principalement la librairie de Yahoo!, notamment celle pour l'[autocompletion](http://developer.yahoo.com/yui/autocomplete/). Le script utilise un système de cache pour réduire les requêtes vers la base de      …"
 ---
 

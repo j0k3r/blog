@@ -3,7 +3,7 @@ layout: post
 title: 'favicon avec ou sans animation ?'
 date: '2006-05-17 09:36:39'
 author: iDo
-tags: '[]'
+tags: blabla
 excerpt: "Sans doute connaissez vous déjà les favicons, ces petits icônes qui caractérisent un site et s'affichent au coté de l'url...     \nCes petites images sont au format ico (format standard d'icône de windows) mais saviez vous que l'on pouvais utiliser aussi d'autre format d'image ?"
 ---
 

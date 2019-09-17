@@ -3,7 +3,7 @@ layout: post
 title: 'Le Flash et le référencement : on y arrive !'
 date: '2006-01-28 02:07:47'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'C''est toujours la galère de référencer correctement un site totalement en Flash. Etant donné que les moteurs n''interprètent pas le Flash, il est difficile de le référencer.   Cependant si l''animation n''est pas vu par les robots d''indexation, l''HTML qui contient le Flash doit être bien optimisé pour accroître les chances de référencement. Ainsi il faut bien renseigner      ...'
 ---
 

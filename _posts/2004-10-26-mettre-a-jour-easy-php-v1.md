@@ -3,7 +3,7 @@ layout: post
 title: 'Mettre à jour EasyPHP v1'
 date: '2004-10-26 18:40:03'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: "Tout le monde connait bien EasyPHP qui permet de mettre en place un système de développement complet en quelques minutes. Mais EasyPHP est orfelin depuis plus d'un an, c'est à dire que son auteur ne le mets plus à jour.   \nEasyPHP est encore sous php4 mais une maigre partie des développeurs a migré vers php5. De plus, rare sont les hébergeurs qui proposent php5."
 ---
 

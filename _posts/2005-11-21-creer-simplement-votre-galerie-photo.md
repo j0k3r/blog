@@ -3,7 +3,7 @@ layout: post
 title: 'Créer simplement votre galerie photo'
 date: '2005-11-21 07:19:00'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous venez de finir de passer de superbes vacances au fin fond de la plus belle place sur Terre, vous revenez de Paris. Vous voulez maintenant publier vos photos sur internet de façon à les montrer à tous vos collègues du boulot.     \nVoici un script facile à mettre en place et à intégrer à votre site. Il gère plusieurs fichiers et permet de faire des miniatures.      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Directive sur le brevet des logiciels'
 date: '2005-07-07 12:53:45'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Finalement les députés ont voté contre le 6 Juillet. Souvenez vous de la tentative de \"Google bombing\" qui avait d'ailleurs extrêmement bien marché.     \nCette loi avait pour but de rendre possible la création de brevets logiciels, c'est à dire de devenir propriétaire d'un logiciel y compris pour des application webs comme des forums ou autres portails.  \n      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Donnez votre avis sur le futur de HTML'
 date: '2006-11-26 02:41:37'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "HTML change... et VOUS pouvez être partie prenante du processus.     \nLe débat est très animé sur internet concernant le futur d'HTML (incluant HTML 5 et XHTML 2), le WHATWG et le nouveau groupe de travail HTML du W3C.   Etant donné que tout le monde utilise HTML/xHTML, les remarques et réflexions vont bon train : certaines personnes demandent de nouvelles      …"
 ---
 

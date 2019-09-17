@@ -3,7 +3,7 @@ layout: post
 title: 'Les Catalyst 5.1 disponibles !'
 date: '2005-01-18 12:26:52'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "ATI nous propose ses nouveaux drivers pour les cartes munies d'un chipset Radeon.   Il y a eu une amélioration du Control Center, pour qu'il soit compatible avec le plus de cartes possibles.  \n  \nEt inévitablement, les améliorations du côté des jeux sont assez nombreuses :  \n * Half-Life2  \n * Men of Valor  \n * Myst URU Ages Beyond      …"
 ---
 

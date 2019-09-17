@@ -3,7 +3,7 @@ layout: post
 title: 'Animation Flash redimensionnable grâce au CSS'
 date: '2005-11-23 12:33:27'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous avez certainement eu à faire du flash pour vos divers sites, et peut-être avez-vous été confronté à un problème au niveau du redimensionnage des animation flash.     \nSouvent pour des questions d'accessibilité, certains sites expriment la taille de leur police non pas en pixel (px) mais en valeur proportionnelles (em). Ce qui permet lors du grossissement de      …"
 ---
 

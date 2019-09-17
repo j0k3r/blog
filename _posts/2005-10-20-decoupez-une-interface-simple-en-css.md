@@ -3,7 +3,7 @@ layout: post
 title: 'Découpez une interface simple en CSS'
 date: '2005-10-20 12:41:30'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Avant (certains le font encore comme cela ...) on faisait un design dans photoshop que l'on découpait pour le générer en un document HTML.   On obtenait un super site avec exactement le design que l'on voulait mais avec un code HTML archi pourri !  \n  \nLa deuxième solution est de faire le découpage et ensuite de faire soi même l'intégration en xHTML et      …"
 ---
 

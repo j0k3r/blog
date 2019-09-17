@@ -3,7 +3,7 @@ layout: post
 title: 'RoR : Ruby On Rails'
 date: '2005-11-25 07:03:24'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Suivant ce qui ce passé en ce moment dans le monde du développement Web, j'ai noté bien évidemment l'émergence d'AJAX (sur lequel je travaille pour la v2.2, au passage ^^) mais aussi celle de RoR pour Ruby On Rails.     \nRuby est un langage pur orienté Objet dont la syntaxe est extrêmement propre, ce qui rend la programmation aussi élégante que plaisante. Il      …"
 ---
 

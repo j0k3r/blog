@@ -3,7 +3,7 @@ layout: post
 title: 'Les moteurs de recherche aiment l''accessibilité !'
 date: '2006-04-14 12:18:25'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Beaucoup de web designers voient les techniques de référencement (SEO) d''un mauvais œil, et avec raison : les référenceurs polluent souvent les résultats des moteurs de recherche avec des sites inappropriés, ce qui rend plus difficile de trouver l''information recherchée. Mais il y a en fait plus d''un type de techniques de référencement. Il est d''usage de dire que les      ...'
 ---
 

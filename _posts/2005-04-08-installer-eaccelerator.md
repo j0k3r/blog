@@ -3,7 +3,7 @@ layout: post
 title: 'Installer eAccelerator'
 date: '2005-04-08 10:58:28'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et voila un nouveau tutoriel qui vous guide pas à pas pour [installer eAccelerator](http://www.j0k3r.net/php-installer-eaccelerator-23.html) sur votre serveur windows.     \neAccelerator vous permet d'accélérer l'affichage de vos scripts PHP par un système de cache. Très pratique et surtout très efficace. Je prends l'exemple que j'ai testé avec un forum de      …"
 ---
 

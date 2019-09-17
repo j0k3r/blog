@@ -3,7 +3,7 @@ layout: post
 title: 'Animator.js pour faire des effets mais en CSS !'
 date: '2006-11-03 09:26:44'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous connaissez certainement tous [moo.fx](http://www.j0k3r.net/news-mootols-script-aculo-us-version-plus-leger-1501.html) ou encore scriptaculous, ils vous permettent de faire de beaux effets JavaScript sur votre site pour le rendre plus interactif. Tout ceci se fait en JavaScript, évidemment.     \nEt bien voici Animator.js, basé sur prototype.js, qui      …"
 ---
 

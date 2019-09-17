@@ -3,7 +3,7 @@ layout: post
 title: 'Changer l''apparence de la balise select'
 date: '2006-04-15 02:03:58'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le couple JavaScript / CSS fait des merveilles des fois.   On a déjà vu comment faire un [joli formulaire](http://www.j0k3r.net/news-personnaliser-vos-formulaires-844.html) dans sa globalité mais cela concerne un peu le re-design des balises select.  \n  \nComme vous le savez certainement, mise à part changer la couleur du fond ou du contour, on ne      …"
 ---
 

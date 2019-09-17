@@ -3,7 +3,7 @@ layout: post
 title: 'Firefox One est un succès'
 date: '2005-10-25 01:31:23'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Firefox One ce n'est pas un nouveau plugin Firefox ou une nouvelle version de Firefox mais plutôt un ballon satellite qui a été lancé [samedi dernier](http://www.j0k3r.net/news-firefox-dans-l-espace-pour-les-100-millions-de-download-765.html).     \nCe lancé est une pure réussite. L'évènement a rassemblé pas moins de 193 photographes !! La fondation      …"
 ---
 

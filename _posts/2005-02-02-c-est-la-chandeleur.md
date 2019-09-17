@@ -3,7 +3,7 @@ layout: post
 title: 'C''est la chandeleur !!'
 date: '2005-02-02 07:57:29'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Amis gourmand, c'est la Chandeleur aujourd'hui !     \nAlors tout le monde enfile le manteau de cuisto, remonte ses manches, et se dirige vers la cuisine (oui je sais c'est un endroit que vous ne connaissez pas mais c'est l'occasion de le découvrir !). On ouvre son frigo, on embarque 3 oeufs qu'on casse direct dans un saladier (on mets pas les coquilles c'plus      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Des effets, en veux-tu, en voilà !'
 date: '2006-02-08 10:27:48'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Vous avez rêvez de superbes effets de transitions ... [Thomas Fuchs](http://www.wikistuce.info/doku.php/javascript/effets_de_transition) est là pour vous.     \nAvec deux petits javascripts, il vous ouvre la porte d'effets surprenants et faciles à intégrer à vos page HTML. Via la célèbre bibliothèque AJAX, prototype.js, couplé à la bibliothèque effects.js,      …"
 ---
 

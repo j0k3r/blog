@@ -3,7 +3,7 @@ layout: post
 title: 'Sécurisez votre serveur MySQL sous linux'
 date: '2007-02-24 02:00:38'
 author: j0k
-tags: '[mysql,security]'
+tags: mysql security
 excerpt: "Jonathan Krier publie un article sur le Developpez.com concernant la sécurité de votre serveur MySQL.     \nCet article fournit de nombreux conseils permettant de sécuriser la configuration et l'utilisation d'un serveur MySQL. Pour chaque méthode proposée, une solution de mise en oeuvre sous système Unix est expliquée.  \n  \nLe but du document est de      …"
 ---
 

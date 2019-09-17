@@ -3,7 +3,7 @@ layout: post
 title: 'Sondage : Le fil RSS'
 date: '2005-03-26 12:48:26'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voila je viens de cloture le dernier sondage qui concerné le fil RSS de j0k3r.n3t.   Je m'attendais à ce genre de résultat, puisque le RSS n'est pas encore bien connu de tout le monde et tout le monde n'en a pas non plus l'utilité.  \n  \nUn p'tit rappel ne fait de mal. Le RSS (Really Simple Syndication) est un moyen d'extraire d'un site web du contenu      …"
 ---
 

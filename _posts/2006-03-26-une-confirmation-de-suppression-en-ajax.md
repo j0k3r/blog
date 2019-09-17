@@ -3,7 +3,7 @@ layout: post
 title: 'Une confirmation de suppression en AJAX'
 date: '2006-03-26 11:45:04'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Maintenant avec AJAX, on ne passe plus par un banal lien de suppression du type *?action=del&amp;id=4* pour effacer un contenu mais directement par une joli p''tite image (en général rouge avec une croix à l''intérieur). On place un appel à une fonction JavaScript grâce à l''attribut *onclick* qui elle va envoyer une requête en AJAX pour supprimer l''élément.   C''est rapide      ...'
 ---
 

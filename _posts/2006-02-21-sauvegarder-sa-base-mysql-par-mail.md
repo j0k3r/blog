@@ -3,7 +3,7 @@ layout: post
 title: 'Sauvegarder sa base MySQL par mail'
 date: '2006-02-21 08:46:01'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Il est primordial pour son site d''effectuer des sauvegardes (backups) de sa base de donnée mais aussi de ces fichiers quasi quotidiennement. Ainsi si votre hébergeur vous fait défaut, vous perdez uniquement les données de la journée. Certes certains hébergeurs offrent la possibilité de faire des sauvegardes automatiques à partir de certaines offres (c''est le cas de mon      ...'
 ---
 

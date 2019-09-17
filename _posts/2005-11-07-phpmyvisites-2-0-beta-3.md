@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyVisites 2.0 bêta 3'
 date: '2005-11-07 07:32:02'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Une troisième bêta est désormais disponible.     \nElle intègre enfin de beaux graphiques (beaucoup plus joli que sur les versions 1.3.x de phpMyVisites) propulsés par Artichow. Sur les versions précédentes, les graphiques n'étaient pas tous présents et cela manque dans la visualisation de statistiques. Ce n'est donc pas moins de 12 graphiques qui intègrent cette      …"
 ---
 

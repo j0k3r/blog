@@ -3,7 +3,7 @@ layout: post
 title: 'Firefox 1.0.1 disponible'
 date: '2005-02-25 09:38:08'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Et hop là notre cher et grand Firefox vient d''être diffusé dans sa version [1.0.1](http://www.mozilla.org/products/firefox/all.html).   Cette version est une révision mineure qui corrige quelques trous de sécurité et quelques autres buGs.   Il est évidemment conseillé de passer à cette nouvelle version.   )   Une version non officielle des      ...'
 ---
 

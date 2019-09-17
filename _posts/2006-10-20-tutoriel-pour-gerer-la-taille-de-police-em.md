@@ -3,7 +3,7 @@ layout: post
 title: 'Tutoriel pour gérer la taille de police em'
 date: '2006-10-20 03:15:06'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Toujours dans sa lignée de refonte de tutoriel, Alsacreations publie aujourd'hui un nouveau tutoriel sur la gestion de la taille de police avec les em.     \nIl est vrai que ce n'est pas forcément un sujet que tout le monde maitrise. On a souvent l'habitude d'utiliser les pixels et des fois on se dit : tiens, le rendu est pas mal avec des em.&quot; Sans trop      …"
 ---
 

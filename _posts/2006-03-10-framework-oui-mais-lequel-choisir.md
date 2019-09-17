@@ -3,7 +3,7 @@ layout: post
 title: 'Framework : Oui, mais lequel choisir ...'
 date: '2006-03-10 08:40:42'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Cet [article de Nexen](http://www.nexen.net/actualites/logiciels/la_jungle_des_frameworks.php) révèle un problème trés actuel : Comment choisir son framework PHP ...     \nLa question n'est pas si simple lorsqu'on a un hébergement pas forcément trés flexible.   Certains ne sont compatibles qu'avec PHP 5 ( Zend framework )   D'autres utilisent      …"
 ---
 

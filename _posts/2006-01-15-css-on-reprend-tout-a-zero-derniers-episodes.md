@@ -3,7 +3,7 @@ layout: post
 title: 'CSS : on reprend tout à zéro ! (derniers épisodes)'
 date: '2006-01-15 12:21:03'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le feuilleton est maintenant fini, la boucle est bouclée. Cela aura duré un peu plus d'un an tout de même. Ne vous inquiétez pas, il y aura certainement des rediffusions cet été :D     \nCes deux derniers épisodes (14 et 15) traitent respectivement des variations d'interprétation selon les navigateurs et des perspectives d'avenir.  \n  \nLe [feuilleton      …"
 ---
 

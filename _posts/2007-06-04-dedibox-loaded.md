@@ -3,7 +3,7 @@ layout: post
 title: 'Dedibox loaded !'
 date: '2007-06-04 12:02:47'
 author: j0k
-tags: '[dedibox,j0k3r_net]'
+tags: dedibox j0k3r_net
 excerpt: "j0k3r.n3t tourne enfin sur ma dédiboite !     \nElle le ressent un peu d'ailleurs :-)   Normalement, il n'y a pas eu trop de soucis d'accès au site, le changement c'est fait plus en douceur que je ne le pensais !   J'ai changé le [CAPTCHA](http://www.thehumorarchives.com/joke/Best_Captcha_Ever) du forum, en espérant que celui-ci ne laissera      …"
 ---
 

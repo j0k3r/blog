@@ -3,7 +3,7 @@ layout: post
 title: 'PHP vs Ruby On Rails'
 date: '2005-12-28 11:52:04'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Ce comparatif mets sur la table une question que bon nombre de personnes doit se poser, quelle est la différence entre PHP et Ruby On Rails ?     \nIl faut savoir dans un premier temps que PHP est un langage de programmation et que Ruby On Rails n'en est pas un. RoR est un framework pour le langage Ruby. Je vous rappelle qu'un framework est une sorte de grosse      …"
 ---
 

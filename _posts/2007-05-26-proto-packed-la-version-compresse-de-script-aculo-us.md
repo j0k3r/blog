@@ -3,7 +3,7 @@ layout: post
 title: 'ProtoPacked, la version compressé de Script.aculo.us'
 date: '2007-05-26 12:58:09'
 author: j0k
-tags: '[prototype,scriptaculous]'
+tags: prototype scriptaculous
 excerpt: "La version 2.13 de ProtoPacked combine prototype.js et script.aculo.us en version compressé. Ainsi la librairie ne fait plus que 32k !     \nLe pack inclus les versions 1.4, 1.5 et 1.5.1 de prototype.js et la version 1.7.2 bêta 2 de script.aculo.us.   Il contient aussi Protoculous, qui est tout simplement la combinaison de prototype.js et script.aculo.us.       …"
 ---
 

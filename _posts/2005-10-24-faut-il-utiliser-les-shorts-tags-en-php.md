@@ -3,7 +3,7 @@ layout: post
 title: 'Faut-il utiliser les shorts tags en PHP ?'
 date: '2005-10-24 06:42:41'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "[Qwix](http://qwix.media-box.net/index.php/2005/10/24/116-PourquoiIlNeFautPasUtiliserLesShortOpenTagsDePhp) nous informe d'un début de [discutions](http://dreamweaver.media-box.net/index.php?showtopic=16865) sur le forum de media-box assez intéressante.     \nCelle ci concerne l'utilisation ou pas des shorts tags en PHP.   Oui mais c'est quoi      …"
 ---
 

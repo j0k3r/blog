@@ -3,7 +3,7 @@ layout: post
 title: 'Des news sur votre site grâce à phpBB'
 date: '2005-05-10 06:57:41'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et voila enfin un tutoriel que beaucoup attendait !   Il vous permet de diffuser des news sur votre site en postant simplement un un nouveau sujet dans un forum spécifique de votre forum (phpBB).  \n  \nJe tiens à remercier spécialement [DanRaZor](http://danrazor.net/) pour avoir testé comme il se doit le tutoriel et pour m'avoir fournit toutes ces      …"
 ---
 

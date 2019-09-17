@@ -3,7 +3,7 @@ layout: post
 title: 'Sauvegarde de champs via prototype.js'
 date: '2007-04-02 08:44:54'
 author: j0k
-tags: '[prototype]'
+tags: prototype
 excerpt: "C'est un script qui ne paye pas de mine, il ne fait que quelques lignes mais peut s'avérer être utile lors de long formulaire.     \nSon principe est simple, une petite image ()) est affichée à côté d'un champ dans un formulaire. Quand on clique dessus, l'image change ()) et indique que votre champ est sauvegardé. Si vous validez le formulaire ou que vous revenez      …"
 ---
 

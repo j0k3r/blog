@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL 5.0.15 prêt pour de la production'
 date: '2005-10-24 05:58:18'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voilà, enfin, MySQL 5.0.x est prêt pour de la production !   Avec un retard de quelques mois, voici la version officielle et finale, la 5.0.15.   Il s'agit de la version la plus attendue et la plus importante de MySQL AB"
 ---
 

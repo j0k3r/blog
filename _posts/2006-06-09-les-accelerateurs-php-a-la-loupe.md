@@ -3,7 +3,7 @@ layout: post
 title: 'Les accélérateurs PHP à la loupe'
 date: '2006-06-09 10:00:38'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Ipersec propose une étude sur les 3 accélérateurs PHP les plus populaires, à savoir : [eAccelerator](http://www.j0k3r.net/php-installer-eaccelerator-23.html), APC et Zend Platform.     \nLe processus de test est le suivant : Chargement du fichier PHP , parsage du code source et transformation en &quot;opcode&quot; (code qui peut être exécuté sur le serveur)      …"
 ---
 

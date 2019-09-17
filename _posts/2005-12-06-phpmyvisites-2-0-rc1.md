@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyVisites 2.0 rc1'
 date: '2005-12-06 06:39:23'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le petit blackout du site la semaine dernière n'a pas empêché l'équipe de phpMyVisites de publie une toute première release candidate de son futur opus. C'est ainsi que phpMyVisites 2.0 rc1 est disponible !     \nC'est la première version où l'on peut voir concrètement ce que sera phpMyVisites 2.0. Évidemment on pouvait déjà le voir sur les versions bêta, mais      …"
 ---
 

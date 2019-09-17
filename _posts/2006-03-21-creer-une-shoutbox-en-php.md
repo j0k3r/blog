@@ -3,7 +3,7 @@ layout: post
 title: 'Créer une shoutbox en PHP'
 date: '2006-03-21 11:05:47'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous me demandez tous un tutoriel pour faire la même shootbox que celle qu'il y a sur le site, et je le ferai ... mais je ne peux pas vous dire quand.     \nEn attendant, [Wikistuce](http://www.wikistuce.info/) publie un article pour faire la votre. Le tout est bien évidemment AJAXé. C'est très simple à comprendre et surtout rapide à mettre en place.  \n   …"
 ---
 

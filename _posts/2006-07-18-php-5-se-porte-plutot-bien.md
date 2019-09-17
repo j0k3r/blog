@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 5 se porte plutôt bien'
 date: '2006-07-18 07:59:48'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "PHP 5 a été publié en juillet 2004 (et oui déjà !). Son adoption a été assez lente au début, surtout que le changement était plus important qu'une simple mise à jour de PHP 4.     \nZend a mis les bouchées doubles pour faire de PHP 5 une grande version en assurant 50% de ces projets en PHP 5.   Et maintenant cela paye, la version 5 est en phase de prendre      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Formalités sur les newsletters'
 date: '2005-12-11 12:40:37'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous avez certainement tous essayé d'envoyer une newsletter en HTML. La plupart du temps cela fonctionne très bien, et d'ailleurs une multitude de tutoriels est disponible sur internet. Mais le gros problème des newsletters est l'affichage de celle ci dans les différents webmails (Yahoo, Gmail, Hotmail, Outlook ...).     \nLe problème est due à l'affichage en HTML      …"
 ---
 

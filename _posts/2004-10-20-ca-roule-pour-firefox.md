@@ -3,7 +3,7 @@ layout: post
 title: 'Ca roule pour FireFox !'
 date: '2004-10-20 10:18:06'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et oui le p'tit \"browser reloaded\" monte monte monte ...    La barre des **5 millions de téléchargements** depuis le 14 septembre dernier vient d'être franchie et ce à la vitesse de 125000 téléchargements par jour.  \n  \nLa version finale (1.0) n'est pas encore disponible mais on imagine déjà que sa sortie risque d'accroitre le nombre de téléchargement.   …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Créer un formulaire composé de plusieurs étapes'
 date: '2005-12-02 12:06:48'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Beaucoup de situation vous oblige à ne pas mettre toutes les données, que vous demandez lors d''un formulaire, sur la même page. Elle serai alors trop chargé et l''utilisateur en serai certainement complètement perdu au bout d''un moment. Ainsi la solution de facilité est de faire un formulaire en plusieurs étapes. Souvent, lors de sondage sur internet, des entreprises font de      ...'
 ---
 

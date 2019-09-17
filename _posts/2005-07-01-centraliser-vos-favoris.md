@@ -3,7 +3,7 @@ layout: post
 title: 'Centraliser vos favoris'
 date: '2005-07-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: 'Les favoris, c''est pas nouveau, c''est la galère. Cet utilitaire vous permet de conserver vos favoris sur un serveur mais aussi de le savoir dans votre navigateur.'
 ---
 

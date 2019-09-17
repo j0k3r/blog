@@ -3,7 +3,7 @@ layout: post
 title: 'Ruby on Rails arriverait chez OVH ?'
 date: '2006-03-23 10:35:38'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Selon un [nouvelle publiée](http://www.railsfrance.org/node/221) sur le site de Railsfrance.org, OVH serai entrain de mettre en place quelques petites nouveautés bien sympathique pour les hébergements mutualisés.     \nIl serait entrain de rajouter à leur liste, Perl, PHP et Python, le très populaire Ruby on Rails. Il serait d'ailleurs à la recherche de      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Moi je suis un vrai hacker ... et je rox !'
 date: '2005-04-29 12:54:21'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'C''est l''histoire d''un mec qui était sur un chan IRC. Au bout d''un moment il se prends un Ping timeout dans sa face. C''est à dire que sa connexion au serveur est perdue.   Il revient sur le chan en commençant à insulter un des modos du chan en l''accusant de l''avoir kické de celui-ci. Le modo se défend en lui disant que sa connexion au serveur a été perdue et que c''est      ...'
 ---
 

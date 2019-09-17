@@ -3,7 +3,7 @@ layout: post
 title: 'L''événement eXtreme Programming en France'
 date: '2006-02-25 06:35:20'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après Londres, Bruxelles, Rotterdam, Karslruhe, la conférence &quot;XP Day&quot; a désormais sa version française. XP Day France s'adresse aux professionnels du logiciel, quel que soit leur niveau de connaissance de l'eXtreme Programming.     \nL'eXtreme Programming est une méthode de développement qui consiste à ne pas réfléchir avant de se lancer du codage de      …"
 ---
 

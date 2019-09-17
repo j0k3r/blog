@@ -3,7 +3,7 @@ layout: post
 title: 'Intercepter les timeouts en AJAX'
 date: '2006-03-26 11:32:43'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le problème d'une application en AJAX est que si la connexion internet ne fonctionne plus (par exemple), votre application plante littéralement. C'est le cas aussi avec un script PHP classique.     \nL'avantage avec AJAX c'est qu'il utilise JavaScript, qui est du côté du client. Ainsi il est plus facile de détecter une coupure de connexion en JavaScript qu'avec      …"
 ---
 

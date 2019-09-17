@@ -3,7 +3,7 @@ layout: post
 title: 'La certification Zend PHP 5 disponible'
 date: '2006-09-13 09:01:07'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Zend Techonologies annonce la disponibilité de sa certification pour PHP5. La programmation orientée objet, les Web-Services ainsi que la sécurité sont au programme. Voulant refléter des cas concrets, les sujets suivants seront abordés:     \n* Design d'application et théorie.   * Bases de PHP.   * Diférence entre PHP4 et PHP5.   * PHP orienté      …"
 ---
 

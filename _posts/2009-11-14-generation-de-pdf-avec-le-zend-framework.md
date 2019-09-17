@@ -3,7 +3,7 @@ layout: post
 title: 'Génération de PDF avec le Zend Framework'
 date: '2009-11-14 23:09:10'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: "La génération de documents PDF bien formatés avec PHP est une tâche plutôt difficile. Il existe habituellement deux approches principales. Avec suffisamment de temps et de patience, ces deux approches font l'affaire, mais laissent tout de même à désirer. L'approche **HTML vers PDF** qui peut être efficace pour de simple document mais peut s'avérer complexe et avec un rendu moins fidèle sur de gros document. L'approche **programmation** où l'on définit les éléments en se basant sur des coordonnées. Et là par contre, c'est très complexe à mettre en oeuvre. Et il existe une 3è méthode en utilisant LiveDocx !"
 ---
 

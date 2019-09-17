@@ -3,7 +3,7 @@ layout: post
 title: 'Emuler une scrollbar sur une élément avec prototype.js'
 date: '2007-11-12 02:09:46'
 author: j0k
-tags: '[prototype,scrollbar]'
+tags: prototype scrollbar
 excerpt: 'Depuis le temps que je cherchais (et apparemment [je n''étais pas le seul](http://www.j0k3r.net/forum/enfin-une-solution-pour-styler-un-input-file-1914.htm#6215)) un script dans cette idée de personnaliser une scrollbar, voir même de pouvoir facilement en créer une pour un div spécifique ... et bien j''ai enfin trouvé un script JS, en plus de ça il est basé sur      ...'
 ---
 

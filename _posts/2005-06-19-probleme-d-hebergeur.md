@@ -3,7 +3,7 @@ layout: post
 title: 'Problème d''hébergeur'
 date: '2005-06-19 10:26:09'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous avez certainement pu constater que j0k3r.n3t n'était pas accessible de toute la journée, et ce depuis 1h30 du matin.     \nC'est un problème qui venait de l'hébergeur, Celeonet a été victime d'une panne matérielle importante sur le firewall. La carte contrôleur du firewall a lâché sans explication ce matin.  \n  \nLa durée de la panne s'explique      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Firefox sans installation'
 date: '2005-04-07 11:50:15'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Certaines personnes sont rétissantes quand au fait de devoir installer des logiciels ou tout simplement parce qu''elles n''ont pas les droits d''installer des logiciels (cas de beaucoup d''entreprise).   )Avant on pouvait facilement installer Firefox sans devoir l''installer, grace aux versions zip. Mais depuis la version 1.0.1, les fichiers zip ne sont plus publié pour des      ...'
 ---
 

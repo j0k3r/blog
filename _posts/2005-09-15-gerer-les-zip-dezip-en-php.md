@@ -3,7 +3,7 @@ layout: post
 title: 'Gérer les zip/dézip en PHP'
 date: '2005-09-15 12:17:56'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Un tout nouveau tutoriel vient de fleurir dans la partie PHP de j0k3r.n3t. Il concerne le dezippage d'archive côté serveur (via PHP) joliment nommé : [Gérer les zip/dezip](http://www.j0k3r.net/php-gerer-les-zip-dezip-25.html).     \nSur une [demande](http://www.j0k3r.net/forum/system-automatique-639.htm) plus complexe de TITO, un membre du forum, ce      …"
 ---
 

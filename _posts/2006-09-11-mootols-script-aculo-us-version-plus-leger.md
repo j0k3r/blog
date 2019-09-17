@@ -3,7 +3,7 @@ layout: post
 title: 'Mootols, script.aculo.us version plus léger'
 date: '2006-09-11 08:16:11'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous avez certainement déjà entendu parler de la [Moo.fx](http://moofx.mad4milk.net/), une librairie dans le même genre que script.aculo.us mais en version beaucoup plus légère. Elle inclut aussi prototype.js mais dans une version beaucoup plus légère aussi.     \n[Mootools](http://www.mootools.net/) est le successeur de Moo.fx. Mootools reste dans      …"
 ---
 

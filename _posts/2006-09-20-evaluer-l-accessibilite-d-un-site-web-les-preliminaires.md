@@ -3,7 +3,7 @@ layout: post
 title: 'Évaluer l''accessibilité d''un site web : Les préliminaires'
 date: '2006-09-20 10:31:56'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'équipe de Pompage publie une nouvelle traduction.     \nCet article aborde le thème de l'évaluation d'un site web au niveau de son accessibilité. Il est parfois difficile pour une personne d'identifier si un site est accessible ou pas. Certes on connait un peu les grandes lignes de l'accessibilité, on sait qu'il faut qu'il soit valide HTML / CSS, qu'il y est des      …"
 ---
 

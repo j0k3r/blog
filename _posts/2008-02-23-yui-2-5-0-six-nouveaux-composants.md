@@ -3,7 +3,7 @@ layout: post
 title: 'YUI 2.5.0, six nouveaux composants !'
 date: '2008-02-23 10:32:46'
 author: j0k
-tags: '[yahoo,yui]'
+tags: yahoo yui
 excerpt: 'YUI (Yahoo! User Interface), la librairie d''interface JavaScript de Yahoo!, ne cesse d''évoluer.   La version 2.5.0 sortie il y a 3 jours présentes de nombreuses nouvelles fonctionnalités !'
 ---
 

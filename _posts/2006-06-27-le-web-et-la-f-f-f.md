@@ -3,7 +3,7 @@ layout: post
 title: 'Le Web et la F.F.F.'
 date: '2006-06-27 08:55:56'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Pour ceux qui ne l'aurait pas compris : F.F.F. = [Fédération Française de FootBall](http://www.fff.fr/).     \nPhpIndex nous livre un [résumé de l'interview Dominique Crochu](http://www.phpindex.com/index.php/2006/06/27/2219-interview-de-dominique-crochu-web-et-fff)    qui n'est rien d'autre que la Directrice nouvelles technologies FFF.  \n  …"
 ---
 

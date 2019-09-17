@@ -3,7 +3,7 @@ layout: post
 title: 'Utiliser les classes du Zend Framework dans Symfony'
 date: '2007-04-24 10:35:04'
 author: j0k
-tags: '[symfony,zend_framework]'
+tags: symfony zend_framework
 excerpt: "Le Zend Framework possède des classes excellentes et c'est certainement pour cela qu'un plugin Symfony a vu le jour, permettant d'ajouter facilement des classes ZF à Symfony.     \nLe plugin [sfZendPlugin](http://trac.symfony-project.com/trac/wiki/sfZendPlugin) s'installe très facilement (comme tout plugin Symfony !), il suffit ensuite d'indiquer à Symfony      …"
 ---
 

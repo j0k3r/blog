@@ -3,7 +3,7 @@ layout: post
 title: '10 stratégies de promotion de sites web'
 date: '2005-05-17 01:17:01'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Web Rank Info lance 10 pistes pour essayer d'augmenter le nombre de visites de votre site autrement qu'en travaillant son référencement.     \nTout le monde le sait le référencement est primordial pour la popularité et la visibilité d'un site. Mais il n'est pas le seul à en assurer les visites !   C'est pour cela qu'il faut souvent proposer des petits plus      …"
 ---
 

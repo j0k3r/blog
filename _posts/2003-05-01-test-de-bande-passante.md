@@ -3,7 +3,7 @@ layout: post
 title: 'Test de Bande Passante'
 date: '2003-05-01 00:00:00'
 author: j0k
-tags: '[divers]'
+tags: divers
 excerpt: 'Vous êtes vous déjà demandé si le débit théorique de votre connexion internet correspond au débit réel ?'
 ---
 

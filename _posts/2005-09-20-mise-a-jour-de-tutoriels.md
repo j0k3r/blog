@@ -3,7 +3,7 @@ layout: post
 title: 'Mise à jour de tutoriels'
 date: '2005-09-20 05:51:06'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Je viens de finir la mise à jour du tutoriel sur la création d'un fil RSS. Il n'était pas valide à la \"réglementation\", il l'est maintenant. J'ai aussi enlevé des données qui ne servaient pas pour les remplacer par des données qui peuvent servir :)   J'ai également revu quelques autres tutoriels mais plus au niveau des fautes d'orthographes :p  \n  \nJ'en      …"
 ---
 

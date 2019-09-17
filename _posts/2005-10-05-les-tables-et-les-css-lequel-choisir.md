@@ -3,7 +3,7 @@ layout: post
 title: 'Les tables et les CSS, lequel choisir ?'
 date: '2005-10-05 12:27:42'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voici un combat à mort sur pompage.net.     \nL'auteur fait une belle introduction: \"La première fois que j'ai surfé sur Internet, c'était à travers un bête terminal. En peu de temps, son écran monochromatique vomissait le scénario complet du \"Holy Grail\" des Monthy Phyton à partir d'un serveur du Minnesota. Ça avait quelque chose de magique. On n'avait pas de      …"
 ---
 

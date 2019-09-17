@@ -3,7 +3,7 @@ layout: post
 title: 'Détecter l''inactivité de l''utilisateur avec prototype.js'
 date: '2007-11-11 01:44:18'
 author: j0k
-tags: '[gmail,inactivité,prototype]'
+tags: gmail inactivité prototype
 excerpt: "Un peu à la manière d'msn, via JavaScript et prototype, vous pouvez [détecter l'inactivité de l'utilisateur](http://thinkweb2.com/projects/prototype/2007/10/17/detect-idle-state-with-custom-events/). Je pense que Gmail utilise la même méthode pour détecter qu'un utilisateur n'est plus actif sur le chat de Gmail (via Gmail, et non via Gtalk).     \nCette      …"
 ---
 

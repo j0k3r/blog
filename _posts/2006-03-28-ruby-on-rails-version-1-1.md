@@ -3,7 +3,7 @@ layout: post
 title: 'Ruby on Rails version 1.1'
 date: '2006-03-28 11:25:10'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'La plus grosse mise à jour de l''histoire de Rails vient d''avoir lieu.   Rails 1.1 corrige quelques 500 buGs. La plupart des corrections affecte l''utilisation journalière qui la rende ainsi plus agréable, plus joyeuse.   Mais rassurez vous il y a aussi des grosses mises à jour qui vont rendre heureux les programmeurs, surtout si vous êtes friand d''AJAX, services      ...'
 ---
 

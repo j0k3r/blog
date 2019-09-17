@@ -3,7 +3,7 @@ layout: post
 title: 'JSLoader propose toutes les librairies JS à la demande'
 date: '2007-10-23 10:13:17'
 author: j0k
-tags: '[javascript,loader]'
+tags: javascript loader
 excerpt: "Le concept est très simple proposé un seul fichier qui vous permet ensuite, via un simple appel à une fonction et quelques paramètres de charger la majeure partie des librairies JavaScript du moment !     \n[JSLoader](http://www.jsloader.com/) mets à notre disposition un fichier JavaScript à inclure sur vos pages. En faisant appel à la fonction      …"
 ---
 

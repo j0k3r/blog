@@ -3,7 +3,7 @@ layout: post
 title: 'Webmasters Expo les 17 et 18 mai'
 date: '2005-05-10 11:13:08'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le deuxième salon du webmaster aura lieu les 17 et 18 mai prochain et se déroulera toujours à Paris.     \n )"
 ---
 

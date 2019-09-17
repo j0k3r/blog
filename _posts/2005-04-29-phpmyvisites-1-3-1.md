@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyVisites 1.3.1'
 date: '2005-04-29 12:35:53'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voilà une nouvelle version de phpMyVisites est disponible depuis hier.     \nAu rayon des [nouveautés](http://www.phpmyvisites.net/fichiers/changelog)"
 ---
 

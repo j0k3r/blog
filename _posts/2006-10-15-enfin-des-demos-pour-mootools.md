@@ -3,7 +3,7 @@ layout: post
 title: 'Enfin des démos pour Mootools !'
 date: '2006-10-15 07:53:22'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Je vous en avais parlé il y a [un mois](http://www.j0k3r.net/news-mootols-script-aculo-us-version-plus-leger-1501.html), Mootools est une librairie dans le même genre que scriptaculous.     \nElle vous permet de faire de jolis effets JavaScript. Lors de lancement de Mootools, aucune démo n'était disponible, on pouvait uniquement en trouver sur le blog      …"
 ---
 

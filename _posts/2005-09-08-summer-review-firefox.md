@@ -3,7 +3,7 @@ layout: post
 title: 'Summer Review: FireFox'
 date: '2005-09-08 02:20:26'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La fondation Mozilla a fait des siennes durant cet été.   Voila un bref compte rendu."
 ---
 

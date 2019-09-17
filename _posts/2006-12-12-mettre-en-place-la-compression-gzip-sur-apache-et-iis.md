@@ -3,7 +3,7 @@ layout: post
 title: 'Mettre en place la compression Gzip sur Apache et IIS'
 date: '2006-12-12 10:04:55'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La compression Gzip permet de réduire le cout de la bande passante sur votre serveur. Le principe est de zipper (en quelques sortes) les données sur le serveur pour les transmettre au client qui les dézippe de son côté.   La méthode est reconnue par tous les navigateurs, pour une fois, c'est rare ..  \n  \nApache et IIS étant les deux serveurs les plus      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Les 10 conseils en référencement d''une spécialiste'
 date: '2005-10-14 06:31:36'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Jill Whalen est une spécialiste dans l'art du référencement.   Elle vient de publier ou plutôt de mettre à jour ces 10 conseils en référencement.  \n  \nOn y retrouve un peu ce que tout le monde pense ou dis sur comment bien référencer un site, mais il est toujours bon de voir que cela est confirmé par les \"pros\".  \n  \n   1. Utilisez un nom de      …"
 ---
 

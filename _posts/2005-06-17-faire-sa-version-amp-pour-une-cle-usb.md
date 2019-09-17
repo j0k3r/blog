@@ -3,7 +3,7 @@ layout: post
 title: 'Faire sa version AMP pour une clé USB'
 date: '2005-06-17 10:29:10'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "AMP signifie tout simplement Apache, MySQL et PHP. On aurai pu l'appeler UAMP pour USB, Apache, MySQL et PHP.     \nL'avantage d'avoir un serveur Apache avec tout le reste sur une clé USB, c'est que cela peut fonctionner sur n'importe quel pc disposant d'un port USB.   Il existe déjà pas mal de solution \"portative\" au niveau des serveurs (EasyPHP 1.8 entre      …"
 ---
 

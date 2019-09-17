@@ -3,7 +3,7 @@ layout: post
 title: 'HTML - Premier code HTML'
 date: '2003-03-25 06:08:46'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Le code HTML est un langage de description. A l''aide d''instructions que vous insérez, vous allez définir la forme de votre texte (gras, italique, polices, ...), inclure des images, du son, implanter des liens vers d''autres pages...'
 ---
 

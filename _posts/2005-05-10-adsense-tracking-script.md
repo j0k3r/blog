@@ -3,7 +3,7 @@ layout: post
 title: 'Adsense Tracking Script'
 date: '2005-05-10 02:07:33'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "En me baladant sur un forum je suis tombé sur le script Adsense Tracking Script.   Il permet de voir les clics, les affichages, le taux de clics par page ... et le tout classé selon **vos** pages !  \n  \nGoogle AdSense n'offre pour l'instant que des statistiques globales. Quand vous allez sur votre compte AdSense vous pouvez voir simplement le nombre de      …"
 ---
 

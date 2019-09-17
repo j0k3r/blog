@@ -3,7 +3,7 @@ layout: post
 title: 'Google AdSense enfin en euros !'
 date: '2005-03-17 12:49:26'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Il y a de cela quelques mois, une sorte de "manifestation" avait eu lieu avec pétition, bannière et tout le tralala pour que Google AdSense paie les européens en Euros et non en dollars. Le dollars étant plus faible que l''euro, les changements entre les banques ... bref on perdait pas mal d''argent avec le transfert dollars &gt; euros.   Mais cette période est révolu      ...'
 ---
 

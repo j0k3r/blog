@@ -3,7 +3,7 @@ layout: post
 title: 'Nouvelle MAJ du tutoriel sur l''optimisation d''une BDD'
 date: '2005-06-25 02:22:30'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Vous avez peut-être déjà lu mon tutoriel sur comment [optimiser une base de donnée](http://www.j0k3r.net/mysql-optimiser-une-base-de-donnee-15.html) qui consistait à récupérer toutes les tables et à les optimiser une par une.   J''ai fait ensuite une [amélioration](http://www.j0k3r.net/news-mise-a-jour-du-tutorial-sur-l-optimisation-d-une-bdd-207.html) qui      ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Des graphiques Flash grace à PHP'
 date: '2005-02-11 06:15:02'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Le journal du net publie un [article](http://solutions.journaldunet.com/0502/050211_graphes.shtml) présentant 4 outils pour produire des graphes (histogrammes, camemberts...) en Flash mais sans connaissance préalable du Flash.   En passant des données sous formes XML, textuelles ou encore provenant d''une base de donnée, ces applications vous construisent un graph      ...'
 ---
 

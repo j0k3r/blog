@@ -3,7 +3,7 @@ layout: post
 title: 'Personnaliser l''index par défaut des dossiers dans Apache'
 date: '2005-04-14 12:47:32'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous connaissez certainement tous l'affichage d'un dossier qui ne contient pas d'index sous Apache, ce que l'on appelle l'autoindex. On a un joli listing de tout ce que contient le dossier avec la possibilité de modifier l'ordre de tel ou tel colonne.     \nEt bien je viens de trouver un      …"
 ---
 

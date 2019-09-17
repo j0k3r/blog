@@ -3,7 +3,7 @@ layout: post
 title: 'Récapitulatif des astuces pour faire des bords arrondis'
 date: '2006-10-16 10:35:08'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "C'est toujours aussi difficile ou ennuyeux de faire des bords arrondis, ou roundcorner pour son site.      \nVoici un news plus qu'intéressante puisqu'elle présente le récapitulatif complet de toutes les techniques disponibles en matière de création de roundcorners.   Présenté sous la forme d'un tableau, les différentes méthodes sont triées par le nombre      …"
 ---
 

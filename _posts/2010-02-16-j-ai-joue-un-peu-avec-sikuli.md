@@ -3,7 +3,7 @@ layout: post
 title: 'J''ai joué un peu avec Sikuli ...'
 date: '2010-02-16 08:22:04'
 author: j0k
-tags: '[automation,gui,java,python,sikuli]'
+tags: automation gui java python sikuli
 excerpt: "Il y a quelques temps j'ai vu passé le projet Sikuli. Sikuli permet de contrôler une interface graphique en se basant sur des images. Les exemples données sur le site officiel montrent comment contrôler le changement de statut sur Skype, changer une adresse IP, etc .. Pour des raisons personnelles, j'ai dû me pencher sur Sikuli pour mettre en place quelques automatisations. Voilà un peu ce que je retiens (pour le moment) de mon utilisation de Sikuli."
 ---
 

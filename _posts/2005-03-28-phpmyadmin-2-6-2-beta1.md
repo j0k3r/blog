@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyAdmin 2.6.2-beta1'
 date: '2005-03-28 10:41:57'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et voila (déjà) la première bêta de phpMyAdmin 2.6.2.   Elle corrige / s'adapte en général pour la version 5.x de MySQL tout en corrigeant des buGs déjà présent sur les anciennes versions, notamment avec le japonais.   )   Deux nouveaux liens apparaissent sur la page d'accueil de phpMyAdmin"
 ---
 

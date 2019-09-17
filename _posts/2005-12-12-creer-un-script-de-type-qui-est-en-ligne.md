@@ -3,7 +3,7 @@ layout: post
 title: 'Créer un script de type : Qui est en ligne'
 date: '2005-12-12 10:51:34'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Un script de type \"qui est en ligne ?\" est tout simplement un script affichant les personnes connectés au site. Seulement pour voir concrètement qui est en ligne, en tant que membres, il faut justement gérer les membres sur votre site.     \nDans ce [tutoriel](http://www.phpit.net/article/creating-whosonline-script-php/1/), PHPit vous montre comment voir      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Statistiques de PHP pour le mois de juin'
 date: '2006-07-04 10:03:05'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Nexen publie les statistiques de PHP du mois de juin 2006.     \nQuelques tendances ressortent de ces statistiques :   * PHP 4.4.2 remplace PHP 4.3.10 comme version la plus populaire   * PHP 5 continue d'accélérer son adoption   * PHP 5.1.4 confirme sa popularité, en prenant la 3eme place du classement des versions 5  \n  \nLes      …"
 ---
 

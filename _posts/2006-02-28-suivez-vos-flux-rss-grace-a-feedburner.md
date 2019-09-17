@@ -3,7 +3,7 @@ layout: post
 title: 'Suivez vos flux RSS grâce à Feedburner'
 date: '2006-02-28 09:10:51'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le défaut principal d'un flux RSS normal est que l'on ne peut pas avoir de statistiques détaillées. On ne peut pas savoir combien il y a de lecteur, quel agrégateur utilise-t-il, par quel biais il arrive sur le flux ... bref plein de statistiques qui seraient intéressantes à connaitre.     \nFeedBurner vous permet de faire tout ceci. Vous leur &quot;confiez&quot;      …"
 ---
 

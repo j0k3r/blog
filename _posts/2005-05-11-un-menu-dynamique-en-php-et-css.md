@@ -3,7 +3,7 @@ layout: post
 title: 'Un menu dynamique en PHP et CSS'
 date: '2005-05-11 05:31:38'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Codewalkers.com publie un [article](http://codewalkers.com/tutorials/89/) pour réaliser un menu dynamique en CSS et JavaScript.     \nIl est facilement modifiable et garde les positions qu'on lui donne de page en page sans utiliser de cookie. Ce tutoriel vous permez de passer d'une menu basique agencé grace à des &lt;ul&gt; et &lt;li&gt; en un menu      …"
 ---
 

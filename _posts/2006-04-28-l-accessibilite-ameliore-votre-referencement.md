@@ -3,7 +3,7 @@ layout: post
 title: 'L''accessibilité améliore votre référencement'
 date: '2006-04-28 03:35:57'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après avoir vu et lu (je l'espère pour vous) le très bon article traduit sur pompage.net sur l'étroite liaison de l'[accessibilité et des moteurs de recherches](http://www.j0k3r.net/news-les-moteurs-de-recherche-aiment-l-accessibilite-1223.html), c'est autour du JDN de publier un article sur le même thème : l'accessibilité.     \nRassemblant dans le fond la      …"
 ---
 

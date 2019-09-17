@@ -3,7 +3,7 @@ layout: post
 title: 'Bien valider un formulaire avec AJAX'
 date: '2005-06-17 10:50:32'
 author: j0k
-tags: '[ajax,form,validation]'
+tags: ajax form validation
 excerpt: "Décidemment AJAX par ci, AJAX par là ... en ce moment les tutoriels sur AJAX pleuvent !     \nCelui ci vous [guide](http://particletree.com/features/degradable-ajax-form-validation/) pour faire une validation des formulaires en utilisant AJAX.   Mais pourquoi encore un tutoriel sur les validations de formulaires ?  \n  \nIl y a      …"
 ---
 

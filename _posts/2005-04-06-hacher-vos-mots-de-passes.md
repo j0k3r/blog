@@ -3,7 +3,7 @@ layout: post
 title: 'Hacher vos mots de passes'
 date: '2005-04-06 02:42:29'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voila le [deuxième article](http://phpsec.org/articles/2005/password-hashing.html) du consortium de PHP Security a été publié à la fin du mois dernier.   Il concerne le hachage des mots de passes.  \n  \nCet article balait l'authentification sécurisé avec son enregistrement préalable. L'auteur montre aussi les différentes possibilités de hachage de      …"
 ---
 

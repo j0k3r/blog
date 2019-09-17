@@ -3,7 +3,7 @@ layout: post
 title: 'Mort annoncée des versions 2.0.x de phpBB'
 date: '2008-04-16 11:48:30'
 author: j0k
-tags: '[phpbb]'
+tags: phpbb
 excerpt: 'Après la sortie de phpBB 3.0, il va de soit qu''il est difficile de maintenir deux version en même temps sans vraiment pouvoir se consacrer complètement à la nouvelle version. Ou alors il faut avoir les ressources nécessaires pour le faire !   Dans le cas de phpBB, phpBB 2.0.x fonctionnait sous php4. Mais php4 tendant à être retirer du marché pour être (enfin) remplacer      ...'
 ---
 

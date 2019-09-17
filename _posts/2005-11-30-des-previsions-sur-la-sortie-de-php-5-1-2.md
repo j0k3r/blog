@@ -3,7 +3,7 @@ layout: post
 title: 'Des prévisions sur la sortie de PHP 5.1.2'
 date: '2005-11-30 07:07:42'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Avec tout le remue ménage qu'a pu effectuer la sortie de PHP 5.1.0 suivit de très près de PHP 5.1.1, un roadmap est déjà en cours de validation pour PHP 5.1.2.     \nTout d'abord, ils se laissent jusqu'au 10 décembre pour effectuer des changements important sur PHP. Ensuite ils voient en la date du 22 décembre, la première RC. A partir de cette seulement les      …"
 ---
 

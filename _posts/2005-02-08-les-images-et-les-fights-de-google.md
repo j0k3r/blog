@@ -3,7 +3,7 @@ layout: post
 title: 'Les images et les fights de Google'
 date: '2005-02-08 01:03:19'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Le nombre d''images indexées dans [Google](http://images.google.com/) viens de faire un p''tit bon en avant en passant de 880 millions à presque 1.2 milliards.   )   Il se mets aussi en place peu à peu (pas encore dispo depuis la France), une preview d''image lors de recherche de mots clés dans Google.   C''est à dire que vous tapez par exemple      ...'
 ---
 

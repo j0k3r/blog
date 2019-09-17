@@ -3,7 +3,7 @@ layout: post
 title: 'Mise à jour Firefox 1.5.0.6'
 date: '2006-08-02 09:47:36'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Dans cette [news  de GNT](http://www.generation-nt.com/actualites/17386/mozilla-firefox-navigateur-web-internet) on apprend que Firefox 1.5.0.5   contient en fait une erreur majeure liée à l'intégration de Windows Media Player   qui ne fonctionnerait pas correctement dans certains cas.  \n  \nL'erreur étant assez importante, une version      …"
 ---
 

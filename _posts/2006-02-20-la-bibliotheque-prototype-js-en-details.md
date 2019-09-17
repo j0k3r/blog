@@ -3,7 +3,7 @@ layout: post
 title: 'La bibliothèque prototype.js en détails'
 date: '2006-02-20 12:50:49'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Je vous avais déjà montré une façon d'[utiliser la bibliothèque AJAX prototype.js](http://www.j0k3r.net/news-utiliser-la-bibliotheque-ajax-prototype-js-979.html) via le retour d'expérience d'un développeur qui s'y était attaqué.     \nCette aide permettait d'exploiter plus facilement prototype.js mais ne détaillait pas totalement la bibliothèque. De part      …"
 ---
 

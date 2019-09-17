@@ -3,7 +3,7 @@ layout: post
 title: 'Webmasters Expo @ j0k3r.n3t'
 date: '2005-05-18 12:42:13'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voila comme certains le savent j'ai gagné des places pour aller au salon du webmaster à Paris qui se déroule hier et aujourd'hui (le 17 et le 18 en gros).     \nJe fais les conférences qui m'intéresse le plus, mais je vous prépare un petit \"résumé\" de ce que j'aurai vu, vécu et entendu ... c'est côol j'ai déjà quelques exclus intéressante à vous dire. Y'aura p'tet      …"
 ---
 

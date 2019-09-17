@@ -3,7 +3,7 @@ layout: post
 title: 'Imprimer une page Web avec ses URLs'
 date: '2005-05-17 12:56:18'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Souvent lors d'impression de page web, elles contiennent souvent des liens qui sont plus ou moins intéressants.     \nSi ces liens ne sont pas intéressants, ils peuvent apparaître comme des liens normaux (souligné) mais si c'est lien sont utiles il vaut mieux que le lien s'affiche directement pour que l'internaute qui imprime la page est toujours le lien pour      …"
 ---
 

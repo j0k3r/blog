@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Image aléatoire'
 date: '2004-10-05 23:21:03'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: "Ce script permet d'afficher une image différente à chaque chargement d'une page web, l'image étant choisie au hasard.\nIci il y a quatre images de même taille."
 ---
 

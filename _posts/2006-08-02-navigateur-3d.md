@@ -3,7 +3,7 @@ layout: post
 title: 'Navigateur 3D'
 date: '2006-08-02 09:45:17'
 author: iDo
-tags: '[]'
+tags: blabla
 excerpt: "Loin d'être une alternative à votre navigateur habituel, [ubrowser](http://ubrowser.com/index.php) implémente le moteur de Mozilla d'une façon assez étonnante...     \nEtonnante car au lieu d'afficher simplement la page web demandée, celle-ci est récupérée puis plaquée sur une texture OpenGL  \n  \n )   \n  \nL'intêrét d'un tel      …"
 ---
 

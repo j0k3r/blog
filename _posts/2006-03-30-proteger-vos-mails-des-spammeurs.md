@@ -3,7 +3,7 @@ layout: post
 title: 'Protéger vos mails des spammeurs'
 date: '2006-03-30 12:40:59'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Mon prof de gestion de projet, le &quot;grand&quot; [Stéphane Bordage](http://www.sbordage.com/), nous a fait faire un exercice sur un de ces sites. C'est là que j'ai découvert une bien belle méthode pour éviter de ce faire spammer.     \nEn général, il (*faut*) est recommandé de laisser un mail sur son site pour permettre à quiconque de contacter le      …"
 ---
 

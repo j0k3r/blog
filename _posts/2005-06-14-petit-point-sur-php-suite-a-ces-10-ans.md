@@ -3,7 +3,7 @@ layout: post
 title: 'Petit point sur PHP suite à ces 10 ans'
 date: '2005-06-14 02:00:01'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Cyril Pierre De Geyer (co-fondateur de l'AFUP, co-auteur de PHP 5 avancé ...) publie, dans une tribune sur le JDN, un petit flash back de PHP pour mieux préparer son avenir.     \nEffectivement, lors de ces 10 ans, les [statistiques d'utilisation](http://www.php.net/usage.php) de PHP ont dépassé la barre des 20 millions de domaines.   PHP 5 s'affirme      …"
 ---
 

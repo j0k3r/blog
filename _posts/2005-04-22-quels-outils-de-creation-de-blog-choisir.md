@@ -3,7 +3,7 @@ layout: post
 title: 'Quels outils de création de blog choisir ?'
 date: '2005-04-22 12:29:31'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Tout monde le voie ou même l'utilise, le blog en France a littéralement explosé. Ce système de publication très facile d'utilisation permet de publier des photos et du textes sans aucune connaissance en informatique préalable.     \nOrienté pour les entreprises, cet article compare 5 blogs sur plusieurs critères et donne enfin sa conclusion finale.  \n  \n  …"
 ---
 

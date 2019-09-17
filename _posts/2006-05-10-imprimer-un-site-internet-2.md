@@ -3,7 +3,7 @@ layout: post
 title: 'Imprimer un site internet'
 date: '2006-05-10 12:18:17'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Je viens de remarquer que beaucoup de personne cherchait à &quot;imprimer un site internet&quot;. J'avais trouvé un site, que j'avais placé dans un [ch'tit truc du mois](http://www.j0k3r.net/chtit-truc-imprimer-un-site-internet-23.html), mais je viens de remarquer que le site n'est plus disponible, certainement offline.      \nLe site fonctionnait      …"
 ---
 

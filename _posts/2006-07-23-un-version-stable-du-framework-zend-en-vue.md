@@ -3,7 +3,7 @@ layout: post
 title: 'Un version stable du framework Zend en vue ?'
 date: '2006-07-23 01:30:14'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le [JDN](http://developpeur.journaldunet.com/breve/php/3865/zend-prepare-une-version-stable-de-son-framework.shtml) nous apprends que le framework de Zend pourrai être disponible en version finale en octobre.     \nSorti en [mars dernier](http://www.j0k3r.net/news-zend-rend-disponible-son-framework-1129.html), le [zend      …"
 ---
 

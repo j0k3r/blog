@@ -3,7 +3,7 @@ layout: post
 title: 'Un petit air de Noel'
 date: '2004-12-05 11:42:45'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et bien voila que [j0k3r.n3t](http://www.j0k3r.net/) enfile son manteau de Noël grâce à l'inévitable et incomparable [SmiLeY](http://www.dream-create.com).     \nIl s'est attaqué à la bannière du site et du forum pour les transformer au goût de Noël. Je trouve personnellement le résultat tout simplement magnifique"
 ---
 

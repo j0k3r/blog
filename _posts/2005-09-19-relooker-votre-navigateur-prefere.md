@@ -3,7 +3,7 @@ layout: post
 title: 'Relooker votre navigateur préféré !'
 date: '2005-09-19 06:16:45'
 author: keupsonite
-tags: '[]'
+tags: blabla
 excerpt: "Besoin de personnaliser votre  [Firefox](http://extensions.geckozone.org/Firefox/), [Mozilla](http://extensions.geckozone.org/Mozilla/),  [Thunderbird](http://extensions.geckozone.org/Thunderbird/), [Nvu](http://extensions.geckozone.org/Nvu/) ?       \nGeckozone possède une partie de son site entièrement dédié au extensions pour tous      …"
 ---
 

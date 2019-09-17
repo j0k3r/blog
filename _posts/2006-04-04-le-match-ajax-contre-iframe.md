@@ -3,7 +3,7 @@ layout: post
 title: 'Le match : AJAX contre iFrame'
 date: '2006-04-04 04:22:35'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "C'est le sujet que traite Manuel Lemos de PHP Classes.     \nUne nouvelle version 2.0 Beta de PHPClasses est en cours de développement et vous pouvez déjà voir la [page de login](http://www.phpclasses.org/login.html/v/2) qui a déjà été faite. Manuel en a profité pour nous expliquer pourquoi il a opté pour les iFrames plutôt que d'utiliser l'objet      …"
 ---
 

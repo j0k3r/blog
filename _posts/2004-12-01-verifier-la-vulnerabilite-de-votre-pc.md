@@ -3,7 +3,7 @@ layout: post
 title: 'Vérifier la vulnérabilité de votre pc'
 date: '2004-12-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: 'On dit toujours que surfer sur le net sans firewall/anti-virus, c''est comme faire l''amour sans préservatif, voila un site pour tester votre préservatif.'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Des explications par rapport à phpBB 2.0.15'
 date: '2005-05-25 10:08:53'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Selon les dires du post de [Graham](http://www.phpbb.com/phpBB/viewtopic.php?f=14&amp;t=292017), étant modérateur de la team phpBB, certaines personnes aurait eut des réticences quand à passer à php 2.0.15 ou tout simplement quelques problèmes, il souhaite mettre au clair ce qu''apporte vraiment cette nouvelle version.   )   Le plus gros changement dans      ...'
 ---
 

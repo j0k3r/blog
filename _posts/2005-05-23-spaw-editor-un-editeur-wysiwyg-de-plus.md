@@ -3,7 +3,7 @@ layout: post
 title: 'SPAW editor, un éditeur WYSIWYG de plus'
 date: '2005-05-23 12:45:54'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous connaissiez peut être [htmlArea](http://www.htmlarea.com/) qui est un éditeur WYSIWYG (What You See Is What You Get : *ce que vous voyez est ce que vous obtenez*) qui peut très bien s'intégrer facilement dans un site web.     \nEt bien en voici un autre, nouveau pour certain, il s'appelle [SPAW      …"
 ---
 

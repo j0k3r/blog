@@ -3,7 +3,7 @@ layout: post
 title: 'Les flags du mod_rewrite'
 date: '2005-11-22 11:59:13'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le mod_rewrite d'Apache permet de ré-écrire les urls de votre site. Si vous l'avez déjà utiliser vous aurez certainement remarqué dans la plupart des cas un [L] à la fin de chaque ré-écriture. Cela permet de dire à Apache que si cette règle de ré-écriture est bonne (elle correspond à l'url indiqué), il s'arrete et la mets en application.     \nLe JDN publie la      …"
 ---
 

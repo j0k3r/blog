@@ -3,7 +3,7 @@ layout: post
 title: 'Installer le Zend Framework via PEAR'
 date: '2007-03-11 03:11:58'
 author: j0k
-tags: '[pear,zend_framework]'
+tags: pear zend_framework
 excerpt: "Une rapide news pour vous dire que Geoffrey a, apparemment, bien galéré pour mettre en place un serveur et un package PEAR pour pouvoir installer le [Zend Framework via PEAR](http://fashion.hosmoz.net/post/2007/02/27/Channel-pear-phpMafia-package-Zend-Framework).     \nL'installation est au final très simple, par rapport au travail fournit pour mettre le      …"
 ---
 

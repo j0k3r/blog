@@ -3,7 +3,7 @@ layout: post
 title: 'HTML - Introduction au HTML'
 date: '2003-03-29 19:43:29'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Comment le HTML est-il né ? En fait, tout commence quand Tim BERNERS-LEE crée une méthode pour relier des documents à l''aide de liens hypertextes, sur un réseau appelé à l''époque "*la mère de tous les réseaux*" : Internet.'
 ---
 

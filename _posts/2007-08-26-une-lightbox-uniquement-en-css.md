@@ -3,7 +3,7 @@ layout: post
 title: 'Une lightbox uniquement en CSS'
 date: '2007-08-26 04:31:15'
 author: j0k
-tags: '[css,lightbox]'
+tags: css lightbox
 excerpt: "Par soucis de chargement de plusieurs fichiers JavaScript sur votre page, vous pouvez très bien créer des Lightbox qui n'utilise pas de fichier externe. Sans tomber dans l'absurde de mettre tout le code dans la page, évidemment .. !     \nLe principe est relativement simple, il suffit d'un bloc css qui est caché à la base et qu'on affiche au milieu de l'écran      …"
 ---
 

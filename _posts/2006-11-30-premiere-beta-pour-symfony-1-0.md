@@ -3,7 +3,7 @@ layout: post
 title: 'Première bêta pour symfony 1.0'
 date: '2006-11-30 11:04:46'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La dernière version stable, la 0.6.3, date de plus de 5 mois maintenant. La version 0.7.x date aussi, et voilà que la [version 1.0](http://www.symfony-project.com/weblog/2006/11/29/announcing-symfony-1-0-beta-1.html) montre le bout de son nez.     \nVous n'aurez plus de soucis de magic_quotes_gpc lors de l'installation, les performances ont été augmentés,      …"
 ---
 

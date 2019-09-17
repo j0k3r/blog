@@ -3,7 +3,7 @@ layout: post
 title: 'Mettre à jour EasyPHP v2 !'
 date: '2005-10-14 12:29:17'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "LE voilà enfin, il est bouclé, il est fini, il est prêt, il vous attends !     \nPour ce qui ne le saurait pas encore, le nouvel article pour mettre à jour EasyPHP est disponible dans sa deuxième version. C'est à dire qu'il va vous permettre d'installer Apache 2, MySQL 5 et PHP 5.  \n  \nSuivez bien toutes les consignes mais surtout le 1). Le tutoriel      …"
 ---
 

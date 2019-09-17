@@ -3,7 +3,7 @@ layout: post
 title: 'PHP modifie sa licence'
 date: '2005-12-03 06:24:08'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Une toute nouvelle licence de PHP a été publié. Ramsus a publié une version 3.0.1 avec une toute petite modification : les produits dérivés de PHP doivent maintenant porter la mention suivante :   *\"This product includes PHP software, freely available from http://www.php.net/software/\"*.  \n  \nLa licence PHP obligeait lors de toute diffusion d'un paquet      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Un exemple d''intégration d''une maquette en page HTML/CSS'
 date: '2007-04-10 01:34:39'
 author: j0k
-tags: '[css,html]'
+tags: css html
 excerpt: "Le collectif Alsacréations nous gratifie d'un article très intéressant sur la démarche à suivre pour intégrer une maquette en page HTML/CSS.     \nSi pour certains le passage des tableaux à la mise en page CSS est acquis, pour d'autres, il est toujours difficile de ne plus raisonner en \"découpant\" le design en case ou cellule mais plus par rapport au      …"
 ---
 

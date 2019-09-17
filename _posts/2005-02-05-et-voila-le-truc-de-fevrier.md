@@ -3,7 +3,7 @@ layout: post
 title: 'Et voila le truc de février'
 date: '2005-02-05 01:09:35'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voila j'ai publié le ch'tit truc de ce mois.   Avec un peu de retard certes mais je m'en excuse.  \n  \nUn ch'tit truc fort intéressant que m'a fait découvrir NiLuJe. Il vous permet de faire le gros ménage dans votre code HTML (qui on le suppose, est tout pourri(pour l'exemple, n'en faire pas une généralité ^^)) et d'en faire un fichier HTML tout valide      …"
 ---
 

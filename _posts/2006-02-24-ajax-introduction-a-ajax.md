@@ -3,7 +3,7 @@ layout: post
 title: 'Ajax - Introduction à AJAX'
 date: '2006-02-24 16:52:11'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'AJAX, pour *Asynchronous JavaScript And XML*, est basé sur plusieurs technologies. C''est une méthode de développement qui permet d''envoyer des requêtes à un serveur de façon asynchrone. C''est à dire que vous envoyez une requête sans rafraichir la page.'
 ---
 

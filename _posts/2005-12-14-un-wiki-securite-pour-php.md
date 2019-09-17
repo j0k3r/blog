@@ -3,7 +3,7 @@ layout: post
 title: 'Un wiki sécurité pour PHP'
 date: '2005-12-14 10:51:07'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Un tout nouveau wiki vient de naître. Il est entièrement consacré à la sécurité au niveau de PHP et se nomme forcément [SecurePHP](http://securephp.damonkohler.com/index.php/Main_Page). Il rassemble des articles originaux et des liens externes sur la sécurité de PHP, les attaques et leur parade. Il détailles aussi un peu toutes les failles que peut avoir un script PHP      ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Firefox 1.0 final !'
 date: '2004-11-09 01:14:02'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "**[MAJ 11/11/2004]** Il y a eu 1 000 000 de téléchargements le premier jour de la release !!!     \nFini d'attendre, j'ai la joie immense de vous annoncer la sortie (prévu pour aujourd'hui) de [Firefox 1.0](http://ftp26moz.newaol.com/pub/mozilla.org/firefox/releases/1.0/win32/fr-FR/).   Un p'tit rappel sur Firefox qui est le browser alternatif à IE      …"
 ---
 

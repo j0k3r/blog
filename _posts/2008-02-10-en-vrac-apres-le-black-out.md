@@ -3,7 +3,7 @@ layout: post
 title: 'En vrac, après le black out...'
 date: '2008-02-10 04:30:13'
 author: j0k
-tags: '[antispam,cdn,symfony,vrac]'
+tags: antispam cdn symfony vrac
 excerpt: 'C''est pas dans mon habitude de faire des news de liens dit "en vrac", mais là ça fait tellement longtemps que j''avais pas retrouvé réellement internet chez moi (toujours pas le cas, mais free ne devrait plus trop tardé !) qu''il y a plein de trucs intéressants qui sont passés !'
 ---
 

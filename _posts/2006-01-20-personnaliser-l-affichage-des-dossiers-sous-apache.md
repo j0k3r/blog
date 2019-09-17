@@ -3,7 +3,7 @@ layout: post
 title: 'Personnaliser l''affichage des dossiers sous Apache'
 date: '2006-01-20 05:24:27'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "On peut facilement personnaliser l'affichage des dossiers (ne contenant pas d'index) pour ainsi palier au banal (et moche) affichage par défaut d'Apache.     \nOn peut spécifier tout un tas de directive mais je pense que la plus importante reste quand même le fait de pouvoir ajouter un fichier d'en-tête (header) et un fichier de bas de page (footer). Ainsi on      …"
 ---
 

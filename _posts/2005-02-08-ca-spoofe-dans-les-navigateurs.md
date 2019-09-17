@@ -3,7 +3,7 @@ layout: post
 title: 'Ca spoofe dans les navigateurs !'
 date: '2005-02-08 07:56:49'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Une petite faille liée à l'IDN (International Domain Name) vient d'être reportée. Elle concerne un bon nombre de navigateur, donc notre cher FireFox et son grand frère Mozilla"
 ---
 

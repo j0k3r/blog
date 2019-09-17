@@ -3,7 +3,7 @@ layout: post
 title: 'Sept astuces pour les codeurs PHP en freelance'
 date: '2006-01-02 04:31:21'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Beaucoup de jeunes (et moins jeunes aussi) se lance dans le freelance pour diverses raisons. Mais souvent ils ne savent pas vraiment à quoi s'attendre. Certains se sont lancés depuis longtemps et cela ne va peut être pas forcément comme il le souhaite.     \nCe nouvel [article](http://www.phpmag.net/magphpde/magphpde_article/psecom,id,746,nodeid,21.html)      …"
 ---
 

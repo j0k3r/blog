@@ -3,7 +3,7 @@ layout: post
 title: 'PHP on the fly'
 date: '2005-02-17 03:20:06'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Mais qu'est ce donc ?   On nommme *PHP on the fly* le trio PHP, JavaScript et XML qui permet de mettre à jour une page web, sans avoir à la recharger, ce qui permet de gagner en rapidité. Le navigateur et le serveur échangent des données, et le navigateur rafraichit la page via JavaScript, sans la recharger totalement.  \n  \nC'est assez impressionant, cela      …"
 ---
 

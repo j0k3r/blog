@@ -3,7 +3,7 @@ layout: post
 title: 'Firefox 3.0, nom de code Minefield'
 date: '2006-10-13 10:47:17'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Firefox 3.0 est en route !     \nAlors que la version 2.0 n'est pas encore publiée et que d'ailleurs une [soirée](http://standblog.org/blog/2006/10/11/93114919-fete-de-lancement-de-firefox-2-a-paris-le-26-10-2006) est organisée pour le lancement de cette version à Paris le 26 octobre prochain, la version 3.0 de Firefox est déjà en cours de développement.       …"
 ---
 

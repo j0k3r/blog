@@ -3,7 +3,7 @@ layout: post
 title: 'Interview du directeur de Mozilla Europe'
 date: '2005-06-02 02:49:56'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "PC INpact a réalisé l'[interview](http://www.pcinpact.com/actu/news/Interview_de_Tristan_Nitot_directeur_de_Mozilla_Eu.htm) de M. Nitot, directeur de Mozilla Europe.   Tristan Nitot vient juste d'être nommé président de Mozilla Europe après 18 mois de bénévolat.  \n  \nDans cette interview on en apprends un petit peu plus sur Firefox 1.1.   PCI      …"
 ---
 

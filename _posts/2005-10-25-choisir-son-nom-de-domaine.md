@@ -3,7 +3,7 @@ layout: post
 title: 'Choisir son nom de domaine'
 date: '2005-10-25 11:15:17'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le choix d'un nom de domaine est un élément primordial de la démarche de création d'un site web au même titre que le choix de la marque pour un nouveau produit. Il va en effet influencer la mémorisation de l'adresse du site, son accessibilité et éventuellement son positionnement dans les annuaires.     \nDans une optique de réservation stratégique, le choix d'un      …"
 ---
 

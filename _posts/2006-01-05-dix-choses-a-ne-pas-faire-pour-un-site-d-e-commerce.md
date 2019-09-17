@@ -3,7 +3,7 @@ layout: post
 title: 'Dix choses à ne pas faire pour un site d''e-commerce'
 date: '2006-01-05 05:21:28'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Il est essentiel lors de la création d'un site d'e-commerce de se plier à certaines exigences pour faire quelques choses de vendeur. Etant donné que le but principal est de vendre, il faut rassurer les clients, leur permettre d'aller voir la fiche d'un produit (avec une miniature optimisé du produit) en quelques clics ... et j'en passe.     \nTout ceci est à      …"
 ---
 

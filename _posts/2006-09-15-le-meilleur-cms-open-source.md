@@ -3,7 +3,7 @@ layout: post
 title: 'Le meilleur CMS Open Source'
 date: '2006-09-15 06:39:59'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Un concours du meilleur CMS Open Source a été lancé par [PackPub](http://www.packtpub.com/award).     \nEt [Nexen](http://www.nexen.net/actualites/php/best_open_source_cms_:_les_5_finalistes_sont_affiches.php) nous présente les 5 finalistes :  \n  \n* Drupal * e107 * Joomla! * Plone * xoops  \n  \nCes 5 CMS ont donc été      …"
 ---
 

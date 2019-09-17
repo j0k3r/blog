@@ -3,7 +3,7 @@ layout: post
 title: 'Personnaliser vos formulaires'
 date: '2005-11-19 12:10:14'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après vous avoir indiqué la façon de faire [des formulaires simples et accessibles](http://www.j0k3r.net/news-faire-des-formulaires-simples-et-accessibles-766.html) à tous, je vous présente maintenant quelques liens pour personnaliser un peu vos formulaires.     \nVous le savez bien, il est banni d'utiliser les tableaux lors de l'affichage de formulaire,      …"
 ---
 

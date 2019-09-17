@@ -3,7 +3,7 @@ layout: post
 title: 'Listes liées avec AJAX'
 date: '2006-01-11 11:27:30'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Un tout nouveau tutoriel sur AJAX vient d'être publié chez [developpez.com](http://siddh.developpez.com/articles/ajax/).     \nEn outre il présente ce qu'est AJAX et l'objet XMLHttpRequest, avec son utilisation. Puis il montre quelques exemples concrets, comme mise en place de liste liées.   Le terme de &quot;liste liées&quot; est employé quand par      …"
 ---
 

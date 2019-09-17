@@ -3,7 +3,7 @@ layout: post
 title: 'Un autre style switcher en PHP'
 date: '2005-05-30 10:51:41'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Un modérateur du site developpez.com propose un style switcher en PHP.   Pour rappel un style switcher permet de changer le style du site (en général une autre feuille de style CSS) en sélectionnant simplement une entrée d'une liste déroulante.  \n  \nIl n'utilise pas JavaScript mais directement PHP, c'est une solution puisque tout le monde n'accepte pas      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Conception d''un client de messagerie IMAP - 2ième partie'
 date: '2005-06-05 05:05:53'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après avoir fait une [première partie](http://www.j0k3r.net/news-conception-d-un-client-de-messagerie-imap-1ere-partie-437.html) qui traité la réception et la consultation des mails dans votre boite aux lettres.     \nDans cette [deuxième partie](http://developpeur.journaldunet.com/tutoriel/php/050603-php-email-imap-lecteur-2.shtml), le JDN aborde la      …"
 ---
 

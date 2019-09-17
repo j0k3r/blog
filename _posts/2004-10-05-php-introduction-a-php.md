@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Introduction à PHP'
 date: '2004-10-05 22:47:08'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'La première version de PHP fut créée par Rasmus Lerdorf en 1994. Cette version appelée à l''époque Personal Home Pages, était simplement destinée à son usage personnel, a noter que cette version supportait déjà des requêtes SQL (base de données).'
 ---
 

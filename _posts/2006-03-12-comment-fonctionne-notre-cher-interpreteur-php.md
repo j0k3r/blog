@@ -3,7 +3,7 @@ layout: post
 title: 'Comment fonctionne notre cher interpréteur PHP ?'
 date: '2006-03-12 01:35:17'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'interpréteur PHP est la clé, si je puis dire, du rendu de votre code PHP. C'est lui qui génère le code HTML que votre script PHP va produire.     \nLe fonctionne général est simple. Vous demandez une page internet à votre navigateur. Ce dernier envoie la requête sur un serveur web. Ce serveur repère que c'est une page PHP qui est demandé et l'envoie donc à      …"
 ---
 

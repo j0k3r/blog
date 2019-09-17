@@ -3,7 +3,7 @@ layout: post
 title: 'Créer des listes classables en AJAX'
 date: '2006-03-05 06:17:24'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Dans une partie administration on s''embête souvent à faire une gestion d''affichage de façon à placer un élément devant un autre, une sorte de classement en général.   Avant on mettait des petites flèches et en cliquant dessus cela recharger toute la page avec les nouvelles données. Maintenant on a AJAX pour faire quelques choses de beaucoup plus ludiques et intuitif.       ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Mettre en place des meta-tags dynamiques'
 date: '2006-03-30 03:53:03'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Que ceux qui disent / affirment que les meta-tags sont complètement obsolètes en référencement, sortent de la salle !     \nLes meta-tags favorisent votre référencement. Certes tous les meta-tags ne sont pas concernés mais certains sont grandement utilisés par Google.   Google affiche généralement le contenu de la balise description de votre site lorsqu'une      …"
 ---
 

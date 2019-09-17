@@ -3,7 +3,7 @@ layout: post
 title: 'Faciliter la saisie grace au cookie'
 date: '2005-04-18 08:06:08'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Il vous est certainement déjà arriver de taper un long texte pour un mail, une news ou autre et de faire une fausse manipulation (plantage du navigateur, bouton actualiser ...) et de perdre tout ce que vous aviez écrit ...     \nChose qui vous mets en rage (moi le premier) du coup, vous ne retapez pas tout votre texte. Mais il existe une astuce très pratique pour      …"
 ---
 

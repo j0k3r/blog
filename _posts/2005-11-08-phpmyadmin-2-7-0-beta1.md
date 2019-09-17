@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyAdmin 2.7.0 bêta1'
 date: '2005-11-08 10:41:46'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voilà une première bêta de phpMyAdmin 2.7.0.   N'ayez craintes, cette version est déjà utilisé depuis quelques temps par des membres du staff de phpMyAdmin et a été testé sur MySQL 4.0.x, 4.1.x et 5.0.x.  \n  \nLe passage des versions 2.3.0 et inférieure n'est plus possible et n'est pas supporté par cette nouvelle bêta.   Vous pouvez toujours      …"
 ---
 

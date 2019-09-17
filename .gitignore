@@ -4,4 +4,4 @@ _site
 vendor
 composer*
 dump.sql
-import.php
+*.php

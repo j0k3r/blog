@@ -3,7 +3,7 @@ layout: post
 title: 'Quel est le plus rapide des frameworks JavaScript ?'
 date: '2007-06-12 11:31:45'
 author: j0k
-tags: '[cssQuery,ext,framework,javascript,jquery,mootools,prototype]'
+tags: cssQuery ext framework javascript jquery mootools prototype
 excerpt: 'Je pense qu''on est tous d''accord pour dire qu''il y a toujours beaucoup de framework dans un peu tous les langages de programmation, que ce soit en PHP, en JavaScript ... et il faut bien souvent faire des choix avant de commencer à développer.    Ces choix sont souvent influencer par une utilisation précédent ou des "on m''a dit que". J''utilise par exemple      ...'
 ---
 

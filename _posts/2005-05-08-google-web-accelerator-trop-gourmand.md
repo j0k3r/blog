@@ -3,7 +3,7 @@ layout: post
 title: 'Google Web Accelerator : Trop gourmand ?'
 date: '2005-05-08 02:15:12'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Dans une dernière news, je vous parlais de GWA (Google Web Accelerator) qui accélère votre surf on da web notamment en préchargeant les "éventuelles" pages que vous iriez visiter.   )   Mais tout le problème est là. GWA précaché quasiement tous les liens d''une page. Du coup c''est comme si on cliquait sur tous les liens de la pages ... ignorant même les      ...'
 ---
 

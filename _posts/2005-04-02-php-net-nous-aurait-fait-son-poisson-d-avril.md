@@ -3,7 +3,7 @@ layout: post
 title: 'php.net nous aurait fait son poisson d''avril ?'
 date: '2005-04-02 05:35:53'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Je ne sais pas si vous l'avez remarqué mais lors de la publication des versions 5.0.4 et 4.3.11 de PHP, le logo dans le phpinfo avait changé, tout comme celui du site officiel.     \nEt aujourd'hui le logo de mon phpinfo et celui du site officiel est redevenu normal, php.net nous aurait fait un poisson d'avril en changeant le logo ?   Ces logos étaient      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'SeaMonkey 1.0 bêta'
 date: '2005-12-20 05:41:06'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'SeaMonkey 1.0 bêta, compme prévu par le roadmap, vient d''être publié.   Pour ceux et celles qui n''auraient pas suivit ce qu''est SeaMonkey, Mozilla a annoncé en mars dernier (le 10 mars 2005) qu''elle ne publierai plus de nouvelle version et qu''elle se focaliserai principalement sur les deux versions autonome que sont Firefox et Thunderbird. La suite continue à être      ...'
 ---
 

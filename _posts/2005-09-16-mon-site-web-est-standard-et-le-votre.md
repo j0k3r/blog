@@ -3,7 +3,7 @@ layout: post
 title: 'Mon site Web est standard ! Et le vôtre ?'
 date: '2005-09-16 12:19:51'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voilà un bien joli titre pour un article de chez pompage.net.   Cet [article](http://pompage.net/pompe/sitestandard/) fait partie intégrante du groupe de travail du W3C Quality Assurance Interest Group.  \n  \nVous trouverez ici des concepts et des techniques faciles à mettre en oeuvre vous permettant d'améliorer la qualité de votre site Web et de le      …"
 ---
 

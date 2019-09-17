@@ -3,7 +3,7 @@ layout: post
 title: 'Un hébergement gratuit chez OVH !'
 date: '2006-02-01 12:04:42'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Lancer l'année dernière, l'offre alléchante de 1and1 a été apprécié par bon nombre d'entre nous. Rétissant au début, tout le monde c'est dis que c'était une arnaque qu'il ne fallait pas la prendre et bla bla et bla bla. Cependant on est quand même beaucoup à avoir adhérer au concept.     \nEt bien OVH vient de lancer le même genre d'offre. Mais moins alléchante      …"
 ---
 

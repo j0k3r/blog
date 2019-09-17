@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL - Administration MySQL'
 date: '2004-03-22 05:26:43'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Je vais vous montrer comment administrer une base MySQL en ligne de commande (exemple sous un shell Linux).'
 ---
 

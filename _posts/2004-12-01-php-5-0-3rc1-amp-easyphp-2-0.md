@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 5.0.3RC1 &amp; EasyPHP 2.0'
 date: '2004-12-01 01:48:42'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Tout comme la version 4.3.10 de php4, voila la version [5.0.3](http://qa.php.net/) qui entamme ça premiere RC. Tester là sans compexe, elle est faite pour ça.   Cette mise à jour comporte quelques 40 correctifs et des améliorations au niveau du SOAP, PEAR et GD.  \n  \nUne p'tite info sympatique aussi, apparament, EasyPHP pourrai sortir une nouvelle      …"
 ---
 

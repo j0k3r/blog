@@ -3,7 +3,7 @@ layout: post
 title: 'Magazine Developpez.com disponible'
 date: '2006-09-26 09:11:30'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Le [magazine bimensuel](http://magazine.developpez.com/) de Développez.com est disponible pour la période Septembre/Octobre.     \nCe magazine au format pdf vous tient au courant de l'actualité informatique en général mais il vous présente aussi les meilleurs cours, tutoriels ou documents à consulter ou à télécharger.  \n  \nAu menu de la      …"
 ---
 

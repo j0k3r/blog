@@ -3,7 +3,7 @@ layout: post
 title: 'Faites tourner IE 7 en standalone'
 date: '2006-02-14 08:54:04'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Depuis la publication de la deuxième bêta d'IE7 ces derniers jours, nombreux sont ceux qui voudraient simplement tester IE7 sans pour cela remplacer completement leur (bon ?) vieux IE6. En plus de ça, apparement la désinstallation d'IE7 ne serait pas si simple, mais c'est un autre débat !     \nLe principe est simple au lieu de l'installer normalement, on le      …"
 ---
 

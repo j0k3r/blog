@@ -3,7 +3,7 @@ layout: post
 title: 'La newsletter de j0k3r.n3t'
 date: '2005-04-01 01:39:37'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voila enfin la newsletter de j0k3r.n3t est opérationnelle et surtout automatisée !     \nJ'ai modifié quelque peu la newsletter.   Ainsi il y a maintenant deux newsletters (non dissossiées pour l'instant). Une qui concerne le ch'tit truc du mois et une autre concernant les news. La première est mensuelle, et la deuxième hebdomadaire.  \n  \n     …"
 ---
 

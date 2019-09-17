@@ -3,7 +3,7 @@ layout: post
 title: 'Ruby on Rails aux éditions Eyrolles !'
 date: '2006-01-23 08:48:42'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La bible du railer est désormais disponible en français aux éditions Eyrolles !     \nÉcrit par le créateur de Ruby on Rails et par l'auteur du classique Programming Ruby, ce [livre](http://www.editions-eyrolles.com/Livre/9782212117462/) propose dans un premier temps un apprentissage par la pratique, à travers la réalisation d'une application de      …"
 ---
 

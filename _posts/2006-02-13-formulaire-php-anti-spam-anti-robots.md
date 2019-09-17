@@ -3,7 +3,7 @@ layout: post
 title: 'Formulaire PHP anti-spam, anti-robots'
 date: '2006-02-13 12:49:35'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Les temps sont durs et le spam est devenu la vraie chienlit du net. Nombreuses sont les personnes qui ont dernièrement souffert des attaquent sur leurs formulaires, via des robots sans vergogne, ppan.net a vite décidé de développer une protection. Ce n''est pas nouveau car en place sur de nombreux sites (notamment les inscriptions aux forums) mais c''est juste une façon de voir      ...'
 ---
 

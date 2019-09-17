@@ -3,7 +3,7 @@ layout: post
 title: 'Le bon counter !'
 date: '2003-12-29 15:10:21'
 author: j0k
-tags: '[divers]'
+tags: divers
 excerpt: "BIENVENUE A TOI FUTUR LAMORZ DU NET  \nTU VIENT DE DECOUVRIR UN JEU NOMMé COUNTER STRIKE ?  \nTU VEUX RENTRER DANS L'ELITE FRANCAISE DU MEGA LAMING EN 7 LECONS ?  \nALORS CETTE PAGE EST POUR TOI FUTUR MTZ !"
 ---
 

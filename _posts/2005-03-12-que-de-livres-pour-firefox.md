@@ -3,7 +3,7 @@ layout: post
 title: 'Que de livres pour Firefox !'
 date: '2005-03-12 03:24:30'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Au moment où la fondation Mozilla publie des nouvelles pas forcément bonnes sur son avenir, d''autres personnes écrivent des livres sur Firefox et Thunderbird.   )   [Mozillazine](http://www.mozillazine-fr.org/) nous indique que le livre *Firefox and Thunderbird Garage* devrait être publié le mois prochain. Il servirait de manuel pour ces deux logiciles      ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 5 et le polymorphisme'
 date: '2006-03-10 08:26:19'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: 'Pour les amateurs de DPOO ( Design/Programmation Orientée Objet ) cet [article de devshed](http://www.devshed.com/c/a/PHP/PHP-5-and-Polymorphism/) vous présente ce qu''est le polymorphisme.   Le but du polymorphisme est &quot;en résumé&quot; de créer des catégories d''objets ayant une interface commune.   On peut ainsi traiter des objets différents sans se      ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'AjaxAC : Un Framework PHP pour AJAX'
 date: '2005-06-17 11:00:17'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Je vous en parlais rapidement dans une dernière news concernant [Google Suggest](http://www.j0k3r.net/news-faire-son-google-suggest-grace-a-ajax-555.html), un développeur anglais a mis au point un framework (Cadre d''applications informatique qui est un ensemble de bibliothèques permettant le développement rapide d''applications) écrit en PHP pour faciliter l''utilisation      ...'
 ---
 

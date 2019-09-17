@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL 5.0.10 disponible'
 date: '2005-07-31 03:32:08'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "MySQL 5.0.10 vient d'être publiée"
 ---
 

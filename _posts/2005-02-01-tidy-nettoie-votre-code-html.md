@@ -3,7 +3,7 @@ layout: post
 title: 'Tidy nettoie votre code HTML'
 date: '2005-02-01 00:00:00'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Il est fréquent de commettre quelques erreurs lorsque l''on écrit du code HTML dans un éditeur de texte ... et bien voila un petit soft qui vous nettoie tout ça !'
 ---
 

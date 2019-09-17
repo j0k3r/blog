@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 5.1.3, première release candidate'
 date: '2006-03-13 03:14:21'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Il y a quelques jours de cela, la première release candidate de PHP 5.1.3 a été diffusée.     \nC'est Ilia Alshanetsky, directeur des publications, qui a publié cette version. Certes il s'agit principalement d'une version corrigeant un bon paquet de buGs, mais elle inclut aussi PECL en version 6.6. L'interface FAST-CGI a été revue. SPL, APU, cURL et GD ont eux      …"
 ---
 

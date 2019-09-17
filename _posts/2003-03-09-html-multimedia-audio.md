@@ -3,7 +3,7 @@ layout: post
 title: 'HTML - Multimedia - Audio'
 date: '2003-03-09 19:50:38'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Voici un tableau récapitulant les différents formats, leurs origines ainsi que les logiciels permettant de les lire.'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Tester votre site'
 date: '2003-03-01 00:00:00'
 author: j0k
-tags: '[divers]'
+tags: divers
 excerpt: 'Si le temps d''affichage de votre site décourage les plus patients, livrez-vous à ce petit test pour comprendre en quelques secondes d''où vient cette lenteur'
 ---
 

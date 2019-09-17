@@ -3,7 +3,7 @@ layout: post
 title: 'Bon Echo alpha 3, dernière alpha pour Firefox 2.0'
 date: '2006-05-28 03:31:28'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Hier, Bon Echo alpha 3 a été diffusé comme prévu. Cette dernière version alpha du code qui deviendra à terme Mozilla Firefox 2.0 ajoute de nouvelles fonctionnalités d''[anti-phishing](http://www.mozilla.org/projects/bonecho/anti-phishing/) et inclut le support d''une [session](http://www.whatwg.org/specs/web-apps/current-work/#scs-client-side) côté client et du      ...'
 ---
 

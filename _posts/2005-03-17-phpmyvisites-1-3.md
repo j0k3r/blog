@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyVisites 1.3'
 date: '2005-03-17 12:37:11'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Une toute nouvelle version de phpMyVisites viens d'être publié !   Plein de [changements](http://www.phpmyvisites.net/fichiers/changelog) comme pour chaque nouvelle version.  \n  \nOn notera surtout le nombre croissant de traduction pour ce logiciel, qui est maintenant au total de 16 langues. On voit tout de suite l'ampleur du projet.  \n  \n   …"
 ---
 

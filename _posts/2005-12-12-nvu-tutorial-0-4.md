@@ -3,7 +3,7 @@ layout: post
 title: 'Nvu Tutorial 0.4'
 date: '2005-12-12 10:43:35'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Nvu est un éditeur HTML de type WYSIWYG (Ce que vous voyez est ce que vous obtenez) basé sur le module d'édition HTML de Mozilla, il permet de créer des pages web en PHP, HTML ...     \nUne nouvelle [extension](http://extensions.geckozone.org/NvuTutorial/) vient de paraître. Et oui comme tout projet Mozilla, des extensions peuvent être incluses !  \n     …"
 ---
 

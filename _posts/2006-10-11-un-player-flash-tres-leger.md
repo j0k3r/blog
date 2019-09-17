@@ -3,7 +3,7 @@ layout: post
 title: 'Un player flash très léger'
 date: '2006-10-11 10:05:45'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Z Video 1.0 est un player flash qui lis les fichiers flv (les vidéos encodés sous flash) et qui est très très léger étant donné qu'il ne pèse que 2.4Ko !!     \nIl permet de diffuser des vidéos sur votre site web très facile et s'adapte à la taille de la vidéo. Il charge la vidéo à la demande et non au moment du chargement de la page. Son utilisation est très      …"
 ---
 

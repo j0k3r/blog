@@ -3,7 +3,7 @@ layout: post
 title: 'Comprendre le framework Zend'
 date: '2006-08-03 09:46:03'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "IBM, qui s'investit de plus en plus dans la communauté PHP, publie sur son site un article de 9 étapes pour comprendre comment fonctionne le Zend framework et surtout comment l'utiliser.     \nVoici les grandes lignes de ces 9 étapes :  \n  \n * _Partie 1_ : *Introduction*  \nCet article, explique les bases du framework Zend.  \n  \n      …"
 ---
 

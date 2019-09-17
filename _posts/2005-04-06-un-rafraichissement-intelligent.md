@@ -3,7 +3,7 @@ layout: post
 title: 'Un rafraîchissement intelligent'
 date: '2005-04-06 03:05:08'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "[Nexen](http://www.nexen.net/news/gen.php/2005/04/06/4094,0,0,0,0.php) fait suivre un tutorial très intéressant sur le rafraichissement intelligent d'une page.     \nPrennons l'exemple d'un chat. Vous postez un message, il l'enregistre dans la base et vous rafiraichit le chat pour que vous voyez votre message. Mais si vous restez sur le site vous avez peut      …"
 ---
 

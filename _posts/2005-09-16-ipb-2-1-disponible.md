@@ -3,7 +3,7 @@ layout: post
 title: 'IPB 2.1 disponible'
 date: '2005-09-16 12:08:40'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "IPS a [annoncé](http://forums.invisionpower.com/index.php?showtopic=188654) hier la sortie de la version finale d'Invision Power Board 2.1.     \nIl s'agit de la première version stable, complète, et supportée. Vous avez désormais la possibilité de la télécharger via le centre de téléchargement présent depuis votre accès client sur le site d'IPS.  \n       …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Motilee, un forum open source développé avec Symfony'
 date: '2007-11-28 11:47:20'
 author: j0k
-tags: '[forum,plugin,symfony]'
+tags: forum plugin symfony
 excerpt: "Les plugins pour Symfony ne manquent pas, que ça soit pour faire un blog, un système de news, un CMS, un librairie multimédia ou encore un forum basique, tout y est !     \n[Motilee](http://www.motilee.com/) utilise justement quelques plugins de Symfony dont le plugin sfSimpleForumPlugin pour le côté forum, le plugin sfGuardPlugin pour la gestion des      …"
 ---
 

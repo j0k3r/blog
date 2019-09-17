@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyVisites 2.0 bêta 5'
 date: '2005-11-22 01:35:58'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "[Cinquième](http://www.phpmyvisites.net/index.php?part=download&amp;lg=fr&amp;nid=4) et (normalement) dernière bêta avant la publication finale de phpMyVisites 2.0. Cette bêta est très proche de la version stable mais il vaut mieux sortir une bêta en plus histoire de tester et de tracker les tout derniers buGs.     \nLes changements depuis la dernière bêta      …"
 ---
 

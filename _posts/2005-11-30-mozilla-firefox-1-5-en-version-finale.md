@@ -3,7 +3,7 @@ layout: post
 title: 'Mozilla Firefox 1.5 en version finale'
 date: '2005-11-30 06:33:06'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Comme prévu par la fondation Mozilla, [Mozilla Firefox 1.5](http://releases.mozilla.org/pub/mozilla.org/firefox/releases/1.5/) est sorti en version finale avec tous les packs de langages hier dans la soirée.     \nRappelons que cette version de Firefox inclut un tout nouveau système de mise à jour logicielle, une gestion des pages précédentes / suivantes      …"
 ---
 

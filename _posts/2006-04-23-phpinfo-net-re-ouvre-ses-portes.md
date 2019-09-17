@@ -3,7 +3,7 @@ layout: post
 title: 'phpinfo.net ré-ouvre ses portes !'
 date: '2006-04-23 10:34:24'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "phpinfo.net avait fermé ses portes en septembre 2002 par manque de temps pour mettre à jour le site. Il a (généreusement) laissé place aux archives de phpinfo.net. On commençait à vraiment s'habituer à cette interface un peu simple pour trouver des scripts utiles mais parfois (trop) vieux.     \nCe temps est révolu, puisque phpinfo.net vient de ré-ouvrir. Le site      …"
 ---
 

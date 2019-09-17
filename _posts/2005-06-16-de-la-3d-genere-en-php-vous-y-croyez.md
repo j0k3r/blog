@@ -3,7 +3,7 @@ layout: post
 title: 'De la 3D généré en PHP vous y croyez ?'
 date: '2005-06-16 06:22:47'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Ça parait fou ? Mais ou va PHP ? Quand s'arrêtera-t-il ? (On pourrait utiliser ces même questions pour Google tiens !)     \nNexen nous informe que Tobias Schlitt a rencontré l'auteur d'un projet de fou, une bibliothèque 3D pour PHP, écrite en PHP, et basée sur GD : [3Dlib](http://www.kore-nordmann.de/3dlib.html).   Il suffit de regarder les      …"
 ---
 

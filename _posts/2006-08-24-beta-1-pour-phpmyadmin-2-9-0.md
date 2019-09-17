@@ -3,7 +3,7 @@ layout: post
 title: 'Bêta 1 pour phpMyAdmin 2.9.0'
 date: '2006-08-24 10:02:08'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le staff de phpMyAdmin est en pleine forme en ce moment, voilà qu'ils viennent tout juste de publié la première bêta de la nouvelle version 2.9.0.     \nVoici les différents changements depuis les anciennes versions (désolé, en anglais) :  \n  \n* Improved readability of setup panels   * PDF schema: automatic layout for InnoDB   * Font      …"
 ---
 

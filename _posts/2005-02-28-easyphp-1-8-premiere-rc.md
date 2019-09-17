@@ -3,7 +3,7 @@ layout: post
 title: 'EasyPHP 1.8 : Première RC'
 date: '2005-02-28 10:32:53'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et voilà, cela fait maintenant une dizaine de jours que la version bêta de la nouvelle version d'EasyPHP était sortie. Maintenant elle laisse place à la première [Release Candidate](http://www.easyphp.org/mirror/easyphp1-8_setup_RC.exe).     \nLa version bêta présentait quelques buGs au niveau d'Apache sur Windows98, de theme XP, des repertoires manquant      …"
 ---
 

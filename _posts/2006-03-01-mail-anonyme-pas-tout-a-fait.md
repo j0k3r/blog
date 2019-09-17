@@ -3,7 +3,7 @@ layout: post
 title: 'Mail anonyme ... pas tout à fait !!!'
 date: '2006-03-01 09:17:42'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Vous recevez des mails anonymes avec des adresses d'envoi falsifiées ...     \nEt bien on apprend dans cet [article du JDN](http://developpeur.journaldunet.com/tutoriel/theo/060224-tracer-serveur-mail.shtml) qu'un mail comporte en réalité une trace du chemin qu'il a parcouru ( dans les entêtes du message ).  \n  \nOn a donc en réalité à la      …"
 ---
 

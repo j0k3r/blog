@@ -3,7 +3,7 @@ layout: post
 title: 'Firefox 1.0.3 et Mozilla 1.7.7'
 date: '2005-04-06 11:25:46'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "De nouvelles mises à jour de Mozilla Firefox et la suite Mozilla sont lancés. Elle ne comporteront que des correctifs de sécurité et de stabilité, aucune nouvelle fonctionnalité ne sera ajouté.   Par exemple sous Windows, le buG qui faisait apparaître plusieurs fois Firefox dans la fenêtre *Ajouter ou supprimer des programmes* a été corrigé.  \n  \n     …"
 ---
 

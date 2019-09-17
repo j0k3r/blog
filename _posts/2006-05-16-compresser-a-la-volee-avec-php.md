@@ -3,7 +3,7 @@ layout: post
 title: 'Compresser à la volée avec PHP'
 date: '2006-05-16 11:02:48'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Cet [article de phpIt](http://www.phpit.net/article/creating-zip-tar-archives-dynamically-php/1/) décrit comment créer des archives de données   au format zip ou même tar dans le but de créer un sytème de téléchargement    de fichier propre à chaque utilisateur.  \n  \nOn y apprend comment créer une Archive de données à l'aide de PEAR  \n     …"
 ---
 

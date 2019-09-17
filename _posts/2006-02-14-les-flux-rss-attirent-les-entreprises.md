@@ -3,7 +3,7 @@ layout: post
 title: 'Les flux RSS attirent les entreprises !'
 date: '2006-02-14 04:47:00'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Une nouvelle interview est disponible sur le JDN.    C'est le PDG de Cyberstrat qui s'y colle. Il parle surtout de la technologie RSS au sein de son entreprise dans un premier temps puis sa vision de l'avenir.  \n  \nPour lui , &quot;ce qui apparaît essentiel est de voir en RSS l'avènement d'une nouvelle forme de communication.&quot; Il suffit de voir le      …"
 ---
 

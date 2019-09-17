@@ -3,7 +3,7 @@ layout: post
 title: 'Construire un blog avec Dreamweaver - 1ère partie'
 date: '2005-05-16 01:04:19'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Un nouvel article est disponible dans le centre de dev de Macromedia, il concerne la création d'un blog de A à Z.     \nCet article est le premier d'une série de six cours d'instruction qui vous guideront pour établir un blog complexe en utilisant Dreamweaver avec un environnement de développement PHP/MySQL.  \n  \nDans ce [premier      …"
 ---
 

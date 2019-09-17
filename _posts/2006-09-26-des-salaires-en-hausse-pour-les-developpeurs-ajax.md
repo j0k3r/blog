@@ -3,7 +3,7 @@ layout: post
 title: 'Des salaires en hausse pour les développeurs AJAX'
 date: '2006-09-26 09:25:56'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Cette [news de ajaxian](http://ajaxian.com/archives/salaries-go-up-for-ajax-jobs) nous informe sur la hausse actuelle des salaires chez les développeurs confirmés en AJAX.     \nEn effet sur cette année on a pu constater une augmentation énorme de salaire de 33 % dans un entreprise anglaise spécialisée en applications AJAX ( **Brit AJAX slingers** ). Cette      …"
 ---
 

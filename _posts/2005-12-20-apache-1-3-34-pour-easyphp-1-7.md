@@ -3,7 +3,7 @@ layout: post
 title: 'Apache 1.3.34 pour EasyPHP 1.7'
 date: '2005-12-20 05:58:13'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "[Apache 1.3.34](http://www.j0k3r.net/news-apache-1-3-34-758.html) a été publié il y a maintenant deux mois. Après avoir été supprimé de tous les miroirs un mois après sa publication, il est de nouveau disponible.     \nJ'en ai profité pour mettre à jour la première version de l'article pour [mettre à jour      …"
 ---
 

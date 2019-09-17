@@ -3,7 +3,7 @@ layout: post
 title: 'AJAX et l''accessibilité'
 date: '2006-04-01 04:00:29'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Avec l'engouement que suscite AJAX, il est peut être bon de faire un rappel sur l'effet que cela a sur l'accessibilité et expliquer comment ils peuvent tous les deux cohabiter. Il faut savoir que l'un n'exclue pas l'autre comme beaucoup le montre.     \nDans un premier temps, il faut éviter de combiner les événements dans les balises HTML. Par exemple en utilisant      …"
 ---
 

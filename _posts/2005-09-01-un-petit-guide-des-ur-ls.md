@@ -3,7 +3,7 @@ layout: post
 title: 'Un petit guide des URLs'
 date: '2005-09-01 00:00:00'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Vous les utilisez tous les jours, les URLs permettent d''obtenir des infos via différents protocoles Internet. Je vous propose un petit guide de ce standard.'
 ---
 

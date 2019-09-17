@@ -3,7 +3,7 @@ layout: post
 title: 'Les tests unitaires grace à SimpleTest'
 date: '2005-01-13 12:19:32'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Une traduction complète du tutoriel anglais sur SimpleTest vient d'être terminée.   SimpleTest est une classe php qui permet de faire facilement des tests unitaires sur vos applications.   \n  \nMais c'est quoi un *test unitaire* ?   Un test unitaire, comme son nom l'indique, permet de faire un test sur une partie de l'application afin de s'assurer      …"
 ---
 

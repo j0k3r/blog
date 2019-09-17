@@ -3,7 +3,7 @@ layout: post
 title: 'Pagination en PHP'
 date: '2005-04-29 12:12:46'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Il est souvent intéressant de pouvoir mettre un pagination sur l'affichage de données. Un exemple facile est les réponses dans un topic d'un forum. Au bout d'un moment, il y a beaucoup de réponses, on est obligé de paginer tout ça pour des questions de lisibilités.     \nEt bien DevShed propose un      …"
 ---
 

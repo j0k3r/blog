@@ -3,7 +3,7 @@ layout: post
 title: 'C''est quoi AJAX ?'
 date: '2005-06-14 10:21:57'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Non je ne vais pas vous parler de la lessive AJAX, on est quand même sur un site orienté programmation !     \nAJAX est l'acronyme utilisé pour Asynchronous JavaScript And XML. C'est une méthode de développement de sites web reposant sur l'utilisation de différents standards :  \n  \n* XHTML et CSS pour la présentation des informations"
 ---
 

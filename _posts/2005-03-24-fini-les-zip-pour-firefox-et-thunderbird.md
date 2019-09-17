@@ -3,7 +3,7 @@ layout: post
 title: 'Fini les zip pour Firefox et Thunderbird'
 date: '2005-03-24 12:49:32'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Comme vous l'avez certainement remarqué, à chaque dégagement d'une nouvelle version de FireFox ou de Thunderbird, cette nouvelle version était disponible en plusieurs paquetages. On pouvait trouver une version .zip et une version .exe.    Et bien dorénavant on ne pourra plus les trouver et ce depuis les versions 1.0.2 des deux logiciels.  \n  \nLes zip      …"
 ---
 

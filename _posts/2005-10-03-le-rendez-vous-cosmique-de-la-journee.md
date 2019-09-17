@@ -3,7 +3,7 @@ layout: post
 title: 'Le rendez vous cosmique de la journée !'
 date: '2005-10-03 09:51:51'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Au début de l'automne, la quatrième éclipse annulaire du siècle sera visible depuis la majeure partie de l'Espagne, ainsi que du nord de l'Afrique.     \nC'est aujourd'hui de 9h à 13h que l'on pourra observer le plus beau rendez vous du soleil avec la Lune. C'est aux alentours de 11h que l'alignement du Soleil, de la Lune et de la Terre sera parfait. Mais comme la      …"
 ---
 

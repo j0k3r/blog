@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyVisites 2.1'
 date: '2006-01-13 10:38:01'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Décidément phpMyVisites n'en fini de faire des nouvelles versions. Après avoir sortie la version 2.0, voici (déjà ?) la version 2.1.     \nCelle ci corrige quelques buGs et apporte 3 nouveaux langages.  \n  \n* Ajout du Taiwanais, Arabe, Bulgare, Tchèque   * Modification dans les langages Slovène, Français, Italien, Tchèque   * Correction      …"
 ---
 

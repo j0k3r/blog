@@ -3,7 +3,7 @@ layout: post
 title: 'HL² et les news du Oueb'
 date: '2004-11-16 05:42:54'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'HL² is out ... oh really that''s greet !   Ce matin à 9h, Half-Life 2 était disponible dans les jeux via Steam tout comme Half-Life Source.   Du coup Nvidia et Ati sortent tous les deux une nouvelle version de leur pilote, les [ForceWare 67.02](ftp://ftpclubic2.clubic.com/temp-clubic-rx1926/drivers/forceware_67.02_2755.exe) et les [Catalyst 4.12      ...'
 ---
 

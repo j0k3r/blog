@@ -3,7 +3,7 @@ layout: post
 title: 'Sept erreurs d''accessibilité - 2ième partie'
 date: '2006-08-08 10:04:49'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Pompage publie une traduction d'un article de Christian Heilmann. Cet article est en deux parties et traite des raisons qui font que certains produits web n'arrivent pas à être accessibles"
 ---
 

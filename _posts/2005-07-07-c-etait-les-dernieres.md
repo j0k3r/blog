@@ -3,7 +3,7 @@ layout: post
 title: 'C''était les dernières !'
 date: '2005-07-07 12:54:42'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Il faut bien se reposer de temps en temps. On pourrait appeler cela le repos du guerrier, mais je ne me bats contre personne !     \nMais ce n'est pas pour cela que je ne prends pas des vacances. Je pars deux mois dans les îles ... de Bretagne, pour passer au moins des moments ailleurs que devant un écran d'ordinateur.  \n  \nAinsi on peut dire que le      …"
 ---
 

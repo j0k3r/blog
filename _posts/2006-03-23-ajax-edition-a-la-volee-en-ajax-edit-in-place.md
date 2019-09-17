@@ -3,7 +3,7 @@ layout: post
 title: 'Ajax - Edition à la volée en AJAX (Edit in place)'
 date: '2006-03-23 21:14:27'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Cette édition à la volée en AJAX permet lors d''un simple clic sur un texte, de pouvoir le modifier. C''est le principe utilisé sur Flickr pour modifier directement la description d''une photo.'
 ---
 

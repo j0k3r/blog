@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyAdmin 2.6.1-rc1, Nvu 0.6 et PostgreSQL 8.0'
 date: '2004-12-13 03:00:03'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La [premiere RC](http://www.phpmyadmin.net/home_page/downloads.php#2.6.1-rc1) de phpMyAdmin 2.6.1 vient de paraître.   Des corrections de buGs, de failles et autres ont été ajouté à cette version, notament une amélioration de la vitesse d'éxecution si vous utilisez la librairie *mcrypt* avec *auth_type = 'cookie'*.  \n  \nLe staff de developpez.com      …"
 ---
 

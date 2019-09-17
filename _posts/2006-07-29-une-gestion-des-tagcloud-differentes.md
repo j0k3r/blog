@@ -3,7 +3,7 @@ layout: post
 title: 'Une gestion des TagCloud différentes'
 date: '2006-07-29 10:38:32'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'auteur titre son billet par : A Better Tag Cloud.     \nJe ne sais pas si j'irai jusqu'a dire cela. C'est en fait une visualisation plus &quot;réelle&quot; d'un nuage de mots-clés. Le tag cloud que l'on trouve un peu partout est souvent des mots plus ou moins gros dans une partie du site.  \n  \nAnson Parker nous propose un tag cloud qui ressemble      …"
 ---
 

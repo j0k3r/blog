@@ -3,7 +3,7 @@ layout: post
 title: 'Vidéo de la conférence sur Symfony par Fabien Potencier'
 date: '2007-05-09 10:11:35'
 author: j0k
-tags: '[symfony]'
+tags: symfony
 excerpt: "En mars dernier avait lieu une conférence sur Paris sur le très célèbre framework Symfony par son auteur lui même.     \nJ'y ai participé et c'était une présentation très intéressante qui permet notamment d'avoir des explications orales sur l'utilisation de Symfony plutôt qu'une explication textuelle sans apport de commentaire.   La [présentation dure      …"
 ---
 

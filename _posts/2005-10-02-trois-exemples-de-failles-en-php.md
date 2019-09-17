@@ -3,7 +3,7 @@ layout: post
 title: 'Trois exemples de failles en PHP'
 date: '2005-10-02 05:07:00'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "PHPit expose 3 types de vulnérabilité dont peu être victime un site en PHP.     \nLa première vulnérabilité est tout simple l'injection mail. Le côte rassurant c'est que pour exploiter une faille dans ce genre, il faut vraiment savoir comment fonctionne et surtout comment est géré les mails en PHP.   La deuxième concerne l'affichage de la source de la page.      …"
 ---
 

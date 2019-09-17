@@ -3,7 +3,7 @@ layout: post
 title: 'Que vaut AJAX face à Flash ?'
 date: '2006-08-10 06:08:43'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La mode est un peu passer maintenant, mais il fût un temps où la grande question des développeurs était de savoir quelle était la grande différence entre Flash et AJAX et où il valait mieux utiliser celui ci que celui là.     \nUn petit article de [pasz.com](http://www.pasz.com/articles/FlashVsAjax.html) présente un tableau récapitulatif de ce que fait / ne      …"
 ---
 

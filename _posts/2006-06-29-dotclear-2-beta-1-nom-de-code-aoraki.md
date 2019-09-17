@@ -3,7 +3,7 @@ layout: post
 title: 'DotClear 2 beta 1, nom de code Aoraki'
 date: '2006-06-29 09:14:29'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Aoraki, c'est le point culminant de la Nouvelle Zélande. Au moment de trouver un nom de code à la version 2 de DotClear, Olivier a tout de suite pensé à ce mont. Il représente un peu ce qui s'est déroulé pour cette version 2 de DotClear, une grande ascension éprouvante et en haut du sommet une vue imprenable sur toute la vallée.     \nDotClear 2 est en beta et      …"
 ---
 

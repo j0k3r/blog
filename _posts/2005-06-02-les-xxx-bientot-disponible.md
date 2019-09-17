@@ -3,7 +3,7 @@ layout: post
 title: 'Les .xxx bientôt disponible'
 date: '2005-06-02 06:29:33'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'ICANN (Internet Corporation For Assigned Names and Numbers, ce qui gère les noms de domaines) viennent de [valider](http://www.icann.org/announcements/announcement-01jun05.htm) la création de l'extension .xxx, qui sera gérée par la société américaine [ICM Registry](http://www.icmregistry.com/).     \nC'est un premier pas vers une distinction plus      …"
 ---
 

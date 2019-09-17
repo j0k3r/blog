@@ -3,7 +3,7 @@ layout: post
 title: 'Eradiquer pour de bon toutes inscriptions de bots sur phpBB'
 date: '2007-06-08 10:01:07'
 author: j0k
-tags: '[antispam,phpbb]'
+tags: antispam phpbb
 excerpt: "Comme tout bon utilisateur de phpBB, j'ai été ravi de voir apparaitre un CAPTCHA dans une de leur précédente mise à jour (ça commence à dater un peu). Je me disais, c'est bon, maintenant les bots ne pourront plus s'inscrire, je serai enfin tranquille.     \nEt bien, rien de tout ça, les bots ne se sont plus inscrit pendant quelques jours seulement. Et ensuite des      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Installer Typo chez HostingRails'
 date: '2006-04-29 05:06:34'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après avoir récupérer un hébergement gratuit accueillant Ruby On Rails, j'ai installé courageusement Typo (un blog très performant en Rails).     \nForcément, du premier coup ça ne marche pas, sinon se serait trop simple. Alors après avoir essuyé quelques broutilles et passé pas mal de temps sur MSN, j'ai réussi à le faire tourner nikel et en plus de ça c'est      …"
 ---
 

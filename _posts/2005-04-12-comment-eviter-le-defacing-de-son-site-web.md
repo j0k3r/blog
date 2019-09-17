@@ -3,7 +3,7 @@ layout: post
 title: 'Comment éviter le defacing de son site Web ?'
 date: '2005-04-12 01:59:34'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Un [article](http://solutions.journaldunet.com/0504/050405_sites_defigures.shtml) intéressant sur JDN parlant du de la protection contre le defacing de site site internet vient d''être publié.   Le defacing consiste à remplacer la page d''index du site pour divulguer un message ou tout simplement indiqué aux webmasters que son site possède des failles.   On      ...'
 ---
 

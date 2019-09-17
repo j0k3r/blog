@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 6, sécurité et bonnes pratiques'
 date: '2006-11-08 10:00:20'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Nexen a réalisé l'interview de [Perrick Penet](http://www.onpk.net/index.php/), président de l'AFUP, ingénieur certifié Zend, gérant de la société No Parking, pour avoir son point de vue sur le Forum PHP 2006.   Pour rappel, le forum PHP 2006 a lieu jeudi 9 novembre à Paris mais toutes les places sont déjà prises, et ce depuis plus d'une semaine maintenant.  \n  …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Visualiser et modifier les champs cachés'
 date: '2006-06-07 02:16:10'
 author: iDo
-tags: '[]'
+tags: blabla
 excerpt: "Voici donc une petite extension pour firefox qui permet d'afficher et de modifier les champs cachés...   Plus besoin donc d'afficher le source du code pour trouver la valeur contenu par un champs. L'extension s'en charge pour vous et vous donne en plus la possibilité de changer cette valeur.  \n  \n )   \nA télécharger sur      …"
 ---
 

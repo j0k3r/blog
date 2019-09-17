@@ -3,7 +3,7 @@ layout: post
 title: 'Encore des nouvelles sur IE 7'
 date: '2005-05-27 02:20:04'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La bêta 1 d'Internet Explorer 7.0 approche à grand pas, elle est prévu pour cet été. Au fur et à mesure que cette date approche, des détails d'IE7 se dévoilent.     \nOn sait maintenant qu'il supportera la [navigation par onglet](http://www.j0k3r.net/news-internet-explorer-7-integrera-des-onglets-458.html), qui intégrera toutes les fonctionnalités que peut      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Prototype Portal Class pour faire votre propre netvibes !'
 date: '2007-08-29 06:40:45'
 author: j0k
-tags: '[class,prototype]'
+tags: class prototype
 excerpt: "Il existait déjà un [script JavaScript](http://www.dhtmlgoodies.com/scripts/dragable-boxes/dragable-boxes.html) pour faire une page dans l'esprit de Netvibes, qui d'ailleurs a beaucoup été utilisé.     \nNotre cher Xilinus, déjà auteur de [plusieurs](http://www.j0k3r.net/news-une-classe-pour-creer-un-carrousel-d-images-avec-prototype-1496.html)      …"
 ---
 

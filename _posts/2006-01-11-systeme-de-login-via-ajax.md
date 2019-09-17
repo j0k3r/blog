@@ -3,7 +3,7 @@ layout: post
 title: 'Système de login via AJAX'
 date: '2006-01-11 08:42:30'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Ca ne devait pas tarder à arriver, mais il semble en avoir déjà vu un quelque part. Voici un système de login qui utilise AJAX pour transférer les données.   Il se dit être sécurisé même s''il ne passe pas par une rafraîchissement de page. Etant donné qu''il doit certainement faire appel au même fichier PHP pour tester les identifiants de connexion, il n''y a pas de      ...'
 ---
 

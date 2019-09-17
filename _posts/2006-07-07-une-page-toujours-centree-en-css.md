@@ -3,7 +3,7 @@ layout: post
 title: 'Une page toujours centrée en CSS'
 date: '2006-07-07 02:57:37'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Tout le monde commence à savoir centrer une page en CSS et ce parce que c'est tout simplement facile à faire.     \nCependant quelques rechigneurs diront que le site se &quot;déplace&quot; quand la barre de scroll verticale apparaît. Etant donné que cette barre de scroll n'est pas affichée quand le contenu est trop court, la page se décale sur la gauche dès que le      …"
 ---
 

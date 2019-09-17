@@ -3,7 +3,7 @@ layout: post
 title: 'Rotation de bannière en AJAX'
 date: '2006-05-03 08:15:04'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La plupart du temps, les bannières publicitaires sont affichées statiquement. Pour palier à ça, en général on trouve des belles bannières animés via du GIF, ce qui n'est pas très beau, je vous l'accorde.   Une autre solution consiste à le faire en Flash en chargeant les images dynamiquement.  \n  \nUn tout autre alternative peut être utilisé en AJAX. Un      …"
 ---
 

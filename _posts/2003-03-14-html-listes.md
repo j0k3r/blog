@@ -3,7 +3,7 @@ layout: post
 title: 'HTML - Listes'
 date: '2003-03-14 05:52:30'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Les listes en HTML'
 ---
 

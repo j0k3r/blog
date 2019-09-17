@@ -3,7 +3,7 @@ layout: post
 title: 'Quel script pour gérer vos galeries d''images ?'
 date: '2005-09-24 01:43:46'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Le JDN publie un [comparatif](http://developpeur.journaldunet.com/tutoriel/out/050923-panorama-galerie-images-open-source.shtml) ou plutôt un récapitulatif des 8 scripts Open Source gérant des galeries d''images. Si vous avez passé de très bonnes vacances (ou même si elles continuent), ils vous serviront à publier facilement vos aventures de futur photographes !        ...'
 ---
 

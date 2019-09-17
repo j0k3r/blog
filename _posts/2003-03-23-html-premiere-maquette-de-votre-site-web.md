@@ -3,7 +3,7 @@ layout: post
 title: 'HTML - Première maquette de votre site Web'
 date: '2003-03-23 13:21:54'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: "Avant de se lancer dans la réalisation du code html, ou dans l'habillage graphique de votre site, il convient de réfléchir et définir le contenu, l'architecture, et la forme générale de votre site...  \nPour cela rien ne vaut une page blanche et un stylo pour esquisser une première maquette de votre site."
 ---
 

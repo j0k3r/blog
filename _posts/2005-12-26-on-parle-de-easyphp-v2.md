@@ -3,7 +3,7 @@ layout: post
 title: 'On parle de EasyPHP v2'
 date: '2005-12-26 07:28:43'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Il y a une dizaine de jours, une nouvelle publiée sur le site d'[EasyPHP](http://www.easyphp.org) annonçait une première bêta de la très attendu version 2 d'EasyPHP.   Cette première bêta aurait du être publié avant Noël, mais on les comprends, les périodes de fêtes ne sont pas forcément propices au travail !  \n  \nCette future version d'EasyPHP      …"
 ---
 

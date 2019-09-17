@@ -3,7 +3,7 @@ layout: post
 title: 'Kit de personnalisation de Firefox, version 1.0'
 date: '2006-05-09 11:56:47'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Cela peut &quot;choquer&quot; mais c'est vrai. Un kit de personnalisation de Firefox vient d'être publié par la fondation Mozilla. Il s'appelle Firefox 1.5 CCK (Client Customization Kit).     \n[CCK](http://www.mozilla.org/projects/cck/firefox/) est une extension de Firefox permet à tout le monde de créer une extension qui personnalise le navigateur. Les      …"
 ---
 

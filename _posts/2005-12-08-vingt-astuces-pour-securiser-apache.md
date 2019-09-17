@@ -3,7 +3,7 @@ layout: post
 title: 'Vingt astuces pour sécuriser Apache'
 date: '2005-12-08 11:23:54'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Apache est le premier serveur web sur internet. Il est largement devant le serveur de Microsoft, ISS, ou que celui de Sun. Mais en étant le premier, on est forcément le plus convoité par les hackers.     \nUne liste de 20 astuces a été faite chez peterfreitag.com sur comment mieux sécuriser son serveur Apache. Il y a évidemment un disclamer qui décharge l'auteur      …"
 ---
 

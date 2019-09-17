@@ -3,7 +3,7 @@ layout: post
 title: 'Firefox en Europe, les résultats'
 date: '2005-04-06 11:35:24'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Xiti continue son [étude](http://www.xitimonitor.com/etudes/equipement5.asp) sur l''utilisation de Firefox en Europe. Ils ont ajouté une dizaine de pays à la liste précédente. Ce sont les pays de l''Est et du Nord de l''Europe qui sont les plus gros utilisateurs de Firefox avec en tête, la Finlande et l''Allemagne.   Au global, l''utilisation de firefox par pays sur      ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Hier c''était un #symfony day comme on en fait pas souvent !'
 date: '2009-12-02 14:13:13'
 author: j0k
-tags: '[avent,calendar,doctrine,release,symfony]'
+tags: avent calendar doctrine release symfony
 excerpt: "Ce 1er décembre a été riche en nouvelle pour Symfony.\nIl y a eu 3 nouvelles version de Symfony & 3 nouvelles version de Doctrine le même jour. Sans compte le reste !!"
 ---
 

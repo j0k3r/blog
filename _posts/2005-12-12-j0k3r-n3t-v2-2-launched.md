@@ -3,7 +3,7 @@ layout: post
 title: 'j0k3r.n3t v2.2 launched !'
 date: '2005-12-12 12:07:25'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "j0k3r.n3t v2.2 est officiellement en place et lancé !   Je vous en parle depuis quelques temps de cette v2.2 et bien la voici en chair en os, si je peux me permettre.  \n  \nLes changements sont au rendez vous mais je ne penses pas que vous les voyez tous ! Je vais essayer de dresser une liste exhaustive des changements :  \n  \n* Le chat utilise      …"
 ---
 

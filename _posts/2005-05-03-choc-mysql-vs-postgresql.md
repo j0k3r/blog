@@ -3,7 +3,7 @@ layout: post
 title: 'Choc : MySQL vs PostGreSQL'
 date: '2005-05-03 02:49:09'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "[Nexen](http://www.nexen.net/news/gen.php/2005/05/03/4177,0,0,0,0.php) nous indique un lien sur la comparaison de ces deux serveur de base de donnée que sont MySQL et PostgreSQL.     \nVoici un [article](http://monstera.man.poznan.pl/wiki/index.php/Mysql_vs_postgres) qui compare les fonctionnalités et les performances de MySQL et PostGreSQL. Si vous      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Première RC pour php4.3.11 et php5.0.4'
 date: '2005-03-15 08:26:49'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'info me vient d'un [site allemand](http://www.phpcenter.de/beitraege/detail.php?a_id=704). Je n'ai absolument pas pu confirmer la source de cette infos, prersonne en parle mais les packetages sont bien là pourtant.     \nTout ça pour dire que les versions de php 4.3.11RC1 et 5.0.4RC1 sont disponibles pour Linux (sous forme de sources).  \n  \n     …"
 ---
 

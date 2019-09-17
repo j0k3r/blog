@@ -3,7 +3,7 @@ layout: post
 title: 'Et ainsi suit PHP 4.4.2'
 date: '2006-01-13 10:58:25'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Hier sortait la version 5.1.2 de PHP, il était prévisible que la branche 4.4.x allait elle aussi être mise à jour. PHP 4.4.2 est donc la version dites la plus stable en ce qui concerne la branche PHP 4.x, tous les utilisateurs sont invités à mettre à jour leur version de PHP.     \nCette version est une version qui corrige principalement des buGs et quelques      …"
 ---
 

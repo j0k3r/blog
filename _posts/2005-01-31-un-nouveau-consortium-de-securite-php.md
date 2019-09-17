@@ -3,7 +3,7 @@ layout: post
 title: 'Un nouveau consortium de sécurité PHP'
 date: '2005-01-31 07:09:21'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Un groupe d'expert en PHP vient de créer un consortium (*Consortium : Sorte d'association, trust.*) de sécurité.     \nCe consortium de sécurité PHP ([PHP Security Consortium (PHPSC)](http://phpsec.org/)) a pour but de promouvoir la sécurité au sein de la communauté PHP et ainsi élever son niveau de sécurité.   )   Les membres du PHPSC      …"
 ---
 

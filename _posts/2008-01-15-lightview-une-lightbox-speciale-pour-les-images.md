@@ -3,7 +3,7 @@ layout: post
 title: 'Lightview, une lightbox spéciale pour les images'
 date: '2008-01-15 12:08:20'
 author: j0k
-tags: '[lightbox,prototype]'
+tags: lightbox prototype
 excerpt: 'Tout le monde connait maintenant le principe d''une lightbox, lors d''un clic sur un lien ou une image, un masque sombre se place sur tout le site et une popup JavaScript s''afficher au milieu de l''écran présentant un contenu.   Il existe un sacré paquet de ligthbox pouvant afficher de l''HTML, inclure une page web, récupérer les données depuis une requête AJAX, afficher      ...'
 ---
 

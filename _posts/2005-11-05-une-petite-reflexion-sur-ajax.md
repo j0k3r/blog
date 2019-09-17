@@ -3,7 +3,7 @@ layout: post
 title: 'Une petite réflexion sur AJAX'
 date: '2005-11-05 12:26:55'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'engouement des webmasters pour cette \"nouvelle\" méthode de développement d'applications Web est telle, qu'il est bon de rappeler quand même certaines choses.     \nLe JDN fait le point sur AJAX, en présentant [8 conseils](http://developpeur.journaldunet.com/tutoriel/dht/051103-javascript-ajax-conseils.shtml) pour le développement d'application basé sur      …"
 ---
 

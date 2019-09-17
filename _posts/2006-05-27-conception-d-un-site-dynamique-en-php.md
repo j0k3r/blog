@@ -3,7 +3,7 @@ layout: post
 title: 'Conception d''un site dynamique en PHP'
 date: '2006-05-27 12:45:58'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Tous les débutants en création de site commencent par faire des iframes en HTML (c'est moche), puis ils découvrent la puissance de PHP pour générer des pages dynamiques et ainsi se faciliter grandement la gestion de leur site.     \nMais bien souvent, ils n'ont pas la logique pour débuter, pour savoir comment commencer, comment ça fonctionne ... et tout plein      …"
 ---
 

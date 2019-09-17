@@ -3,7 +3,7 @@ layout: post
 title: 'Recherche de plagiat de site'
 date: '2005-08-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: 'Vous voulez savoir si quelqu''un copie littéralement votre site ... savoir si vos news ou articles sont repris sur un autre site ... j''ai l''outil qu''il vous faut !'
 ---
 

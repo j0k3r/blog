@@ -3,7 +3,7 @@ layout: post
 title: 'IPB 2.1.5 disponible'
 date: '2006-03-05 05:38:52'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "IPS vient d'annoncer la publication d'IPB 2.1.5. C'est une version de maintenance incluant 50 corrections de buGs ainsi qu'un meilleur support de Parachat v7.     \nSi vous faites une mise à jour depuis une version 2.x d'Invision Power Board, envoyez simplement sur votre serveur les fichiers modifiés listés plus bas (ou bien tous les fichiers si vous faites une      …"
 ---
 

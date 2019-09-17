@@ -3,7 +3,7 @@ layout: post
 title: 'La liberté derrière les grilles ...'
 date: '2006-05-30 11:32:05'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Cet [article de pompage.net](http://www.pompage.net/pompe/sortezvouslatetedesgrilles/) nous parle des grilles utilisées dans le développement de site Web.     \nL'auteur [Molly E. Holzschlag](http://molly.com/) en partant d'images vues du ciel de villes nous parle de la structuration des sites Webs en grilles.  \n  \nTout d'abord      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Bien commenter son code'
 date: '2005-11-27 04:54:01'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Il faut le savoir, quand vous faites un script, il faut penser qu''un jour vous devrez peut être le ré-utiliser. Surtout si vous développez une fonction relativement utile, il ne faut pas hésiter à mettre beaucoup de commentaire pour comprendre comment la fonction fonctionne. Évidemment cela ne sert à rien de mettre juste avant une boucle *if*, je teste la valeur *$var*. Je      ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'EasyPHP 1.8 : Version finale'
 date: '2005-03-01 06:08:41'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et voilà, à croire que la dernière version RC d'EasyPHP ne comportait pas ou très peu de buGs, puisque voici maintenant la version finale d'[EasyPHP 1.8](http://www.easyphp.org/telechargements.php3).   )   Pour rappel, cette version inclut :  \n * Apache 1.3.33  \n * PHP 4.3.10  \n * MySql 4.1.9  \n * phpMyAdmin 2.6.1  \n  \n …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Note de service: migration de serveur ce soir'
 date: '2008-07-09 09:48:11'
 author: j0k
-tags: '[j0k3r_net,ovh]'
+tags: j0k3r_net ovh
 excerpt: "Juste pour vous informer qu'il risque d'y avoir des perturbations d'accès au site ce soir et p'tet jusqu'à demain matin.   \nLa cause: une migration de serveur (ouais la 3e).   \nToujours un serveur chez OVH, toujours une Ubuntu  …"
 ---
 

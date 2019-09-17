@@ -3,7 +3,7 @@ layout: post
 title: 'La v2 est publique !'
 date: '2004-10-29 05:52:11'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Bonjour cher visiteur ... !   Comme tu as pu certainement le remarqué, le site fait peau neuve, c'est la v2.   Depuis le temps qu'elle devait être faite (avant les vacances d'été), elle est fin prête à vous accueillir.  \n  \nQuoi de neuf ?   Plein de chose... l'installation de l'url rewriting, une newsletter, un espace membre (en cours de      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL - Principales requêtes SQL'
 date: '2004-03-20 14:59:06'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Voici des exemples concrets pour vous montrez les principales requêtes SQL.'
 ---
 

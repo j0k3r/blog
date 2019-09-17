@@ -3,7 +3,7 @@ layout: post
 title: 'Faire une backup de sa base MySQL'
 date: '2005-03-05 01:22:37'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'JDN developpeurs viens de publier un [article](http://developpeur.journaldunet.com/tutoriel/php/050304-php-dump-mysql.shtml) sur comment sauvegarder une base de données MySQL depuis un serveur mutualisé, sans passer par phpMyAdmin.   Et oui sous phpMyAdmin (attention patch 3 sortie, mettez à jour ^^), on clique sur exporter, on fait sa séléction et hop on a un      ...'
 ---
 

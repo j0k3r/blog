@@ -3,7 +3,7 @@ layout: post
 title: 'A quoi faut-il s''attendre avec CSS 3 ?'
 date: '2006-04-30 06:28:27'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Alors que les spécifications de CSS 2.1 ne sont pas encore totalement achevées, on parle déjà des nouveautés qu'apportera CSS 3.     \nLancés en juin 1999, les travaux sur les spécifications de CSS 3 devraient aboutir sur des premières recommandations cet année, avec une estimation pour la publication finale en 2008 / 2010.  \n  \nPour l'instant seul      …"
 ---
 

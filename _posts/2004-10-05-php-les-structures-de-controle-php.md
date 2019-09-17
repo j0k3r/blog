@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Les structures de contrôle PHP'
 date: '2004-10-05 22:54:41'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Ces instructions sont à la base de tout langage de programmation car elles permettent d''effectuer des tests et des boucles indispensables au traitement des données.'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Les premières RC de Mozilla 1.7.6'
 date: '2005-03-20 09:17:13'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'La fondation MoZilla [publie](http://weblogs.mozillazine.org/asa/archives/007766.html) les premières RC de la version 1.7.6 Mozilla, qui sera la dernière (officiellement) de la ligné Mozilla.   )   Cette version devrai assurer une meilleure sécurité générale.   Si aucun buG / faille n''est révélé d''ici cette semaine, la version finale devrait sortir      ...'
 ---
 

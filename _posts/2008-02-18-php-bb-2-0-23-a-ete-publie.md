@@ -3,7 +3,7 @@ layout: post
 title: 'phpBB 2.0.23 a été publié !'
 date: '2008-02-18 08:23:48'
 author: j0k
-tags: '[phpbb]'
+tags: phpbb
 excerpt: "La version \"still furry as hell\" (littéralement Toujours poilu comme l'enfer) a été publié la semaine dernière par la team phpBB.     \nRien de bien nouveau dans cette release, un grand nombre de bugs ont été corrigé et même une faille XSS potentielle.   Comme toujours, tout est [disponible sur le site      …"
 ---
 

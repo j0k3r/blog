@@ -3,7 +3,7 @@ layout: post
 title: 'Où doit on utiliser AJAX ?'
 date: '2005-12-02 05:53:00'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "On a tous envie d'utiliser AJAX dans nos applications, qu'on sache le mettre en place ou pas. Mais où va la limite de son utilisation, doit on l'utiliser partout, pour faire n'importe quelles choses ... ?     \nJe ne pense pas qu'il faille le mettre partout. [Ajaxian.com](http://ajaxian.com/archives/2005/12/6_places_you_mu.html) fixe 6 points dans lesquels      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Installer un environnement PHP5 sous Windows'
 date: '2005-06-20 10:36:44'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Et oui il faut évoluer, il faut passer au dernière version !   Voila un [tutoriel](http://www.tanguay.at/installPhp5.php5) bien détaillé sur l''installation de PHP 5, Apache 2, MySQL 4.1, SQLite, SQLite Manager et XSLT sous Windows.   )   Il vous apprendra également comment employer les nouveaux dispositifs de la POO de PHP 5 comme vous apprendre la      ...'
 ---
 

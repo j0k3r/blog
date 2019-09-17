@@ -3,7 +3,7 @@ layout: post
 title: 'Comment intégrer Facebook dans votre réseau social en PHP ?'
 date: '2007-07-12 08:17:51'
 author: j0k
-tags: '[facebook]'
+tags: facebook
 excerpt: 'Vous ne connaissez peut-être pas Facebook.   Facebook est un site web de réseau social destiné au départ à rassembler les lycéens et les étudiants (puis les jeunes employés et les militaires, une fois les diplômes acquis). Facebook prend une grosse ampleur depuis ces derniers temps. Alexa le classe même dans [le top20 des sites      ...'
 ---
 

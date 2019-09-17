@@ -3,7 +3,7 @@ layout: post
 title: 'Le parrainage AdSense'
 date: '2005-11-05 01:06:01'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "GoOgle lance le parrainage AdSense. AdSense est un système de messages publicitaires ciblés employé par GoOgle.     \nUne petite explication s'impose. En fait le principe est simple et alléchant (!). Lorsqu'un éditeur qui s'inscrit à AdSense via votre lien de parrainage gagne ses premiers 100,00 USD et est sur le point d'être payé, nous créditons votre compte de      …"
 ---
 

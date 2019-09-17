@@ -3,7 +3,7 @@ layout: post
 title: 'Faire son site web'
 date: '2003-12-31 02:21:21'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'On appelle généralement "web" le service internet permettant de naviguer à travers des pages web.'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyAdmin 2.9.0 est dans les bacs'
 date: '2006-09-21 02:20:43'
 author: Casimir
-tags: '[]'
+tags: blabla
 excerpt: "   L'équipe de [phpMyAdmin.net](http://www.phpmyadmin.net) est fière de vous annoncer la naissance de leur dernier petit rejeton nommé **phpMyAdmin v2.9.0**  \n  \nVoici quelques une des nouveautés par rapport à son grand frère :  \n  \n* Meilleur lisibilité des écrans de Setup   * Layout automatique des schémas PDF pour les bases      …"
 ---
 

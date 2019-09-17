@@ -3,7 +3,7 @@ layout: post
 title: 'Ou sont vos fichiers inclus ?'
 date: '2005-03-28 11:05:10'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Un court mais bref article de [Chris Shiflett](http://shiflett.org/archive/110), parle des fichiers de types .inc. C'est à dire les fichiers dans lesquels on stocke en général les identifiants pour se connecter à la base de donnée.     \nIl dit que le fait de stocker ces fichiers dans la racine de votre site (acceccible à tous le monde donc) est une      …"
 ---
 

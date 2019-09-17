@@ -3,7 +3,7 @@ layout: post
 title: 'Utiliser la bibliothèque AJAX prototype.js'
 date: '2006-01-06 11:16:09'
 author: j0k
-tags: '[ajax,prototype]'
+tags: ajax prototype
 excerpt: 'Dans le cas où vous ne l''auriez pas encore utilisé, [prototype.js](http://prototype.conio.net/) est une bibliothèque Javascript écrite par Sam Stephenson. Ce code étonnamment bien pensé et bien écrit, respectant les normes, vous décharge du fardeau associé à la création de pages web riches et hautement interactives caractérisant le Web 2.0 (en gros à l''utilisation      ...'
 ---
 

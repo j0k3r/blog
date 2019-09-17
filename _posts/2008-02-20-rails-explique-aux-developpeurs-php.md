@@ -3,7 +3,7 @@ layout: post
 title: 'Rails expliqué aux développeurs PHP'
 date: '2008-02-20 08:22:18'
 author: j0k
-tags: '[php,rails]'
+tags: php rails
 excerpt: "En principe, quand un développeur a de la bouteille en développement, il est assez simple de changer de langage de programmation. Les bases seront acquises rapidement, les astuces viendront après ! ;-)     \nC'est dans cet esprit qu'est parti [ce blog](http://railsforphp.com/) : fournir les astuces et les équivalents à PHP pour Rails. Le blog vient se      …"
 ---
 

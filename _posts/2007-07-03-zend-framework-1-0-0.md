@@ -3,7 +3,7 @@ layout: post
 title: 'Zend Framework 1.0.0'
 date: '2007-07-03 06:59:23'
 author: j0k
-tags: '[zend_framework]'
+tags: zend_framework
 excerpt: "Avec un peu de retard, la version de production du  Zend Framework est enfin arrivé. Avec pas mal de retard quand même, la version 1.0.0 va enfin pouvoir rivaliser avec Symfony grâce à sa version annoncée stable (ouais je charrie un peu hihi).   Cela veut surtout dire que tous les projets développés jusqu'à maintenant peuvent être passé en production.   \n  \n    …"
 ---
 

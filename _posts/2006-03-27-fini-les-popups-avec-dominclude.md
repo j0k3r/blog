@@ -3,7 +3,7 @@ layout: post
 title: 'Fini les popups avec DOMinclude'
 date: '2006-03-27 11:44:45'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Je ne vais pas vous parler du dernière anti-bloqueur-killer de popup qui se greffera à votre jolie IE. Mais plutôt d''une petite librairie en JavaScript qui va vous permettre de remplacer les (moches) popups que l''on peut (encore) faire pour diverses raisons.   J''ai été confronté dans un projet à passer par des popups (beaucoup trop de données à gérer pour faire      ...'
 ---
 

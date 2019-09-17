@@ -3,7 +3,7 @@ layout: post
 title: 'Les templates par Smarty'
 date: '2006-03-28 11:13:13'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "PHPFrance met en avant le moteur et compilateur de templates PHP SMARTY.     \nIl publie tout un tutoriel pour se familiariser avec lui. Il rappelle dans un premier temps ce qu'est un système de template et en quoi cela est très utile. Le premier but est de suivre au maximum le MVC ([Modèle View      …"
 ---
 

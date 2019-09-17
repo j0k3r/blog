@@ -3,7 +3,7 @@ layout: post
 title: 'Manipuler des vidéos et du son avec PHP'
 date: '2005-06-21 10:24:42'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "PHP sait déjà faire beaucoup de choses. Grâce notamment à la librairie GD, il est tout à fait possible de faire du traitement d'image, du recadrage et bien d'autres choses.     \nMais concernant la vidéo et le son, PHP a des lacunes et il est même impossible de faire du traitement vidéo/son en utilisant PHP tel quel.   Un projet Open Source autorise les      …"
 ---
 

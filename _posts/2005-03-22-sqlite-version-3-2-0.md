@@ -3,7 +3,7 @@ layout: post
 title: 'SQLite version 3.2.0'
 date: '2005-03-22 06:39:37'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Le staff de SQLite a l''air bien motivé en ce mois de mars, et nous propose une nouvelle version, la 3.2.0.   )   le gros changement de cette version est que l''[ALTER TABLE](http://www.sqlite.org/lang_altertable.html) est désormais supporté ! C''était un des plus gros "défaut" d''SQLite par rapport à MySQL, le fait que l''ALTER TABLE était assez compliqué à      ...'
 ---
 

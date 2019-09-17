@@ -3,7 +3,7 @@ layout: post
 title: 'Une anti-sèche des commandes Symfony'
 date: '2007-03-11 03:23:46'
 author: j0k
-tags: '[cheatsheet,symfony]'
+tags: cheatsheet symfony
 excerpt: '[COil](http://www.coilblog.com/index.php/2007/03/10/11-breve-de-comptoir-n1) nous a trouvé une anti-sèche des commandes Symfony à avoir sous la main.   Pour l''instant, ce "[cheat sheets](http://andreiabohner.wordpress.com/2007/03/03/symfony-cheat-sheet-estrutura-de-diretorio-e-cli-linha-de-comando/)" est uniquement en anglais, espagnol et      ...'
 ---
 

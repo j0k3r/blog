@@ -3,7 +3,7 @@ layout: post
 title: 'EasyPHP 3.0, quoi de neuf ?'
 date: '2009-01-23 12:33:03'
 author: j0k
-tags: '[easyphp]'
+tags: easyphp
 excerpt: "J'ai [récemment appris](http://www.phpindex.com/index.php/2009/01/19/5216-easyphp-30-est-sorti) qu'EasyPHP 3.0 était sorti.     \nBelle surprise pour beaucoup de monde je pense ! Moi le premier ..   Je m'étais arrêté, certainement comme vous, à une version 2.0 qui n'en finissait pas de traîner en version bêta. Finalement, cette version tant attendu,      …"
 ---
 

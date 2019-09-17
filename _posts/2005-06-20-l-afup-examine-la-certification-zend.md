@@ -3,7 +3,7 @@ layout: post
 title: 'L''AFUP examine la certification Zend'
 date: '2005-06-20 03:33:39'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Dans l'edito de la newsletter de nexen de cette semaine, Damien Seguy nous confit que l'AFUP va évaluer la certification Zend.     \nL'obtention de la certification Zend garantit que votre niveau de compétence est parmi les meilleurs et vous permet de joindre le \"cercle intérieur\" des développeurs sur lesquelles s'appuie Zend pour les previews et la remontée      …"
 ---
 

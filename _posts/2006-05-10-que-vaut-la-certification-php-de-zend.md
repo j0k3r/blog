@@ -3,7 +3,7 @@ layout: post
 title: 'Que vaut la certification PHP de Zend ?'
 date: '2006-05-10 07:02:06'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "En juin de l'année dernier, l'AFUP nous [informait](http://www.j0k3r.net/news-l-afup-examine-la-certification-zend-574.html) qu'elle allait tester la certification PHP de Zend.     \nL'AFUP publie aujourd'hui son communiqué de presse sur cette certification. IL en ressort que c'est une certification avec un niveau assez élevé. Il faut tout de même précisé      …"
 ---
 

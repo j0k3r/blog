@@ -3,7 +3,7 @@ layout: post
 title: 'Du nouveau dans les moteurs de recherche'
 date: '2004-11-13 07:02:07'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous avez certainement entendu parler du nouveau moteur de recherche de Cro$$oft, qui servira de concurrent à notre cher google.   Et bien on peut deja [tester](http://beta.search.msn.com/) ce moteur, toujours en bêta, et qui ressemble assez à l'interface de google...  \n  \nGoogle riposte en emmagasinant plus de 8 milliards de page recensées ...      …"
 ---
 

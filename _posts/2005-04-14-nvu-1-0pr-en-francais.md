@@ -3,7 +3,7 @@ layout: post
 title: 'Nvu 1.0PR en français'
 date: '2005-04-14 09:44:53'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voila une très bonne nouvelle voici Nvu 1.0 PR (Preview Release) qui est disponible cela veut dire que la version finale approche !!   Que du bon.  \n  \nVoici le changelog de cette nouvelle version (par frenchmozilla)"
 ---
 

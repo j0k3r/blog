@@ -3,7 +3,7 @@ layout: post
 title: 'eAccelerator 0.9.4-rc2'
 date: '2006-02-13 12:34:36'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Une nouvelle Release Candidate est disponible pour eAccelerator 0.9.4.   Cette nouvelle version corrige quelques buGs présents dans la version rc1. Elle ne contient que des corrections et du code plus propre. Elle est toujours basé sur le même (ancien) coeur de l'application.  \n  \nL'encoder a reçu quelques corrections aussi. eAccelerator est compatible      …"
 ---
 

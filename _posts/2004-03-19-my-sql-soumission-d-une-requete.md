@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL - Soumission d''une requête'
 date: '2004-03-19 08:05:17'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Cette fonction a besoin d''un retour de connexion réussi donnée par *$connexion* et d''une chaine *$requete* exprimant une clause MySQL correcte.'
 ---
 

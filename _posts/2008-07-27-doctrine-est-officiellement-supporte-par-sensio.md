@@ -3,7 +3,7 @@ layout: post
 title: 'Doctrine est officiellement supporté par Sensio !'
 date: '2008-07-27 05:32:15'
 author: j0k
-tags: '[doctrine,sensio,symfony]'
+tags: doctrine sensio symfony
 excerpt: "Si vous utilisez un ORM (object relational mapping) dans vos applications PHP, vous devez certainement connaitre Doctrine qui est certainement l'un des meilleurs ORMs PHP disponible aujourd'hui. Pour en citer d'autres, on pourrait parler de Propel ou encore phpMyObject.     \nJ'utilise Doctrine avec symfony dans le cadre de mon travail mais aussi pour mes projets …"
 ---
 

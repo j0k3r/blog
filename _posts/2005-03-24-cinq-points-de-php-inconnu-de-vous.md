@@ -3,7 +3,7 @@ layout: post
 title: 'Cinq points de php inconnu de vous ?'
 date: '2005-03-24 01:18:27'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Voila un [article en anglais](http://www.devsource.com/article2/0,1759,1778106,00.asp) très interessant sur les cinq points (selon l''auteur) que l''on savait que l''on pouvais le faire en php.   )   Les deux premières idées qu''il developpe devrai nous être familière et utiliser courament.   Le troisième point montre comment debuguer plus facilement et      ...'
 ---
 

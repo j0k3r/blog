@@ -3,7 +3,7 @@ layout: post
 title: 'Créer un lecteur de flux RSS en AJAX'
 date: '2006-04-23 10:13:29'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Un lecteur de flux RSS tout simple mais qui fonctionne très bien !     \nCe lecteur est en AJAX, il va chercher les informations contenus dans le flux via son URL, les rapatrie et les classes pour ensuite les afficher. L'avantage de le faire en AJAX / JavaScript, est que l'on peut mettre une fonction qui rafraichit le flux. Ainsi on est informé des dernières      …"
 ---
 

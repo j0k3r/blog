@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 5.1.4, correction d''un joli buG'
 date: '2006-05-05 11:36:02'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Publié peut être trop précipitamment, PHP 5.1.3 possédait un buG assez critique au niveau de la variable POST. Tout comme dans la sapi FastCGI qui comportait aussi quelques problèmes. On remarque aussi qu'un buG au niveau de la fonction highlight_string() a aussi été corrigé, tout comme les drivers PDO ODBC qui présentaient de sérieux problèmes.     \nLe buG      …"
 ---
 

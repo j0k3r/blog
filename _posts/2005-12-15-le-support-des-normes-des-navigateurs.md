@@ -3,7 +3,7 @@ layout: post
 title: 'Le support des normes des navigateurs'
 date: '2005-12-15 09:16:31'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Tous les navigateurs n'affichent pas les même rendu sur certain site, notamment lors de l'utilisation massive des CSS. Si vous faites un site un tableau (pas du tout recommandé) il y a de grandes chances que celui ci soit compatible avec la plupart des navigateurs. Cependant il est grandement recommandé de ne pas utiliser les tableaux !     \nRevenons à nos      …"
 ---
 

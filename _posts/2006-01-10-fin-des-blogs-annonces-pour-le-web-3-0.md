@@ -3,7 +3,7 @@ layout: post
 title: 'Fin des blogs annoncés pour le web 3.0 ?'
 date: '2006-01-10 09:48:30'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Dans une récente analyse du Web (avec un grand W), il en ressort que nous somme actuellement dans sa version 2.0. Elle est principalement caractérisé par plus d'interaction avec l'utilisateur, les sites se transformant en site communautaire, la ré-apparition d'AJAX (avec une utilisation plus poussée), et bien d'autres choses ...     \nAinsi on voit qu'au début,      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Des tutoriels PHP à la pelle'
 date: '2005-05-18 12:12:15'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "PHP Magazine nous informe que le blog de [Aesthetic Theory](http://aesthetic-theory.com/tutorials.php) est blindé de tutoriels PHP.     \nPour les débutants comme pour les confirmés, cette liste de tutoriels est bien utiles .. on enrichit ses marque-pages !   Voilà une liste des tutoriels :  \n  \n* Faire un client FTP (en deux parties)       …"
 ---
 

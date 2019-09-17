@@ -3,7 +3,7 @@ layout: post
 title: 'Des outils en ligne pour le développement Web'
 date: '2006-04-07 02:51:03'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le JDN recense des outils en ligne pour le développement web, de l'évidence aux bons plans en passant par les valeurs montantes.     \nOn retrouve tous les outils de validations du W3C, des outils d'optimisation de code, ou encore des outils pour vous générez des documents (robots.txt, lorem ipsum ...).  \n  \nIls vous serviront certainement au moment      …"
 ---
 

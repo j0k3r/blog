@@ -3,7 +3,7 @@ layout: post
 title: 'Du GNU/GPL pour le gouvernement français'
 date: '2006-04-07 03:52:54'
 author: iDo
-tags: '[]'
+tags: blabla
 excerpt: "Surprenant mais vrai, notre cher gouvernement propose une plateforme de gestion de contenu, réalisée en php et sous **license libre** !     \nBasé sur le célebre SPIP, la plateforme propose en plus :   * Un enrichissement des fonction de gestion de contenu, gestion documentaire, chaîne de validation et gestion des profils.   * Gestion de « mots-clés      …"
 ---
 

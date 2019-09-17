@@ -3,7 +3,7 @@ layout: post
 title: 'Une simple routine de vérification d''email'
 date: '2005-11-29 10:04:08'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Le plus souvent dans un formulaire on demande l''adresse mail du visiteur. Il faut forcément la tester derrière en PHP. La solution ultime est d''envoyer un mail à cette adresse et attendant d''avoir une réponse.   Mais on peut au préalable tester la validité de celui ci en utilisant ce que l''on appelle les expressions régulières. Cela permet de définir une sorte de      ...'
 ---
 

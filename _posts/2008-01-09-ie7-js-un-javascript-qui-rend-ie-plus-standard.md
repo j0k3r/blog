@@ -3,7 +3,7 @@ layout: post
 title: 'ie7-js, un javascript qui rend IE plus standard !'
 date: '2008-01-09 11:28:34'
 author: j0k
-tags: '[ie,javascript,standart]'
+tags: ie javascript standart
 excerpt: "On a beau se réjouir des futures versions d'Internet Explorer mais à chaque fois c'est pareil, on est déçu au niveau du support des standards  lors de sa sortie officielle. Quoi que, IE8 passerai le test Acid 2, une bonne chose, à voir...     \nCependant, les anciennes version d'IE sont toujours là (et ceux pour un bon moment ...) et elles ne supportent pas tous      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Créer de belles urls pour les moteurs de recherches'
 date: '2006-01-11 08:48:36'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Ce n'est pas nouveau, augmentez la visibilité et le référencement de son site passe forcément par la ré-écriture de tous les liens de votre site. Ainsi pour rajouter des mots clés dans vos urls et gagnez en pertinence.     \nCeci dit, il faut quand même savoir le faire. Et ce n'est pas forcément quelques choses de simples. Il faut d'une part savoir/tester si vous      …"
 ---
 

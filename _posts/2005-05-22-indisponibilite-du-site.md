@@ -3,7 +3,7 @@ layout: post
 title: 'Indisponibilité du site'
 date: '2005-05-22 10:14:36'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Comme vous l'avez certainement remarqué, le site est difficilement accessible depuis hier soir."
 ---
 

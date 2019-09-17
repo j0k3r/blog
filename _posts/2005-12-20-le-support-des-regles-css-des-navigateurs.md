@@ -3,7 +3,7 @@ layout: post
 title: 'Le support des règles CSS des navigateurs'
 date: '2005-12-20 05:08:13'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après avoir vu le support global des navigateurs par rapport aux différentes normes HTML, CSS, etc ... voici un tableau qui récapitule une grande partie des règles CSS qui, il faut le dire, sont assez spécifiques.     \nDans ce tableau, ne sont pas traités les background, width, top and co mais plutôt des règles CSS qui sont moins utilisés. On retrouve quand même      …"
 ---
 

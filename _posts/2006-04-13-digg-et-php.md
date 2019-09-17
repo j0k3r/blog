@@ -3,7 +3,7 @@ layout: post
 title: 'Digg et PHP'
 date: '2006-04-13 02:14:18'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous connaissez certainement Digg, qui permet de mettre en avant un site internet / article et gère aussi le social bookmarking (comme blogmarks).     \nDigg utilise PHP et il est donc intéressant de savoir comment PHP gère toute la charge que génère Digg. On apprend qu'en fait, le plus gros problème de Digg ne sont venus que très rarement de PHP mais plus des      …"
 ---
 

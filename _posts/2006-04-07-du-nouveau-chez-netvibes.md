@@ -3,7 +3,7 @@ layout: post
 title: 'Du nouveau chez NetVibes'
 date: '2006-04-07 10:05:23'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Dans cette [news](http://fr.techcrunch.com/2006/04/07/netvibes-lance-de-nouvelles-fonctionnalites/) on peut lire que le site [NetVibes](http://www.netvibes.com/) vient d'introduire de nouvelles fonctionnalités sur son site au combien déja bien riche pour ceux qui  le connaissent ...     \nAu programme des nouveautés :  \n  \n* intégration      …"
 ---
 

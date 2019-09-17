@@ -3,7 +3,7 @@ layout: post
 title: 'La TV gratuite des développeurs francophones'
 date: '2006-01-13 10:44:49'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'équipe de rédaction du club Developpez.com vient d'annoncer l'ouverture officielle de la [TV gratuite des développeurs francophones](http://www.developpez.tv/).     \nVous êtes intéressés par un séminaire mais vous ne pouvez pas vous y rendre ? Quel dommage ! Heureusement Developpez.com et son équipe de plus de 200 bénévoles est là pour vous aider. Nous      …"
 ---
 

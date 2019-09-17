@@ -3,7 +3,7 @@ layout: post
 title: 'Qu''en est-il du nommage des fonctions en PHP ?'
 date: '2007-02-28 11:30:18'
 author: j0k
-tags: '[fonction,php]'
+tags: fonction php
 excerpt: "Un article très intéressant a été publié sur PHP Index et traite d'un sujet intéressant : la nomenclature de nommage des fonctions, voir carrément les prototypes d'appels, sont déroutants.     \nEn effet, l'auteur prends des fonctions basiques en PHP et les analyses rapidement au niveau du nom dans un premier temps puis au niveau de la cohérence des paramètres qui      …"
 ---
 

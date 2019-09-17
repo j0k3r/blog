@@ -3,7 +3,7 @@ layout: post
 title: 'Mozilla 1.7.6 parmis nous'
 date: '2005-03-22 05:03:50'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Dernière version de Mozilla dans les backs !   La version 1.7.6 corrige tout plein de buG de [sécurité](http://www.mozilla.org/projects/security/known-vulnerabilities.html#Mozilla), de crachs ... et tout ce qui s''en suit.   )   La branche 1.7.x sera la dernière branche de Mozilla et donc celle qui sera le plus maintenu à jour. Même si des rumeurs      ...'
 ---
 

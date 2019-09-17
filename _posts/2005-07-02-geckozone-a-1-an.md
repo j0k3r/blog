@@ -3,7 +3,7 @@ layout: post
 title: 'Geckozone à 1 an'
 date: '2005-07-02 12:16:04'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Geckozone, le portail francophone des logiciels basés sur Gecko (Firefox, Mozilla, Thunderbird, Camino, Nvu, etc.), a soufflé hier ça première bougie !   )   C''est en effet le 1er juillet 2004 que le portail ouvrait ses portes dans le but de vous fournir de la documentation et de l’aide pour l’utilisation des logiciels de la Fondation Mozilla. Geckozone existait      ...'
 ---
 

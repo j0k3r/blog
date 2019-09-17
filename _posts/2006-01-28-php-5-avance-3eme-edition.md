@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 5 avancé, 3ème edition'
 date: '2006-01-28 05:22:30'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'De succès en succès, le livre PHP 5 avancé suit son petit chemin. Chaque année (cela fera la 3ème année) une nouvelle édition est publié en Juin. L''[année dernière](http://www.j0k3r.net/news-php-5-avance-seconde-edition-516.html) les auteurs avaient hésité entre refaire une série de livre de la même édition ou refaire une nouvelle version.   Cette année, le      ...'
 ---
 

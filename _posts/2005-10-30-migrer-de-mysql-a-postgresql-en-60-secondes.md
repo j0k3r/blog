@@ -3,7 +3,7 @@ layout: post
 title: 'Migrer de MySQL à PostgreSQL en 60 secondes !'
 date: '2005-10-30 10:12:06'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Migrer d'une base de donnée à une autre c'est jamais facile. Même si le principe de stockage et pas mal de chose sont à peu près équivalent, le copier/coller de base de donnée ne fonctionne pas.     \nLe plus simple en général est d'extraire complètement les tables d'une base de donnée pour l'insérer ensuite dans la nouvelle base.   Mais voilà, après avoir      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Une fonction qui rapporte le niveau de sécurité de PHP'
 date: '2006-10-23 03:09:00'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le PHP Security Consortium lance un tout nouveau projet plus qu'intéressant !     \nL'idée est de fournir une fonction (équivalente à phpinfo()) qui effectuera plusieurs rapports de sécurité de l'environnement PHP et qui proposera des solutions pour règler les éventuels problèmes.   Voici un aperçu du rendu :  \n  \n )   \n  \n     …"
 ---
 

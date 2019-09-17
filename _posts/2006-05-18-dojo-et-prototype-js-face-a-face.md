@@ -3,7 +3,7 @@ layout: post
 title: 'Dojo et Prototype.js face à face'
 date: '2006-05-18 07:21:36'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Jonathan Aquino présente brièvement ces deux librairies JavaScript. Il a d'abord commencé à utiliser prototype.js pour faire de l'AJAX et maintenant il utilise quotidiennement Dojo.     \nIl nous présente ce qu'il préfère le plus dans chaque librairie. Evidemment pour prototype.js on retrouve la célèbre fonction $() qui permet de remplacer le (trop utilisé)      …"
 ---
 

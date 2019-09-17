@@ -3,7 +3,7 @@ layout: post
 title: 'Avantages concrets de l''accessibilité'
 date: '2005-11-18 07:32:51'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'accessibilité devient de plus en plus quelques choses dont beaucoup de webmasters intéressent. Certes ils s'y intéressent, mais beaucoup ne le mette pas en application.     \nVoici un [article](http://www.open-s.com/Blog-Accessibilite/index.php/2005/09/27/76-avantages-concrets-de-laccessibilite) intéressant qui présente les différents avantages concrets      …"
 ---
 

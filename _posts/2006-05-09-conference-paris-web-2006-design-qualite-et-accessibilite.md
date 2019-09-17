@@ -3,7 +3,7 @@ layout: post
 title: 'Conférence Paris Web 2006 : design, qualité et accessibilité'
 date: '2006-05-09 11:42:19'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Dévoilé par [AlsacreationS](http://blog.alsacreations.com/2006/04/26/242-paris-web-2006-cest-pour-bientot) fin avril, le site de la conférence Paris Web 2006 ouvre ses portes.     \nIl a pour but de présenter l'évènement qui se déroulera les 21 et 22 septembre 2006 à Paris. On peut aussi trouver la liste des tous les orateurs avec notamment Karl Dubost,      …"
 ---
 

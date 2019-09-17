@@ -3,7 +3,7 @@ layout: post
 title: 'Quelques nouvelles du Webmasters Expo 2006'
 date: '2006-03-02 11:38:31'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'année 2005 aura été excellente pour tout le secteur du e-commerce. C’est pourquoi, après un bilan pour l'édition 2005 du Salon Webmasters-Expo très satisfaisant, le staff a donc décidé de se lancer un nouveau défi, en mettant en place des nouveautés et un suivi particulier du Salon pour l’Edition 2006, à savoir :     \n* Le choix d’un lieu reconnu dans le Monde      …"
 ---
 

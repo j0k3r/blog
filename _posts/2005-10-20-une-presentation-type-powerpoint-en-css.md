@@ -3,7 +3,7 @@ layout: post
 title: 'Une présentation type PowerPoint en CSS'
 date: '2005-10-20 10:48:53'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Depuis quelques temps la mode est à la présentation de \"slide\" ou plus souvent appelé support de présentation, en xHTML, CSS et JavaScript.     \nCela permet d'avoir un support de présentation facile \"portable\". Il est compatible avec une grande majorité de navigateur. Aisément modifiable pour tout ceux qui s'y connaisse un minimum en HTML. Et puis l'avantage      …"
 ---
 

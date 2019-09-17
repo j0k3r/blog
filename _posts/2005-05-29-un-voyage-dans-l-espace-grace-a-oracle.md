@@ -3,7 +3,7 @@ layout: post
 title: 'Un voyage dans l''espace grâce à Oracle'
 date: '2005-05-29 03:50:50'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Oracle organise un [concours](http://oracle.promotionexpert.com/SpaceSweepstakes/fr/index.jsp) avec comme premier à la clé, un vol spatial suborbital à quelques 100 km de la Planète Bleue !     \nMais bon ce n'est pas un concours accessible à tout le monde. Les questions sont assez difficiles et très orientés sur les outils de développement Java et SOA      …"
 ---
 

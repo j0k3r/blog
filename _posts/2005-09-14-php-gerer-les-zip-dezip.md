@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Gérer les zip/dézip'
 date: '2005-09-14 22:07:28'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Il est parfois utile de pouvoir dézipper un fichier via un script, notamment pour faciliter l''auto-installation d''un script (phpBB, dotclear ...) sur un serveur. Le fonctionnement est simple, il faut juste trouver les outils et le savoir pour le faire :)'
 ---
 

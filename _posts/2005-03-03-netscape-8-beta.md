@@ -3,7 +3,7 @@ layout: post
 title: 'Netscape 8 bêta'
 date: '2005-03-03 11:14:12'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: '[Netscape 8 bêta](http://browser.netscape.com/nsb/download/default.jsp) est disponible.   Basé sur Mozilla Firefox 1.0, cette bêta du plus récent des navigateurs de Netscape offre le support d''à la fois les moteurs d''affichage de Gecko et d''Internet Explorer.   Plein de nouvelles fonctionnalités dans ce "nouveau" navigateur basé sur le moteur Gecko d''hier      ...'
 ---
 

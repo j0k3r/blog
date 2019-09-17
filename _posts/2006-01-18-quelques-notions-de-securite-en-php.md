@@ -3,7 +3,7 @@ layout: post
 title: 'Quelques notions de sécurité en PHP'
 date: '2006-01-18 08:30:56'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'La sécurité en PHP est devenu le sujet le plus sensible de toutes les communautés. Ce n''est généralement pas du côté de PHP lui même que les failles arrivent, mais très souvent du côté du codage qu''en fait l''utilisateur.   Il faut systématiquement vérifier toutes les données que l''internaute (visiteur) peut renseigner dans l''application. C''est une des phrases que l''on      ...'
 ---
 

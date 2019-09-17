@@ -3,7 +3,7 @@ layout: post
 title: 'Zend Core 2.0 : première version optimisée pour IIS'
 date: '2007-01-19 06:29:22'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Zend vient de publier une version bêta de son [Zend Code 2.0](http://www.zend.com/products/zend_core/download).     \nPour rappel, [en octobre dernier](http://www.j0k3r.net/news-partenariat-zend-microsoft-pour-le-web-2-0-1574.html), Microsoft avait convenu d'un partenariat avec Zend pour optimiser le développement de PHP sur le serveur de Microsoft,      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Conception d''un client de messagerie IMAP - 1ère partie'
 date: '2005-05-10 07:36:47'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Beaucoup de codeur utilise la fonction mail() pour passer outre un hébergeur et ainsi automatiser des scripts d'envoi de mail (notamment les spammeurs ...).   Mais très peu se penche de l'autre côté du miroir, du côté où l'on réceptionne les mails."
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Zend Optimizer 2.5.7 et PostgreSQL 8.0.0 RC2'
 date: '2004-12-23 12:06:26'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Une toute nouvelle version de Zend Optimizer est disponible, la [2.5.7](http://www.zend.com/store/free_download.php?pid=13).   La version précédente, la 2.5.5, présentait une [incompatibilité](http://bugs.php.net/bug.php?id=31108) avec les dernières versions de php.   Il est donc recommandé de passer à toutes les nouvelles versions de php, Zend      ...'
 ---
 

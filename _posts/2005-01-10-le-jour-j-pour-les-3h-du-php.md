@@ -3,7 +3,7 @@ layout: post
 title: 'Le jour J pour les 3h du PHP'
 date: '2005-01-10 01:37:10'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et oui comme je vous l'avais annoncé, c'est aujourd'hui à 21h que tombera le premier sujet des [3H du PHP](http://3hphp.lephpfacile.com/) nouvelle version.     \nQuelques informations avant de commencer à coder, il faut bien évidemment envoyer son script avant minuit pile, ne pas mettre d'infos (mail, tel, pseudo ...) dans le script et être inscrit sur leur      …"
 ---
 

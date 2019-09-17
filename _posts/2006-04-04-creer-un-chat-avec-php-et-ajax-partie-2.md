@@ -3,7 +3,7 @@ layout: post
 title: 'Créer un chat avec PHP et AJAX - Partie 2'
 date: '2006-04-04 02:53:27'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "PHPit continue son article sur la création d'un chat en AJAX, après la [première partie](http://www.j0k3r.net/news-creer-un-chat-avec-php-et-ajax-967.html) publiée début janvier, la deuxième partie vient d'être écrite.     \nIl y a eu beaucoup de nouveautés sur le net depuis la première publication, notamment du côté de 37signales avec son Campfire. Cette      …"
 ---
 

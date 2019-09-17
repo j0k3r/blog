@@ -3,7 +3,7 @@ layout: post
 title: 'Comment faut-il afficher une image sur un site ?'
 date: '2006-04-22 11:00:24'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Les webmasters ne se posent peut être pas souvent la question, mais il est important de le noter : comment afficher une image sur un site ? Je vous vois tous dire &quot;Bouuuh c'est nul suffit de mettre la bonne balise !&quot;, mais attendez.     \nIl existe deux façons de le faire. En utilisant tout simplement la balise img en HTML ou en utilisant la propriété      …"
 ---
 

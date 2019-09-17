@@ -3,7 +3,7 @@ layout: post
 title: 'CSS 3 révolutionne les formulaires'
 date: '2005-12-07 11:28:28'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "CSS 3, qui arrivera quand il arrivera (les avis sont tellement différents), va révolutionner l'utilisation des formulaires. Ainsi les vérification JavaScript seront obsolètes !!     \nUn paquet de nouvelles [pseudos-classes](http://www.w3.org/TR/2001/CR-css3-selectors-20011113/#pseudo-classes) en CSS va faire son apparition. Une pseudo classe déjà existence      …"
 ---
 

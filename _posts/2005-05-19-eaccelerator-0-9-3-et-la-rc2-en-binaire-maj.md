@@ -3,7 +3,7 @@ layout: post
 title: 'eAccelerator 0.9.3 et la rc2 en binaire ! MAJ'
 date: '2005-05-19 01:15:39'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "eAccelerator vient d'être publié dans sa version 0.9.3.   Elle est dors et déjà disponible pour [linux](http://sourceforge.net/project/showfiles.php?group_id=122249&amp;package_id=133446&amp;release_id=328325) mais toujours pas pour Windows.  \n  \nA noter que la version 0.9.3-rc2 est disponible en binaire, c'est à dire pour windows, pour les      …"
 ---
 

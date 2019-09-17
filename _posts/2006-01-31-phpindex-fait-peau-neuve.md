@@ -3,7 +3,7 @@ layout: post
 title: 'PHPIndex fait peau neuve'
 date: '2006-01-31 11:06:31'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après [Nexen](http://www.j0k3r.net/news-le-nouveau-nexen-net-1040.html) la semaine dernière, c'est autour de PHPIndex de changer de design et de &quot;CMS&quot;.     \nIls ont choisis Dotclear pour sa simplicité mais aussi pour sa puissance. Le design est plutôt relativement mieux réussi que pour nexen. Et surtout le site est quand même beaucoup plus joli      …"
 ---
 

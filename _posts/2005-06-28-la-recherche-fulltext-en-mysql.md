@@ -3,7 +3,7 @@ layout: post
 title: 'La recherche FULLTEXT en MySQL'
 date: '2005-06-28 09:40:30'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "MySQL permet de fixer des clés en FULLTEXT lors de la création d'une base de donnée. Cela permet ensuite à MySQL, lors de recherche avec des commandes spécifiques, de trouver plus rapidement les résultats mais aussi de pouvoir faire une gestion de la pertinence. Ainsi on peut afficher le résultat le plus \"probable\" en premier, un peu comme dans Google.     \nLe      …"
 ---
 

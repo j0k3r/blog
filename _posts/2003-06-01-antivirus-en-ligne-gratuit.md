@@ -3,7 +3,7 @@ layout: post
 title: 'Antivirus en ligne gratuit'
 date: '2003-06-01 00:00:00'
 author: j0k
-tags: '[divers]'
+tags: divers
 excerpt: 'Maintenant, débarrassez votre ordinateur des virus encore plus simplement avec Panda ActiveScan !'
 ---
 

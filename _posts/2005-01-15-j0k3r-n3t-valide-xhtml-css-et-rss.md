@@ -3,7 +3,7 @@ layout: post
 title: 'j0k3r.n3t valide XHTML, CSS et RSS'
 date: '2005-01-15 07:04:20'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Je viens de finir d'adapter le site aux normes de la W3C.   Le site est dorénavant valide [Xhtml 1.0](http://validator.w3.org/check?uri=referer), [CSS 2](http://jigsaw.w3.org/css-validator/check/referer) ainsi que [RSS 2](http://rss.scripting.com/?url=http%3A%2F%2Fwww.j0k3r.net%2Frss.php).  \n  \nJ'y ai passé du temps (2 jours) mais j'y      …"
 ---
 

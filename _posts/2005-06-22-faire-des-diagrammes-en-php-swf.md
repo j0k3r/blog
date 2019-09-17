@@ -3,7 +3,7 @@ layout: post
 title: 'Faire des diagrammes en PHP/SWF'
 date: '2005-06-22 05:11:58'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous utilisez peut-être la librairie GD de PHP pour faire des diagrammes, des camemberts, des courbes ... Elle est facile à utiliser, surtout coupler à la classe [JPGraph](http://www.aditus.nu/jpgraph/index.php) qui permet de faire très facilement des graphiques.     \nMais il faut vivre avec son temps (non pas que GD est dépassée !), et regarder du côté de      …"
 ---
 

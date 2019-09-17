@@ -3,7 +3,7 @@ layout: post
 title: 'Du nouveau pour les pages persos de Free'
 date: '2006-02-20 10:27:00'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Dans un ou deux mois, les pages persos de Free devraient [changer](http://www.freenews.fr/index.php?itemid=3088) d'architecture. Des fonctionnalités vont être modifiées et des nouveautés verront le jour.     \nOn note que le gros changement côté serveur sera la migration de notre très cher Apache vers lighttpd. Quant aux scripts PHP, ils seront apparemment      …"
 ---
 

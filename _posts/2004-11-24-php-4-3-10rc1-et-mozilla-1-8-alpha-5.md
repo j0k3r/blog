@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 4.3.10RC1 et Mozilla 1.8 alpha 5'
 date: '2004-11-24 08:05:27'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "[PHP 4.3.10RC1](http://qa.php.net/) vient de sortir.   Cette nouvelle version apporte quelques correctifs mineurs notamment la suppression des fichiers temporaires créés par GD.   C'est la première RC de la version 4.3.10, elle ne devrai pas comporter beaucoup de buGs/problèmes.  \n  \n[Mozilla 1.8 Alpha      …"
 ---
 

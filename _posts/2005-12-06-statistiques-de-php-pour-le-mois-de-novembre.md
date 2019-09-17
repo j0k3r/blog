@@ -3,7 +3,7 @@ layout: post
 title: 'Statistiques de PHP pour le mois de novembre'
 date: '2005-12-06 07:32:55'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Les statistiques de PHP pour le mois de novembre sont [disponible](http://www.nexen.net/interview/index.php?id=53) chez [nexen](http://www.nexen.net/interview/index.php?id=53).   On remarque que la migration des serveurs vers PHP 4.4.x étant en PHP 4.3.x progresse, malgré les dernières incompatibilités.  \n  \nPHP 5.0.x atteint les 5% tout      …"
 ---
 

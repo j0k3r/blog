@@ -3,7 +3,7 @@ layout: post
 title: 'Stylesheet switcher en PHP'
 date: '2005-12-07 10:54:35'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Un stylesheet switcher permet de changer via un lien, un bouton, une liste déroulante, etc ..., le design de votre site. Le but est de recharger la page en en appliquant le nouveau design. Un [stylesheet switcher](http://www.gr0w.com/articles/code/css_stylesheet_switcher_using_php_javascript_free/) se base essentiellement sur les feuilles de styles (CSS). Il a pour but      ...'
 ---
 

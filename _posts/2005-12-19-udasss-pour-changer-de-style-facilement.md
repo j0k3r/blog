@@ -3,7 +3,7 @@ layout: post
 title: 'UDASSS pour changer de style facilement'
 date: '2005-12-19 12:36:28'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "24ways.org nous propose un nouveau tutoriel qui présente [UDASSS](http://24ways.org/advent/introducing-udasss). Ne cherchez pas UDASSS sur Wikipedia, le terme est tout nouveau et n'est pas encore référencé.     \nUDASSS signifie tout simplement *Unobtrusive Degradable Ajax Style Sheet Switcher* ... tout de suite c'est plus clair. En bon français on      …"
 ---
 

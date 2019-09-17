@@ -3,7 +3,7 @@ layout: post
 title: 'Utiliser une grille de fond pour placer vos éléments'
 date: '2006-07-18 09:03:36'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le principe est simple : mettre une grille en background de votre site pendant le développement de celui-ci pour pouvoir placer au millimètre près vos éléments.     \nCela permet aussi de pouvoir bien voir les différences entre tous les navigateurs au niveau des positionnements. Comme le site la [personne](http://www.smileycat.com/miaow/archives/000264.html      …"
 ---
 

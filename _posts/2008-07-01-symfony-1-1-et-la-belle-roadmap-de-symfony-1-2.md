@@ -3,7 +3,7 @@ layout: post
 title: 'symfony 1.1 et la (belle) roadmap de symfony 1.2 !'
 date: '2008-07-01 03:44:50'
 author: j0k
-tags: '[roadmap,symfony]'
+tags: roadmap symfony
 excerpt: "symfony 1.1 a été releasé hier. Une très bonne nouvelle !     \nCette version inclue [plein de bonnes choses](http://prendreuncafe.com/blog/post/2008/06/30/Symfony-11-est-dans-les-bacs) …"
 ---
 

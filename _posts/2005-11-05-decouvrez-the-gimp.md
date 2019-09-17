@@ -3,7 +3,7 @@ layout: post
 title: 'Découvrez The gimp !'
 date: '2005-11-05 12:33:38'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Kloobik, est communauté de graphistes, lance un nouveau projet qui vise à vous familiarisez avec l'outil de retouche et de création d'images numériques Open Source nommé The Gimp.     \nThe Gimp était destiné en premier lieu aux systèmes Linux (unix &amp; co) mais c'est ensuite répandu sur d'autres plateformes (Mac OS X, Windows ...). Mais une grande partie de      …"
 ---
 

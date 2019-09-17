@@ -3,7 +3,7 @@ layout: post
 title: 'Des tutoriels pour utiliser XML et PHP'
 date: '2005-12-23 07:44:12'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voici quelques [tutoriels](http://blogs.vinuthomas.com/2005/12/22/a-few-xml-php-tutorials/) pour parser du XML en PHP. Le premier requiert un niveau débutant et vous permet de parser facilement un fichier XML. Si vous savez ce qu'est XML et que vous savez ce que vous pouvez en faire, c'est le tutoriel le plus approprié.     \nEnsuite il y a le tutoriel de      …"
 ---
 

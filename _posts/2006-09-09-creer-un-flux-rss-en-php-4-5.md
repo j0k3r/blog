@@ -3,7 +3,7 @@ layout: post
 title: 'Créer un flux RSS en PHP 4/5'
 date: '2006-09-09 03:10:18'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Dans la même lignée que mon tutoriel pour [créer un flux RSS](http://www.j0k3r.net/php-creer-un-fil-rss-pour-votre-site-21.html), le club Developpez.com publie un article pour en générer un en PHP 4 et 5.     \nCe [tutoriel](http://baptiste-wicht.developpez.com/tutoriel/php/rss/) utilise une méthode plus standard pour générer le flux, via la création      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Chargement d''images au fil du scroll avec prototype.js'
 date: '2007-09-12 09:42:39'
 author: j0k
-tags: '[prototype,scroll]'
+tags: prototype scroll
 excerpt: "Une idée sympa : affiché un site en ne chargeant que les images que l'utilisateur voit. C'est à dire seulement celle que son navigateur affiche avant qu'il ne scrolle. On gagne ainsi en chargement de la page étant donné que toutes les images du \"bas\" du site ne sont pas chargés.     \nEn scrollant, on arrive sur de nouvelles images que le script charge      …"
 ---
 

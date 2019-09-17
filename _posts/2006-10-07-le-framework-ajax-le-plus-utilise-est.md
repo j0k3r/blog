@@ -3,7 +3,7 @@ layout: post
 title: 'Le framework AJAX le plus utilisé est ..'
 date: '2006-10-07 11:53:45'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le framework AJAX le plus utilisé selon un sondage est (évidemment) prototype.js.     \nLe sondage a été réalisé sur le site d'Ajaxian. Prototype est premier avec un score de 43%, suivit ensuite par script.aculo.us avec 33% et suivit par Dojo avec 19%. On retrouve dans la queue du sondage, Moo.fx, jQuery, YUI, Rico, Atlas, XAJAX ...  \n  \nAvec la      …"
 ---
 

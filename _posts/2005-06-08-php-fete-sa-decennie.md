@@ -3,7 +3,7 @@ layout: post
 title: 'PHP fête sa décennie !'
 date: '2005-06-08 11:31:56'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "C'est aujourd'hui le 10ième anniversaire de PHP. Rasmus Lerdof l'avait [annoncé](http://groups.google.fr/group/comp.infosystems.www.authoring.cgi/msg/cc7d43454d64d133?oe=UTF-8&amp;output=gplain) il y a 10 ans et quelques heures, le Personal Home Page Tools (PHP Tools) version 1.0 était lancé !     \nComme je vous l'avais déjà annoncé un      …"
 ---
 

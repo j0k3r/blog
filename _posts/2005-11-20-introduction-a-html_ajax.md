@@ -3,7 +3,7 @@ layout: post
 title: 'Introduction à HTML_AJAX'
 date: '2005-11-20 06:42:54'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "HTML_AJAX est un paquet disponible avec PEAR qui permet de \"standardisé\" les applications pouvant utiliser AJAX. Cela fonctionne exactement comme n'importe quel framework.     \nL'auteur d'HTML_AJAX publie une [présentation](http://www.nexen.net/news/gen.php/2005/11/20/4763,0,0,0,0.php) sur comment utiliser son paquetage. Appuyer d'exemples, son      …"
 ---
 

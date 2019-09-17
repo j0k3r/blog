@@ -3,7 +3,7 @@ layout: post
 title: 'Première alpha pour Firefox 1.1'
 date: '2005-05-31 09:43:52'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "On devra le connaître sous son vrai nom, Firefox 1.1 s'appelle normalement Deer Park.     \nLa première bêta de Deer Park était disponible depuis bientôt une semaine mais elle a été révisé il y a quelques jours suite à des problèmes au niveau des thèmes et des extensions. Le but de cette bêta est surtout de tester le nouveau core Gecko dans un premier temps pour      …"
 ---
 

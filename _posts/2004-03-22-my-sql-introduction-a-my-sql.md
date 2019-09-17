@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL - Introduction à MySQL'
 date: '2004-03-22 00:15:39'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Une base de données est un ensemble organisé de données. Cela peut aller d''une simple liste de courses au supermarché à une galerie de photos, ou encore les grands systèmes d''informations des multi-nationales.'
 ---
 

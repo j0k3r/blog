@@ -3,7 +3,7 @@ layout: post
 title: 'Le salaire des programmeurs par langage'
 date: '2006-08-08 10:13:35'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Dans cet [article de devzone](http://devzone.zend.com/node/view/id/773) on découvre le classement des langages par salaire des développeurs ( [Lien initial](http://www.bestcodingpractices.com/net_developers_make_more_money-2706.html) ).     \nPHP se trouve en deuxième position derrière .Net.  \n  \nMais en fait ce classement qui peut      …"
 ---
 

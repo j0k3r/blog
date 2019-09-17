@@ -3,7 +3,7 @@ layout: post
 title: 'Oracle et Zend booste PHP'
 date: '2005-05-16 12:51:56'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Oracle et Zend annoncent des projets pour augmenter le développement de PHP sur les bases de données Oracle par l'intermédiaire d'un packetage appelé Zend Core for Oracle.     \nCe projet devrai ce concrétiser dans le troisième trimestre de cette année. Le produit sera diffuser par le groupe Oracle Technology Network mais Zend en assurera le support.  \n  \n…"
 ---
 

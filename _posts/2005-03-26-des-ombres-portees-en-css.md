@@ -3,7 +3,7 @@ layout: post
 title: 'Des ombres portées en CSS'
 date: '2005-03-26 12:26:47'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Toujours dans sa rubrique pratique, JDN publie cette fois-ci [une aide CSS](http://developpeur.journaldunet.com/tutoriel/css/050324-css-ombre-portee.shtml) et réponds ainsi à la question suivante : \"Comment puis-je créer une ombre à droite et en dessous de mes images en utilisant uniquement les CSS ?\"     \nLe rendu est plus que bluffant puisqu'on arrive à      …"
 ---
 

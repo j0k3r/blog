@@ -3,7 +3,7 @@ layout: post
 title: 'Interview de Raphael Goetter d''Alsacréations'
 date: '2005-06-20 09:48:31'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Raphaël Goetter est le webmaster du site Alsacréations (Site très connu sur le XHTML et le CSS). Comme je vous l'avez [annoncé](http://www.j0k3r.net/news-css2-pratique-du-design-web-543.html) récemment, il vient de publier un livre qui s'appelle CSS2, Pratique du design web disponible au éditions Eyrolles.     \nA cette occasion, les modérateurs du chan de      …"
 ---
 

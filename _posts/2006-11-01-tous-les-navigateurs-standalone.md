@@ -3,7 +3,7 @@ layout: post
 title: 'Tous les navigateurs standalone'
 date: '2006-11-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: 'Il existe des sites pour tester la compatibilité de votre site internet sur les navigateurs. L''idéal c''est d''avoir tous les navigateurs sur son pc en standalone !'
 ---
 

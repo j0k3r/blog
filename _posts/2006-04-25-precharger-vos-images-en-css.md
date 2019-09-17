@@ -3,7 +3,7 @@ layout: post
 title: 'Précharger vos images en CSS'
 date: '2006-04-25 01:48:41'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Quand on utilise des rollovers qui ne sont pas en une seule image, par exemple, on remarque toujours un temps (même s'il est très court) entre le moment où l'on passe la souris sur le lien et le moment où l'image qui indique qu'on est sur le lien s'affiche. C'est tout normal, c'est le temps de charger l'image.     \nUne astuce, que tout le monde connait, consiste      …"
 ---
 

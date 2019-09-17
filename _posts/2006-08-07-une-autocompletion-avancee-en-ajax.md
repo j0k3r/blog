@@ -3,7 +3,7 @@ layout: post
 title: 'Une autocompletion avancée en AJAX'
 date: '2006-08-07 11:35:52'
 author: j0k
-tags: '[ajax,autocompletion,j0k3r_net]'
+tags: ajax autocompletion j0k3r_net
 excerpt: "Ca faisait quelques jours que les nouvelles se faisaient rares. C'est tout simplement parce que je préparais un nouveau tutoriel en AJAX.     \nJe l'ai mis en application au taff, du coup je me suis dit que cela pourrai certainement profiter à certains, Alk en premier :)  \n  \nVous avez certainement déjà mis en place une autocompletion en AJAX via la      …"
 ---
 

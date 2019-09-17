@@ -3,7 +3,7 @@ layout: post
 title: 'Référencer un site en Flash'
 date: '2005-10-11 08:05:46'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Ce n'est pas nouveau, le référencement d'un site flash ... c'est très compliqué. Étant donné que les moteurs de recherche indexent le contenu de la page web (liens, images, textes ...), ils ne peuvent pas référencer les animations en flash. Ils ne sont pas apte à décortiquer l'animation de façon à trouver les liens, les images, les textes ...     \nIl faut en      …"
 ---
 

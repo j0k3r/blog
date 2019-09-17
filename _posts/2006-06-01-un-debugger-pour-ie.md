@@ -3,7 +3,7 @@ layout: post
 title: 'Un débugger pour IE'
 date: '2006-06-01 00:00:00'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'On est très content du traitement des buGs JS sous Firefox, mais quand on passe sous IE, c''est tout de suite moins drôle. Voilà un p''tit outil qui va vous plaire !'
 ---
 

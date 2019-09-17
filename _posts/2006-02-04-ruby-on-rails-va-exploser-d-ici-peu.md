@@ -3,7 +3,7 @@ layout: post
 title: 'Ruby on Rails va exploser d''ici peu'
 date: '2006-02-04 11:50:14'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Suite des séries d'interview du JDN, voici celle de [Yann Klis](http://developpeur.journaldunet.com/itws/060202-itw-novelys-klis.shtml), fondateur de Novelys, qui travaille uniquement avec les langages Ruby (surtout avec RoR) et Python.     \nIl a créé son entreprise en mars 2005, juste avant que Ruby On Rails commence à faire parler de lui, même topo pour      …"
 ---
 

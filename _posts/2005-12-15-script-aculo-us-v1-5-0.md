@@ -3,7 +3,7 @@ layout: post
 title: 'script.aculo.us v1.5.0 !'
 date: '2005-12-15 11:53:20'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Je vous en avais [parler](http://www.j0k3r.net/news-une-bibliotheque-javascript-tres-interessante-670.html) début septembre, la bibliothèque script.aculo.us permet de faire plein de choses avec AJAX. Un peu dans le même esprit que xajax, cela permet de faire des applications dites riches pour les visiteurs.     \nLa version      …"
 ---
 

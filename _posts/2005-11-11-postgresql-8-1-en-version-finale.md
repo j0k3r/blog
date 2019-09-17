@@ -3,7 +3,7 @@ layout: post
 title: 'PostgreSQL 8.1 en version finale'
 date: '2005-11-11 12:01:07'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après avoir publié quatre versions bêtas et une versions RC, PostgreSQL 8.1 sort désormais en version finale.     \nCette nouvelle version apporte une amélioration des performances et le support de fonctionnalités SQL avancées permettant le support d'entrepôts de données (\"*DataWarehouses*\") plus étendus, un plus grand nombre de transactions ainsi que la      …"
 ---
 

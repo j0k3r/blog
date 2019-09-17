@@ -3,7 +3,7 @@ layout: post
 title: 'Utiliser le buffer de sortie'
 date: '2005-11-29 10:11:12'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Connaissez vous le buffer en PHP ?     \nRares sont ceux qui l'utilise, moi le premier. Il permet en fait d'ouvrir une sorte de mémoire tampon et tous les affichages que l'on va effectuer après seront stockés dans ce buffer. Une fois le buffer fermé, on se retrouve avec une seule variable contenant tout ce qui a été affiché. Assez pratique !  \n  \n     …"
 ---
 

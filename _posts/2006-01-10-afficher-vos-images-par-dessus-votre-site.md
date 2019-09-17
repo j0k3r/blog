@@ -3,7 +3,7 @@ layout: post
 title: 'Afficher vos images par dessus votre site'
 date: '2006-01-10 09:22:29'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le titre n'est pas très accrocheur et encore moins significatif. Mais si je vous avez le nom en anglais cela aurait été encore moins attractif.     \nEn fait le principe c'est d'afficher tout communément des images miniatures et lors d'un clic sur celle ci, l'afficher dans la même page _mais_ par dessus le contenu. On désactive tout le contenu qui devient alors      …"
 ---
 

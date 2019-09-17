@@ -3,7 +3,7 @@ layout: post
 title: 'PHP.net parle de Santy et de phpBB'
 date: '2005-01-05 06:25:15'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Il fallait s'y attendre, vu qu'un \"virus PHP\" s'est propagé sur la toile à vitesse grand V (comme beaucoup de virus ...), le site [php.net](http://fr.php.net/) se défend.     \nIl précise que PHP propose beaucoup de technique de sécurité et de moyen sécuritaire pour éviter ce genre de chose. Mais il reproche surtout à phpBB un faible niveau de validation      …"
 ---
 

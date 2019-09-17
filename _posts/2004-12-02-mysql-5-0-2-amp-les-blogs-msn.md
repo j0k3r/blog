@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL 5.0.2 &amp; Les blogs MSN'
 date: '2004-12-02 06:00:42'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Nouvelle version de MySQL, la [5.0.2](http://dev.mysql.com/downloads/mysql/5.0.html), que l''on attendait depuis plus de 6 mois !   MySQL 5.0.x est encore une version alpha. MySQL 5 assurera le support des procédures stockées, des déclencheurs (trigger) et des curseurs.   MySQL 5.0 devrait être publique et finale d''ici Mars ou Avril 2005. D''ici là, MySQL AB      ...'
 ---
 

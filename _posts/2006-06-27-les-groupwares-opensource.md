@@ -3,7 +3,7 @@ layout: post
 title: 'Les groupWares openSource'
 date: '2006-06-27 08:43:04'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "[PhpIndex](http://www.phpindex.com/index.php/2006/06/27/2218-les-groupwares-opensource) nous interpelle sur une étude réalisé par des étudiants du MPNI   ( Management de Projets Numériques Interactifs ) qui traite du sujet des groupWares.  \n  \nPour résumer l'étude décrit ce qu'on appelle des groupWares :   Un ensemble de logiciels hébergés de      …"
 ---
 

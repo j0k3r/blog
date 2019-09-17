@@ -3,7 +3,7 @@ layout: post
 title: 'Nvu 1.0 désormais disponible en français'
 date: '2005-07-04 11:55:19'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après sa publication il y a une petite semaine, Nvu est désormais disponible en français sur [FrenchMozilla](http://frenchmozilla.sourceforge.net/nvu/) pour Windows, Linux et Mac OS X, ainsi qu'en pack linguistique XPI pour ceux savent ce qu'elles font ! (informations disponible sur FrenchMozilla).     \nPour rappel, Nvu est la refonte du module d'édition      …"
 ---
 

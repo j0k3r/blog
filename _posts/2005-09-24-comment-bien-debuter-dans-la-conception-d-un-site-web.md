@@ -3,7 +3,7 @@ layout: post
 title: 'Comment bien débuter dans la conception d''un site web ?'
 date: '2005-09-24 01:22:49'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Alsacréations publie un [article](http://css.alsacreations.com/Comment-debuter-et-trouver-l-information) fort intéressant qui concerne les débuts de la création d'un site web aux standards ! Ainsi en ce référant à cet article, tout webmaster débutant peut partir normalement sur les bonnes bases de la conception web conforme.     \nUne foule de liens est      …"
 ---
 

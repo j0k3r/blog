@@ -3,7 +3,7 @@ layout: post
 title: 'Faire de beaux graphiques en CSS'
 date: '2006-04-18 08:27:52'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après vous avoir parlé de la [génération de graphique en pur CSS](http://www.j0k3r.net/news-generer-des-graphiques-en-css-1068.html), je continue avec cet exemple qui me semble beaucoup plus rapide et plus facile à comprendre.     \nLe code est plus clair et le CSS aussi. De simples balises li et ul, ou tout simplement span pour générer des graphiques,      …"
 ---
 

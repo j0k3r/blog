@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 4.4.0 Release Candidate 1'
 date: '2005-06-14 01:50:20'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'La [première Release Candidate](http://qa.php.net/~derick/) de PHP 4.4.0 vient d''être publié.   )   L''équipe PHP publie aujourd''hui la première Release Candidate pour PHP 4.4.0. Pour rappel, c''est seulement un version de correction * le nombre moyen a donc été augmenté, parce que cette version modifie les API internes de PHP et a pour conséquence que des      ...'
 ---
 

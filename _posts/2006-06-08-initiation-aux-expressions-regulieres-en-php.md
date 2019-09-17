@@ -3,7 +3,7 @@ layout: post
 title: 'Initiation aux expressions régulières en PHP'
 date: '2006-06-08 03:09:03'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "La bête noire de tous développeurs c'est sans aucun doute les expressions régulières (RegEx ou encore expressions rationnelles).      \nAutant pour des choses simples comme le parsage d'email ou d'URL est relativement simple, autant dès que l'on veut faire quelques choses de plus complexe, on se casse vraiment la tête !   Le club Developpez.com publie une      …"
 ---
 

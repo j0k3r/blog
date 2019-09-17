@@ -3,7 +3,7 @@ layout: post
 title: 'Ajax sans l''objet XMLHttpRequest'
 date: '2005-10-08 01:30:49'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "AJAX a fait coulé beaucoup d'encre et n'en a pas fini de faire suer les webmasters pour rendre leur site encore plus convivial.     \nMais voilà que Julien Lamarre à développé la technologie AJAX sans l'objet XMLHttpRequest ni une frame cachée, ni une iframe ou une applet Java, mais tout simplement en passant par [une      …"
 ---
 

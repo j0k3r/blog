@@ -3,7 +3,7 @@ layout: post
 title: 'Firefox 2 Beta 2'
 date: '2006-09-01 12:15:55'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vu sur le Standblog ce matin, c'est aux alentours de minuit, heure française, qu'est sortie la nouvelle version Beta de Firefox 2.     \nLes Release Notes de Firefox 2 Beta 2 sont très complètes et détaillent les principales nouveautés. Pour ceux qui sont pressés ou qui préfèrent le français à l'anglais, voici un résumé :  \n  \n* Un nouveau thème (non      …"
 ---
 

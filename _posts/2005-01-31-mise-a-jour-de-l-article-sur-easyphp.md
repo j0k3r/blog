@@ -3,7 +3,7 @@ layout: post
 title: 'Mise à jour de l''article sur EasyPHP'
 date: '2005-01-31 12:08:27'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "L'article sur la mise à jour d'EasyPHP commence à dater un peu. Du coup les logiciels et applications présent(e)s dedans se font vieilles elles aussi.     \nUn p'tit refresh dans tout ça ne fait pas de mal.   J'ai donc mis à jour les liens pour phpMyAdmin 2.6.1 et MySQL 4.1.9.   L'installation décrite dans l'article ne diffère pas avec ces nouvelles      …"
 ---
 

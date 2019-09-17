@@ -3,7 +3,7 @@ layout: post
 title: 'FileZilla 2.2.13c et FileZilla Server 0.9.7'
 date: '2005-05-03 02:46:03'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voila deux nouvelles versions du côté de FileZilla.     \nLe client passe en version 2.2.13c.   Il corrige un buG lors d'une connexion SSL lors de l'envoie de la commande PROT et d'autre buG comme la fenêtre de management des ftps.   )   Le serveur approche de plus en plus de la version 1.0, et passe en 0.9.7.   Une nouvelle      …"
 ---
 

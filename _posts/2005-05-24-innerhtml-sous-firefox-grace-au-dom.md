@@ -3,7 +3,7 @@ layout: post
 title: 'innerHTML sous Firefox grâce au DOM'
 date: '2005-05-24 07:30:13'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "innerHTML est une fonction JavaScript propriétaire à Internet Explorer qui vous permet de modifier le contenu de balise HTML.     \ninnerHTML est beaucoup utilisé ou du moins le fût énormément lors de l'époque *où il fallait être compatible IE ou mourir*. Très pratique cela permettait notamment de faire un chat sans rafraîchissement.  \n  \nMais le      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Calculer votre pagerank en PHP'
 date: '2006-04-13 01:43:19'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le pagerank c'est un truc de webmaster. On veut tous connaître son pagerank, savoir si il est monté, descendu ... Etant donné que c'est (c'était ?) un indice de popularité d'une page web calculé par le grand Google, on peut ainsi voir la popularité de tel ou tel site.     \nSouvent, on affiche le pagerank de son site sur son site de façon à montrer aux visiteurs      …"
 ---
 

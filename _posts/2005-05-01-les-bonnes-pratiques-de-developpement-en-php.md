@@ -3,7 +3,7 @@ layout: post
 title: 'Les bonnes pratiques de développement en php'
 date: '2005-05-01 09:20:39'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le but de cet [article](http://www.noplay.net/article.php3?id_article=181) est de lister un certains nombre de points important auxquels il faut songer lors du développement en PHP. PHP est tellement simple à apprendre que la majorité des développeurs sont autodidactes et ont parfois pris de (très) mauvaises habitudes.     \nIl présente différentes bonnes      …"
 ---
 

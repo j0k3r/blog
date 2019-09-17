@@ -3,7 +3,7 @@ layout: post
 title: 'Faites votre propre Google Suggest'
 date: '2005-05-14 01:25:44'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Dan nous en [avait parlé](http://www.j0k3r.net/forum/grand-moment-sur-j0k3r-n3t-107.htm) lors de son lancement. Google Suggest permet d'anticiper les mots que tape l'internaute lors d'une recherche.     \nC'est à dire qu'il commence à taper une lettre ou deux, et une liste de mots apparaît avec le nombre de résultat. Cela peut grandement facilité la      …"
 ---
 

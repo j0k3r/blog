@@ -3,7 +3,7 @@ layout: post
 title: 'Prototip, les infobulles (tooltips) pour prototype.js'
 date: '2007-08-16 12:12:46'
 author: j0k
-tags: '[prototype,tooltip]'
+tags: prototype tooltip
 excerpt: "Vous avez certainement déjà croisé des infobulles sur le web plus communément appeler des tooltips. Certes prennent la forme d'une bulle comme dans les bds et d'autre offre juste de la couleur à l'infobulle de base des navigateurs.     \n[Prototip](http://www.nickstakenburg.com/projects/prototip/) est une classe JavaScript qui fonctionne avec prototype.js      …"
 ---
 

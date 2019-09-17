@@ -3,7 +3,7 @@ layout: post
 title: 'Faille dans phpBB, correctif important !!'
 date: '2005-03-17 06:52:02'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Ces derniers jours, le forum phpBB-fr a été victime d'un pirate ayant utilisé une nouvelle faille de phpBB 2.0.13.     \nEn attendant que le phpBB Group publie un correctif pour cette nouvelle faille de sécurité, nous conseillons à tous les possesseurs de forum phpBB d'appliquer le correctif suivant :   )"
 ---
 

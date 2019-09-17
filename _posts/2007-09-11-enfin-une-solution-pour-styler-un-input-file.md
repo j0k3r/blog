@@ -3,7 +3,7 @@ layout: post
 title: 'Enfin une solution pour styler un input file !'
 date: '2007-09-11 10:24:00'
 author: j0k
-tags: '[css,file,input,styling]'
+tags: css file input styling
 excerpt: "Les input files sont vraiment une plaie pour les graphistes / intégrateurs parce que c'est une des seules parties d'un formulaire que l'on ne peut absolument pas rendre joli. Le bouton parcourir aura la tête que le navigateur lui donnera, ce qui est bien souvent frustrant.     \nDes approches ont été faite, notamment en plaçant carrément un layer par dessus      …"
 ---
 

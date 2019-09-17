@@ -3,7 +3,7 @@ layout: post
 title: 'Un lot de 53 technique CSS que vous devez connaître !'
 date: '2007-01-19 12:49:32'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Smashing Magazine propose une liste de 53 techniques CSS à connaître.     \nDurant l'année passée, un bon nombre d'article ont été écrit sur différentes techniques CSS, mais il est bien souvent difficile de les retrouver quand on a besoin. Le but de cet article et de centraliser ces techniques de façon à les avoir toute au même endroit (pas bête pour faire grimper      …"
 ---
 

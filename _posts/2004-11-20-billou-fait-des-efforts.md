@@ -3,7 +3,7 @@ layout: post
 title: 'Billou fait des efforts'
 date: '2004-11-20 12:04:03'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Du moins il essai...   Pour essayer de faire patienter un peu plus les utilisateurs d''IE et aussi pour essayer de parer à la montée en puissance de FireFox, Billou nous propose [un site](http://windowsmarketplace.com/content.aspx?ctId=63) avec tout plein de plugins pour IE, certains payants, d''autres gratuits.   Dommage que la navigation par onglet ne soit      ...'
 ---
 

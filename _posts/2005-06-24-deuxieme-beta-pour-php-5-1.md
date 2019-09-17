@@ -3,7 +3,7 @@ layout: post
 title: 'Deuxième bêta pour PHP 5.1'
 date: '2005-06-24 01:26:35'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Un peu moins de deux semaines après la sortie de la [première bêta de PHP 5.1](http://www.j0k3r.net/news-premiere-beta-pour-php-5-1-536.html), voici maintenant la bêta 2.     \nBeaucoup de travail a été effectué dans cette nouvelle bêta et ils estiment qu'elle est prête pour être tester par les utilisateurs.   Voici quelques points qui ont été      …"
 ---
 

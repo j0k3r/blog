@@ -3,7 +3,7 @@ layout: post
 title: 'Le futur de JavaScript'
 date: '2005-06-14 10:44:34'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Avec les nouvelles technologies qui voient le joue en ce moment (DHTML, AJAX, l'objet XMLHttpRequest ...), du moins qui commencent à être connu, JavaScript reviens sur le devant de la scène.     \nTrop / Bien souvent utilisé pour faire des simples vérifications de champs de formulaire ou pour afficher des popups ou autre status dans la barre des taches, JavaScript      …"
 ---
 

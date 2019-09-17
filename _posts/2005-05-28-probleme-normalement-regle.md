@@ -3,7 +3,7 @@ layout: post
 title: 'Problème (normalement) réglé'
 date: '2005-05-28 09:00:44'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Dimanche dernier, je vous [disais](http://www.j0k3r.net/forum/indisponibilite-du-site-473.htm) que mon hébergeur avait eu un problème de disque dur sur un de ces ftp (le ftp1, celui où je suis hébergé). Le disque dur avait tout simplement crashé.     \nAprès pas mal de solutions qui n'ont pas forcément marcher (temps de recalcul lors du changement de disque      …"
 ---
 

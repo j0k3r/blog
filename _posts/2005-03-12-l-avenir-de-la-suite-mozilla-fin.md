@@ -3,7 +3,7 @@ layout: post
 title: 'L''avenir de la suite Mozilla (fin)'
 date: '2005-03-12 03:04:25'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'La fondation Mozilla a publié son [plan de transition](http://www.mozilla.org/seamonkey-transition.html) de la suite Mozilla.   )   Cette annonce confirme qu''il n''y aura pas de version 1.8 de Mozilla officielle. Même si les versions alpha et bêta pouvaient faire penser le contraire, la version finale de 1.8 ne verra pas le jour. Ils se centralisent plus      ...'
 ---
 

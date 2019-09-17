@@ -3,7 +3,7 @@ layout: post
 title: 'EasyPHP v2 ... avance petit à petit'
 date: '2006-04-07 12:27:32'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le retard est bien la chose la plus difficile à éviter dans un projet.     \nEasyPHP v2, dont la première bêta était prévu pour [les fêtes de fin d'année](http://www.j0k3r.net/news-on-parle-de-easyphp-v2-948.html) de l'année dernière, il y a ensuite la diffusion d'un [screen de la v2](http://www.j0k3r.net/news-easyphp-v2-montre-le-bout-de-son-nez-1017.html      …"
 ---
 

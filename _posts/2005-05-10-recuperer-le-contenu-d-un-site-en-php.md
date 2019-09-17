@@ -3,7 +3,7 @@ layout: post
 title: 'Récupérer le contenu d''un site en PHP'
 date: '2005-05-10 07:25:38'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "En considérant une page Web comme un fichier, on peut en tirer seulement l'information que l'on souhaite.     \nDans cet exemple du [JDN](http://developpeur.journaldunet.com/tutoriel/php/050510-php-recuperer-contenu-page-web.shtml) on ouvre la page de google (l'index donc) et on en récupère le nombre de page indexées.   Le script affiche donc :  \n  …"
 ---
 

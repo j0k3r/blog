@@ -3,7 +3,7 @@ layout: post
 title: 'Une WebConsole grâce à AJAX'
 date: '2005-10-19 09:32:12'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'On peut vraiment tout faire avec la technologie AJAX.   Voici un [tutoriel](http://www.sitepoint.com/article/take-command-ajax) qui présente une solution de WebConsole pour avoir une sorte de simulation de console linux dans un navigateur. Evidemment pour que cela fonctionne il faut que l''hébergeur accepte quelques commandes PHP (comme *shell_exec* par exemple).      ...'
 ---
 

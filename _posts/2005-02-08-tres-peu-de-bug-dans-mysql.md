@@ -3,7 +3,7 @@ layout: post
 title: 'Très peu de buG dans MySQL'
 date: '2005-02-08 05:27:10'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Coverity, une société qui produit des logiciels qui cherchent des buGs dans des applications, rapporte que MySQL ne comporte qu''une centaine de buGs, dont seulement un serait dangereux.   Cependant, ce nombre est petit comparé à la plupart des logiciels commerciaux (dit le boss de Coverity, Seth Hallem).   Cette analyse de MySQL a trouvé une moyenne d''un buG      ...'
 ---
 

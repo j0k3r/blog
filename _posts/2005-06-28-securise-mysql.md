@@ -3,7 +3,7 @@ layout: post
 title: 'Sécurisé MySQL'
 date: '2005-06-28 09:23:47'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Sur OpenSourcery, un nouveau billet indique quelques liens et quelques infos sur comment sécuriser l'installation de son serveur MySQL.     \nCet [article](http://www.sitepoint.com/blog-post-view.php?id=275986) fait suite aux récents exploits de pirates informatiques dans des bases de données mal sécurisées.   Mais il faut quand même se rappeler que      …"
 ---
 

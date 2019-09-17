@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL - Création d''une liste déroulante'
 date: '2004-03-23 19:44:48'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'La fonction *lister()* sera très utilisée pour créer une liste de valeurs de champs destinés à apparaitre comme les éléments d''une liste déroulante HTML (balise SELECT).'
 ---
 

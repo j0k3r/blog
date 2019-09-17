@@ -3,7 +3,7 @@ layout: post
 title: 'Statistiques PHP du mois d''Aout'
 date: '2006-09-05 10:00:10'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "[Nexen](http://www.nexen.net/actualites/) nous annonce dans un billet les statistiques PHP pour le mois d'Aout.     \nEn résumé :   \n  \n+ PHP 5 dépasse les [10%](http://www.nexen.net/images/stories/phpversion/200608/evolution.majeure2356.png), avec un mois record d'adoption.   + PHP 4.4 est sur le point de [détroner PHP      …"
 ---
 

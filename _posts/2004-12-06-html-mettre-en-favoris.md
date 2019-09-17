@@ -3,7 +3,7 @@ layout: post
 title: 'HTML - Mettre en favoris'
 date: '2004-12-06 11:03:22'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Beaucoup de monde recherche ce genre de script assez pratique pour mettre un site en favoris.  Je vais vous présenter en détail ce script qui n''est pas si compliqué que ça.'
 ---
 

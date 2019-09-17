@@ -3,7 +3,7 @@ layout: post
 title: 'Classer un tableau dans tous les sens'
 date: '2006-06-15 09:49:23'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Souvent utiliser, le classement des colonnes d'un tableau permet de réorganiser son affichage pour mettre en avant certaines données.   Généralement codé en PHP, le reclassement des colonnes effectue un rechargement de la page, qui peut être lourd (pour phpMyAdmin par exemple).  \n  \nUn script JavaScript permet de faire ce classement sans rechargement de la      …"
 ---
 

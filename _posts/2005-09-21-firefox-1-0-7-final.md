@@ -3,7 +3,7 @@ layout: post
 title: 'Firefox 1.0.7 final'
 date: '2005-09-21 09:47:48'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Voila après toute une série de version RC voilà enfin notre cher navigateur dans sa dernière version finale, la 1.0.7 !     \nC'est principalement une version qui inclut de nombreuses corrections de failles de sécurité mais aussi qui améliore sa stabilité. Il corrige notamment le buG d'IDN.  \n  \nPour l'instant [Firefox      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'La compatiblité des événements JavaScript'
 date: '2006-11-08 10:06:53'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Les événements JavaScript, ce sont toutes les fonctions du type onclick, onblur, onscroll ... qui vous permettent de faire des actions en fonctione d'autres actions.     \nCes événements sont souvent utilisés quand on commence à faire de l'AJAX mais je pense qu'on se pose rarement la question de savoir si c'est vraiment compatible avec tous les navigateurs.  \n   …"
 ---
 

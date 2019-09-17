@@ -3,7 +3,7 @@ layout: post
 title: 'Le W3C célèbre ces 10 ans en Europe'
 date: '2005-06-02 01:32:08'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le [World Wide Web Consortium](http://www.w3.org/) marque l'anniversaire de dix ans de présence européenne avec une célébration le 3 juin au Centre d'Enseignement et de Recherche Appliqué au Management (CERAM) en parc scientifique de Sophia Antipolis en France.     \nOrganisation internationale dédiée au développement des standards web et à leur adoption      …"
 ---
 

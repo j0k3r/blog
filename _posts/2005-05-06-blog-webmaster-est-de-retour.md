@@ -3,7 +3,7 @@ layout: post
 title: 'Blog-Webmaster est de retour'
 date: '2005-05-06 10:58:33'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "On le croyait mort, inactif, sans nouvelle ... Après plus d'un mois d'absence, voila que BW re-fait [surface](http://www.blog-webmaster.com/).     \nIl est comme lors de sa disparition, c'est à dire avec des nouvelles datant du mois de mars. Aucune explication n'est donnée quand à cette coupure totale du site.  \n  \nLe site devrai subir un      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Gérer des onglets en AJAX'
 date: '2006-02-22 07:27:50'
 author: j0k
-tags: '[ajax,onglet,tab]'
+tags: ajax onglet tab
 excerpt: "Faire des onglets en CSS, c'est bien, c'est facile et on obtient un menu rapidement et qui présente bien. De plus ce n'est pas les exemples qui manquent sur internet !     \nMais là, le sujet c'est : la gestion des onglets en AJAX. Les onglets en CSS sont statiques tandis qu'avec cette méthode il est très facile d'ajouter des onglets, de les rafraichir      …"
 ---
 

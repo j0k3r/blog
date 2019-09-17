@@ -3,7 +3,7 @@ layout: post
 title: 'L''archive des advisos chez phpSecure'
 date: '2005-03-10 10:02:45'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "[phpSecure](http://www.phpsecure.info/v2/.php?zone=pComment&amp;d=1110378260&amp;l=fr) vient de mettre en ligne l'[archive](http://www.phpsecure.info/v2/zone/pVulns) de tous ces advisos.     \nOn peut dorénavant consulter toutes les failles trouvées sur les logiciels en php et même sur php lui même. Ainsi ce ne sont pas moins de 327 applications qui      …"
 ---
 

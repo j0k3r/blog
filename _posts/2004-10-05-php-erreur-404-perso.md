@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Erreur 404 perso'
 date: '2004-10-05 23:19:01'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: "Ce script permet au visiteur d'un site de soumettre au webmaster une erreur 404 losque celui ci en rencontre une. Pour information, une erreur 404 se produit lorsqu'une page est demandée mais n'existe plus ou a changé de nom.  \nEn général, le serveur affiche un message d'erreur banal. Voici comment le personnaliser."
 ---
 

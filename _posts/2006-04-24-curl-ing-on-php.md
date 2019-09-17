@@ -3,7 +3,7 @@ layout: post
 title: 'Curl''ing on PHP'
 date: '2006-04-24 08:54:44'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Cet [article de PHPit](http://www.phpit.net/article/using-curl-php/) décrit l'utilisation de la librairie Curl.     \nCette librairie peu connue mais pourtant bien existante dans PHP permet d'exploiter les données d'un page d'un site quelconque.  \n  \nOn peut par exemple afficher simplement le contenu d'une URL mais aussi en exploiter certaines      …"
 ---
 

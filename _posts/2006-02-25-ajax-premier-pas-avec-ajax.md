@@ -3,7 +3,7 @@ layout: post
 title: 'Ajax - Premier pas avec AJAX'
 date: '2006-02-25 12:33:31'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Dans ce billet nous allons vous montrer rapidement des exemples simples en AJAX de façon à ce que vous comprenniez un peu comment cela fonctionne.  Nous allons utiliser pour cela le framework [XHRConnection](http://xhrconnection.sutekidane.net/ "Lien") qui, comme je vous l''ai dit dans le précédent billet, est très facile d''utilisation.'
 ---
 

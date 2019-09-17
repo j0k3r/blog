@@ -3,7 +3,7 @@ layout: post
 title: 'Un validateur HTML pour vos mails'
 date: '2005-12-02 12:12:59'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Les mails peuvent être envoyé soit au format HTML soit au format texte. Pour le format texte, il n'y a pas vraiment de soucis à ce faire au niveau de compatibilité avec les webmails en général.     \nCependant avec les mails au format HTML, ce n'est pas la même chose ! Quasiment chaque webmail a sa propre interprétation de l'HTML dans les mails. Ainsi il n'est pas      …"
 ---
 

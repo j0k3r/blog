@@ -3,7 +3,7 @@ layout: post
 title: 'Faites votre propre page d''accueil en AJAX !'
 date: '2006-06-29 10:29:45'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Ou encore : faite votre propre NetVibes sans passer par des scripts tout fait !     \nCe tutoriel, qui a maintenant fait le tour de tous les blogs et de tous les social-bookmarks, vous guide pas à pas pour créer votre page d'accueil en AJAX.   C'est un tutoriel très très complet qui vraiment par toutes les étapes pour que vous compreniez bien comment      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Installer un système de trackbacks'
 date: '2006-03-23 02:11:47'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Les trackbacks, en français retrolien, est un système de liens inter-blogues semi-automatisé. Il permet aux auteurs de relier des billets de blogues différents et parlant du même sujet, ou se faisant référence.     \nDan vous en parlait dans une précédente news sur [les TrackBack et les      …"
 ---
 

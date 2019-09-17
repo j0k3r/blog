@@ -3,7 +3,7 @@ layout: post
 title: 'Les moteurs de recherche et le référencement'
 date: '2005-01-24 09:45:29'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Netah nous gratifie d'un nouvel article sur blog-webmaster.com concernant les différences entre les 3 principaux moteurs de recherche : Google, MSN et Yahoo! au niveau du référencement (bête noire du webmaster ^^).     \nA l'appuie, le référencement d'un site sur la charmante Jennifer Garner avec différentes optimisations appliquées tout au long du test.  \n     …"
 ---
 

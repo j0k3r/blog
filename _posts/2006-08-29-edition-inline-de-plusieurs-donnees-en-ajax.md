@@ -3,7 +3,7 @@ layout: post
 title: 'Edition inline de plusieurs données en AJAX'
 date: '2006-08-29 09:40:40'
 author: j0k
-tags: '[ajax,edit_in_place]'
+tags: ajax edit_in_place
 excerpt: "Comme présenté dans mon tutoriel sur l'[édition à la volée en AJAX](http://www.j0k3r.net/ajax-edition-a-la-volee-en-ajax-edit-in-place-5.html), le club Developpez.com propose un tutoriel dans le même genre.     \nIl propose de modifier à la volée tous les champs d'une base de données. Le principe est le même que celui présenté dans mon tutoriel. Les données      …"
 ---
 

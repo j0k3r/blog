@@ -3,7 +3,7 @@ layout: post
 title: 'FileZilla 2.2.11 et FileZilla Server 0.9.5'
 date: '2005-02-20 03:51:54'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Nouvelle version du très célèbre client ftp FileZilla v2.2.11.   Cette version fixe corrige une faille de sécurité."
 ---
 

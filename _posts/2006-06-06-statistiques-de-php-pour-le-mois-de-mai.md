@@ -3,7 +3,7 @@ layout: post
 title: 'Statistiques de PHP pour le mois de mai'
 date: '2006-06-06 12:58:30'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Nexen publie les statistiques du moi de mai 2006 pour PHP.     \nEn bref :   * PHP 4.4.2 deviendra la version dominante en Juin 2006, devant PHP 4.3.10   * PHP 5.1.2 est la version PHP 5 dominante   * PHP 5 atteint 8%, et accélère encore son adoption (tout doucement cependant)   * PHP 4.3.9 et plus anciens représentent encore 46% des      …"
 ---
 

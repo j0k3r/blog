@@ -3,7 +3,7 @@ layout: post
 title: 'PHPBench.com, c''est qui le plus rapide ?'
 date: '2008-06-03 10:49:23'
 author: j0k
-tags: '[bench,php]'
+tags: bench php
 excerpt: "On se pose tous la question à un moment donné : dois-je plutôt faire un for, un while ou un foreach pour être le plus efficace et le plus rapide ?   \nEt ce ne sont pas les benchmarks sur PHP [qui](http://www.j0k3r.net/news-un-peu-d-optimisation-php-ne-fait-pas-de-mal-1124.html) [manque](http://www.j0k3r.net/news-php-et-optimisation-226.html) pour nous      …"
 ---
 

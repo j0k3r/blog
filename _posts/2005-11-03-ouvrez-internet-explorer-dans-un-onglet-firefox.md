@@ -3,7 +3,7 @@ layout: post
 title: 'Ouvrez Internet Explorer dans un onglet Firefox !!'
 date: '2005-11-03 10:11:18'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Une toute nouvelle extension Firefox vraiment très pratique a été publié le jour d'Halloween. Elle permet, comme vous avez pu le lire dans le titre, d'intégrer Internet Explorer au sein même de Firefox !!     \nUne première extension qui s'appelait IE View permettait, via un clic droit sur un lien, d'ouvrir ce lien dans IE. On pouvait aussi spécifier que telle      …"
 ---
 

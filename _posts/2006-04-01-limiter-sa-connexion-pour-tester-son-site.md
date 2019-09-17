@@ -3,7 +3,7 @@ layout: post
 title: 'Limiter sa connexion pour tester son site'
 date: '2006-04-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: "Lorsqu'on développe un site, il faudrait pouvoir le tester sur tout type de connexion internet.  \nVoilà le soft qu'il vous faut !"
 ---
 

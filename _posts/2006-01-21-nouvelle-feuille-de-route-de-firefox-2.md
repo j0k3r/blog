@@ -3,7 +3,7 @@ layout: post
 title: 'Nouvelle feuille de route de Firefox 2'
 date: '2006-01-21 04:53:23'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Le développeur en chef de Firefox, Ben Goodger, vient de publier une mise à jour de la précédente feuille de route de Firefox 2.0. Cette version devrai sortir en version finale cet été. On pourra voir une partie de ces possibilités dans la première version alpha (dites : *Alpha sans toutes ses fonctionnalités*) le mois prochain.   Début avril, la première version bêta      ...'
 ---
 

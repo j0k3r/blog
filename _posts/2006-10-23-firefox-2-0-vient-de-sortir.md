@@ -3,7 +3,7 @@ layout: post
 title: 'Firefox 2.0 vient de sortir'
 date: '2006-10-23 01:54:42'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Bien que l'annonce officiel soit uniquement prévu pour demain (comme les diverses soirées qui sont organisées pour), la version 2.0 de Firefox est déjà disponible en [téléchargement](http://ftp-mozilla.netscape.com/pub/mozilla.org/firefox/releases/2.0/win32/fr/Firefox%20Setup%202.0.exe).     \nCette version apporte son lot de nouveautés. Rassurez-vous,      …"
 ---
 

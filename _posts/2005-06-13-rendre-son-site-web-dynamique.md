@@ -3,7 +3,7 @@ layout: post
 title: 'Rendre son site web dynamique'
 date: '2005-06-13 09:59:02'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Pour vos visiteurs, le contenu "frais" (mis à jour constamment on dira) d''un site web peut être un vrai avantage pour produire du trafic. Cela parait normal que si votre contenu est mis à jour fréquemment l''internaute reviendra probablement sur votre site pour voir les nouveautés. Cependant, la plupart des webmasters n''ont pas assez de temps disponible pour mettre à jour ou      ...'
 ---
 

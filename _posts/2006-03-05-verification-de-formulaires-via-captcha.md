@@ -3,7 +3,7 @@ layout: post
 title: 'Vérification de formulaires via CAPTCHA'
 date: '2006-03-05 05:00:51'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Un [article de phpBuilder](http://www.phpbuilder.com/columns/patterson20060301.php3) ( en anglais ) nous explique comment réaliser un sytème de vérification de formulaires, ou comment éviter les bots/hacks de formulaires.     \nLe principe est de construire une image aléatoire, qui en fait représente une chaine alphanumérique d'authentification.   On      …"
 ---
 

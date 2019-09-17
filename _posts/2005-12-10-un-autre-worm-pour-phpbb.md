@@ -3,7 +3,7 @@ layout: post
 title: 'Un autre worm pour phpBB'
 date: '2005-12-10 11:56:01'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Après avoir subit, quasiment à la même époque l''année dernière, le vers [Santy.A](http://www.j0k3r.net/news-le-virus-santy.a-le-virus-de-phpbb-97.html) puis son dérivé, [Santy.B](http://www.j0k3r.net/news-santy-b-et-phpinclude-worm-105.html) phpBBest apparemment menacé par un autre worm qui ferai la même chose que ses copains : il vous déface votre site.       ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 4 et PHP 5 sur une seule installation d''Apache 2'
 date: '2006-07-26 08:08:36'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Enfin un tutorial que j'attendais depuis longtemps !     \nJ'en avais trouvé quelques uns mais aucun ne fait ce que je voulais. Soit il fallait changer de de fichier conf (à la manière de Wamp) soit il fallait faire tourner deux versions d'apache sur un port différent.  \n  \nLà, le serveur tourne sur notre bon vieux port 80 et la différenciation se      …"
 ---
 

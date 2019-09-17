@@ -3,7 +3,7 @@ layout: post
 title: 'Faire du code SQL propre'
 date: '2005-07-07 12:01:17'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Pourquoi faire un code propre ?   Tout simplement car votre code est susceptible d'être réutiliser par d'autres personnes derrière vous ou tout simplement par vous même. Et si cela fait longtemps que vous n'avez pas touché à un script, il est toujours agréable de revenir dessus et de tout comprendre d'un coup !  \n  \nLe      …"
 ---
 

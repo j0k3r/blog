@@ -3,7 +3,7 @@ layout: post
 title: 'HTML - Architecture HTML'
 date: '2003-03-27 09:13:44'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Toutes les instructions HTML sont exprimées dans des balises (ou "tags"), délimitées par des crochets (signe inférieur **<** et signe supérieur **>** ).'
 ---
 

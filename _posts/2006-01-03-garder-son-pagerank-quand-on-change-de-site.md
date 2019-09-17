@@ -3,7 +3,7 @@ layout: post
 title: 'Garder son pagerank quand on change de site'
 date: '2006-01-03 11:30:06'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Lorsque l'on change de nom de domaine, une grande hantise des webmasters est la perte du pagerank que possédait l'ancien domaine. Il est vrai que l'obtention d'un bon pagerank ne se fait pas en quelques jours. Il serai donc dommage de perdre une quantité assez importante de travail.     \nIl existe une façon qui permet de rediriger les personnes (et donc les bots      …"
 ---
 

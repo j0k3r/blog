@@ -3,7 +3,7 @@ layout: post
 title: 'Échanger des fichiers d''1Go grâce à Free'
 date: '2005-12-01 00:00:00'
 author: j0k
-tags: '[ch''tits trucs]'
+tags: "ch'tits trucs"
 excerpt: 'Échanger des fichiers volumineux n''est pas ce qu''il y a de plus facile sur internet. Mais Free lance un nouveau service pour remédier à ce problème !'
 ---
 

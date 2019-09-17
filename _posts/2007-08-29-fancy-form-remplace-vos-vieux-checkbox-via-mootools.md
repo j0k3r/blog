@@ -3,7 +3,7 @@ layout: post
 title: 'FancyForm remplace vos vieux checkbox via mootools'
 date: '2007-08-29 12:31:23'
 author: j0k
-tags: '[css,form,input,styling]'
+tags: css form input styling
 excerpt: "On arrive à trouver quelques scripts intéressants qui permettent de changer l'apparence des checkbox à droite à gauche, celui-ci à une rendu plutôt très joli. De quoi embellir sans soucis votre site !     \nFancyForm utilise mootools pour changer, via JavaScript l'apparence de vos checkbox mais aussi de vos boutons radios. Du coup, si l'internaute ne possède pas      …"
 ---
 

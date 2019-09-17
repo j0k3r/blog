@@ -3,7 +3,7 @@ layout: post
 title: 'Redimensionner une image avec prototype.js'
 date: '2006-08-10 05:54:02'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Un outil fort intéressant si vous désirez mettre en place une fonction de redimensionnement d'image dans une de vos applications.     \nCe script vous permet de faire comme dans n'importe quel outil de redimensionnement d'image tel que Photoshop ou Paintshop.    Il utilise les célèbres librairies scriptaculous et prototype.js et fonctionne sur la plupart      …"
 ---
 

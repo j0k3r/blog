@@ -3,7 +3,7 @@ layout: post
 title: 'Le Tour de France Macromedia Studio 8'
 date: '2005-09-14 01:44:06'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Les [Editions Eyrolles](http://home.edt02.net/emc/R/emcrV4c.php?c=2690-46039-26036-319988-394753-0--951837310-0-0-0-0) présentent le Tour de France Macromedia Studio 8.     \nMacromedia Studio 8 est la version la plus importante de toute l'histoire du produit. Cette suite d'outils essentiels vous permet de concevoir, développer et maintenir des expériences      …"
 ---
 

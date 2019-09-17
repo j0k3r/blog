@@ -3,7 +3,7 @@ layout: post
 title: 'Cinq fonctions JavaScripts très utiles'
 date: '2006-05-21 10:38:34'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le JDN présente cinq fonctions JavaScripts créées pour la plupart par des utilisateurs avancés de JavaScript.     \nLes fonctions à rajouter dans votre bibliothèque : getElementById() pour les anciens navigateurs, getElementsByClass(), getElementsByAttributes(), getElementsByAnything() et domEl().  \n  \ngetElementById() est la fonction clé à utiliser      …"
 ---
 

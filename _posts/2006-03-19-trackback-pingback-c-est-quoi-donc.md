@@ -3,7 +3,7 @@ layout: post
 title: 'TrackBack, PingBack, c''est quoi donc ?'
 date: '2006-03-19 07:18:27'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "On découvre dans cet [article du JDN](http://developpeur.journaldunet.com/tutoriel/theo/060315-differences-trackback-pingback.shtml), ce que sont les trackback et pingback dans les blogs.     \nLes articles de blogs étant devenus des fils de discussion il est nécessaire de suivre les liens qui gravitent autour.   C'est ce que réalisent le      …"
 ---
 

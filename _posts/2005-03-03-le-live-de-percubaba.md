@@ -3,7 +3,7 @@ layout: post
 title: 'Le live de Percubaba'
 date: '2005-03-03 01:19:11'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le prochain cd \"live\" de Percubaba sortira le 21 mars prochain.   Pour ce qui ne connaisse pas Percubaba ... *foutre le dawaaaa* ... et oui [Percubaba](http://www.percubaba.com/) est un groupe qui donne la bougeotte ... même mieux qui vous donne le rythme pour bouger !  \n  \nPercubaba est composé de 12 personnalités provenant majoritairement de      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Bon Echo 2.0 : Le futur de FireFox'
 date: '2006-05-15 10:21:18'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "La version 2.0 de Bon Echo ( préparation de FireFox ) est disponible à l'essai.     \nC'est une version alpha destinée aux développeurs et aux testeurs.  \n  \nUn des gros changements est la vérification orthographique en cours de frappe la gestion de session et des onglets de navigation.  \n  \nPour ceux que cela tente, elle est      …"
 ---
 

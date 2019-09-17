@@ -3,7 +3,7 @@ layout: post
 title: 'AFUP - Conférence sur le thème : PHP pour les Pros'
 date: '2006-06-13 03:40:00'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "L'AFUP propose dans une de ces prochaines conférence le thème de l'utilisation optimale et professionnelle de PHP.     \nElle aura lieu le mardi 20 juin 2006 à l'espace FIAP ( 30 rue Cabanis * 75014 Paris ).  \n  \nAu programme, discussions autour des sujets concernant l'architecture d’une application, les frameworks, les outils de travail, la      …"
 ---
 

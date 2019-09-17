@@ -3,7 +3,7 @@ layout: post
 title: 'Se connecter à MySQL via AJAX'
 date: '2005-11-20 12:00:21'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Dans ce tutoriel, l'auteur vous propose de vous connecter à MySQL via AJAX.   Via un lien, cela envoie une requête vers un script qui vous connecte ensuite à MySQL.  \n  \nIl n'y a pas un grand intérêt de vous connecter à MySQL via un lien, étant donné qu'en général cela se fait automatiquement. Mais il faut voir dans cet      …"
 ---
 

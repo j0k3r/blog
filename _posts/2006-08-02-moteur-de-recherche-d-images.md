@@ -3,7 +3,7 @@ layout: post
 title: 'Moteur de recherche d''images'
 date: '2006-08-02 09:55:28'
 author: iDo
-tags: '[]'
+tags: blabla
 excerpt: "Tout le monde connait Google Image...   Des milliard d'images sont indexées puis, lorsqu'on fait une recherche, on obtient une liste qui correspond à nos mots-clefs.  \n  \nEt souvent... l'image recherchée n'existe plus, n'est pas aussi belle que la miniature, ou autre....   C'est la qu'entre en jeu [NetVue](http://www.netvue.com/). Son      …"
 ---
 

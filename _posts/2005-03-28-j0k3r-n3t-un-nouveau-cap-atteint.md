@@ -3,7 +3,7 @@ layout: post
 title: 'j0k3r.n3t, un nouveau cap atteint !'
 date: '2005-03-28 11:59:20'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et oui le stade des 200 news vient d'être passé ce matin.   Rappelez-vous, il y a de ça maintenant deux mois à peu près le premier \"cap\" des [100 news](http://www.j0k3r.net/news-100-ieme-news-sur-j0k3r.n3t-161.html) avait été franchi.  \n  \nPour refaire des petites statistiques, cela fait **1.3** news par jour sachant qu'au mois de février on était      …"
 ---
 

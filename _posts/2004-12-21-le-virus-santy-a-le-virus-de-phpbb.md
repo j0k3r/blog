@@ -3,7 +3,7 @@ layout: post
 title: 'Le virus Santy.A, le virus de phpBB'
 date: '2004-12-21 07:47:37'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Il en faut bien partout des virus. Je vous présente [Santy.A](http://www.secuser.com/alertes/2004/santy.htm), un virus qui est destiné à defacer le site qui possède une vieille version de phpBB (2.0.10 et inférieures). Le virus exploite une récente faille et remplace la page d''accueil par un joli "[This site is defaced!!!](http://www.j0k3r.net/img/news/santy.jpg      ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'L''AFUP lance PHP TV !'
 date: '2008-07-16 09:47:42'
 author: j0k
-tags: '[afup,php,tv]'
+tags: afup php tv
 excerpt: '[PHPTV](http://www.phptv.fr/) est une initiative de l''[association française des utilisateurs de PHP](http://www.afup.org/) produite par la société OpenStates. Le projet est composé de membres impliqués dans la technologie PHP ou l''audio-visuelle.'
 ---
 

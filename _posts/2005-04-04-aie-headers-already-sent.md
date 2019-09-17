@@ -3,7 +3,7 @@ layout: post
 title: 'Aïe .. Headers already sent'
 date: '2005-04-04 12:48:55'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Encore un mise au point de fred, cette fois ci elle concerne l'erreur que beaucoup ont par rapport au headers already sent : *Cannot modify header information * headers already sent by ...*.     \nCette mise au point rappelle ce que sont les entêtes d'une page html, ce qu'elles contiennent et bien sur d'où provient l'erreur *headers already sent*.  \n  \n   …"
 ---
 

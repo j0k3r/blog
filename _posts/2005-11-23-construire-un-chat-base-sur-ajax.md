@@ -3,7 +3,7 @@ layout: post
 title: 'Construire un chat basé sur AJAX'
 date: '2005-11-23 12:51:13'
 author: j0k
-tags: '[ajax,chat]'
+tags: ajax chat
 excerpt: "AJAX permet de rafraîchir une seul partie d'une page ou toute la page entière. Voilà quelques choses de très intéressant pour réaliser un mini chat.     \nDepuis le début du mois, un article en trois parties est publié sur DevArticles qui permet de réaliser un [chat basé sur notre célèbre AJAX](http://tinyurl.com/cjq2a). Il permet de mettre en place un      …"
 ---
 

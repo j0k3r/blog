@@ -3,7 +3,7 @@ layout: post
 title: 'phpMyAdmin 2.8.0 bêta 1'
 date: '2006-01-30 12:49:38'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Le staff de phpMyAdmin vient de publier la première bêta de la toute nouvelle version 2.8.0.   Le saut qu''il y a eu depuis la version 2.7.0 (en terme de numérotation de version) est partie du au fait que les prochaines versions qui auront les même premiers chiffre (*2.8*) auront le même système de gestion. Le dernier chiffre servira uniquement pour indiquer des      ...'
 ---
 

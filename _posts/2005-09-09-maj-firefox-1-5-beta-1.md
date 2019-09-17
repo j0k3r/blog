@@ -3,7 +3,7 @@ layout: post
 title: '[MAJ] Firefox 1.5 beta 1'
 date: '2005-09-09 01:05:57'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Je ne l'ai pas dis dans la [Summer Review de Firefox](http://www.j0k3r.net/news-summer-review-firefox-661.html), mais la première version candidate de Firefox 1.5 devait paraître dans les jours à venir.     \nC'est chose faite, elle vient d'être publié dans la journée. A noter que c'est en fait la Release Candidate de la bêta 1. C'est à dire que c'est une      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Firefox recommandé par eBay'
 date: '2005-05-27 02:50:16'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Alors que les téléchargements de Firefox vont bientot atteindre les 60 millions de téléchargements (59,434,494 à l''heure où j''écris la news), la fondation Mozilla peut se réjouir de savoir qu''eBay est maintenant completement compatible avec Firefox.   )   Certes il l''était déjà beaucoup avant mais maintenant il est (normalement) completement supporté.   De      ...'
 ---
 

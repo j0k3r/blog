@@ -3,7 +3,7 @@ layout: post
 title: 'Summer Review: Script PHP'
 date: '2005-09-08 01:55:10'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Un listing rapide des différents scripts codés en PHP qui ont vu leur version incrémenté durant cet été"
 ---
 

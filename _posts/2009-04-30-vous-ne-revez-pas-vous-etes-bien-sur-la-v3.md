@@ -3,7 +3,7 @@ layout: post
 title: 'Vous ne rêvez pas, vous êtes bien sur la v3 !!'
 date: '2009-04-30 00:11:49'
 author: j0k
-tags: '[doctrine,j0k3r_net,symfony]'
+tags: doctrine j0k3r_net symfony
 excerpt: "Et oui, après un loooong moment de développement, de design, d'intégration, de mous, de laisser-aller, etc ... cette v3 vois enfin le jour !!!\nMême s'il reste (et restera certainement) toujours des coquilles à corriger si et là, il faut bien se lancer un jour !!"
 ---
 

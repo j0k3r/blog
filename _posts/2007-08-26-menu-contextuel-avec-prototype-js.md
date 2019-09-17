@@ -3,7 +3,7 @@ layout: post
 title: 'Menu contextuel avec prototype.js'
 date: '2007-08-26 11:21:10'
 author: j0k
-tags: '[contextual,menu,prototype]'
+tags: contextual menu prototype
 excerpt: "Proto.Menu est un menu contextuel (que l'on obtient en faisant un clic droit avec la souris) entièrement basé sur le framework prototype.js.     \nLe code est très léger, quelques 2ko pouvant aller jusqu'à 1.5ko compressé. Il est compatible avec la plupart des navigateurs.   Le style du menu est entièrement modifiable via une CSS externe. L'affichage est      …"
 ---
 

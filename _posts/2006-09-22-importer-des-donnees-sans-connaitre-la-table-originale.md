@@ -3,7 +3,7 @@ layout: post
 title: 'Importer des données sans connaître la table originale'
 date: '2006-09-22 08:16:54'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Nexen nous explique dans un des ses [billets](http://www.nexen.net/actualites/trucs/importer_des_donnees_sans_connaitre_la_table.php) comment importer des données d'une table dont on ne connait pas la structure.     \nOn y apprend qu'il n'est même pas la peine de créer une table structurée.   Une simple table de varchar suffit et ensuite il y a moyen      …"
 ---
 

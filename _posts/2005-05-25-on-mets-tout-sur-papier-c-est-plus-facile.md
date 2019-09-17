@@ -3,7 +3,7 @@ layout: post
 title: 'On mets tout sur papier, c''est plus facile !'
 date: '2005-05-25 10:31:56'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous vous rappelez peut être de [l'aide mémoire en PHP](http://www.j0k3r.net/forum/un-aide-memoire-papier-pour-php-394.htm) que ILoveJackDaniels.com nous avait fournit, il y a de ça un peu moins d'un mois.     \nEt bien cette fois il ré-itère cette opération mais cette fois ci avec plus de support papier.   Ainsi, il a regroupé sur papier des infos      …"
 ---
 

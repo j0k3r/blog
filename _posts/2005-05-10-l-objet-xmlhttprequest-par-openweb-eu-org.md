@@ -3,7 +3,7 @@ layout: post
 title: 'L''objet XMLHttpRequest par Openweb.eu.org'
 date: '2005-05-10 01:13:39'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Décidément tout le monde prête de plus en plus d'attention à ce petit objet.     \nMaurice Svay décortique pour nous l'objet [XMLHttpRequest](http://www.openweb.eu.org/articles/objet_xmlhttprequest/).   Il propose, pour une bonne compréhension, un exemple concret d'identification à travers XMLHttpRequest. Contrairement à un formulaire classique où      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Tout faire avec une ip'
 date: '2003-11-01 00:00:00'
 author: j0k
-tags: '[divers]'
+tags: divers
 excerpt: 'Un site qui vous permet de tracer facilement une IP pour remonter jusqu''à la source !'
 ---
 

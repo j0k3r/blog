@@ -3,7 +3,7 @@ layout: post
 title: 'Le validateur W3C multipages en version finale !'
 date: '2005-12-21 12:29:46'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Je vous en avais parlé le mois dernier, [ProzeValide](http://www.j0k3r.net/news-un-validateur-w3c-multipages-832.html) est un validateur multipage. Il permet via AJAX de valider les pages de votre site directement au près du W3C. Il vient tout juste de sortir en [version finale](http://www.proze.net/outils/validation-site.html) !     \nDans sa      …"
 ---
 

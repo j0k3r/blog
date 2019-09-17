@@ -3,7 +3,7 @@ layout: post
 title: 'LE moteur de recherche d''image en AJAX !'
 date: '2006-09-20 03:30:35'
 author: j0k
-tags: '[image,msn,search]'
+tags: image msn search
 excerpt: "Microsoft migre peu à peu toutes ces applications sous son enseigne Live.com.     \nC'est autour de son moteur de recherche d'image de passer dans la moulinette 2.0 de Microsoft. Il faut dire que Microsoft ne s'était pas vraiment fait remarquer dans le monde du web2.0, même si son webmail live.com est bien fait, il n'a réellement rien révolutionné.   )  \n …"
 ---
 

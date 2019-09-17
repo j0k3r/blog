@@ -3,7 +3,7 @@ layout: post
 title: 'Yahoo met a votre disposition des composants graphiques'
 date: '2006-04-13 02:25:48'
 author: iDo
-tags: '[]'
+tags: blabla
 excerpt: 'On connaissait déjà le [framework AJAX](http://www.j0k3r.net/news-yahoo-diffuse-son-framework-ajax-1090.html) de yahoo.   Mais en plus de cela, il diffuse aussi des composants graphique très élaboré et très utile : [slider](http://developer.yahoo.com/yui/slider/index.html), [treeview](http://developer.yahoo.com/yui/treeview/index.html),      ...'
 ---
 

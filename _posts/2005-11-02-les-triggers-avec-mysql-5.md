@@ -3,7 +3,7 @@ layout: post
 title: 'Les triggers avec MySQL 5'
 date: '2005-11-02 09:41:10'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Qwix nous gratifie d'un petit tutoriel bien sympathique sur les [triggers avec MySQL 5](http://qwix.media-box.net/index.php/2005/11/02/118-LesTriggersAvecMysql5), qui est (au passage) la seule version de MySQL à supporter les triggers.     \nMais alors les triggers c'est quoi exactement ?   Un trigger (on le traduit en français pas déclencheur) est      …"
 ---
 

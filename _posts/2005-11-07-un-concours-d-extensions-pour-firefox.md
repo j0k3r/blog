@@ -3,7 +3,7 @@ layout: post
 title: 'Un concours d''extensions pour Firefox'
 date: '2005-11-07 06:31:46'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Un grand concours vient d'être lancé par Mozilla Corporation qui vise à encourager le développement d'extensions pour Mozilla Firefox.     \n[Extend Firefox](http://developer.mozilla.org/contests/extendfirefox/) est sponsorisé par Alienware et O'Reilly. Tous les développeurs du monde entier vont biensûr planché dessus. Le but de ce concours est de soumettre      …"
 ---
 

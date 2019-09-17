@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL - Interroger une base'
 date: '2004-03-18 13:44:02'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Voici les fonctions en php qui permettent d''interroger une base MySQL'
 ---
 

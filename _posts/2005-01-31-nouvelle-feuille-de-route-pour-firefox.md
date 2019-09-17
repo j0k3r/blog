@@ -3,7 +3,7 @@ layout: post
 title: 'Nouvelle feuille de route pour FireFox'
 date: '2005-01-31 09:25:06'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Ben Goodger, le chef du projet Firefox qui bosse maintenant chez Google (peut-être pour Gbrowser ...), vient de mettre à jour la feuille de route des prochaines versions de Firefox.   )   Firefox 1.1 est donc prévu pour juin 2005 et sera précédé d''une Preview Release en avril 2005 ainsi que d''une Developer Preview en mars prochain.   Aucune date n''est fixé      ...'
 ---
 

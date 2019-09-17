@@ -3,7 +3,7 @@ layout: post
 title: 'PHPExcel, une classe pour générer des fichiers Excel2007'
 date: '2007-02-24 02:46:27'
 author: j0k
-tags: '[excel,php]'
+tags: excel php
 excerpt: "Dans une application web, le client demande très souvent de pouvoir exporter ces données au format Excel de façon à pour faire un traitement derrière (de statistiques ou autre).     \nGénéralement, on utilise le format csv, qui est extrêmement facile à mettre en place puisque très proche d'une fichier texte basique.   Mais cela pose des fois des soucis au      …"
 ---
 

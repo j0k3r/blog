@@ -3,7 +3,7 @@ layout: post
 title: 'PHP 5.1.3, version finale'
 date: '2006-05-02 08:06:05'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Après avoir publié la dernière release candidate la [semaine dernière](http://www.j0k3r.net/news-php-5.1.3-rc3-publie-officiellement-1238.html), si aucun buG critique n'était remonté avec cette RC, la version officielle serait publié cette semaine. Et c'est le cas.     \nPHP 5.1.3 est sortie officiellement le jour ou personne ne travaille (normalement), le      …"
 ---
 

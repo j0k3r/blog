@@ -3,7 +3,7 @@ layout: post
 title: 'eAccelerator 0.9.4'
 date: '2006-02-19 08:27:03'
 author: NiLuJe
-tags: '[]'
+tags: blabla
 excerpt: "Avec 4 jours de retard, une petite new rapide pour vous informer de la sortie de la version finale d'eAccelerator 0.9.4 :)     \n  Au programme, une compatibilité avec PHP5 normalement totale, excepté pour l'encodeur, qui ne fonctionne toujours correctement qu'avec PHP4. On nous promet un encodeur fonctionnel avec PHP5 &amp; 5.1 pour la prochaine version, mais      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: '[MAJ] phpBB 2.0.18, The Halloween Special'
 date: '2005-10-30 09:30:54'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "C'est Halloween partout alors pourquoi pas vous ? :D   phpBB prends le train en route et publie la version 2.0.18 dont le nom de code est forcément \"The Halloween Special\".  \n  \nCette version corrige une flopée de buG qui ont été reporté au buGtrack de phpBB. Mais implémente aussi au fur et à mesure quelques fonctions d'Olympus (le futur phpBB 3).  \n    …"
 ---
 

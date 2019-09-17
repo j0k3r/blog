@@ -3,7 +3,7 @@ layout: post
 title: 'Zend Platform publie une nouvelle version (3.0)'
 date: '2007-02-15 10:04:38'
 author: j0k
-tags: '[zend]'
+tags: zend
 excerpt: "Zend publie une toute nouvelle version de sa plateforme, la version 3.0.     \nSelon [PHP Index](http://www.phpindex.com/index.php/2007/02/13/2983-zend-technologies-annonce-la-nouvelle-version-de-zend-platform), c'est le seul serveur d'applications PHP qui répond aux besoins de performance, de gestion, d'intégration et d’extensibilité des organisations      …"
 ---
 

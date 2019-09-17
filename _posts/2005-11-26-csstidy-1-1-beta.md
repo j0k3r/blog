@@ -3,7 +3,7 @@ layout: post
 title: 'CSSTidy 1.1 bêta'
 date: '2005-11-26 07:23:11'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Une toute nouvelle version bêta de [CSSTidy 1.1](http://sourceforge.net/project/showfiles.php?group_id=148404) vient d'être publié, elle apporte quelques corrections par rapport à la version 1.0. On note aussi une nouvelle fonctionnalité."
 ---
 

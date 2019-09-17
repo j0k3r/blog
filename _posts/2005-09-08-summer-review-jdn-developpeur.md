@@ -3,7 +3,7 @@ layout: post
 title: 'Summer Review: JDN Developpeur'
 date: '2005-09-08 03:27:21'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Nombreux tutoriels ont été publié sur le JDN durant la période estivale, voila un bref récapitulatif."
 ---
 

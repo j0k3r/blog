@@ -3,7 +3,7 @@ layout: post
 title: 'Des failles dans PostgreSQL'
 date: '2005-05-03 12:46:27'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Le staff PostgreSQL prépare de nouvelles versions pour corriger deux gros problèmes de sécurité.   )   Cependant ses nouvelles versions de corrigerons pas completement les failles puisqu''elles concernent aussi les entrées utilisateurs, il faut que les administrateurs fassent une petit manip'' de leur côté.   Il diffuse ce bulletin de renseignements pour      ...'
 ---
 

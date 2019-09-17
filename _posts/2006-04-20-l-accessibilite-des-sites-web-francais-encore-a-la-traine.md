@@ -3,7 +3,7 @@ layout: post
 title: 'L''accessibilité des sites web français encore à la traine'
 date: '2006-04-20 10:37:56'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "C'est que nous rapporte un document du JDN.     \nLe texte de loi relatif à &quot;l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées&quot; adopté le 11 février 2005 est apparemment un peu laissé de côté. Il suffit de regarder un peu les sites français pour s'apercevoir des lacunes en termes d'accessibilité et ne      …"
 ---
 

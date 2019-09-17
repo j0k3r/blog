@@ -3,7 +3,7 @@ layout: post
 title: 'Manipuler des images en PHP avec GD ... la suite'
 date: '2006-08-16 11:10:53'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Aprés ce [tutoriel](http://www.j0k3r.net/forum/manipuler-des-images-en-php-avec-gd-1432.htm) sur la manipulation d'image avec GD en PHP,   ce nouveau tutoriel de [phpIt](http://www.phpit.net/) va plus loin et décrit comment en PHP :  \n  \n* Redimensionner des images   * Créer des miniatures ( thumbnails )   * Insérer du texte      …"
 ---
 

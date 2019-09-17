@@ -3,7 +3,7 @@ layout: post
 title: 'Interview d''un XtremProgrammer'
 date: '2006-03-05 05:17:57'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: 'Dans cet [ article du JDN](http://developpeur.journaldunet.com/itws/060301-itw-designup-medina.shtml), Régis Medina, &quot;Xtrem Programmer&quot; et co-auteur du livre &quot;L''Extreme Programming&quot;, nous explique comment il en est venu à cete technique de codage et comment il l''utilise au quotidien dans des projets concrets.   On y découvre que sa mise en      ...'
 ---
 

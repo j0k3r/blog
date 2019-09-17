@@ -3,7 +3,7 @@ layout: post
 title: 'Stocker vos images gratuitement !'
 date: '2004-06-01 00:00:00'
 author: j0k
-tags: '[webdesign]'
+tags: webdesign
 excerpt: 'Enfin une solution simple d''hébergement d''images !'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL 4.0.23 et des nouvelles de Santy.A'
 date: '2004-12-22 12:10:14'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Nouvelle mouture pour la version 4.0.x de MySQL, la [4.0.23](http://dev.mysql.com/downloads/mysql/4.0.html).   Rien d''extraordinaire dans cette nouvelle version, si ce n''est des corrections de [buGs](http://dev.mysql.com/doc/mysql/en/News-4.0.23.html)'
 ---
 

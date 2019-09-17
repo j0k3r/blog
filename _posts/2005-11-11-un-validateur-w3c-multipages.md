@@ -3,7 +3,7 @@ layout: post
 title: 'Un validateur W3C multipages'
 date: '2005-11-11 12:36:22'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "En général, quand on veut tester la validité d'une page, on teste uniquement la page d'accueil du site. Cependant pour que le site soit valide, il faut bien entendu que toutes les pages le soient !     \nLe problème du validateur W3C standard est qu'il faut faire les pages une par une ... ce qui en fait un test un peu rébarbatif et relativement (très) long.  \n   …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Abuser de l''opacité en CSS'
 date: '2005-06-12 06:29:39'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Il existe une directive très pratique ou plutôt très fascinante en CSS qui permet de jouer avec l'opacité sur des images par exemples.     \nAinsi on peut créer un système de rollover. En passant la souris sur l'image, elle apparaît plus nette, avec une opacité de 100%, et dès qu'on éloigne la souris de l'image, son opacité reviens à 50%. C'est comme si l'on      …"
 ---
 

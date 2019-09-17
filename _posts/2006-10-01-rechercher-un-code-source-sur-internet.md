@@ -3,7 +3,7 @@ layout: post
 title: 'Rechercher un code source sur internet'
 date: '2006-10-01 00:00:00'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Google nous autorise à fouiller dans tous les codes sources (Open Source) qu''il connaît sur internet, profitons-en, testons le !'
 ---
 

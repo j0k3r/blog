@@ -3,7 +3,7 @@ layout: post
 title: 'Le W3C se penche sur une standardisation d''AJAX'
 date: '2006-04-07 12:02:00'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le groupe de travail Web API, l'un des trois groupes de l'activité Client Web Riche du W3C, a publié le 5 avril une première ébauche de ce qui pourrait être une standardisation d'AJAX, ou plutôt de l'objet XMLHttpRequest.     \nCe document vise pour le moment à décrire le fonctionnement actuel de l'objet de façon à ce que tous les navigateurs l'implémentent de la      …"
 ---
 

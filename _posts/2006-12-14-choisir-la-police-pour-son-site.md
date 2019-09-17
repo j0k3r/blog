@@ -3,7 +3,7 @@ layout: post
 title: 'Choisir la police pour son site'
 date: '2006-12-14 06:59:01'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Tous les créateurs de site ont connu ce problème : Choisir une police adaptée pour son site.     \nEt bien via [scoopeo ](http://www.scoopeo.com/web20/3-outils-pour-tester-et-choisir-une-police-de-caracteres-pour-un-site-web) on peut trouver de sympathiques outils qui permettent de visualiser le rendu de chaque police.  \n  \n1 *      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Symfony 1.0 passe en RC1 et se dote d''un nouveau livre'
 date: '2007-01-30 03:58:37'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Symfony 1.0.0 RC1 vient d'être publiée !     \nIl n'y a pas eu de gros changements depuis la dernière bêta. Script.aculo.us a été mis à jour avec la version 1.7.0 et prototype.js 1.5.0.   Une chose très intéressante, &quot;The Definitive guide to symfony&quot; a été ajouté.   Un livre de 490 pages écrit par les auteurs de Symfony qui explique en      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Enfin les membres sont là'
 date: '2005-02-06 05:20:51'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Vous l'avez peut-être remarqué, je viens de mettre en place l'espace membre sur le site. Il est directement lié au forum.   Pour l'instant les inscriptions, la modification/affichage du profil [...] se fait toujours par le biais du forum, mais d'ici peu vous pourrez tout faire via le site.  \n  \nAucune partie du site est nouvelle pour les membres, elles      …"
 ---
 

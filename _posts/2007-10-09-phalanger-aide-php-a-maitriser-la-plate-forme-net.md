@@ -3,7 +3,7 @@ layout: post
 title: 'Phalanger aide PHP à maitriser la plate-forme .NET'
 date: '2007-10-09 09:39:01'
 author: j0k
-tags: '[dotnet,php]'
+tags: dotnet php
 excerpt: 'Phalanger est le nom de code d''un projet Open Source visant à créer une nouvelle implémentation du langage PHP sur la plate-forme .NET de Microsoft, permettant d''ajouter PHP à la liste déjà longue des langages supportés sur .NET, et permettant ainsi d''exécuter sans modification des applications PHP existantes en environnement .NET.    Par exemple, à ce jour, des      ...'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'PHP - Des news sur votre site grâce à phpBB'
 date: '2005-05-10 16:42:03'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Beaucoup de personnes cherchent à lier les commentaires de leur news avec leur forum (phpBB) pour faire vivre un peu plus leur forum et aussi pour le côté pratique.  Je vous sauve encore une fois de cette mauvaise passe en vous montrant comment faire. Ainsi vos news seront directement disponibles dans votre forum et sur votre site.'
 ---
 

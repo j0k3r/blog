@@ -3,7 +3,7 @@ layout: post
 title: 'Cinq astuces pour organiser vos CSS'
 date: '2006-01-19 02:21:20'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Les feuilles de styles c'est comme les fichiers PHP, JavaScript ... bref comme tous vos fichiers de code, il faut qu'il soit bien organisé de façon à s'y retrouver le plus facilement possible !     \nAlors il faut abuser de l'indentation et des biens chaleureux commentaires. Un webmaster nous fait part de son expérience pour nous montrer comment lui il ordonne ces      …"
 ---
 

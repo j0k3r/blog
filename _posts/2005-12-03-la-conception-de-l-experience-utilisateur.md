@@ -3,7 +3,7 @@ layout: post
 title: 'La conception de l''expérience utilisateur'
 date: '2005-12-03 07:42:03'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "[Pompage.net](http://pompage.net/) nous informe de la traduction d'un article fort intéressant sur la conception de l'expérience utilisateur.     \nIl explique en quoi cette décomposition peut vous permettre de repousser les limites de la conception web. Appuyer par une expérience de plus de 10 ans dans le métier, Peter Morville sait de quoi il parle.  \n  …"
 ---
 

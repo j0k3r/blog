@@ -3,7 +3,7 @@ layout: post
 title: 'Trouver les composants nécessaires à Mootools avec Packito'
 date: '2007-05-16 08:58:15'
 author: j0k
-tags: '[mootools]'
+tags: mootools
 excerpt: "Tout comme avec script.aculo.us, Mootools possède différents composants dans sa librairie et forcément, quand vous utilisez Mootools, vous utilisez rarement tous les composants. La question est, lesquels inclurent et lesquels ne pas inclurent, histoire de prendre que le strict minimum.     \nPackito fait exactement ceci !   Il recherche pour vous les      …"
 ---
 

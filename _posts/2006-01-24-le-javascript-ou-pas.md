@@ -3,7 +3,7 @@ layout: post
 title: 'Le JavaScript ... ou pas ...'
 date: '2006-01-24 10:58:47'
 author: DanRaZor
-tags: '[]'
+tags: blabla
 excerpt: "Un petit [article](http://blog.alsacreations.com/2006/01/24/217-pourquoi-certains-nactivent-pas-javascript) intéressant pour rappeler que le JavaScript est désactivable sur nos browsers adorés et que certains utilisent cette fonction.     \nTout ça pour dire que le JavaScript reste une option et que le webmaster doit bien prendre en compte que la      …"
 ---
 

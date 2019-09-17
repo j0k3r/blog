@@ -3,7 +3,7 @@ layout: post
 title: 'En vrac, de retour de vacances .. (partie 1)'
 date: '2008-05-13 02:25:55'
 author: j0k
-tags: '[css,php,sms,symfony,vrac]'
+tags: css php sms symfony vrac
 excerpt: 'De retour de vacances et après un sacré moment sans aucune news sur le site (ça va déjà presque faire un mois ..), je fais une rapide lecture de mon agrégateur pour publier une news vrac (comme celle qui se font souvent quand on n''a pas le temps de poster régulièrement mais qu''on a quand même envie de partager des liens !..)'
 ---
 

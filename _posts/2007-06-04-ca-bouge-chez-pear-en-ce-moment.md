@@ -3,7 +3,7 @@ layout: post
 title: 'Ca bouge chez PEAR en ce moment !'
 date: '2007-06-04 07:15:35'
 author: j0k
-tags: '[pear]'
+tags: pear
 excerpt: "Depuis le [changement de l'organisation générale](http://www.limbourg.com/arnaud/blog/archives/2007/05/22/186) de PEAR, il se passe pas mal de choses !     \nAprès avoir demandé à ces utilisateurs ce qu'ils voudraient voir changer dans PEAR, PEAR se dote d'un blog dans un premier temps. [Le groupe](http://pear.php.net/news/newgroup-2007.php) et [le      …"
 ---
 

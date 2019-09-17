@@ -3,7 +3,7 @@ layout: post
 title: 'Les XSS doivent vous faire peur !'
 date: '2005-05-19 12:34:19'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Comme le dit [nexen](http://www.nexen.net/news/gen.php/2005/05/18/4218,0,0,0,0.php) il faut craindre les XSS.     \nOuais c'est bien ... mais c'est quoi ?   Les XSS consistent à injecter du code JavaScript dans une page, en faisant placer des données dans le code HTML par le script PHP. Le grand classique est *echo $_GET[\"x\"];* qui injecte toute la      …"
 ---
 

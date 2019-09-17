@@ -3,7 +3,7 @@ layout: post
 title: 'Firebug 1.0 enfin disponible !'
 date: '2007-01-25 09:43:43'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Et voilà, l'extension Firefox que tout bon développeur web se doit de posséder vient d'être publiée en version 1.0 finale et déjà disponible sur le site des extensions de Firefox.     \nAprès plus d'un an de développement, l'extension qui n'a cessé de grandir voit maintenant le grand jour.   Comme le dis l'auteur sur [son      …"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Google mMaim, une interface pour MySQL'
 date: '2005-05-24 01:35:59'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Décidément Google en fait toujours plus que le plus possible ...     \nVoilà que Google viens d'enregistrer, depuis quelques semaines, un projet sur SourceForge qui permet de surveiller des serveurs en réplication, et d'afficher les données des commandes SHOW.   Cette interface graphique pour MySQL appelée mMAIM (MySQL Monitoring And Investigation Module)      …"
 ---
 

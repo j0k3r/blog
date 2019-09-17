@@ -3,7 +3,7 @@ layout: post
 title: 'La taille des polices en accessibilité'
 date: '2006-02-27 07:26:32'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'Alsacreations traite d''un sujet que beaucoup néglige lors de leur développement, la taille des polices.   Un élément clé de l''accessibilité du web c''est la possibilité de pouvoir modifier la taille des polices des sites webs. Ainsi les mal-voyants ou les personnes ayant des lunettes (problèmes aux yeux, etc ...) peuvent augmenter la taille du texte et ainsi mieux surfer      ...'
 ---
 

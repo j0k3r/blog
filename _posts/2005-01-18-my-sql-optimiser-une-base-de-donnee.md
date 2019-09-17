@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL - Optimiser une base de donnée'
 date: '2005-01-18 00:21:56'
 author: j0k
-tags: '[développement]'
+tags: développement
 excerpt: 'Cela peut paraître absurde ou totalement logique, mais il est bon d''optimiser de temps en temps sa base de donnée ou plutôt ses tables dans la base de donnée.  Voila une explication simple du pourquoi du comment'
 ---
 

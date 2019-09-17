@@ -3,7 +3,7 @@ layout: post
 title: 'Interview d''un des developpeurs d''EasyPHP'
 date: '2005-03-28 06:52:19'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: 'JDN Developpeur vient de réaliser l''[interview d''Emmanuel Faivre](http://developpeur.journaldunet.com/itws/itw-easyphp-emmanuelfaivre.shtml), l''un des trois developpeurs d''EasyPHP.   )   On retrouve pas mal d''info sur le passé, le developpement et le futur d''EasyPHP.   Par le biais de cette interview, on remarque qu''EasyPHP evoluera en fonction de      ...'
 ---
 

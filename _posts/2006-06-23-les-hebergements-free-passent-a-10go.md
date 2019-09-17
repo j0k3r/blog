@@ -3,7 +3,7 @@ layout: post
 title: 'Les hébergements Free passent à 10Go'
 date: '2006-06-23 01:57:06'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Free continue de satisfaire tout les internautes en possession d'un hébergement gratuit chez eux.     \nIl y a un an et demi, Free annonçait [un passage à 1Go](http://www.j0k3r.net/news-et-1go-d-espace-web-pour-tout-le-monde-chez-free-149.html) pour les pages persos, une petite révolution dans le domaine de l'hébergement gratuit à l'époque. Cette semaine      …"
 ---
 

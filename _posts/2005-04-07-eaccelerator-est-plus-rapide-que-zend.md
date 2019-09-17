@@ -3,7 +3,7 @@ layout: post
 title: 'eAccelerator est plus rapide que Zend'
 date: '2005-04-07 12:32:34'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Le site d'[eAccelerator](http://eaccelerator.net/HomeFr) mets en avant grâce à un [test](http://www.clarkconnect.org/forums/showflat.php?Board=webserver&amp;Number=67958) d'un utilisateur qui compare la vitesse de Zend Optimizer et d'eAccelerator.     \nLes tests ont été effectué sur la page d'index de wordpress et de phpMyAdmin. Et on note que Zend      …"
 ---
 

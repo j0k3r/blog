@@ -3,7 +3,7 @@ layout: post
 title: 'Un moteur de blog en AJAX très bien pensé'
 date: '2006-02-27 06:27:51'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Ce nouveau moteur de blog est plus qu'impressionnant.   On bave souvent en ce moment sur toutes les applications que l'on peut trouver en AJAX et qui sont toutes plus ludiques et bluffantes que les autres.  \n  \nCette initiative provient d'un jeune étudiant anglais de 17 ans qui normalement programme en C/C++ et pour les jeux mais qui s'est dit que ce petit      …"
 ---
 

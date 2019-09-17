@@ -3,7 +3,7 @@ layout: post
 title: 'Un exemple de notification de chargement en AJAX'
 date: '2006-07-12 12:03:16'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "Bien souvent quand on fait de l'AJAX, on trouve un petit coin pour afficher un loading.gif de façon à indiquer au client que la requête ce fait.     \nAinsi il est notifié du chargement de ses données. Le &quot;classique&quot; c'est le petit loading.gif, que l'on peut notamment faire soit même grâce à [AjaxLoad](http://www.ajaxload.info/).  \n  \n    …"
 ---
 

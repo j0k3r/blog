@@ -3,7 +3,7 @@ layout: post
 title: 'SMS gratuits pour les abonnés Orange !'
 date: '2005-02-08 09:33:39'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "C'est pas tous les jours Mardi gras et par la même occasion le moment de passer pour un urluberlu en ce baladant dans sa ville déguisé en SuperMan et essayant de voler en sautant de tous les bancs publics.     \nOrange renouvelle son offre exceptionnelle \"Nuit KDO\". Le top départ est annoncé pour 21h30 ce soir jusqu'à demain matin 8h. Tous les textos (ou SMS pour      …"
 ---
 

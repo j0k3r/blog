@@ -3,7 +3,7 @@ layout: post
 title: 'v5.1.2 pour la branche de PHP 5.1'
 date: '2006-01-12 11:30:46'
 author: j0k
-tags: '[]'
+tags: blabla
 excerpt: "PHP 5.1.2 a été publié aujourd'hui par l'équipe de développement PHP. Cette version apporte des corrections de buGs mais aussi et surtout trois corrections de failles. Le changelog à la sauce nexen :     \nLes points de sécurité importants sont :  \n  \n* L'injection de réponse HTTP a été bloqué dans l'extension de session, et avec la fonction      …"
 ---
 
