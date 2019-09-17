@@ -26,7 +26,7 @@ J'ai tendance à beaucoup aimé voyager et à raconter mes voyages sur un [blog 
 ### À propos du site
 **C'est un site statique** généré via [Jekyll](https://jekyllrb.com/). Il a été généré pour la dernière fois le {{ site.time | date: "%d/%m/%Y"}}.
 
-Il est hébergé sur ?
+Il est hébergé sur [Netlify](https://app.netlify.com/sites/j0k3r-net/deploys).
 
 J'ai eu la bonne idée en 2009 de convertir tous mes articles, mes news, mes posts en markdown (ils étaient stockés avec des balises [*bbcode*](https://fr.wikipedia.org/wiki/BBCode) avant). Cela m'a permis de pouvoir garder une très grande majorité des articles que j'avais écrit. *Je ne sais pas si c'est une bonne chose vu leur qualité*.
 
