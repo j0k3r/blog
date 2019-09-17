@@ -1,5 +1,9 @@
 # redirect for netlify
 # https://www.netlify.com/docs/redirects/
+
+# Redirect default Netlify subdomain to primary domain
+https://j0k3r-net.netlify.com/* https://www.j0k3r.net/:splat 301!
+
 /feed                       /feed.xml
 
 /tag/:tag                   /tags#:tag
