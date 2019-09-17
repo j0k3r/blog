@@ -1,5 +1,5 @@
 # Permalinks
-permalink: /:title
+permalink: /:title/
 
 # Setup
 title: j0k3r.net

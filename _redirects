@@ -1,6 +1,5 @@
 # redirect for netlify
 # https://www.netlify.com/docs/redirects/
-/*.html                     /:splat
 /feed                       /feed.xml
 
 /tag/:tag                   /tags#:tag
