@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/construire-un-site-d-ecommerce-grace-a-ez-publish
 layout: post
 title: 'Construire un site d''eCommerce grâce à eZ Publish'
 date: '2005-04-29 09:24:18'

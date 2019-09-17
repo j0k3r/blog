@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/ajax-une-autocompletion-avancee-en-ajax
 layout: post
 title: 'Ajax - Une autocompletion avancée en AJAX'
 date: '2006-08-07 09:16:38'

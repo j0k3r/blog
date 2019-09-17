@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/faites-vous-un-nom-fr
 layout: post
 title: 'Faites vous un nom .fr'
 date: '2006-06-13 09:33:13'

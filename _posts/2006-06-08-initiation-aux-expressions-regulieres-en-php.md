@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/initiation-aux-expressions-regulieres-en-php
 layout: post
 title: 'Initiation aux expressions régulières en PHP'
 date: '2006-06-08 03:09:03'

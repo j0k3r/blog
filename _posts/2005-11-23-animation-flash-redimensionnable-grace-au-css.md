@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/animation-flash-redimensionnable-grace-au-css
 layout: post
 title: 'Animation Flash redimensionnable grâce au CSS'
 date: '2005-11-23 12:33:27'

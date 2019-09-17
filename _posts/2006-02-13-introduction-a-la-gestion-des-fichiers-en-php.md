@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/introduction-a-la-gestion-des-fichiers-en-php
 layout: post
 title: 'Introduction à la gestion des fichiers en PHP'
 date: '2006-02-13 04:43:54'

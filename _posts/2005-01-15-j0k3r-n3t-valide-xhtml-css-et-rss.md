@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/j0k3r-n3t-valide-xhtml-css-et-rss
 layout: post
 title: 'j0k3r.n3t valide XHTML, CSS et RSS'
 date: '2005-01-15 07:04:20'

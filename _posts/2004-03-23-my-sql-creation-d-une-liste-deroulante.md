@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/my-sql-creation-d-une-liste-deroulante
 layout: post
 title: 'MySQL - Création d''une liste déroulante'
 date: '2004-03-23 19:44:48'

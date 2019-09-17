@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/securiser-vos-sessions-en-utilisant-une-base-de-donnee
 layout: post
 title: 'Sécuriser vos sessions en utilisant une base de donnée'
 date: '2006-09-16 04:12:40'

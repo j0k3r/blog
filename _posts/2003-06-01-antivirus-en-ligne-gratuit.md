@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/antivirus-en-ligne-gratuit
 layout: post
 title: 'Antivirus en ligne gratuit'
 date: '2003-06-01 00:00:00'

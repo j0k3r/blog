@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/phalanger-aide-php-a-maitriser-la-plate-forme-net
 layout: post
 title: 'Phalanger aide PHP à maitriser la plate-forme .NET'
 date: '2007-10-09 09:39:01'

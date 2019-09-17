@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/mysql-developpera-un-pilote-pour-php-6
 layout: post
 title: 'MySQL développera un pilote pour PHP 6'
 date: '2006-10-26 10:44:26'

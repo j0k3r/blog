@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/quelques-corrections-et-mise-a-jour
 layout: post
 title: 'Quelques corrections et mise à jour'
 date: '2005-10-16 09:29:20'

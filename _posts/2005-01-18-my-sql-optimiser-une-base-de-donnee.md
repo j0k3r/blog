@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/my-sql-optimiser-une-base-de-donnee
 layout: post
 title: 'MySQL - Optimiser une base de donnée'
 date: '2005-01-18 00:21:56'

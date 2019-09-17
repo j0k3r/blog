@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/collection-de-hacks-css
 layout: post
 title: 'Collection de hacks CSS'
 date: '2006-09-17 12:03:58'

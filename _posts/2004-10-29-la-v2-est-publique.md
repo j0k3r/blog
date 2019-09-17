@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/la-v2-est-publique
 layout: post
 title: 'La v2 est publique !'
 date: '2004-10-29 05:52:11'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-nouveautes-de-php-5-et-de-php-6
 layout: post
 title: 'Les nouveautés de PHP 5 et de PHP 6'
 date: '2005-12-06 07:38:51'

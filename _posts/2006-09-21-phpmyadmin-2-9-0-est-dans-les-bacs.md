@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/phpmyadmin-2-9-0-est-dans-les-bacs
 layout: post
 title: 'phpMyAdmin 2.9.0 est dans les bacs'
 date: '2006-09-21 02:20:43'

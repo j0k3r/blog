@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ajax-ca-craint
 layout: post
 title: 'AJAX ça craint !'
 date: '2005-12-07 02:38:45'

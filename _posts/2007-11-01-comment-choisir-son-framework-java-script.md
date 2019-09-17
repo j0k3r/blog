@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/comment-choisir-son-framework-java-script
 layout: post
 title: 'Comment choisir son framework JavaScript ?'
 date: '2007-11-01 06:19:18'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-interpreteur-javascript-pour-php
 layout: post
 title: 'Un interpréteur JavaScript pour PHP'
 date: '2005-07-07 12:07:28'

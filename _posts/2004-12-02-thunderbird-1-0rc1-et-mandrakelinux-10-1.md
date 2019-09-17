@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/thunderbird-1-0rc1-et-mandrakelinux-10-1
 layout: post
 title: 'Thunderbird 1.0RC1 et Mandrakelinux 10.1'
 date: '2004-12-02 11:34:43'

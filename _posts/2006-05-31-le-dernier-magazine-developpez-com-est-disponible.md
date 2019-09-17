@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-dernier-magazine-developpez-com-est-disponible
 layout: post
 title: 'Le dernier Magazine Développez.com est disponible'
 date: '2006-05-31 06:19:11'

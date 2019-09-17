@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-concours-d-extensions-pour-firefox
 layout: post
 title: 'Un concours d''extensions pour Firefox'
 date: '2005-11-07 06:31:46'

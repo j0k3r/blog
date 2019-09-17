@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/tests-de-performance-de-php-5-1
 layout: post
 title: 'Tests de performance de PHP 5.1'
 date: '2005-06-15 09:47:40'

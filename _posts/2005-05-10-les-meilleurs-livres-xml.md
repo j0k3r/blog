@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-meilleurs-livres-xml
 layout: post
 title: 'Les meilleurs livres XML'
 date: '2005-05-10 11:26:53'

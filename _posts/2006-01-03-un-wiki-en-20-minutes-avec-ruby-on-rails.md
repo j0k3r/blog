@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-wiki-en-20-minutes-avec-ruby-on-rails
 layout: post
 title: 'Un Wiki en 20 minutes avec Ruby On Rails'
 date: '2006-01-03 11:09:36'

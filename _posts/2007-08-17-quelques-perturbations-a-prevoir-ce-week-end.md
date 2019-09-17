@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/quelques-perturbations-a-prevoir-ce-week-end
 layout: post
 title: 'Quelques perturbations à prévoir ce week end'
 date: '2007-08-17 07:12:57'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/php-securisation-php
 layout: post
 title: 'PHP - Sécurisation PHP'
 date: '2004-10-05 23:06:53'

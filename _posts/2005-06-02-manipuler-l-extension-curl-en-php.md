@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/manipuler-l-extension-curl-en-php
 layout: post
 title: 'Manipuler l''extension cURL en PHP'
 date: '2005-06-02 03:09:53'

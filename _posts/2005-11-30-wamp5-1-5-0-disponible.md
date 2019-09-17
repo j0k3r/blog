@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/wamp5-1-5-0-disponible
 layout: post
 title: 'WAMP5 1.5.0 disponible'
 date: '2005-11-30 12:00:53'

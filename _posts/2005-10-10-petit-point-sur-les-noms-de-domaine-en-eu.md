@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/petit-point-sur-les-noms-de-domaine-en-eu
 layout: post
 title: 'Petit point sur les noms de domaine en .eu'
 date: '2005-10-10 07:14:17'

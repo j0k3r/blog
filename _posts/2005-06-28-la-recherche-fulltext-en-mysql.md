@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/la-recherche-fulltext-en-mysql
 layout: post
 title: 'La recherche FULLTEXT en MySQL'
 date: '2005-06-28 09:40:30'

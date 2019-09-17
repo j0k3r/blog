@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/sondage-plus-d-ajax-sur-j0k3r-n3t
 layout: post
 title: 'Sondage : Plus d''AJAX sur j0k3r.n3t ?'
 date: '2006-08-10 07:30:32'

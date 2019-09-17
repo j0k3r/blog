@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-dates-du-forum-php-2005-a-paris
 layout: post
 title: 'Les dates du forum PHP 2005 à Paris'
 date: '2005-06-01 10:53:17'

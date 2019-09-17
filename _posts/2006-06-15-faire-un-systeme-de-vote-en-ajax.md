@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/faire-un-systeme-de-vote-en-ajax
 layout: post
 title: 'Faire un système de vote en AJAX'
 date: '2006-06-15 07:41:07'

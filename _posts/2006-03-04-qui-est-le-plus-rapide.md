@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/qui-est-le-plus-rapide
 layout: post
 title: 'Qui est le plus rapide ?'
 date: '2006-03-04 02:18:21'

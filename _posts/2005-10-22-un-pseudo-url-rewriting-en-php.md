@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-pseudo-url-rewriting-en-php
 layout: post
 title: 'Un pseudo URL Rewriting en PHP'
 date: '2005-10-22 12:31:43'

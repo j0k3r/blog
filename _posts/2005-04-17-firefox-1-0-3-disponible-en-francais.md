@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/firefox-1-0-3-disponible-en-francais
 layout: post
 title: 'Firefox 1.0.3 disponible en Français'
 date: '2005-04-17 05:37:18'

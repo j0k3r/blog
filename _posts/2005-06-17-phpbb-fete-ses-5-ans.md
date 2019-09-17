@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/phpbb-fete-ses-5-ans
 layout: post
 title: 'phpBB fête ses 5 ans !'
 date: '2005-06-17 05:43:33'

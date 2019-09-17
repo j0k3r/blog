@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/zdnet-parle-d-ajax
 layout: post
 title: 'ZDnet parle d''AJAX'
 date: '2005-11-16 03:15:14'

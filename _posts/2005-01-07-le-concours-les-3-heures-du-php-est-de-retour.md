@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-concours-les-3-heures-du-php-est-de-retour
 layout: post
 title: 'Le concours "Les 3 heures du PHP" est de retour'
 date: '2005-01-07 02:43:16'

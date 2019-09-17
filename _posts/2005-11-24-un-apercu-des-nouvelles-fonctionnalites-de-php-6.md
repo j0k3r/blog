@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-apercu-des-nouvelles-fonctionnalites-de-php-6
 layout: post
 title: 'Un aperçu des nouvelles fonctionnalités de PHP 6'
 date: '2005-11-24 11:11:08'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/la-barre-des-600-news-aux-couleurs-d-halloween
 layout: post
 title: 'La barre des 600 news aux couleurs d''Halloween !'
 date: '2005-10-27 12:00:11'

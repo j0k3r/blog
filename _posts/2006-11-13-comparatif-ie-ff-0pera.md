@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/comparatif-ie-ff-0pera
 layout: post
 title: 'Comparatif IE FF 0péra'
 date: '2006-11-13 07:31:06'

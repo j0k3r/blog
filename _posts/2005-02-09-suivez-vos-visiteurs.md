@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/suivez-vos-visiteurs
 layout: post
 title: 'Suivez vos visiteurs ...'
 date: '2005-02-09 06:38:13'

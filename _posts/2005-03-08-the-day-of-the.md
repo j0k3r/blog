@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/the-day-of-the
 layout: post
 title: 'The day of the ...'
 date: '2005-03-08 01:23:00'

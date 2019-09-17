@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/digg-et-php
 layout: post
 title: 'Digg et PHP'
 date: '2006-04-13 02:14:18'

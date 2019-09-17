@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-5-1-montre-le-bout-de-son-nez
 layout: post
 title: 'PHP 5.1 montre le bout de son nez'
 date: '2005-02-02 05:56:26'

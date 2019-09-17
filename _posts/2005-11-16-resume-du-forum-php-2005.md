@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/resume-du-forum-php-2005
 layout: post
 title: 'Résumé du Forum PHP 2005'
 date: '2005-11-16 12:32:27'

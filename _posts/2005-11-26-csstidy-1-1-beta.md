@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/csstidy-1-1-beta
 layout: post
 title: 'CSSTidy 1.1 bêta'
 date: '2005-11-26 07:23:11'

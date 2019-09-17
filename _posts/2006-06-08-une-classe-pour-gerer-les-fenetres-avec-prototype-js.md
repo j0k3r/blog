@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/une-classe-pour-gerer-les-fenetres-avec-prototype-js
 layout: post
 title: 'Une classe pour gèrer les fenêtres avec prototype.js'
 date: '2006-06-08 12:08:20'

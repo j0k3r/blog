@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="content">
+  {% include pagination-newer.html %}
+
+  {{ content }}
+
+  {% for post in paginator.posts %}
+  <article class="post-body">
+    <h2 class="post-title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    {% include post-meta.html post=post %}
+
+    {% if post.excerpt %}
+      <p>{{ post.excerpt }}</p>
+    {% else %}
+      {{ post.content }}
+    {% endif %}
+  </article>
+  {% endfor %}
+
+  {% include pagination-older.html %}
+</div>

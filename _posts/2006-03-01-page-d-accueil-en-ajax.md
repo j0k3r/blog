@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/page-d-accueil-en-ajax
 layout: post
 title: 'Page d''accueil en AJAX'
 date: '2006-03-01 00:00:00'

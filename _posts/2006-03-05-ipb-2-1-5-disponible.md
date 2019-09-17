@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ipb-2-1-5-disponible
 layout: post
 title: 'IPB 2.1.5 disponible'
 date: '2006-03-05 05:38:52'

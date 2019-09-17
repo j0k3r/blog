@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/votre-forum-phpbb-tout-en-ajax
 layout: post
 title: 'Votre forum phpBB tout en AJAX'
 date: '2006-09-27 09:20:12'

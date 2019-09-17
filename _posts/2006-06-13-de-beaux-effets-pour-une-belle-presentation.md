@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/de-beaux-effets-pour-une-belle-presentation
 layout: post
 title: 'De beaux effets pour une belle présentation'
 date: '2006-06-13 09:23:47'

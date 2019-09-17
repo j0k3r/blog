@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/spaw-editor-un-editeur-wysiwyg-de-plus
 layout: post
 title: 'SPAW editor, un éditeur WYSIWYG de plus'
 date: '2005-05-23 12:45:54'

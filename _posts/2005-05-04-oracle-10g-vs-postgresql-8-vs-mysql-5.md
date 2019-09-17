@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/oracle-10g-vs-postgresql-8-vs-mysql-5
 layout: post
 title: 'Oracle 10g vs PostgreSQL 8 vs MySQL 5'
 date: '2005-05-04 10:46:15'

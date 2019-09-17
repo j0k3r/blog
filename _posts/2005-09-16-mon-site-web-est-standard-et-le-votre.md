@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/mon-site-web-est-standard-et-le-votre
 layout: post
 title: 'Mon site Web est standard ! Et le vôtre ?'
 date: '2005-09-16 12:19:51'

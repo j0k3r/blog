@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/creer-des-urls-plus-courtes-en-php
 layout: post
 title: 'Créer des URLs plus courtes en PHP'
 date: '2006-06-06 01:19:08'

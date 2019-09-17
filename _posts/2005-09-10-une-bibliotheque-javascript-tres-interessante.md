@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/une-bibliotheque-javascript-tres-interessante
 layout: post
 title: 'Une bibliothèque JavaScript très intéressante !'
 date: '2005-09-10 10:34:39'

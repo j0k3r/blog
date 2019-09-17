@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ejs-chart-pour-faire-des-diagrammes-interactifs-en-js
 layout: post
 title: 'EJSChart, pour faire des diagrammes interactifs en JS'
 date: '2007-04-10 06:53:22'

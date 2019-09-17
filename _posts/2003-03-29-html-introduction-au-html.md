@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/html-introduction-au-html
 layout: post
 title: 'HTML - Introduction au HTML'
 date: '2003-03-29 19:43:29'

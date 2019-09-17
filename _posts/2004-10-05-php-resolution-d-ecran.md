@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/php-resolution-d-ecran
 layout: post
 title: 'PHP - Résolution d''écran'
 date: '2004-10-05 23:33:36'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/geckozone-a-1-an
 layout: post
 title: 'Geckozone à 1 an'
 date: '2005-07-02 12:16:04'

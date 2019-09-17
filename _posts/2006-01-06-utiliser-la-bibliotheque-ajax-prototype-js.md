@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/utiliser-la-bibliotheque-ajax-prototype-js
 layout: post
 title: 'Utiliser la bibliothèque AJAX prototype.js'
 date: '2006-01-06 11:16:09'

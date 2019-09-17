@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/go-php5-pour-accelerer-le-passage-a-php-5-2
 layout: post
 title: 'GoPHP5 : pour accélérer le passage à PHP 5.2 !'
 date: '2007-07-05 10:45:32'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-moteur-de-recherche-d-image-en-ajax
 layout: post
 title: 'LE moteur de recherche d''image en AJAX !'
 date: '2006-09-20 03:30:35'

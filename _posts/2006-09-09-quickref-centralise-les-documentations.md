@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/quickref-centralise-les-documentations
 layout: post
 title: 'QuickRef centralise les documentations'
 date: '2006-09-09 04:13:01'

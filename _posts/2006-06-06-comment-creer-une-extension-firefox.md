@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/comment-creer-une-extension-firefox
 layout: post
 title: 'Comment créer une extension Firefox ?'
 date: '2006-06-06 12:49:57'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-livre-gratuit-en-ligne-sur-java-script
 layout: post
 title: 'Un livre gratuit en ligne sur JavaScript'
 date: '2007-08-03 04:47:40'

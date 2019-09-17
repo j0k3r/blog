@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/comment-etre-un-meilleur-programmeur
 layout: post
 title: 'Comment être un meilleur programmeur ?'
 date: '2006-09-03 06:26:07'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/webmasters-expo-2006-j-4
 layout: post
 title: 'Webmasters Expo 2006, J-4 !'
 date: '2006-04-30 11:15:16'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ror-ruby-on-rails
 layout: post
 title: 'RoR : Ruby On Rails'
 date: '2005-11-25 07:03:24'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/de-la-magie-dans-php-5
 layout: post
 title: 'De la magie dans Php 5'
 date: '2006-05-15 10:59:23'

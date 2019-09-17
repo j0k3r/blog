@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/prendre-en-compte-les-cases-a-cocher-en-php
 layout: post
 title: 'Prendre en compte les cases à cocher en PHP'
 date: '2005-04-18 07:57:46'

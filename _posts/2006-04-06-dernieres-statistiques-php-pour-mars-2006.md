@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/dernieres-statistiques-php-pour-mars-2006
 layout: post
 title: 'Dernières statistiques PHP pour Mars 2006'
 date: '2006-04-06 06:45:02'

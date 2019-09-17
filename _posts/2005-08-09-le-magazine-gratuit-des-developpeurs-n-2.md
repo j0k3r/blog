@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-magazine-gratuit-des-developpeurs-n-2
 layout: post
 title: 'Le magazine gratuit des développeurs : N°2'
 date: '2005-08-09 12:47:34'

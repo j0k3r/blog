@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/creer-un-fil-rss-pour-votre-site
 layout: post
 title: 'Créer un fil RSS pour votre site'
 date: '2005-01-11 09:09:00'

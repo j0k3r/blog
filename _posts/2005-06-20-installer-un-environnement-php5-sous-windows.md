@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/installer-un-environnement-php5-sous-windows
 layout: post
 title: 'Installer un environnement PHP5 sous Windows'
 date: '2005-06-20 10:36:44'

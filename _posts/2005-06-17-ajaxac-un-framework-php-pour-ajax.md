@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ajaxac-un-framework-php-pour-ajax
 layout: post
 title: 'AjaxAC : Un Framework PHP pour AJAX'
 date: '2005-06-17 11:00:17'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/passer-vos-sites-a-la-vitesse-ajax
 layout: post
 title: 'Passer vos sites à la vitesse AJAX'
 date: '2006-02-02 11:32:23'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/phpbb-2-0-21-bertie-s-summer-vacation
 layout: post
 title: 'phpBB 2.0.21, Bertie''s Summer Vacation'
 date: '2006-06-07 11:03:58'

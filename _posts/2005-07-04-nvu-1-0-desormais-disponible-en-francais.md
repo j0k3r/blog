@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/nvu-1-0-desormais-disponible-en-francais
 layout: post
 title: 'Nvu 1.0 désormais disponible en français'
 date: '2005-07-04 11:55:19'

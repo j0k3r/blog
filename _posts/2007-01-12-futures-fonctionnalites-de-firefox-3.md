@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/futures-fonctionnalites-de-firefox-3
 layout: post
 title: 'Futures fonctionnalités de Firefox 3'
 date: '2007-01-12 09:35:29'

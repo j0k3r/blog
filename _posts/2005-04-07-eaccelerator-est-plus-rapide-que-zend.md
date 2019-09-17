@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/eaccelerator-est-plus-rapide-que-zend
 layout: post
 title: 'eAccelerator est plus rapide que Zend'
 date: '2005-04-07 12:32:34'

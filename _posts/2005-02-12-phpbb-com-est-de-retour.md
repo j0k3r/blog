@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/phpbb-com-est-de-retour
 layout: post
 title: 'phpBB.com est de retour'
 date: '2005-02-12 11:57:48'

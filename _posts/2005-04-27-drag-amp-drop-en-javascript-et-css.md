@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/drag-amp-drop-en-javascript-et-css
 layout: post
 title: 'Drag & Drop en Javascript et CSS !!'
 date: '2005-04-27 06:47:52'

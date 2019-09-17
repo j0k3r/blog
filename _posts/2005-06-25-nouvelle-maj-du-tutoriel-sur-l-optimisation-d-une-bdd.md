@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/nouvelle-maj-du-tutoriel-sur-l-optimisation-d-une-bdd
 layout: post
 title: 'Nouvelle MAJ du tutoriel sur l''optimisation d''une BDD'
 date: '2005-06-25 02:22:30'

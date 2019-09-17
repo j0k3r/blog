@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-futur-attribut-ping-pour-la-balise-a
 layout: post
 title: 'Un futur attribut ping pour la balise a ?'
 date: '2006-01-27 03:17:25'

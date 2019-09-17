@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ch-tit-truc-de-mai-banque-d-images-gratuites
 layout: post
 title: 'Ch''tit truc de mai : Banque d''images gratuites'
 date: '2005-05-02 05:24:03'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/the-box-office-0-2-ou-comment-ecrire-autour-d-une-image
 layout: post
 title: 'The Box Office 0.2 ou comment écrire autour d''une image'
 date: '2005-05-20 03:58:31'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/sms-gratuits-pour-les-abonnes-orange
 layout: post
 title: 'SMS gratuits pour les abonnés Orange !'
 date: '2005-02-08 09:33:39'

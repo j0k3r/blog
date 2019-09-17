@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-principes-du-design
 layout: post
 title: 'Les principes du design'
 date: '2005-12-19 10:20:51'

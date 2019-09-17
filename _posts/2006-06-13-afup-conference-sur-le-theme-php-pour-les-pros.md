@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/afup-conference-sur-le-theme-php-pour-les-pros
 layout: post
 title: 'AFUP - Conférence sur le thème : PHP pour les Pros'
 date: '2006-06-13 03:40:00'

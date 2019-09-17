@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/du-nouveau-dans-les-moteurs-de-recherche
 layout: post
 title: 'Du nouveau dans les moteurs de recherche'
 date: '2004-11-13 07:02:07'

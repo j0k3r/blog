@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/installer-un-systeme-de-trackbacks
 layout: post
 title: 'Installer un système de trackbacks'
 date: '2006-03-23 02:11:47'

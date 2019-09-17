@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/my-sql-principales-requetes-sql
 layout: post
 title: 'MySQL - Principales requêtes SQL'
 date: '2004-03-20 14:59:06'

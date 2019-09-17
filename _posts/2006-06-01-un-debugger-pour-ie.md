@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/un-debugger-pour-ie
 layout: post
 title: 'Un débugger pour IE'
 date: '2006-06-01 00:00:00'

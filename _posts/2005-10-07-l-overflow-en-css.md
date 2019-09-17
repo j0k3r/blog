@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/l-overflow-en-css
 layout: post
 title: 'L''overflow en CSS'
 date: '2005-10-07 11:55:28'

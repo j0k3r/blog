@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/gerer-les-zip-dezip-en-php
 layout: post
 title: 'Gérer les zip/dézip en PHP'
 date: '2005-09-15 12:17:56'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/moteur-de-recherche-texte-avec-le-framework-zend
 layout: post
 title: 'Moteur de Recherche Texte avec le FrameWork Zend'
 date: '2006-04-27 08:10:52'

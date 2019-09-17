@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-framework-ajax-le-plus-utilise-est
 layout: post
 title: 'Le framework AJAX le plus utilisé est ..'
 date: '2006-10-07 11:53:45'

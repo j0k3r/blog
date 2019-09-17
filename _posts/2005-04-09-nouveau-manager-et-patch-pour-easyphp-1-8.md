@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/nouveau-manager-et-patch-pour-easyphp-1-8
 layout: post
 title: 'Nouveau manager et patch pour EasyPHP 1.8'
 date: '2005-04-09 11:49:53'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/yahoo-met-a-votre-disposition-des-composants-graphiques
 layout: post
 title: 'Yahoo met a votre disposition des composants graphiques'
 date: '2006-04-13 02:25:48'

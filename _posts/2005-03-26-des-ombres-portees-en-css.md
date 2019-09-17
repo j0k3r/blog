@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/des-ombres-portees-en-css
 layout: post
 title: 'Des ombres portées en CSS'
 date: '2005-03-26 12:26:47'

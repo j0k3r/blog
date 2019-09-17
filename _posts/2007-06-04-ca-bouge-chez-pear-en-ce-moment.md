@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ca-bouge-chez-pear-en-ce-moment
 layout: post
 title: 'Ca bouge chez PEAR en ce moment !'
 date: '2007-06-04 07:15:35'

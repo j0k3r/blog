@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/faciliter-la-saisie-grace-au-cookie
 layout: post
 title: 'Faciliter la saisie grace au cookie'
 date: '2005-04-18 08:06:08'

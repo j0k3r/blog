@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/manipuler-des-images-en-php-avec-gd-la-suite
 layout: post
 title: 'Manipuler des images en PHP avec GD ... la suite'
 date: '2006-08-16 11:10:53'

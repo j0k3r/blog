@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-antispam-non-intrusif-en-css
 layout: post
 title: 'Un antispam non intrusif en CSS'
 date: '2007-07-21 11:04:48'

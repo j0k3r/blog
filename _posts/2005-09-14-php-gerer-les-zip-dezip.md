@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/php-gerer-les-zip-dezip
 layout: post
 title: 'PHP - Gérer les zip/dézip'
 date: '2005-09-14 22:07:28'

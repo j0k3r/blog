@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/firecookie-prenez-le-controle-de-vos-cookies-via-firebug
 layout: post
 title: 'Firecookie, prenez le contrôle de vos cookies via Firebug'
 date: '2008-03-07 10:00:35'

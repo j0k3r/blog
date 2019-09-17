@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/nouvelle-interview-de-raphael-goetter
 layout: post
 title: 'Nouvelle interview de Raphaël Goetter'
 date: '2005-06-25 01:36:55'

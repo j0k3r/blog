@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/des-graphiques-flash-grace-a-php
 layout: post
 title: 'Des graphiques Flash grace à PHP'
 date: '2005-02-11 06:15:02'

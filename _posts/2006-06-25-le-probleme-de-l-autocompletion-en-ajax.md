@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-probleme-de-l-autocompletion-en-ajax
 layout: post
 title: 'Le problème de l''autocompletion en AJAX'
 date: '2006-06-25 10:36:07'

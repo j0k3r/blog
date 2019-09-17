@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/planifier-la-realisation-d-une-application-php
 layout: post
 title: 'Planifier la réalisation d''une application PHP'
 date: '2005-05-30 01:31:17'

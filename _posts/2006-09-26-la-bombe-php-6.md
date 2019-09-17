@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/la-bombe-php-6
 layout: post
 title: 'La bombe PHP 6'
 date: '2006-09-26 09:19:03'

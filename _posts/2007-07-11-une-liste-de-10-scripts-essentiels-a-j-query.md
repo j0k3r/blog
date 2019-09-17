@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/une-liste-de-10-scripts-essentiels-a-j-query
 layout: post
 title: 'Une liste de 10 scripts essentiels à jQuery'
 date: '2007-07-11 08:13:18'

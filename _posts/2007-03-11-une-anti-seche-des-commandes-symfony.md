@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/une-anti-seche-des-commandes-symfony
 layout: post
 title: 'Une anti-sèche des commandes Symfony'
 date: '2007-03-11 03:23:46'

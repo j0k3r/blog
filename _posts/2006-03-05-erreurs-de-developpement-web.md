@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/erreurs-de-developpement-web
 layout: post
 title: 'Erreurs de Développement Web'
 date: '2006-03-05 04:55:20'

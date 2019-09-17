@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-aperophp-pour-l-anniversaire-de-php
 layout: post
 title: 'Un apéroPHP pour l''anniversaire de PHP'
 date: '2005-05-30 11:32:40'

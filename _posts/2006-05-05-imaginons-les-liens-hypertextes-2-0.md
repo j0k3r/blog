@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/imaginons-les-liens-hypertextes-2-0
 layout: post
 title: 'Imaginons les liens hypertextes 2.0'
 date: '2006-05-05 12:00:36'

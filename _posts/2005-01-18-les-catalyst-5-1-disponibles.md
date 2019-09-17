@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-catalyst-5-1-disponibles
 layout: post
 title: 'Les Catalyst 5.1 disponibles !'
 date: '2005-01-18 12:26:52'

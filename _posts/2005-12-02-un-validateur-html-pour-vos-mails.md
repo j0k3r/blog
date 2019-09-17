@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-validateur-html-pour-vos-mails
 layout: post
 title: 'Un validateur HTML pour vos mails'
 date: '2005-12-02 12:12:59'

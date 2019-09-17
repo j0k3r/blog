@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/la-barre-google-pour-firefox
 layout: post
 title: 'La barre Google pour Firefox'
 date: '2005-07-08 01:33:52'

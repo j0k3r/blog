@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/easy-php-3-0-quoi-de-neuf
 layout: post
 title: 'EasyPHP 3.0, quoi de neuf ?'
 date: '2009-01-23 12:33:03'

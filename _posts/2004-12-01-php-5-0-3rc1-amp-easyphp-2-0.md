@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-5-0-3rc1-amp-easyphp-2-0
 layout: post
 title: 'PHP 5.0.3RC1 &amp; EasyPHP 2.0'
 date: '2004-12-01 01:48:42'

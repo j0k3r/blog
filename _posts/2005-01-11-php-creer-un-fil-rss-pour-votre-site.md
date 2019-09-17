@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/php-creer-un-fil-rss-pour-votre-site
 layout: post
 title: 'PHP - Créer un fil RSS pour votre site'
 date: '2005-01-11 18:11:43'

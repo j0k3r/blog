@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/creer-un-script-de-type-qui-est-en-ligne
 layout: post
 title: 'Créer un script de type : Qui est en ligne'
 date: '2005-12-12 10:51:34'

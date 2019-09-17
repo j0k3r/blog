@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/statistiques-de-php-pour-le-mois-d-avril
 layout: post
 title: 'Statistiques de PHP pour le mois d''avril'
 date: '2006-05-11 04:57:16'

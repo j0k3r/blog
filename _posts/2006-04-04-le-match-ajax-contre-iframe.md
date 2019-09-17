@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-match-ajax-contre-iframe
 layout: post
 title: 'Le match : AJAX contre iFrame'
 date: '2006-04-04 04:22:35'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/roadmap-pour-dotclear-2
 layout: post
 title: 'Roadmap pour Dotclear 2'
 date: '2006-01-09 10:58:30'

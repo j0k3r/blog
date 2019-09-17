@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/gotapi-le-must-de-la-documentation
 layout: post
 title: 'gotAPI, le must de la documentation'
 date: '2006-04-15 10:29:00'

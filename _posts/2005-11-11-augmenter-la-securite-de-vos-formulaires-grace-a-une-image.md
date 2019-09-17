@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/augmenter-la-securite-de-vos-formulaires-grace-a-une-image
 layout: post
 title: 'Augmenter la sécurité de vos formulaires grâce à une image'
 date: '2005-11-11 12:02:38'

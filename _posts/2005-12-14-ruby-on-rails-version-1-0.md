@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ruby-on-rails-version-1-0
 layout: post
 title: 'Ruby on Rails version 1.0 !'
 date: '2005-12-14 03:57:57'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/firefox-3-0-nom-de-code-minefield
 layout: post
 title: 'Firefox 3.0, nom de code Minefield'
 date: '2006-10-13 10:47:17'

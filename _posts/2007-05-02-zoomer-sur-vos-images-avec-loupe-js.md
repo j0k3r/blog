@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/zoomer-sur-vos-images-avec-loupe-js
 layout: post
 title: 'Zoomer sur vos images avec loupe.js'
 date: '2007-05-02 02:49:15'

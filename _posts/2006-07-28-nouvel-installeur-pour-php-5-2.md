@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/nouvel-installeur-pour-php-5-2
 layout: post
 title: 'Nouvel installeur pour PHP 5.2'
 date: '2006-07-28 10:02:27'

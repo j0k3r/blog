@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/des-salaires-en-hausse-pour-les-developpeurs-ajax
 layout: post
 title: 'Des salaires en hausse pour les développeurs AJAX'
 date: '2006-09-26 09:25:56'

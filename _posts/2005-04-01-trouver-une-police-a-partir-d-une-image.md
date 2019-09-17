@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/trouver-une-police-a-partir-d-une-image
 layout: post
 title: 'Trouver une police à partir d''une image'
 date: '2005-04-01 00:00:00'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-excel-une-classe-pour-generer-des-fichiers-excel2007
 layout: post
 title: 'PHPExcel, une classe pour générer des fichiers Excel2007'
 date: '2007-02-24 02:46:27'

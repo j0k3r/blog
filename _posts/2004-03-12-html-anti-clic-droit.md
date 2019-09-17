@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/html-anti-clic-droit
 layout: post
 title: 'HTML - Anti-clic droit'
 date: '2004-03-12 23:58:21'

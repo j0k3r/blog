@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/zend-platform-publie-une-nouvelle-version-3-0
 layout: post
 title: 'Zend Platform publie une nouvelle version (3.0)'
 date: '2007-02-15 10:04:38'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/un-petit-guide-des-ur-ls
 layout: post
 title: 'Un petit guide des URLs'
 date: '2005-09-01 00:00:00'

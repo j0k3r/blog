@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/la-petite-barre-verte-revient-peu-a-peu
 layout: post
 title: 'La "petite barre verte" revient peu à peu'
 date: '2005-05-30 11:29:47'

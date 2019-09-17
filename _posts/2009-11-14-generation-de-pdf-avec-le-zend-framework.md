@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/generation-de-pdf-avec-le-zend-framework
 layout: post
 title: 'Génération de PDF avec le Zend Framework'
 date: '2009-11-14 23:09:10'

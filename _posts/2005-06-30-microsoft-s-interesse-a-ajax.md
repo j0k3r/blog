@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/microsoft-s-interesse-a-ajax
 layout: post
 title: 'Microsoft s''intéresse à AJAX'
 date: '2005-06-30 12:59:20'

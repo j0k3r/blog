@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/le-bon-counter
 layout: post
 title: 'Le bon counter !'
 date: '2003-12-29 15:10:21'

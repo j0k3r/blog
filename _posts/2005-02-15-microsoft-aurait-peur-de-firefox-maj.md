@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/microsoft-aurait-peur-de-firefox-maj
 layout: post
 title: 'Microsoft aurait peur de FireFox ? [MAJ]'
 date: '2005-02-15 03:04:16'

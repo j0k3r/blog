@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/faire-sa-version-amp-pour-une-cle-usb
 layout: post
 title: 'Faire sa version AMP pour une clé USB'
 date: '2005-06-17 10:29:10'

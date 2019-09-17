@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/des-widgets-sur-vos-mobiles
 layout: post
 title: 'Des widgets sur vos mobiles !'
 date: '2006-09-12 05:52:34'

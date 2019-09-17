@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/apache-2-1-6-en-version-alpha
 layout: post
 title: 'Apache 2.1.6 en version alpha'
 date: '2005-06-28 09:23:23'

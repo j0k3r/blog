@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-be-gratuits
 layout: post
 title: 'Les .be gratuits !'
 date: '2005-11-02 11:20:29'

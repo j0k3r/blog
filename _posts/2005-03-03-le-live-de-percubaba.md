@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-live-de-percubaba
 layout: post
 title: 'Le live de Percubaba'
 date: '2005-03-03 01:19:11'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/faire-du-code-sql-propre
 layout: post
 title: 'Faire du code SQL propre'
 date: '2005-07-07 12:01:17'

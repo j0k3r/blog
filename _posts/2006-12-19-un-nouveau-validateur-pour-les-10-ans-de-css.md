@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-nouveau-validateur-pour-les-10-ans-de-css
 layout: post
 title: 'Un nouveau validateur pour les 10 ans de CSS'
 date: '2006-12-19 09:53:50'

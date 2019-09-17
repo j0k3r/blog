@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/importer-des-donnees-sans-connaitre-la-table-originale
 layout: post
 title: 'Importer des données sans connaître la table originale'
 date: '2006-09-22 08:16:54'

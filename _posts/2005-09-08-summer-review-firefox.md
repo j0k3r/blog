@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/summer-review-firefox
 layout: post
 title: 'Summer Review: FireFox'
 date: '2005-09-08 02:20:26'

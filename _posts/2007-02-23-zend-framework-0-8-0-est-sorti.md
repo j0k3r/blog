@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/zend-framework-0-8-0-est-sorti
 layout: post
 title: 'Zend Framework 0.8.0 est sorti'
 date: '2007-02-23 01:38:11'

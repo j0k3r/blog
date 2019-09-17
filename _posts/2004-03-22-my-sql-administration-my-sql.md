@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/my-sql-administration-my-sql
 layout: post
 title: 'MySQL - Administration MySQL'
 date: '2004-03-22 05:26:43'

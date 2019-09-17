@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/surveillez-vos-pages-web-favorites
 layout: post
 title: 'Surveillez vos pages web favorites'
 date: '2004-04-01 00:00:00'

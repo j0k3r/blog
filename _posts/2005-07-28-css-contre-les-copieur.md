@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/css-contre-les-copieur
 layout: post
 title: 'CSS : Contre les copieur !'
 date: '2005-07-28 07:15:58'

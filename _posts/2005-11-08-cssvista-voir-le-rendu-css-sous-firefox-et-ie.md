@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/cssvista-voir-le-rendu-css-sous-firefox-et-ie
 layout: post
 title: 'CSSVista, voir le rendu CSS sous Firefox et IE'
 date: '2005-11-08 08:47:19'

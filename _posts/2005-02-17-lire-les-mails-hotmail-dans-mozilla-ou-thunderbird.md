@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/lire-les-mails-hotmail-dans-mozilla-ou-thunderbird
 layout: post
 title: 'Lire les mails Hotmail dans Mozilla ou Thunderbird'
 date: '2005-02-17 02:31:24'

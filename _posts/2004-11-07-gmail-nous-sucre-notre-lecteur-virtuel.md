@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/gmail-nous-sucre-notre-lecteur-virtuel
 layout: post
 title: 'Gmail nous sucre notre lecteur virtuel ...'
 date: '2004-11-07 06:53:49'

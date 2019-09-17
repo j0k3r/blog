@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/interview-de-raphael-goetter-d-alsacreations
 layout: post
 title: 'Interview de Raphael Goetter d''Alsacréations'
 date: '2005-06-20 09:48:31'

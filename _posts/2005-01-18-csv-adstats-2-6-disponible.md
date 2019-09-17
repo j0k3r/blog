@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/csv-adstats-2-6-disponible
 layout: post
 title: 'CSV AdStats 2.6 disponible'
 date: '2005-01-18 04:35:50'

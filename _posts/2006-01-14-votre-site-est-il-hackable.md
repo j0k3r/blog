@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/votre-site-est-il-hackable
 layout: post
 title: 'Votre site est-il hackable ?'
 date: '2006-01-14 12:24:59'

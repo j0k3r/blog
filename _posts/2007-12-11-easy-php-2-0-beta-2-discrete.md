@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/easy-php-2-0-beta-2-discrete
 layout: post
 title: 'EasyPHP 2.0, bêta 2 discrète'
 date: '2007-12-11 10:06:52'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/la-compatiblite-des-evenements-javascript
 layout: post
 title: 'La compatiblité des événements JavaScript'
 date: '2006-11-08 10:06:53'

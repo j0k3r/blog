@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/zen-photo-une-galerie-d-images-ultra-simple-en-php-ajax
 layout: post
 title: 'ZenPhoto, une galerie d''images ultra simple en PHP/Ajax'
 date: '2007-09-30 02:59:17'

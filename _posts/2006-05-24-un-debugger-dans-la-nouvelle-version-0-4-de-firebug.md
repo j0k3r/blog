@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-debugger-dans-la-nouvelle-version-0-4-de-firebug
 layout: post
 title: 'Un debugger dans la nouvelle version 0.4 de FireBug'
 date: '2006-05-24 02:18:07'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/l-extreme-programming-rend-votre-travail-plus-gratifiant
 layout: post
 title: 'L''Extreme Programming rend votre travail plus gratifiant'
 date: '2006-03-12 01:43:19'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/creer-simplement-votre-galerie-photo
 layout: post
 title: 'Créer simplement votre galerie photo'
 date: '2005-11-21 07:19:00'

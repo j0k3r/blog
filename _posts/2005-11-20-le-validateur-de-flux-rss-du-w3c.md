@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-validateur-de-flux-rss-du-w3c
 layout: post
 title: 'Le validateur de flux RSS du W3C'
 date: '2005-11-20 07:53:11'

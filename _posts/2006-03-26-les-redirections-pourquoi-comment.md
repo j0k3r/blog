@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-redirections-pourquoi-comment
 layout: post
 title: 'Les redirections : Pourquoi ? Comment ?'
 date: '2006-03-26 10:04:20'

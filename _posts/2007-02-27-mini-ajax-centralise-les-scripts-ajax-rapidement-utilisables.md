@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/mini-ajax-centralise-les-scripts-ajax-rapidement-utilisables
 layout: post
 title: 'MiniAjax centralise les scripts AJAX rapidement utilisables'
 date: '2007-02-27 08:57:52'

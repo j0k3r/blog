@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/design-un-outil-pour-les-webdesigners
 layout: post
 title: 'Design, un outil pour les webdesigners'
 date: '2007-12-30 09:38:55'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/zend-va-bientot-proposer-la-certification-php-5
 layout: post
 title: 'Zend va bientôt proposer la certification PHP 5'
 date: '2006-07-27 07:59:45'

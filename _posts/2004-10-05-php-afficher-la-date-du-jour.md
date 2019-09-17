@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/php-afficher-la-date-du-jour
 layout: post
 title: 'PHP - Afficher la date du jour'
 date: '2004-10-05 23:15:56'

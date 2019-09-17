@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/faire-son-icone-web
 layout: post
 title: 'Faire son icone web'
 date: '2004-02-13 23:58:21'

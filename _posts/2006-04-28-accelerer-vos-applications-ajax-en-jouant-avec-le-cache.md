@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/accelerer-vos-applications-ajax-en-jouant-avec-le-cache
 layout: post
 title: 'Accélérer vos applications AJAX en jouant avec le cache'
 date: '2006-04-28 04:41:22'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/utiliser-les-classes-du-zend-framework-dans-symfony
 layout: post
 title: 'Utiliser les classes du Zend Framework dans Symfony'
 date: '2007-04-24 10:35:04'

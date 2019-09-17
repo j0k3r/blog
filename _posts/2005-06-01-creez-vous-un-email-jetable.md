@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/creez-vous-un-email-jetable
 layout: post
 title: 'Créez vous un email jetable'
 date: '2005-06-01 00:00:00'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/migrer-de-mysql-a-postgresql-en-60-secondes
 layout: post
 title: 'Migrer de MySQL à PostgreSQL en 60 secondes !'
 date: '2005-10-30 10:12:06'

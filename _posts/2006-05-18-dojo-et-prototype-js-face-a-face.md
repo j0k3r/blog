@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/dojo-et-prototype-js-face-a-face
 layout: post
 title: 'Dojo et Prototype.js face à face'
 date: '2006-05-18 07:21:36'

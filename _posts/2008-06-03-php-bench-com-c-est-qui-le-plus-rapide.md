@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-bench-com-c-est-qui-le-plus-rapide
 layout: post
 title: 'PHPBench.com, c''est qui le plus rapide ?'
 date: '2008-06-03 10:49:23'

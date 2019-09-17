@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/rediger-une-bonne-declaration-d-accessibilite
 layout: post
 title: 'Rédiger une bonne déclaration d''accessibilité'
 date: '2006-01-19 04:18:21'

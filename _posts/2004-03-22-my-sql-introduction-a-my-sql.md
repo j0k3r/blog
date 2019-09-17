@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/my-sql-introduction-a-my-sql
 layout: post
 title: 'MySQL - Introduction à MySQL'
 date: '2004-03-22 00:15:39'

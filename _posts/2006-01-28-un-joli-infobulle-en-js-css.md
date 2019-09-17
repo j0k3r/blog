@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-joli-infobulle-en-js-css
 layout: post
 title: 'Un joli infobulle en JS/CSS'
 date: '2006-01-28 04:36:52'

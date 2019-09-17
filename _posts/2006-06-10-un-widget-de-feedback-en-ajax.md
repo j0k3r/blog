@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-widget-de-feedback-en-ajax
 layout: post
 title: 'Un widget de feedback en AJAX'
 date: '2006-06-10 12:23:56'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/personnaliser-les-liens-sortant-de-votre-site
 layout: post
 title: 'Personnaliser les liens sortant de votre site'
 date: '2005-04-08 06:40:23'

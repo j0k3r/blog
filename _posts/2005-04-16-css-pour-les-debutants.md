@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/css-pour-les-debutants
 layout: post
 title: 'CSS pour les débutants'
 date: '2005-04-16 12:20:53'

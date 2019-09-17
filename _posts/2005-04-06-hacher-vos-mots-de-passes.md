@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/hacher-vos-mots-de-passes
 layout: post
 title: 'Hacher vos mots de passes'
 date: '2005-04-06 02:42:29'

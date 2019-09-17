@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-petit-guide-pour-une-bonne-action
 layout: post
 title: 'Un petit guide pour une bonne action'
 date: '2005-09-09 01:10:21'

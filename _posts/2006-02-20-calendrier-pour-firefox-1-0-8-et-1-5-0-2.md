@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/calendrier-pour-firefox-1-0-8-et-1-5-0-2
 layout: post
 title: 'Calendrier pour Firefox 1.0.8 et 1.5.0.2'
 date: '2006-02-20 11:12:02'

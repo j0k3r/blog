@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-en-ligne-de-commande
 layout: post
 title: 'PHP en ligne de commande'
 date: '2006-03-13 03:01:06'

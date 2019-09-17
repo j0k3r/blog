@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/trouver-les-composants-necessaires-a-mootools-avec-packito
 layout: post
 title: 'Trouver les composants nécessaires à Mootools avec Packito'
 date: '2007-05-16 08:58:15'

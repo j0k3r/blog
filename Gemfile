@@ -1,10 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
-
-group :jekyll_plugins do
-  gem 'jekyll-paginate'
-end
+gem "jekyll-theme-hydeout", "~> 3.4"
+gem 'jekyll-redirect-from'
 
 require 'rbconfig'
 if RbConfig::CONFIG['target_os'] =~ /darwin(1[0-3])/i

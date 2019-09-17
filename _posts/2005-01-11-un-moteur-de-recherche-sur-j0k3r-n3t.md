@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-moteur-de-recherche-sur-j0k3r-n3t
 layout: post
 title: 'Un moteur de recherche sur j0k3r.n3t'
 date: '2005-01-11 12:34:36'

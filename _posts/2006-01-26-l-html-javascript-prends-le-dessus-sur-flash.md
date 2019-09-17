@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/l-html-javascript-prends-le-dessus-sur-flash
 layout: post
 title: 'L''HTML/JavaScript prends le dessus sur Flash'
 date: '2006-01-26 07:37:03'

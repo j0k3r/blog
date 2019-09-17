@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/belle-faille-de-securite-dans-firefox
 layout: post
 title: 'Belle faille de sécurité dans Firefox'
 date: '2005-05-11 12:01:33'

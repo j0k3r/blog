@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/verifier-la-compatibilite-de-votre-ligne-telephonique
 layout: post
 title: 'Vérifier la compatibilité de votre ligne téléphonique...!'
 date: '2003-07-01 00:00:00'

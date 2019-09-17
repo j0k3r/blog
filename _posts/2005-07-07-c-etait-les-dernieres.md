@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/c-etait-les-dernieres
 layout: post
 title: 'C''était les dernières !'
 date: '2005-07-07 12:54:42'

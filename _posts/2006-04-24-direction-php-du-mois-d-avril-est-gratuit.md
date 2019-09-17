@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/direction-php-du-mois-d-avril-est-gratuit
 layout: post
 title: 'Direction|PHP du mois d''avril est gratuit !'
 date: '2006-04-24 09:30:43'

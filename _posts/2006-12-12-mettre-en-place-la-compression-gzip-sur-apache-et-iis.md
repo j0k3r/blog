@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/mettre-en-place-la-compression-gzip-sur-apache-et-iis
 layout: post
 title: 'Mettre en place la compression Gzip sur Apache et IIS'
 date: '2006-12-12 10:04:55'

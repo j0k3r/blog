@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-requetes-complexes-avec-mysql
 layout: post
 title: 'Les requêtes complexes avec MySQL'
 date: '2006-06-29 09:09:59'

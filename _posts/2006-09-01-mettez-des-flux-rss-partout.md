@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/mettez-des-flux-rss-partout
 layout: post
 title: 'Mettez des flux RSS partout'
 date: '2006-09-01 00:00:00'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/conference-paris-web-2006-design-qualite-et-accessibilite
 layout: post
 title: 'Conférence Paris Web 2006 : design, qualité et accessibilité'
 date: '2006-05-09 11:42:19'

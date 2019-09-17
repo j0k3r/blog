@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/realisez-un-lecteur-mp3-en-flash
 layout: post
 title: 'Réalisez un lecteur mp3 en Flash'
 date: '2006-01-10 08:02:05'

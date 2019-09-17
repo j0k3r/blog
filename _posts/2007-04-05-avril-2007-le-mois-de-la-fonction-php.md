@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/avril-2007-le-mois-de-la-fonction-php
 layout: post
 title: 'Avril 2007, le mois de la fonction PHP'
 date: '2007-04-05 10:54:56'

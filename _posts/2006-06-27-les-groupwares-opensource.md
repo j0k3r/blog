@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-groupwares-opensource
 layout: post
 title: 'Les groupWares openSource'
 date: '2006-06-27 08:43:04'

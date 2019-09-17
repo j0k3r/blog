@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/tous-les-navigateurs-standalone
 layout: post
 title: 'Tous les navigateurs standalone'
 date: '2006-11-01 00:00:00'

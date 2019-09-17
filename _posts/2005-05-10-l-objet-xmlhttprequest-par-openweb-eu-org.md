@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/l-objet-xmlhttprequest-par-openweb-eu-org
 layout: post
 title: 'L''objet XMLHttpRequest par Openweb.eu.org'
 date: '2005-05-10 01:13:39'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/phpbb-2-0-15-summer-needs-to-be-hot
 layout: post
 title: 'phpBB 2.0.15 "Summer needs to be hot"'
 date: '2005-05-07 08:05:11'

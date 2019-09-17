@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/bloquer-google-web-accelerator
 layout: post
 title: 'Bloquer Google Web Accelerator'
 date: '2005-05-12 01:10:48'

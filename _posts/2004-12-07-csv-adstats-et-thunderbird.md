@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/csv-adstats-et-thunderbird
 layout: post
 title: 'CSV AdStats et Thunderbird'
 date: '2004-12-07 05:33:33'

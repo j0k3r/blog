@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/structurez-vos-applications
 layout: post
 title: 'Structurez vos applications'
 date: '2004-12-25 01:31:59'

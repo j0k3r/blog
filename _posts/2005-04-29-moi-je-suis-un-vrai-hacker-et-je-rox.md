@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/moi-je-suis-un-vrai-hacker-et-je-rox
 layout: post
 title: 'Moi je suis un vrai hacker ... et je rox !'
 date: '2005-04-29 12:54:21'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/firefox-dans-l-espace-pour-les-100-millions-de-download
 layout: post
 title: 'Firefox dans l''espace pour les 100 millions de download'
 date: '2005-10-22 10:44:23'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/apache-1-3-34-pour-easyphp-1-7
 layout: post
 title: 'Apache 1.3.34 pour EasyPHP 1.7'
 date: '2005-12-20 05:58:13'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/et-ainsi-suit-php-4-4-2
 layout: post
 title: 'Et ainsi suit PHP 4.4.2'
 date: '2006-01-13 10:58:25'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/macromedia-diffuse-un-kit-d-integration-flash-javascript
 layout: post
 title: 'Macromedia diffuse un kit d''intégration Flash / JavaScript'
 date: '2006-03-31 06:26:59'

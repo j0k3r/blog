@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-flux-rss-attirent-les-entreprises
 layout: post
 title: 'Les flux RSS attirent les entreprises !'
 date: '2006-02-14 04:47:00'

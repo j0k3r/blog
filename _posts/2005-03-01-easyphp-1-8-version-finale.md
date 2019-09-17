@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/easyphp-1-8-version-finale
 layout: post
 title: 'EasyPHP 1.8 : Version finale'
 date: '2005-03-01 06:08:41'

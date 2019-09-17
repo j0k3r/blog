@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/creer-un-module-netvibes
 layout: post
 title: 'Créer un module Netvibes'
 date: '2006-12-06 08:22:09'

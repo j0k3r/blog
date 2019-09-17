@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/dix-frameworks-php-au-crible
 layout: post
 title: 'Dix frameworks PHP au crible'
 date: '2006-03-20 12:42:15'

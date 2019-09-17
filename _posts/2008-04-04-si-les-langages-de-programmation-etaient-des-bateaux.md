@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/si-les-langages-de-programmation-etaient-des-bateaux
 layout: post
 title: 'Si les langages de programmation étaient des bateaux...'
 date: '2008-04-04 06:23:29'

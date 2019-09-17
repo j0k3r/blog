@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/et-1go-d-espace-web-pour-tout-le-monde-chez-free
 layout: post
 title: 'Et 1Go d''espace web pour tout le monde chez Free'
 date: '2005-01-28 11:24:56'

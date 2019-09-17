@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/appliquer-une-rotation-a-une-image
 layout: post
 title: 'Appliquer une rotation à une image'
 date: '2005-09-14 01:47:52'

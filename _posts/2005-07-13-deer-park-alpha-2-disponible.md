@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/deer-park-alpha-2-disponible
 layout: post
 title: 'Deer Park Alpha 2 disponible'
 date: '2005-07-13 07:30:08'

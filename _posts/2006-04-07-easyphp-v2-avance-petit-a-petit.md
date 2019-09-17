@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/easyphp-v2-avance-petit-a-petit
 layout: post
 title: 'EasyPHP v2 ... avance petit à petit'
 date: '2006-04-07 12:27:32'

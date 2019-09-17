@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/comparatifs-des-principaux-moteurs-de-templates
 layout: post
 title: 'Comparatifs des principaux moteurs de templates'
 date: '2007-03-30 03:22:44'

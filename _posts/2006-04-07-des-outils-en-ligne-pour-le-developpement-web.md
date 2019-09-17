@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/des-outils-en-ligne-pour-le-developpement-web
 layout: post
 title: 'Des outils en ligne pour le développement Web'
 date: '2006-04-07 02:51:03'

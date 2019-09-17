@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/tout-nouveau
 layout: post
 title: 'Tout nouveau'
 date: '2004-10-17 07:44:16'

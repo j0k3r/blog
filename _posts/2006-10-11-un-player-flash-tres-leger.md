@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-player-flash-tres-leger
 layout: post
 title: 'Un player flash très léger'
 date: '2006-10-11 10:05:45'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/google-aurait-des-defaillances
 layout: post
 title: 'Google aurait des défaillances ?'
 date: '2005-05-28 08:56:03'

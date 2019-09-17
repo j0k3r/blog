@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/des-nouvelles-de-phpbb3
 layout: post
 title: 'Des nouvelles de phpBB3'
 date: '2005-03-21 04:32:32'

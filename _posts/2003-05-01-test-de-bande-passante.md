@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/test-de-bande-passante
 layout: post
 title: 'Test de Bande Passante'
 date: '2003-05-01 00:00:00'

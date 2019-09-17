@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/marquer-ces-images-en-php
 layout: post
 title: 'Marquer ces images en PHP'
 date: '2005-12-29 11:10:11'

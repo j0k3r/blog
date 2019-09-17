@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ouvrez-internet-explorer-dans-un-onglet-firefox
 layout: post
 title: 'Ouvrez Internet Explorer dans un onglet Firefox !!'
 date: '2005-11-03 10:11:18'

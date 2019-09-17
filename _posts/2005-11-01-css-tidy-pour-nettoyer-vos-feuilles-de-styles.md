@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/css-tidy-pour-nettoyer-vos-feuilles-de-styles
 layout: post
 title: 'CSSTidy pour nettoyer vos feuilles de styles'
 date: '2005-11-01 00:00:00'

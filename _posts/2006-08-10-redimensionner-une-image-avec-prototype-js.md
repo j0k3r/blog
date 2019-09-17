@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/redimensionner-une-image-avec-prototype-js
 layout: post
 title: 'Redimensionner une image avec prototype.js'
 date: '2006-08-10 05:54:02'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/sauvegarde-de-champs-via-prototype-js
 layout: post
 title: 'Sauvegarde de champs via prototype.js'
 date: '2007-04-02 08:44:54'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/une-autocompletion-avancee-en-ajax
 layout: post
 title: 'Une autocompletion avancée en AJAX'
 date: '2006-08-07 11:35:52'

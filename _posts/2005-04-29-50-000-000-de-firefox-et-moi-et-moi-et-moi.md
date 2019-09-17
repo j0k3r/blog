@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/50-000-000-de-firefox-et-moi-et-moi-et-moi
 layout: post
 title: '50 000 000 de Firefox et moi et moi et moi'
 date: '2005-04-29 11:46:48'

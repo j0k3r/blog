@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-magazine-developpez-n-3
 layout: post
 title: 'Le Magazine Developpez n°3'
 date: '2005-09-11 06:55:13'

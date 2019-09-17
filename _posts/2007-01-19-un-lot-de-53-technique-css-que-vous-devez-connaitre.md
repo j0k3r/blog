@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-lot-de-53-technique-css-que-vous-devez-connaitre
 layout: post
 title: 'Un lot de 53 technique CSS que vous devez connaître !'
 date: '2007-01-19 12:49:32'

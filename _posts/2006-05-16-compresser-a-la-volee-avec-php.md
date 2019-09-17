@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/compresser-a-la-volee-avec-php
 layout: post
 title: 'Compresser à la volée avec PHP'
 date: '2006-05-16 11:02:48'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/mieux-controler-mysql-grace-a-5-mots-clefs
 layout: post
 title: 'Mieux contrôler MySQL grâce à 5 mots-clefs'
 date: '2005-06-15 09:28:21'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/nexen-va-faire-peau-neuve
 layout: post
 title: 'Nexen va faire peau neuve'
 date: '2005-12-12 10:22:50'

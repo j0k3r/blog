@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/inserer-des-css-dans-votre-animation-flash
 layout: post
 title: 'Insérer des CSS dans votre animation Flash'
 date: '2005-12-08 10:55:52'

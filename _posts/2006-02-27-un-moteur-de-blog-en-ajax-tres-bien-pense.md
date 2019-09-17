@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-moteur-de-blog-en-ajax-tres-bien-pense
 layout: post
 title: 'Un moteur de blog en AJAX très bien pensé'
 date: '2006-02-27 06:27:51'

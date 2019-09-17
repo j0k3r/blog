@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/wamp-mobile-storage-beta-2
 layout: post
 title: 'WAMP Mobile Storage beta 2'
 date: '2005-01-24 09:55:03'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/filezilla-server-0-9-6a
 layout: post
 title: 'FileZilla Server 0.9.6a'
 date: '2005-03-24 12:36:26'

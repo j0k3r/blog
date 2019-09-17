@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/optimiser-ses-images-pour-google-image
 layout: post
 title: 'Optimiser ses images pour Google Image'
 date: '2006-06-15 10:58:41'

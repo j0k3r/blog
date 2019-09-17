@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/en-janvier-2008-php4-ne-sera-plus-supporte
 layout: post
 title: 'En janvier 2008, PHP4 ne sera plus supporté'
 date: '2007-04-05 11:01:25'

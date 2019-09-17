@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-info-gratuit
 layout: post
 title: 'Un .info gratuit !'
 date: '2004-11-05 04:05:09'

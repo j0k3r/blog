@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-correcteur-d-orthographes-dans-firefox
 layout: post
 title: 'Un correcteur d''orthographes dans Firefox ?'
 date: '2005-04-04 01:03:41'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/choisir-son-nom-de-domaine
 layout: post
 title: 'Choisir son nom de domaine'
 date: '2005-10-25 11:15:17'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/yahoo-diffuse-son-framework-ajax
 layout: post
 title: 'Yahoo! diffuse son framework AJAX'
 date: '2006-02-14 09:24:13'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ajax-et-les-caracteres-speciaux
 layout: post
 title: 'Ajax et les caractères spéciaux'
 date: '2006-02-12 06:06:34'

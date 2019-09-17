@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/suivez-la-qualite-de-vos-sites-grace-a-un-site
 layout: post
 title: 'Suivez la qualité de vos sites grâce à un site !'
 date: '2006-01-14 12:03:44'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/evaluer-l-accessibilite-d-un-site-web-les-premiers-points
 layout: post
 title: 'Évaluer l''accessibilité d''un site web : Les premiers points'
 date: '2006-10-14 01:06:50'

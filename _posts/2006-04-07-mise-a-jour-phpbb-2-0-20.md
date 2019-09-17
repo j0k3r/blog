@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/mise-a-jour-phpbb-2-0-20
 layout: post
 title: 'Mise à jour phpBB : 2.0.20'
 date: '2006-04-07 09:55:42'

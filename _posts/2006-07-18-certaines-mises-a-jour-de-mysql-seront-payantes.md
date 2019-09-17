@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/certaines-mises-a-jour-de-mysql-seront-payantes
 layout: post
 title: 'Certaines mises à jour de MySQL seront payantes'
 date: '2006-07-18 07:51:33'

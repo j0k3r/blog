@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/the-regex-coach-teste-vos-expressions-regulieres
 layout: post
 title: 'The Regex Coach teste vos expressions régulières'
 date: '2005-06-26 09:57:29'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-5-2-2-et-php-4-4-7-sont-disponibles
 layout: post
 title: 'PHP 5.2.2 et PHP 4.4.7 sont disponibles'
 date: '2007-05-04 09:16:02'

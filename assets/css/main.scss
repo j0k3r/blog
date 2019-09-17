@@ -1,0 +1,14 @@
+---
+# Jekyll needs front matter for SCSS files
+---
+
+$sidebar-bg-color: #0F6EB5;
+$heading-color: #0F6BB3;
+
+@import "hydeout";
+
+@media (min-width: 49rem) {
+  .container {
+    border-left: #1DB0E4 5px solid;
+  }
+}

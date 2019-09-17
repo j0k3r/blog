@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-vers-udf-pour-mysql
 layout: post
 title: 'Un vers UDF pour MySQL'
 date: '2005-01-28 04:30:08'

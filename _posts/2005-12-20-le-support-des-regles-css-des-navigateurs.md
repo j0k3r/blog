@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-support-des-regles-css-des-navigateurs
 layout: post
 title: 'Le support des règles CSS des navigateurs'
 date: '2005-12-20 05:08:13'

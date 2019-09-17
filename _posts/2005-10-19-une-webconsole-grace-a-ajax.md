@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/une-webconsole-grace-a-ajax
 layout: post
 title: 'Une WebConsole grâce à AJAX'
 date: '2005-10-19 09:32:12'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ajax-et-l-accessibilite
 layout: post
 title: 'AJAX et l''accessibilité'
 date: '2006-04-01 04:00:29'

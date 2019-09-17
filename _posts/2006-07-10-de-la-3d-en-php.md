@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/de-la-3d-en-php
 layout: post
 title: 'De la 3D en PHP'
 date: '2006-07-10 06:48:29'

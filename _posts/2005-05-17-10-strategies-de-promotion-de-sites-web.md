@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/10-strategies-de-promotion-de-sites-web
 layout: post
 title: '10 stratégies de promotion de sites web'
 date: '2005-05-17 01:17:01'

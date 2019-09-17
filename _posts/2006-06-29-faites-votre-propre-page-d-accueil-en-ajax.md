@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/faites-votre-propre-page-d-accueil-en-ajax
 layout: post
 title: 'Faites votre propre page d''accueil en AJAX !'
 date: '2006-06-29 10:29:45'

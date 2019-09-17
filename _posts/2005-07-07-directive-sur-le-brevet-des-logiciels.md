@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/directive-sur-le-brevet-des-logiciels
 layout: post
 title: 'Directive sur le brevet des logiciels'
 date: '2005-07-07 12:53:45'

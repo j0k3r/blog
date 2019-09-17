@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/promouvoir-son-site
 layout: post
 title: 'Promouvoir son site'
 date: '2004-01-01 23:46:21'

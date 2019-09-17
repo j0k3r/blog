@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/php-derniere-modification
 layout: post
 title: 'PHP - Dernière modification'
 date: '2004-10-05 23:17:45'

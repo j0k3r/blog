@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/comment-fonctionne-le-w3c
 layout: post
 title: 'Comment fonctionne le W3C ?'
 date: '2005-06-22 05:18:02'

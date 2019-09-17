@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-pwet-d-or
 layout: post
 title: 'Le pwet d''or'
 date: '2004-11-15 12:22:58'

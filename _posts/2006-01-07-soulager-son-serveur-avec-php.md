@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/soulager-son-serveur-avec-php
 layout: post
 title: 'Soulager son serveur avec PHP'
 date: '2006-01-07 11:24:34'

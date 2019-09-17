@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-gtk-2-viendra-avec-php-5-1
 layout: post
 title: 'PHP GTK 2 viendra avec PHP 5.1'
 date: '2005-06-14 11:59:52'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/mambo-cms-s-appelle-maintenant-jango-cms
 layout: post
 title: 'Mambo CMS s''appelle maintenant Jango CMS !'
 date: '2005-05-03 09:43:35'

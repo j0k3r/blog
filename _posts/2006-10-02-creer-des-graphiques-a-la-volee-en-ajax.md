@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/creer-des-graphiques-a-la-volee-en-ajax
 layout: post
 title: 'Créer des graphiques à la volée en AJAX'
 date: '2006-10-02 12:03:16'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/installer-eaccelerator
 layout: post
 title: 'Installer eAccelerator'
 date: '2005-04-08 10:58:28'

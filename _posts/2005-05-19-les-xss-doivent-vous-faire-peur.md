@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-xss-doivent-vous-faire-peur
 layout: post
 title: 'Les XSS doivent vous faire peur !'
 date: '2005-05-19 12:34:19'

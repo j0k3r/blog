@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/tout-faire-avec-une-ip
 layout: post
 title: 'Tout faire avec une ip'
 date: '2003-11-01 00:00:00'

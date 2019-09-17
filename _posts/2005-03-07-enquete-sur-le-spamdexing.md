@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/enquete-sur-le-spamdexing
 layout: post
 title: 'Enquête sur le spamdexing'
 date: '2005-03-07 12:50:24'

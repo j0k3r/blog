@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/feuille-de-route-de-mozilla-1-8-et-plus
 layout: post
 title: 'Feuille de route de Mozilla 1.8 et plus'
 date: '2005-06-15 09:44:47'

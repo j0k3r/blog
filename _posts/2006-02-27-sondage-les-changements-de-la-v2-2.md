@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/sondage-les-changements-de-la-v2-2
 layout: post
 title: 'Sondage : Les changements de la v2.2'
 date: '2006-02-27 08:39:22'

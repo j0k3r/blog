@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/conception-d-un-client-de-messagerie-imap-1ere-partie
 layout: post
 title: 'Conception d''un client de messagerie IMAP - 1ère partie'
 date: '2005-05-10 07:36:47'

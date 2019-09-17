@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/creer-des-images-dynamiques-en-php
 layout: post
 title: 'Créer des images dynamiques en PHP'
 date: '2005-12-28 12:05:08'

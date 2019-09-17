@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/l-internet-de-demain-web-v2-0
 layout: post
 title: 'L''internet de demain : Web v2.0'
 date: '2005-11-29 11:00:18'

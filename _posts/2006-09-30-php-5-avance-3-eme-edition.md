@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-5-avance-3-eme-edition
 layout: post
 title: 'PHP 5 avancé - 3 ème edition'
 date: '2006-09-30 01:52:44'

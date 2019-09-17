@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-flash-et-le-referencement-on-y-arrive
 layout: post
 title: 'Le Flash et le référencement : on y arrive !'
 date: '2006-01-28 02:07:47'

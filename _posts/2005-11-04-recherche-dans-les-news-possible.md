@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/recherche-dans-les-news-possible
 layout: post
 title: 'Recherche dans les news possible'
 date: '2005-11-04 12:09:07'

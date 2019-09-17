@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/apache-toujours-aussi-fort
 layout: post
 title: 'Apache toujours aussi fort'
 date: '2005-10-27 07:58:33'

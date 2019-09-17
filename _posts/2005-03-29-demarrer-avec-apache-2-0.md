@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/demarrer-avec-apache-2-0
 layout: post
 title: 'Demarrer avec Apache 2.0'
 date: '2005-03-29 06:27:20'

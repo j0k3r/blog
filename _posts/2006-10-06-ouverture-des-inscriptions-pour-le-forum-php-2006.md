@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ouverture-des-inscriptions-pour-le-forum-php-2006
 layout: post
 title: 'Ouverture des inscriptions pour le Forum PHP 2006'
 date: '2006-10-06 11:49:56'

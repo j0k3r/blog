@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/dix-choses-a-ne-pas-faire-pour-un-site-d-e-commerce
 layout: post
 title: 'Dix choses à ne pas faire pour un site d''e-commerce'
 date: '2006-01-05 05:21:28'

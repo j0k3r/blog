@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/dix-frameworks-php
 layout: post
 title: 'Dix frameworks PHP'
 date: '2006-03-15 01:32:55'

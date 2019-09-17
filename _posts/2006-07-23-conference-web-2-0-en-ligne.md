@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/conference-web-2-0-en-ligne
 layout: post
 title: 'Conférence web 2.0 en ligne'
 date: '2006-07-23 01:36:50'

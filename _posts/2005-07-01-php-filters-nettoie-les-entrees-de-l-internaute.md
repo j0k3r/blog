@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-filters-nettoie-les-entrees-de-l-internaute
 layout: post
 title: 'PHP Filters nettoie les entrées de l''internaute'
 date: '2005-07-01 09:12:23'

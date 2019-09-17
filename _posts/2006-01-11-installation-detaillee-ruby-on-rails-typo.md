@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/installation-detaillee-ruby-on-rails-typo
 layout: post
 title: 'Installation détaillée Ruby On Rails / Typo'
 date: '2006-01-11 09:53:51'

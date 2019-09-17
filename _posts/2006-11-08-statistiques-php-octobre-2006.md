@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/statistiques-php-octobre-2006
 layout: post
 title: 'Statistiques PHP Octobre 2006'
 date: '2006-11-08 10:38:38'

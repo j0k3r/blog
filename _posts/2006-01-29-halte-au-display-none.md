@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/halte-au-display-none
 layout: post
 title: 'Halte au display none'
 date: '2006-01-29 06:34:58'

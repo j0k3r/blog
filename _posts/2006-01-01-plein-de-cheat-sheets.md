@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/plein-de-cheat-sheets
 layout: post
 title: 'Plein de Cheat Sheets'
 date: '2006-01-01 00:00:00'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/compilation-de-plus-de-200-tutoriels-ajax-css-php
 layout: post
 title: 'Compilation de plus de 200 tutoriels :Ajax, CSS, PHP ...'
 date: '2007-01-27 02:15:17'

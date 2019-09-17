@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/microsoft-veut-faire-breveter-les-smileys
 layout: post
 title: 'Microsoft veut faire breveter les smileys'
 date: '2005-07-31 04:14:48'

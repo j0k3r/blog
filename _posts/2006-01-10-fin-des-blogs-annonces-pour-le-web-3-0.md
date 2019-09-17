@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/fin-des-blogs-annonces-pour-le-web-3-0
 layout: post
 title: 'Fin des blogs annoncés pour le web 3.0 ?'
 date: '2006-01-10 09:48:30'

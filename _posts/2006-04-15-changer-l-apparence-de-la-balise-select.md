@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/changer-l-apparence-de-la-balise-select
 layout: post
 title: 'Changer l''apparence de la balise select'
 date: '2006-04-15 02:03:58'

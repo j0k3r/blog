@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-livre-sur-php-4-0-telechargeable
 layout: post
 title: 'Un livre sur PHP 4.0 téléchargeable'
 date: '2005-06-05 05:16:44'

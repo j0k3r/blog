@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/mail-anonyme-pas-tout-a-fait
 layout: post
 title: 'Mail anonyme ... pas tout à fait !!!'
 date: '2006-03-01 09:17:42'

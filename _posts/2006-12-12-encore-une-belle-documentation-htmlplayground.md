@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/encore-une-belle-documentation-htmlplayground
 layout: post
 title: 'Encore une belle documentation : htmlPlayground'
 date: '2006-12-12 10:16:14'

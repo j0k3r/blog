@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/maj-et-fin-de-l-article-sur-easyphp
 layout: post
 title: 'MAJ et fin de l''article sur EasyPHP'
 date: '2004-11-21 07:34:26'

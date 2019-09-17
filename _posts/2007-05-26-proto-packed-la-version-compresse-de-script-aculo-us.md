@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/proto-packed-la-version-compresse-de-script-aculo-us
 layout: post
 title: 'ProtoPacked, la version compressé de Script.aculo.us'
 date: '2007-05-26 12:58:09'

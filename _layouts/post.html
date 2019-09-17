@@ -2,56 +2,50 @@
 layout: default
 ---
 
-<div class="post">
+<header>
   <h1 class="post-title">{{ page.title }}</h1>
+</header>
+<div class="content">
+  {% include post-meta.html post=page %}
 
-  <div class="post-info">
-    <span>Écrit par&nbsp;</span>
-    {%- if page.author -%}
-      {{- page.author -}}
-    {%- else -%}
-      {{- site.author.name -}}
-    {%- endif %}
+  <div class="post-body">
+    {{ content }}
 
-    {% if page.date %}
-      <br>
-      <span>Le</span>
-      <time datetime="{{ page.date }}">
-        {% assign m = page.date | date: "%-m" %}
-        {{ page.date | date: "%-d" }}
+    {% assign tags_page = false %}
+    {% for node in site.pages %}
+      {% if node.layout == "tags" %}
+        {% assign tags_page = node %}
+      {% endif %}
+    {% endfor %}
 
-        {% case m %}
-          {% when '1' %}janvier
-          {% when '2' %}février
-          {% when '3' %}mars
-          {% when '4' %}avril
-          {% when '5' %}mai
-          {% when '6' %}juin
-          {% when '7' %}juillet
-          {% when '8' %}août
-          {% when '9' %}septembre
-          {% when '10' %}octobre
-          {% when '11' %}novembre
-          {% when '12' %}décembre
-        {% endcase %}
-
-        {{ page.date | date: "%Y" }}
-      </time>
-    {%- endif -%}
+    <div class="post-tags">
+      {% for tag in page.tags %}
+        {% if tags_page %}
+        <a href="{{ tags_page.url | relative_url }}#{{ tag | slugify }}">
+        {% else %}<span>{% endif %}
+          <span class="icon">
+            {% include svg/tags.svg %}
+          </span>&nbsp;<span class="tag-name">{{ tag }}</span>
+        {% if tags_page %}</a>{% else %}</span>{% endif %}
+      {% endfor %}
+    </div>
   </div>
 
-  <div class="post-line"></div>
-
-  {{ content }}
-
-</div>
-
-<div class="pagination">
-  {% if page.next.url %}
-    <a href="{{ page.next.url }}" class="left arrow" title="{{ page.next.title }}">&#8592;</a>
-  {% endif %}
-
-  {% if page.previous.url %}
-    <a href="{{ page.previous.url }}" class="right arrow" title="{{ page.previous.title }}">&#8594;</a>
+  {% if page.date %}
+  <section class="related">
+    <h2>Related Posts</h2>
+    <ul class="posts-list">
+      {% for post in site.related_posts limit:3 %}
+        <li>
+          <h3>
+            <a href="{{ post.url | relative_url }}">
+              {{ post.title }}
+              <small>{{ post.date | date_to_string }}</small>
+            </a>
+          </h3>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
   {% endif %}
 </div>

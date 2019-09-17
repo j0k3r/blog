@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/mysql-et-red-hat-s-associent
 layout: post
 title: 'MySQL et Red Hat s''associent'
 date: '2005-04-22 12:28:40'

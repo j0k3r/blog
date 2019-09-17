@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-6-securite-et-bonnes-pratiques
 layout: post
 title: 'PHP 6, sécurité et bonnes pratiques'
 date: '2006-11-08 10:00:20'

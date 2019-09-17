@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-partitionnement-mysql
 layout: post
 title: 'Le partitionnement mySQL'
 date: '2006-08-19 09:34:08'

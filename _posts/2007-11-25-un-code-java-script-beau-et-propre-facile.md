@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-code-java-script-beau-et-propre-facile
 layout: post
 title: 'Un code JavaScript beau et propre, facile !'
 date: '2007-11-25 02:11:03'

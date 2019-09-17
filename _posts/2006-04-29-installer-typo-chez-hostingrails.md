@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/installer-typo-chez-hostingrails
 layout: post
 title: 'Installer Typo chez HostingRails'
 date: '2006-04-29 05:06:34'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/faire-sa-banniere
 layout: post
 title: 'Faire sa bannière'
 date: '2004-01-07 10:34:21'

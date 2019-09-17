@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-jour-j-pour-les-3h-du-php
 layout: post
 title: 'Le jour J pour les 3h du PHP'
 date: '2005-01-10 01:37:10'

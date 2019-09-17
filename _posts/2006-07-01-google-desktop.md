@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/google-desktop
 layout: post
 title: 'Google Desktop'
 date: '2006-07-01 00:00:00'

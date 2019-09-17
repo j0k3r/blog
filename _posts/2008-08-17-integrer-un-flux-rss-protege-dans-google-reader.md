@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/integrer-un-flux-rss-protege-dans-google-reader
 layout: post
 title: 'Intégrer un flux RSS protégé dans Google Reader'
 date: '2008-08-17 01:07:47'

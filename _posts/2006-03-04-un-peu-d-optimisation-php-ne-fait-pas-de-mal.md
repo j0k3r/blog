@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-peu-d-optimisation-php-ne-fait-pas-de-mal
 layout: post
 title: 'Un peu d''optimisation PHP ne fait pas de mal'
 date: '2006-03-04 02:58:27'

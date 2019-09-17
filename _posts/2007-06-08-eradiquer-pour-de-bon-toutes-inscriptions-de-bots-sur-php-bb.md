@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/eradiquer-pour-de-bon-toutes-inscriptions-de-bots-sur-php-bb
 layout: post
 title: 'Eradiquer pour de bon toutes inscriptions de bots sur phpBB'
 date: '2007-06-08 10:01:07'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/a-mort-les-iframes-et-vive-le-css-php
 layout: post
 title: 'A mort les iFrames, et vive le CSS/PHP'
 date: '2005-04-09 11:18:36'

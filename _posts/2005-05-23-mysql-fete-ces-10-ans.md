@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/mysql-fete-ces-10-ans
 layout: post
 title: 'MySQL fête ces 10 ans'
 date: '2005-05-23 12:20:58'

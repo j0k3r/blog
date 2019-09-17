@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/rails-explique-aux-developpeurs-php
 layout: post
 title: 'Rails expliqué aux développeurs PHP'
 date: '2008-02-20 08:22:18'

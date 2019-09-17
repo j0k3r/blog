@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/premiere-mise-a-jour-de-securite-pour-firefox-1-5
 layout: post
 title: 'Première mise à jour de sécurité pour Firefox 1.5'
 date: '2006-02-02 08:06:06'

@@ -1,28 +1,33 @@
 # Permalinks
-permalink: /:title.html
+permalink: /:title
 
 # Setup
-title:          j0k3r.net
-paginate:       10
+title: j0k3r.net
+paginate: 100
+
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
 
 # Assets
 sass:
-  sass_dir:     _sass
-  style:        :compressed
+  style: :compressed
 
 # Build settings
-markdown:       kramdown
+markdown: kramdown
 
 # About
 author:
-  name:         Jérémy Benoist
-  url:          https://www.j0k3r.net
+  name: Jérémy Benoist
+  url: https://www.j0k3r.net
 
 future: false
 
+sidebar_home_link: true
+
+theme: jekyll-theme-hydeout
+
 exclude:
   - vendor
-  - deploy.sh
   - Gemfile*
   - README.md
-  - Rakefile

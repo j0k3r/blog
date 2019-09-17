@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/j0k3r-n3t-se-fait-flashe
 layout: post
 title: 'j0k3r.n3t se fait flashé'
 date: '2005-05-11 05:43:12'

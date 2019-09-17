@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/une-page-toujours-centree-en-css
 layout: post
 title: 'Une page toujours centrée en CSS'
 date: '2006-07-07 02:57:37'

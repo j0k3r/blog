@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/sqlite-v3-3-1-alpha
 layout: post
 title: 'SQLite v3.3.1 alpha'
 date: '2006-01-17 11:36:33'

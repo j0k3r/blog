@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/start-com-votre-propre-page-d-accueil
 layout: post
 title: 'Start.com : Votre propre page d''accueil'
 date: '2005-03-17 11:21:53'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/coder-avec-les-register_globals-et-le-magic_quotes_gpc-a-off
 layout: post
 title: 'Coder avec les register_globals et le magic_quotes_gpc à OFF'
 date: '2005-07-04 10:23:57'

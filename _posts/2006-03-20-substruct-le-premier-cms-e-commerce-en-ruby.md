@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/substruct-le-premier-cms-e-commerce-en-ruby
 layout: post
 title: 'Substruct, le premier CMS e-commerce en Ruby'
 date: '2006-03-20 12:13:41'

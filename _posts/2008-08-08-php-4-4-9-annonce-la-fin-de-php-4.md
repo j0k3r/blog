@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-4-4-9-annonce-la-fin-de-php-4
 layout: post
 title: 'PHP 4.4.9 annonce la fin de PHP 4'
 date: '2008-08-08 07:56:35'

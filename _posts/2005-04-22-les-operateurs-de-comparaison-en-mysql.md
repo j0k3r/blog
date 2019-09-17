@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-operateurs-de-comparaison-en-mysql
 layout: post
 title: 'Les opérateurs de comparaison en MySQL'
 date: '2005-04-22 12:27:24'

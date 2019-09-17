@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/python-n-a-jamais-eu-une-chance-face-a-php
 layout: post
 title: 'Python n''a jamais eu une chance face à PHP'
 date: '2005-04-06 11:12:37'

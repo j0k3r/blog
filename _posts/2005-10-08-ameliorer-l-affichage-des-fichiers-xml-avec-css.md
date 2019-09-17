@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ameliorer-l-affichage-des-fichiers-xml-avec-css
 layout: post
 title: 'Améliorer l''affichage des fichiers XML avec CSS'
 date: '2005-10-08 12:09:10'

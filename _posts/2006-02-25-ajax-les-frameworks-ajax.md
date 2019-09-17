@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/ajax-les-frameworks-ajax
 layout: post
 title: 'Ajax - Les frameworks AJAX'
 date: '2006-02-25 11:15:25'

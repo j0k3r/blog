@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/creer-une-application-windows-en-php
 layout: post
 title: 'Créer une application Windows en PHP'
 date: '2005-11-07 06:58:43'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-5-2-0-rc1-vient-de-sortir
 layout: post
 title: 'PHP 5.2.0 RC1 vient de sortir'
 date: '2006-07-24 11:20:33'

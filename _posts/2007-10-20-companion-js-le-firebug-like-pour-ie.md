@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/companion-js-le-firebug-like-pour-ie
 layout: post
 title: 'Companion.JS, le Firebug-like pour IE !'
 date: '2007-10-20 12:00:20'

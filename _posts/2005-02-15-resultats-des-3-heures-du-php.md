@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/resultats-des-3-heures-du-php
 layout: post
 title: 'Résultats des 3 Heures du PHP'
 date: '2005-02-15 02:17:47'

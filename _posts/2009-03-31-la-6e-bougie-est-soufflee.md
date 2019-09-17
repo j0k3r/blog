@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/la-6e-bougie-est-soufflee
 layout: post
 title: 'La 6e bougie est soufflée !'
 date: '2009-03-31 10:39:56'

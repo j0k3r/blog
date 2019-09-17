@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/c-est-la-chandeleur
 layout: post
 title: 'C''est la chandeleur !!'
 date: '2005-02-02 07:57:29'

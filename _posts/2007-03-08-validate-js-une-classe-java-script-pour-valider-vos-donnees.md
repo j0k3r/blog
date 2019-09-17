@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/validate-js-une-classe-java-script-pour-valider-vos-donnees
 layout: post
 title: 'Validate.js : une classe JavaScript pour valider vos données'
 date: '2007-03-08 10:50:08'

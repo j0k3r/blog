@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/tester-les-performances-d-un-serveur-web
 layout: post
 title: 'Tester les performances d''un serveur Web'
 date: '2005-04-14 12:34:29'

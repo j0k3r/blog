@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/placer-une-animation-flash-en-arriere-plan
 layout: post
 title: 'Placer une animation Flash en arrière plan'
 date: '2006-01-11 10:45:42'

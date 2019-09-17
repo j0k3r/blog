@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/firefox-sans-installation
 layout: post
 title: 'Firefox sans installation'
 date: '2005-04-07 11:50:15'

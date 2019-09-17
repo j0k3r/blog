@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ajax-en-5-questions
 layout: post
 title: 'Ajax en 5 questions'
 date: '2006-02-14 04:06:03'

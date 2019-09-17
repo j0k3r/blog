@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/guide-d-utilisation-de-firefox-partie-5
 layout: post
 title: 'Guide d''utilisation de Firefox : Partie 5'
 date: '2005-04-29 05:03:49'

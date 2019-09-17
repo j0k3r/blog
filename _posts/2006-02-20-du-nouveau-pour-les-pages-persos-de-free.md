@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/du-nouveau-pour-les-pages-persos-de-free
 layout: post
 title: 'Du nouveau pour les pages persos de Free'
 date: '2006-02-20 10:27:00'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/google-web-accelerator-trop-gourmand
 layout: post
 title: 'Google Web Accelerator : Trop gourmand ?'
 date: '2005-05-08 02:15:12'

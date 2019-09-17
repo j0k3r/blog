@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/des-scripts-php-rendus-executable-c-est-possible
 layout: post
 title: 'Des scripts PHP rendus executable, c''est possible.'
 date: '2006-09-15 06:29:00'

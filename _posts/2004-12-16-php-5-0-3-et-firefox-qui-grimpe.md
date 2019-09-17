@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-5-0-3-et-firefox-qui-grimpe
 layout: post
 title: 'PHP 5.0.3 et FireFox qui grimpe !'
 date: '2004-12-16 09:51:55'

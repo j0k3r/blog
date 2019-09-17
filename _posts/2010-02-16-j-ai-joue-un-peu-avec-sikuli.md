@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/j-ai-joue-un-peu-avec-sikuli
 layout: post
 title: 'J''ai joué un peu avec Sikuli ...'
 date: '2010-02-16 08:22:04'

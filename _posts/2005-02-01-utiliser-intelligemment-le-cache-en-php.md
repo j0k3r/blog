@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/utiliser-intelligemment-le-cache-en-php
 layout: post
 title: 'Utiliser intelligemment le cache en PHP'
 date: '2005-02-01 12:03:11'

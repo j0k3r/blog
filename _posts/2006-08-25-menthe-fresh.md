@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/menthe-fresh
 layout: post
 title: 'Menthe-Fresh !'
 date: '2006-08-25 12:07:52'

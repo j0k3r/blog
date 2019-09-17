@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/sql-designer-pour-modeliser-votre-base-de-donnee
 layout: post
 title: 'SQL Designer pour modéliser votre base de donnée'
 date: '2006-01-15 03:54:07'

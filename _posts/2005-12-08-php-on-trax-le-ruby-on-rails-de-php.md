@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-on-trax-le-ruby-on-rails-de-php
 layout: post
 title: 'PHP On Trax, le Ruby On Rails de PHP'
 date: '2005-12-08 11:13:47'

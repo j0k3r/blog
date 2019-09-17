@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/html-page-de-chargement
 layout: post
 title: 'HTML - Page de chargement'
 date: '2004-02-12 23:58:21'

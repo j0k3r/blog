@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/j0k3r-n3t-se-porte-plutot-bien
 layout: post
 title: 'j0k3r.n3t se porte plutôt bien'
 date: '2005-12-07 04:41:48'

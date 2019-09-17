@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/webmasters-expo-les-17-et-18-mai
 layout: post
 title: 'Webmasters Expo les 17 et 18 mai'
 date: '2005-05-10 11:13:08'

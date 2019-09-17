@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/mysql-4-0-23-et-des-nouvelles-de-santy-a
 layout: post
 title: 'MySQL 4.0.23 et des nouvelles de Santy.A'
 date: '2004-12-22 12:10:14'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/html-premier-code-html
 layout: post
 title: 'HTML - Premier code HTML'
 date: '2003-03-25 06:08:46'

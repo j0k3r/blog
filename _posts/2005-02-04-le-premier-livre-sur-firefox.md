@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-premier-livre-sur-firefox
 layout: post
 title: 'Le premier livre sur FireFox'
 date: '2005-02-04 01:19:53'

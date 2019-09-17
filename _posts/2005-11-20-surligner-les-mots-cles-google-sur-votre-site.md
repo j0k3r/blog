@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/surligner-les-mots-cles-google-sur-votre-site
 layout: post
 title: 'Surligner les mots clés Google sur votre site'
 date: '2005-11-20 02:33:32'

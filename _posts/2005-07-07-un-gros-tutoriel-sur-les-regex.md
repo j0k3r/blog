@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-gros-tutoriel-sur-les-regex
 layout: post
 title: 'Un gros tutoriel sur les Regex'
 date: '2005-07-07 12:45:59'

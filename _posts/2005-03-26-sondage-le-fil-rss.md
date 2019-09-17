@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/sondage-le-fil-rss
 layout: post
 title: 'Sondage : Le fil RSS'
 date: '2005-03-26 12:48:26'

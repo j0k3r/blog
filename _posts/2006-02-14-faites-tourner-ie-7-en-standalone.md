@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/faites-tourner-ie-7-en-standalone
 layout: post
 title: 'Faites tourner IE 7 en standalone'
 date: '2006-02-14 08:54:04'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/la-librairie-de-chiffrement-mcrypt-detaillee
 layout: post
 title: 'La librairie de chiffrement mcrypt détaillée'
 date: '2006-01-29 02:57:32'

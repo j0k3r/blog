@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/tutoriel-complet-sur-l-envoie-de-mail-en-php
 layout: post
 title: 'Tutoriel complet sur l''envoie de mail en PHP'
 date: '2005-06-16 06:03:14'

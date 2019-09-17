@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/faire-des-liens-externes-simples-et-accessibles
 layout: post
 title: 'Faire des liens externes simples et accessibles'
 date: '2006-01-15 03:09:06'

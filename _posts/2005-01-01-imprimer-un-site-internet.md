@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/imprimer-un-site-internet
 layout: post
 title: 'Imprimer un site internet'
 date: '2005-01-01 00:00:00'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/faire-un-portail-a-la-msn-spaces-avec-prototype-js
 layout: post
 title: 'Faire un portail à la MSN Spaces avec prototype.js'
 date: '2006-08-24 09:53:54'

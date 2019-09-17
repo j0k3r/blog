@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/firefox-1-0-3-et-mozilla-1-7-7
 layout: post
 title: 'Firefox 1.0.3 et Mozilla 1.7.7'
 date: '2005-04-06 11:25:46'

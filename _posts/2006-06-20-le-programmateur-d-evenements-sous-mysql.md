@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-programmateur-d-evenements-sous-mysql
 layout: post
 title: 'Le programmateur d''évènements sous MySQL'
 date: '2006-06-20 09:11:03'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/conception-d-un-site-dynamique-en-php
 layout: post
 title: 'Conception d''un site dynamique en PHP'
 date: '2006-05-27 12:45:58'

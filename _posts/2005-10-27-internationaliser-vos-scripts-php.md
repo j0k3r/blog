@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/internationaliser-vos-scripts-php
 layout: post
 title: 'Internationaliser vos scripts PHP'
 date: '2005-10-27 08:33:43'

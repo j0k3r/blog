@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/l-annee-php-2004-et-nouvelle-fonctionnalite-sur-php-net
 layout: post
 title: 'L''année PHP 2004 et nouvelle fonctionnalité sur php.net'
 date: '2005-01-03 12:08:59'

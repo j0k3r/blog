@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/creer-un-flux-rss-en-php-4-5
 layout: post
 title: 'Créer un flux RSS en PHP 4/5'
 date: '2006-09-09 03:10:18'

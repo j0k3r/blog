@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-meilleur-cms-open-source
 layout: post
 title: 'Le meilleur CMS Open Source'
 date: '2006-09-15 06:39:59'

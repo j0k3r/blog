@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/on-mets-tout-sur-papier-c-est-plus-facile
 layout: post
 title: 'On mets tout sur papier, c''est plus facile !'
 date: '2005-05-25 10:31:56'

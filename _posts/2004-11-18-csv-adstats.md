@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/csv-adstats
 layout: post
 title: 'CSV AdStats'
 date: '2004-11-18 12:29:13'

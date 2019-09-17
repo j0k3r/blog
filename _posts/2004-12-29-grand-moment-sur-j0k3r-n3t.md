@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/grand-moment-sur-j0k3r-n3t
 layout: post
 title: 'Grand moment sur j0k3r.n3t'
 date: '2004-12-29 11:13:57'

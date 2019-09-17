@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/j0k3r-n3t-recoit-un-award-d-or
 layout: post
 title: 'j0k3r.n3t reçoit un award d''or !!'
 date: '2005-02-09 10:57:54'

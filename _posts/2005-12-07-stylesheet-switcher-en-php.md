@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/stylesheet-switcher-en-php
 layout: post
 title: 'Stylesheet switcher en PHP'
 date: '2005-12-07 10:54:35'

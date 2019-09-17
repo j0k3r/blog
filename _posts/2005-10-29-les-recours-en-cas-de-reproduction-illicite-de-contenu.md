@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-recours-en-cas-de-reproduction-illicite-de-contenu
 layout: post
 title: 'Les recours en cas de reproduction illicite de contenu'
 date: '2005-10-29 12:46:57'

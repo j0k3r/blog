@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/mozilla-firefox-1-5-beta-2
 layout: post
 title: 'Mozilla Firefox 1.5 bêta 2'
 date: '2005-10-08 12:47:50'

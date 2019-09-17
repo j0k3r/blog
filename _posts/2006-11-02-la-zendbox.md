@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/la-zendbox
 layout: post
 title: 'La ZendBox !'
 date: '2006-11-02 09:44:18'

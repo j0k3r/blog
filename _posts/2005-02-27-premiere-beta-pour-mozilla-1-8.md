@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/premiere-beta-pour-mozilla-1-8
 layout: post
 title: 'Première bêta pour Mozilla 1.8'
 date: '2005-02-27 10:50:18'

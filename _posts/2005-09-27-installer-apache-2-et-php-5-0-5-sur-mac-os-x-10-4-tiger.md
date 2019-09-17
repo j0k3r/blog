@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/installer-apache-2-et-php-5-0-5-sur-mac-os-x-10-4-tiger
 layout: post
 title: 'Installer Apache 2 et PHP 5.0.5 sur Mac OS X 10.4 Tiger'
 date: '2005-09-27 08:27:12'

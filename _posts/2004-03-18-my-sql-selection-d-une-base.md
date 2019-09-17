@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/my-sql-selection-d-une-base
 layout: post
 title: 'MySQL - Sélection d''une base'
 date: '2004-03-18 06:48:22'

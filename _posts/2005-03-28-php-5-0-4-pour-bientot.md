@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-5-0-4-pour-bientot
 layout: post
 title: 'PHP 5.0.4 pour bientôt ?'
 date: '2005-03-28 11:28:40'

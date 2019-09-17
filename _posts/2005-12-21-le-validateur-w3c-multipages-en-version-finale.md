@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-validateur-w3c-multipages-en-version-finale
 layout: post
 title: 'Le validateur W3C multipages en version finale !'
 date: '2005-12-21 12:29:46'

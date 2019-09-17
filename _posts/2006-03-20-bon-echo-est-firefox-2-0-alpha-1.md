@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/bon-echo-est-firefox-2-0-alpha-1
 layout: post
 title: 'Bon Echo est Firefox 2.0 Alpha 1'
 date: '2006-03-20 02:10:47'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/zend-framework-beta-0-9-0
 layout: post
 title: 'Zend Framework Beta 0.9.0'
 date: '2007-03-19 12:49:22'

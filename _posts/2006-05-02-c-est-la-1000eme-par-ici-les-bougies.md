@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/c-est-la-1000eme-par-ici-les-bougies
 layout: post
 title: 'C''est la 1000ème, par ici les bougies !'
 date: '2006-05-02 01:46:44'

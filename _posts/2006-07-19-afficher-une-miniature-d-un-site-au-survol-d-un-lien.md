@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/afficher-une-miniature-d-un-site-au-survol-d-un-lien
 layout: post
 title: 'Afficher une miniature d''un site au survol d''un lien'
 date: '2006-07-19 08:36:12'

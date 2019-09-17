@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/differentes-erreurs-php-expliquees
 layout: post
 title: 'Différentes erreurs PHP expliquées'
 date: '2005-06-28 09:02:54'

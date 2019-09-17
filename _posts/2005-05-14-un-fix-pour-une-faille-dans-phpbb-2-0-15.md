@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-fix-pour-une-faille-dans-phpbb-2-0-15
 layout: post
 title: 'Un fix pour une faille dans phpBB 2.0.15'
 date: '2005-05-14 01:44:15'

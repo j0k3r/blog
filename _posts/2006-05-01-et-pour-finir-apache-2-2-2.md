@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/et-pour-finir-apache-2-2-2
 layout: post
 title: 'Et pour finir, Apache 2.2.2'
 date: '2006-05-01 11:46:32'

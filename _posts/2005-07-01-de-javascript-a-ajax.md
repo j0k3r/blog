@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/de-javascript-a-ajax
 layout: post
 title: 'De JavaScript à AJAX'
 date: '2005-07-01 09:29:51'

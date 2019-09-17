@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/manipuler-des-videos-et-du-son-avec-php
 layout: post
 title: 'Manipuler des vidéos et du son avec PHP'
 date: '2005-06-21 10:24:42'

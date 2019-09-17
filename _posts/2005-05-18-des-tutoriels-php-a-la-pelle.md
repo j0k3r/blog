@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/des-tutoriels-php-a-la-pelle
 layout: post
 title: 'Des tutoriels PHP à la pelle'
 date: '2005-05-18 12:12:15'

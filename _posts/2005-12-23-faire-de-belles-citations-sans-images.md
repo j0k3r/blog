@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/faire-de-belles-citations-sans-images
 layout: post
 title: 'Faire de belles citations sans images'
 date: '2005-12-23 08:12:05'

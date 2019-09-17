@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-futur-de-dotclear
 layout: post
 title: 'Le futur de DotClear'
 date: '2005-10-22 05:30:06'

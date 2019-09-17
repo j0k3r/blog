@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/l-attribut-tabindex-dans-la-tourmente
 layout: post
 title: 'L''attribut tabindex dans la tourmente'
 date: '2006-09-13 09:22:52'

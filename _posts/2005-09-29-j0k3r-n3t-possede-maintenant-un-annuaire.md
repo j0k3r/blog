@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/j0k3r-n3t-possede-maintenant-un-annuaire
 layout: post
 title: 'j0k3r.n3t possède maintenant un annuaire !'
 date: '2005-09-29 01:04:26'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-et-les-templates
 layout: post
 title: 'PHP et les templates'
 date: '2005-02-23 07:58:57'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/en-2004-36-d-attaques-de-serveurs-web-en-plus
 layout: post
 title: 'En 2004, 36% d''attaques de serveurs web en plus'
 date: '2005-04-29 12:22:03'

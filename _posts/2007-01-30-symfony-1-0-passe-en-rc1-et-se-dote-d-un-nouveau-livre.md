@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/symfony-1-0-passe-en-rc1-et-se-dote-d-un-nouveau-livre
 layout: post
 title: 'Symfony 1.0 passe en RC1 et se dote d''un nouveau livre'
 date: '2007-01-30 03:58:37'

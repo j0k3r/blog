@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/motilee-un-forum-open-source-developpe-avec-symfony
 layout: post
 title: 'Motilee, un forum open source développé avec Symfony'
 date: '2007-11-28 11:47:20'

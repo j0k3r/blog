@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/que-vaut-ajax-face-a-flash
 layout: post
 title: 'Que vaut AJAX face à Flash ?'
 date: '2006-08-10 06:08:43'

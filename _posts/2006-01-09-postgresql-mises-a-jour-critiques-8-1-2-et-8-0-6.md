@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/postgresql-mises-a-jour-critiques-8-1-2-et-8-0-6
 layout: post
 title: 'PostGreSQL : mises à jour critiques 8.1.2 et 8.0.6'
 date: '2006-01-09 10:58:15'

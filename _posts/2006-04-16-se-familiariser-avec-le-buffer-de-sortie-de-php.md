@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/se-familiariser-avec-le-buffer-de-sortie-de-php
 layout: post
 title: 'Se familiariser avec le buffer de sortie de PHP'
 date: '2006-04-16 09:24:35'

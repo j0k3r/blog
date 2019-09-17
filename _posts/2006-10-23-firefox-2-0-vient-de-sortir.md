@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/firefox-2-0-vient-de-sortir
 layout: post
 title: 'Firefox 2.0 vient de sortir'
 date: '2006-10-23 01:54:42'

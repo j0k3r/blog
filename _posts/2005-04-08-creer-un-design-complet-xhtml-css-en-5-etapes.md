@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/creer-un-design-complet-xhtml-css-en-5-etapes
 layout: post
 title: 'Créer un design complet (XHTML / CSS) en 5 étapes'
 date: '2005-04-08 06:01:33'

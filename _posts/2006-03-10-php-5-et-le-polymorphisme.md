@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-5-et-le-polymorphisme
 layout: post
 title: 'PHP 5 et le polymorphisme'
 date: '2006-03-10 08:26:19'

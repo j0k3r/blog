@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/trois-templates-x-html-gratuits-pour-votre-backoffice
 layout: post
 title: 'Trois templates xHTML gratuits pour votre backoffice'
 date: '2008-08-31 03:33:24'

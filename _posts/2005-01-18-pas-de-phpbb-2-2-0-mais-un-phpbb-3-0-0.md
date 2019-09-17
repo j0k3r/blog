@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/pas-de-phpbb-2-2-0-mais-un-phpbb-3-0-0
 layout: post
 title: 'Pas de phpBB 2.2.0 mais un phpBB 3.0.0'
 date: '2005-01-18 05:19:15'

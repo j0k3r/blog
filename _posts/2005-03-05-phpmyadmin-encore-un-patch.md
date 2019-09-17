@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/phpmyadmin-encore-un-patch
 layout: post
 title: 'phpMyAdmin ... encore un patch'
 date: '2005-03-05 01:14:11'

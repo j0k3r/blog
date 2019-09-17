@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/l-avenir-de-php-en-2006
 layout: post
 title: 'L''avenir de PHP en 2006'
 date: '2005-12-28 11:39:41'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/comment-integrer-facebook-dans-votre-reseau-social-en-php
 layout: post
 title: 'Comment intégrer Facebook dans votre réseau social en PHP ?'
 date: '2007-07-12 08:17:51'

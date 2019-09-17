@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-limites-de-l-hebergement-mutualise
 layout: post
 title: 'Les limites de l''hébergement mutualisé'
 date: '2005-10-11 10:48:19'

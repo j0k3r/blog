@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/du-fil-rss-la-ou-il-n-y-en-a-pas
 layout: post
 title: 'Du fil RSS là ou il n''y en a pas ...'
 date: '2006-05-01 00:00:00'

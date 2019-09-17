@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/dedibox-loaded
 layout: post
 title: 'Dedibox loaded !'
 date: '2007-06-04 12:02:47'

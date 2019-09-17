@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-accelerateurs-php-a-la-loupe
 layout: post
 title: 'Les accélérateurs PHP à la loupe'
 date: '2006-06-09 10:00:38'

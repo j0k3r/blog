@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/oracle-et-zend-booste-php
 layout: post
 title: 'Oracle et Zend booste PHP'
 date: '2005-05-16 12:51:56'

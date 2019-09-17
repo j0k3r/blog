@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/la-v3-se-prepare
 layout: post
 title: 'La v3 se prépare !'
 date: '2005-04-01 02:04:29'

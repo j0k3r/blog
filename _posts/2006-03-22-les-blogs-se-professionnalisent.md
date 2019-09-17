@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-blogs-se-professionnalisent
 layout: post
 title: 'Les blogs se professionnalisent'
 date: '2006-03-22 12:12:10'

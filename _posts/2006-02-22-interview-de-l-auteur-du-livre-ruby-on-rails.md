@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/interview-de-l-auteur-du-livre-ruby-on-rails
 layout: post
 title: 'Interview de l''auteur du livre : Ruby On Rails'
 date: '2006-02-22 07:41:42'

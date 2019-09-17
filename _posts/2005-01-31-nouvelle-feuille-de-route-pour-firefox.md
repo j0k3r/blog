@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/nouvelle-feuille-de-route-pour-firefox
 layout: post
 title: 'Nouvelle feuille de route pour FireFox'
 date: '2005-01-31 09:25:06'

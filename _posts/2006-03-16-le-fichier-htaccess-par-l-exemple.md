@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-fichier-htaccess-par-l-exemple
 layout: post
 title: 'Le fichier htaccess par l''exemple'
 date: '2006-03-16 09:13:42'

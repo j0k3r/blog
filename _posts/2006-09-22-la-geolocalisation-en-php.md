@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/la-geolocalisation-en-php
 layout: post
 title: 'La Géolocalisation en PHP'
 date: '2006-09-22 08:31:47'

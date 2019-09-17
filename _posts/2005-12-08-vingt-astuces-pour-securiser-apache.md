@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/vingt-astuces-pour-securiser-apache
 layout: post
 title: 'Vingt astuces pour sécuriser Apache'
 date: '2005-12-08 11:23:54'

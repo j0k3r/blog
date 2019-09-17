@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/interview-d-un-xtremprogrammer
 layout: post
 title: 'Interview d''un XtremProgrammer'
 date: '2006-03-05 05:17:57'

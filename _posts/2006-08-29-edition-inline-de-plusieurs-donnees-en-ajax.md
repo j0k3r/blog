@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/edition-inline-de-plusieurs-donnees-en-ajax
 layout: post
 title: 'Edition inline de plusieurs données en AJAX'
 date: '2006-08-29 09:40:40'

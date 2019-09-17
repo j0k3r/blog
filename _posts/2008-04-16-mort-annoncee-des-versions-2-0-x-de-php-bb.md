@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/mort-annoncee-des-versions-2-0-x-de-php-bb
 layout: post
 title: 'Mort annoncée des versions 2.0.x de phpBB'
 date: '2008-04-16 11:48:30'

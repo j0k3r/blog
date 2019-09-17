@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/my-sql-affichage-du-resultat-html
 layout: post
 title: 'MySQL - Affichage du résultat (HTML)'
 date: '2004-03-18 14:28:56'

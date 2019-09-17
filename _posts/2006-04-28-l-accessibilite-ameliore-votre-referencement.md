@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/l-accessibilite-ameliore-votre-referencement
 layout: post
 title: 'L''accessibilité améliore votre référencement'
 date: '2006-04-28 03:35:57'

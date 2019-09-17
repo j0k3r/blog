@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/quel-nom-portent-vos-backlinks
 layout: post
 title: 'Quel nom portent vos backlinks ?'
 date: '2005-10-29 12:40:57'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/css-on-reprend-tout-a-zero-12eme-episode
 layout: post
 title: 'CSS : on reprend tout à zéro ! (12ème épisode)'
 date: '2005-11-30 12:01:17'

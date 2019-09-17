@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/rechercher-un-code-source-sur-internet
 layout: post
 title: 'Rechercher un code source sur internet'
 date: '2006-10-01 00:00:00'

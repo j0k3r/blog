@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/une-courte-introduction-a-rails
 layout: post
 title: 'Une (courte) introduction à Rails'
 date: '2006-06-08 11:38:31'

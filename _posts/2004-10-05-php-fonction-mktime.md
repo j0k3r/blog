@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/php-fonction-mktime
 layout: post
 title: 'PHP - Fonction mktime'
 date: '2004-10-05 23:11:08'

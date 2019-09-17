@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/une-confirmation-de-suppression-en-ajax
 layout: post
 title: 'Une confirmation de suppression en AJAX'
 date: '2006-03-26 11:45:04'

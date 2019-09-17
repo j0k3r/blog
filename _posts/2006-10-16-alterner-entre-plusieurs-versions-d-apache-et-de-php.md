@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/alterner-entre-plusieurs-versions-d-apache-et-de-php
 layout: post
 title: 'Alterner entre plusieurs versions d''Apache et de PHP'
 date: '2006-10-16 04:20:54'

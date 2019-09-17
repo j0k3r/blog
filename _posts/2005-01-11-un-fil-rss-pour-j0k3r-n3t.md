@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-fil-rss-pour-j0k3r-n3t
 layout: post
 title: 'Un fil RSS pour j0k3r.n3t'
 date: '2005-01-11 09:28:20'

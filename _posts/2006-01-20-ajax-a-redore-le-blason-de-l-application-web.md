@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ajax-a-redore-le-blason-de-l-application-web
 layout: post
 title: 'Ajax a redoré le blason de l''application Web'
 date: '2006-01-20 04:09:51'

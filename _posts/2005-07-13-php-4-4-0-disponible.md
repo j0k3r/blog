@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-4-4-0-disponible
 layout: post
 title: 'php 4.4.0 disponible'
 date: '2005-07-13 07:07:17'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/oracle-10g-et-php-des-nouvelles
 layout: post
 title: 'Oracle 10g et PHP, des nouvelles'
 date: '2005-05-19 12:29:48'

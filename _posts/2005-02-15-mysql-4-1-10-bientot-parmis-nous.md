@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/mysql-4-1-10-bientot-parmis-nous
 layout: post
 title: 'MySQL 4.1.10 bientot parmis nous'
 date: '2005-02-15 01:54:52'

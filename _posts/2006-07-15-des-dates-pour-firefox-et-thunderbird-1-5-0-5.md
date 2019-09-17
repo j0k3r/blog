@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/des-dates-pour-firefox-et-thunderbird-1-5-0-5
 layout: post
 title: 'Des dates pour FireFox et ThunderBird 1.5.0.5'
 date: '2006-07-15 09:42:56'

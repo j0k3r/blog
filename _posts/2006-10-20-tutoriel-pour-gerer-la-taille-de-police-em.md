@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/tutoriel-pour-gerer-la-taille-de-police-em
 layout: post
 title: 'Tutoriel pour gérer la taille de police em'
 date: '2006-10-20 03:15:06'

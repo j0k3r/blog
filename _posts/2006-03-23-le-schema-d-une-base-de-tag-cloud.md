@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-schema-d-une-base-de-tag-cloud
 layout: post
 title: 'Le schéma d''une base de Tag Cloud'
 date: '2006-03-23 01:47:01'

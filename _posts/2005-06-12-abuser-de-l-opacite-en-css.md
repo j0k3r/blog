@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/abuser-de-l-opacite-en-css
 layout: post
 title: 'Abuser de l''opacité en CSS'
 date: '2005-06-12 06:29:39'

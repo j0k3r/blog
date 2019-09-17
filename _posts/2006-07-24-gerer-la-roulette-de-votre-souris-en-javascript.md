@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/gerer-la-roulette-de-votre-souris-en-javascript
 layout: post
 title: 'Gérer la roulette de votre souris en JavaScript'
 date: '2006-07-24 11:33:28'

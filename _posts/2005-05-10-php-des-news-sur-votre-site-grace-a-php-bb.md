@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/php-des-news-sur-votre-site-grace-a-php-bb
 layout: post
 title: 'PHP - Des news sur votre site grâce à phpBB'
 date: '2005-05-10 16:42:03'

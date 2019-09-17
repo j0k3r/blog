@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/probleme-d-hebergeur
 layout: post
 title: 'Problème d''hébergeur'
 date: '2005-06-19 10:26:09'

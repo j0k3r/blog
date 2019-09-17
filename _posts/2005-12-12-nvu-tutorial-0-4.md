@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/nvu-tutorial-0-4
 layout: post
 title: 'Nvu Tutorial 0.4'
 date: '2005-12-12 10:43:35'

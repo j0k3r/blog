@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/php-image-aleatoire
 layout: post
 title: 'PHP - Image aléatoire'
 date: '2004-10-05 23:21:03'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/comment-fonctionnent-les-attaques-par-sql-injection
 layout: post
 title: 'Comment fonctionnent les attaques par SQL Injection ?'
 date: '2005-06-26 10:58:02'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/rotation-de-banniere-en-ajax
 layout: post
 title: 'Rotation de bannière en AJAX'
 date: '2006-05-03 08:15:04'

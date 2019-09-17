@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/you-os-un-environnement
 layout: post
 title: 'YouOS : Un environnement'
 date: '2006-08-01 00:00:00'

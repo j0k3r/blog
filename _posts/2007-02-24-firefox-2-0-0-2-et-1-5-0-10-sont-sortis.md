@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/firefox-2-0-0-2-et-1-5-0-10-sont-sortis
 layout: post
 title: 'Firefox 2.0.0.2 et 1.5.0.10 sont sortis'
 date: '2007-02-24 01:58:32'

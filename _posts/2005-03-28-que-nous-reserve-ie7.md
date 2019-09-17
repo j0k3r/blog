@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/que-nous-reserve-ie7
 layout: post
 title: 'Que nous réserve IE7 ... ?'
 date: '2005-03-28 07:03:35'

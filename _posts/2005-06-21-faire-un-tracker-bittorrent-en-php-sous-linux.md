@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/faire-un-tracker-bittorrent-en-php-sous-linux
 layout: post
 title: 'Faire un tracker BitTorrent en PHP sous Linux'
 date: '2005-06-21 09:53:03'

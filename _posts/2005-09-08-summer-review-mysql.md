@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/summer-review-mysql
 layout: post
 title: 'Summer Review: MySQL'
 date: '2005-09-08 01:39:16'

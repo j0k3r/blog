@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/faites-votre-propre-google-suggest
 layout: post
 title: 'Faites votre propre Google Suggest'
 date: '2005-05-14 01:25:44'

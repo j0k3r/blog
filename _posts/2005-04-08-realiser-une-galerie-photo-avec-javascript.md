@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/realiser-une-galerie-photo-avec-javascript
 layout: post
 title: 'Réaliser une galerie photo avec JavaScript'
 date: '2005-04-08 06:15:10'

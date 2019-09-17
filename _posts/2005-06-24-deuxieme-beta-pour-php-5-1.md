@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/deuxieme-beta-pour-php-5-1
 layout: post
 title: 'Deuxième bêta pour PHP 5.1'
 date: '2005-06-24 01:26:35'

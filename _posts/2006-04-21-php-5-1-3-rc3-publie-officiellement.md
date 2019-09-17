@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-5-1-3-rc3-publie-officiellement
 layout: post
 title: 'PHP 5.1.3 RC3 publié officiellement'
 date: '2006-04-21 12:55:31'

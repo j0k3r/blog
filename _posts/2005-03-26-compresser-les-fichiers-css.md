@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/compresser-les-fichiers-css
 layout: post
 title: 'Compresser les fichiers CSS'
 date: '2005-03-26 06:20:45'

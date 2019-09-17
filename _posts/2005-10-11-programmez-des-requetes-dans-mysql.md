@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/programmez-des-requetes-dans-mysql
 layout: post
 title: 'Programmez des requêtes dans MySQL'
 date: '2005-10-11 10:27:57'

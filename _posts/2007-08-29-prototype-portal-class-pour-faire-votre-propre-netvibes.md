@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/prototype-portal-class-pour-faire-votre-propre-netvibes
 layout: post
 title: 'Prototype Portal Class pour faire votre propre netvibes !'
 date: '2007-08-29 06:40:45'

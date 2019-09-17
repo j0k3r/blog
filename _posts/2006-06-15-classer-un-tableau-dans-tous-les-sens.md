@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/classer-un-tableau-dans-tous-les-sens
 layout: post
 title: 'Classer un tableau dans tous les sens'
 date: '2006-06-15 09:49:23'

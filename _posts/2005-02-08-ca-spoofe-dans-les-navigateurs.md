@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ca-spoofe-dans-les-navigateurs
 layout: post
 title: 'Ca spoofe dans les navigateurs !'
 date: '2005-02-08 07:56:49'

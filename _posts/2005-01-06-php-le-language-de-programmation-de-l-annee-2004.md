@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-le-language-de-programmation-de-l-annee-2004
 layout: post
 title: 'PHP : Le language de programmation de l''année 2004'
 date: '2005-01-06 01:38:09'

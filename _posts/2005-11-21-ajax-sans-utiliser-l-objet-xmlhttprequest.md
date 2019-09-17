@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ajax-sans-utiliser-l-objet-xmlhttprequest
 layout: post
 title: 'AJAX sans utiliser l''objet XmlHttpRequest'
 date: '2005-11-21 05:07:49'

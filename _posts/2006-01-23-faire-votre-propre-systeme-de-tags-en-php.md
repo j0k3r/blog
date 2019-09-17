@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/faire-votre-propre-systeme-de-tags-en-php
 layout: post
 title: 'Faire votre propre système de tags en PHP'
 date: '2006-01-23 07:26:04'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/firefox-monte-encore-et-toujours
 layout: post
 title: 'FireFox monte encore et toujours !'
 date: '2005-01-25 01:32:37'

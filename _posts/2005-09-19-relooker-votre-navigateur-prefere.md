@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/relooker-votre-navigateur-prefere
 layout: post
 title: 'Relooker votre navigateur préféré !'
 date: '2005-09-19 06:16:45'

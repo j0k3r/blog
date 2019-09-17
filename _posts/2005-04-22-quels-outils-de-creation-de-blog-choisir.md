@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/quels-outils-de-creation-de-blog-choisir
 layout: post
 title: 'Quels outils de création de blog choisir ?'
 date: '2005-04-22 12:29:31'

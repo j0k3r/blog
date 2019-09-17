@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/yui-2-5-0-six-nouveaux-composants
 layout: post
 title: 'YUI 2.5.0, six nouveaux composants !'
 date: '2008-02-23 10:32:46'

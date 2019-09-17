@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-magic_quotes-par-fred
 layout: post
 title: 'Les "magic_quotes" par Fred'
 date: '2005-02-22 08:16:48'

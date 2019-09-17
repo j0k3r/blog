@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/generer-des-graphiques-en-css
 layout: post
 title: 'Générer des graphiques en CSS'
 date: '2006-02-04 12:32:58'

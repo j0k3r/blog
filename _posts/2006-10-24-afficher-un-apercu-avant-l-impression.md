@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/afficher-un-apercu-avant-l-impression
 layout: post
 title: 'Afficher un aperçu avant l''impression'
 date: '2006-10-24 02:29:44'

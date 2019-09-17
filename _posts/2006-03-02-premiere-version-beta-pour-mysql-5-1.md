@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/premiere-version-beta-pour-mysql-5-1
 layout: post
 title: 'Première version bêta pour MySQL 5.1'
 date: '2006-03-02 11:58:00'

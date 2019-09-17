@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/encore-des-nouvelles-sur-ie-7
 layout: post
 title: 'Encore des nouvelles sur IE 7'
 date: '2005-05-27 02:20:04'

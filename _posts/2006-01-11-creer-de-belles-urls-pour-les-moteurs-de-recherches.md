@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/creer-de-belles-urls-pour-les-moteurs-de-recherches
 layout: post
 title: 'Créer de belles urls pour les moteurs de recherches'
 date: '2006-01-11 08:48:36'

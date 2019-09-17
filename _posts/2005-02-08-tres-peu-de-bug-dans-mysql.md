@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/tres-peu-de-bug-dans-mysql
 layout: post
 title: 'Très peu de buG dans MySQL'
 date: '2005-02-08 05:27:10'

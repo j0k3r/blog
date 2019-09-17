@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/summer-review-jdn-developpeur
 layout: post
 title: 'Summer Review: JDN Developpeur'
 date: '2005-09-08 03:27:21'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/recuperer-le-contenu-d-un-site-en-php
 layout: post
 title: 'Récupérer le contenu d''un site en PHP'
 date: '2005-05-10 07:25:38'

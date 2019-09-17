@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/css-3-revolutionne-les-formulaires
 layout: post
 title: 'CSS 3 révolutionne les formulaires'
 date: '2005-12-07 11:28:28'

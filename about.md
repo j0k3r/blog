@@ -1,8 +1,11 @@
 ---
 layout: post
-title: 'À propos de moi et de ce site'
-permalink: /a-propos.html
+title: 'À propos'
+permalink: /about
 author: j0k
+sidebar_link: true
+redirect_from:
+  - /apropos
 ---
 
 ### Qui suis-je ?

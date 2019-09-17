@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-exemple-de-notification-de-chargement-en-ajax
 layout: post
 title: 'Un exemple de notification de chargement en AJAX'
 date: '2006-07-12 12:03:16'

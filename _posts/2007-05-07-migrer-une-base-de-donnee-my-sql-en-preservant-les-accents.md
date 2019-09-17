@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/migrer-une-base-de-donnee-my-sql-en-preservant-les-accents
 layout: post
 title: 'Migrer une base de donnée MySQL en préservant les accents'
 date: '2007-05-07 10:31:45'

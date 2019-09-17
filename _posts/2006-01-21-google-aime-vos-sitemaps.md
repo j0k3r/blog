@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/google-aime-vos-sitemaps
 layout: post
 title: 'Google aime vos sitemaps !'
 date: '2006-01-21 05:05:45'

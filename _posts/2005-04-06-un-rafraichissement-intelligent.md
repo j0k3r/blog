@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-rafraichissement-intelligent
 layout: post
 title: 'Un rafraîchissement intelligent'
 date: '2005-04-06 03:05:08'

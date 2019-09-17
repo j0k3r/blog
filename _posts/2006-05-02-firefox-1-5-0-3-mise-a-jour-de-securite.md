@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/firefox-1-5-0-3-mise-a-jour-de-securite
 layout: post
 title: 'Firefox 1.5.0.3, mise à jour de sécurité !'
 date: '2006-05-02 10:46:12'

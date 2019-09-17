@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-tests-unitaires-grace-a-simpletest
 layout: post
 title: 'Les tests unitaires grace à SimpleTest'
 date: '2005-01-13 12:19:32'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ma-version-de-sfdoctrinesimpleforumplugin-est-sur-github
 layout: post
 title: 'Ma version de sfDoctrineSimpleForumPlugin est sur #github !'
 date: '2010-03-20 18:51:49'

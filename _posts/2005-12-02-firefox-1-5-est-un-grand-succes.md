@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/firefox-1-5-est-un-grand-succes
 layout: post
 title: 'Firefox 1.5 est un grand succès !'
 date: '2005-12-02 11:39:15'

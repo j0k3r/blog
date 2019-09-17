@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/comment-choisir-un-cms
 layout: post
 title: 'Comment choisir un CMS'
 date: '2006-08-20 05:06:37'

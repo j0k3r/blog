@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/animator-js-pour-faire-des-effets-mais-en-css
 layout: post
 title: 'Animator.js pour faire des effets mais en CSS !'
 date: '2006-11-03 09:26:44'

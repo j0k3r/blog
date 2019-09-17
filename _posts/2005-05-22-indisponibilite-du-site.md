@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/indisponibilite-du-site
 layout: post
 title: 'Indisponibilité du site'
 date: '2005-05-22 10:14:36'

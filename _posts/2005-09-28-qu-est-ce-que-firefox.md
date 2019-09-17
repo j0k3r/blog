@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/qu-est-ce-que-firefox
 layout: post
 title: 'Qu''est ce que Firefox ?'
 date: '2005-09-28 03:10:39'

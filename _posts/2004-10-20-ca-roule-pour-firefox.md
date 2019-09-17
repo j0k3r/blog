@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ca-roule-pour-firefox
 layout: post
 title: 'Ca roule pour FireFox !'
 date: '2004-10-20 10:18:06'

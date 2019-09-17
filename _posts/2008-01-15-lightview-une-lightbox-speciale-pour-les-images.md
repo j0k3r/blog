@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/lightview-une-lightbox-speciale-pour-les-images
 layout: post
 title: 'Lightview, une lightbox spéciale pour les images'
 date: '2008-01-15 12:08:20'

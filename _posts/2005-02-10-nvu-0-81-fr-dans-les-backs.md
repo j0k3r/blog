@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/nvu-0-81-fr-dans-les-backs
 layout: post
 title: 'Nvu 0.81 Fr dans les backs'
 date: '2005-02-10 08:03:55'

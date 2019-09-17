@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ie7-js-un-javascript-qui-rend-ie-plus-standard
 layout: post
 title: 'ie7-js, un javascript qui rend IE plus standard !'
 date: '2008-01-09 11:28:34'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/dix-preferences-cachees-de-firefox-aux-cribles
 layout: post
 title: 'Dix préférences cachées de Firefox aux cribles'
 date: '2005-04-12 01:47:30'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/nouvelle-fenetre-d-option-de-firefox-bientot-dispo
 layout: post
 title: 'Nouvelle fenêtre d''option de Firefox bientôt dispo'
 date: '2005-02-27 09:52:15'

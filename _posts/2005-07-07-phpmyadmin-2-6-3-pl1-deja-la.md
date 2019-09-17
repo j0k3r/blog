@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/phpmyadmin-2-6-3-pl1-deja-la
 layout: post
 title: 'phpMyAdmin 2.6.3-pl1 déjà là'
 date: '2005-07-07 12:24:03'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/thickbox-une-nouvelle-version-de-lightbox
 layout: post
 title: 'ThickBox, une nouvelle version de Lightbox'
 date: '2006-04-25 10:02:26'

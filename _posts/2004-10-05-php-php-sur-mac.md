@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/php-php-sur-mac
 layout: post
 title: 'PHP - PHP sur Mac'
 date: '2004-10-05 23:09:28'

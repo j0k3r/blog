@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/windoo-la-windows-class-pour-mootools
 layout: post
 title: 'Windoo, la windows class pour Mootools'
 date: '2007-06-04 11:37:26'

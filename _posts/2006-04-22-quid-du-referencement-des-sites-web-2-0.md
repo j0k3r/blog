@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/quid-du-referencement-des-sites-web-2-0
 layout: post
 title: 'Quid du référencement des sites web 2.0'
 date: '2006-04-22 11:24:10'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/une-presentation-type-powerpoint-en-css
 layout: post
 title: 'Une présentation type PowerPoint en CSS'
 date: '2005-10-20 10:48:53'

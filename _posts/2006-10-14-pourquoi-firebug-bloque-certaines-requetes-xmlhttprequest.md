@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/pourquoi-firebug-bloque-certaines-requetes-xmlhttprequest
 layout: post
 title: 'Pourquoi Firebug bloque certaines requêtes XMLHttpRequest ?'
 date: '2006-10-14 12:31:22'

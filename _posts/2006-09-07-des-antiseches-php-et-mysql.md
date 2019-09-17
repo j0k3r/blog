@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/des-antiseches-php-et-mysql
 layout: post
 title: 'Des antiséches PHP et MySQL'
 date: '2006-09-07 09:11:33'

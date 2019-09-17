@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/centraliser-vos-favoris
 layout: post
 title: 'Centraliser vos favoris'
 date: '2005-07-01 00:00:00'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/sept-erreurs-d-accessibilite-2ieme-partie
 layout: post
 title: 'Sept erreurs d''accessibilité - 2ième partie'
 date: '2006-08-08 10:04:49'

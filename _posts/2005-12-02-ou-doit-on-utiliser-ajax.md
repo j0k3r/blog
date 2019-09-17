@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ou-doit-on-utiliser-ajax
 layout: post
 title: 'Où doit on utiliser AJAX ?'
 date: '2005-12-02 05:53:00'

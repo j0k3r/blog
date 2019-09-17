@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/enfin-les-membres-sont-la
 layout: post
 title: 'Enfin les membres sont là'
 date: '2005-02-06 05:20:51'

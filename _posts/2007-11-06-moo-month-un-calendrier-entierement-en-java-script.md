@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/moo-month-un-calendrier-entierement-en-java-script
 layout: post
 title: 'MooMonth, un calendrier entièrement en JavaScript'
 date: '2007-11-06 08:21:15'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-4-4-0-release-candidate-1
 layout: post
 title: 'PHP 4.4.0 Release Candidate 1'
 date: '2005-06-14 01:50:20'

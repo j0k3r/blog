@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/bon-echo-alpha-3-derniere-alpha-pour-firefox-2-0
 layout: post
 title: 'Bon Echo alpha 3, dernière alpha pour Firefox 2.0'
 date: '2006-05-28 03:31:28'

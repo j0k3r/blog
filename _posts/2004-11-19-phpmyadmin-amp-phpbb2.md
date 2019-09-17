@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/phpmyadmin-amp-phpbb2
 layout: post
 title: 'phpMyAdmin &amp; phpBB2'
 date: '2004-11-19 07:39:38'

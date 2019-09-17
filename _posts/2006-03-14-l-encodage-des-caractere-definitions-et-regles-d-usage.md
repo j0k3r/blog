@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/l-encodage-des-caractere-definitions-et-regles-d-usage
 layout: post
 title: 'L''encodage des caractère : Définitions et Régles d''usage'
 date: '2006-03-14 10:45:52'

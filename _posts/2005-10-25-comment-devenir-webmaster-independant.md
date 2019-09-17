@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/comment-devenir-webmaster-independant
 layout: post
 title: 'Comment devenir Webmaster indépendant'
 date: '2005-10-25 01:35:45'

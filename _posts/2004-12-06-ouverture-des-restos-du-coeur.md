@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/ouverture-des-restos-du-coeur
 layout: post
 title: 'Ouverture des Restos Du Coeur'
 date: '2004-12-06 11:13:48'

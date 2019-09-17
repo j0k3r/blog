@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/changer-son-url-sans-perdre-son-referencement
 layout: post
 title: 'Changer son URL sans perdre son référencement'
 date: '2006-03-07 08:50:46'

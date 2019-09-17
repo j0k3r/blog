@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-w3c-celebre-ces-10-ans-en-europe
 layout: post
 title: 'Le W3C célèbre ces 10 ans en Europe'
 date: '2005-06-02 01:32:08'

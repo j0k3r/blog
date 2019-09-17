@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/referencer-un-site-en-flash
 layout: post
 title: 'Référencer un site en Flash'
 date: '2005-10-11 08:05:46'

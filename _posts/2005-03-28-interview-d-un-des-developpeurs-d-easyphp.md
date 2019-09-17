@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/interview-d-un-des-developpeurs-d-easyphp
 layout: post
 title: 'Interview d''un des developpeurs d''EasyPHP'
 date: '2005-03-28 06:52:19'

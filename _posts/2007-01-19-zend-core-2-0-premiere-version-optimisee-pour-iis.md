@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/zend-core-2-0-premiere-version-optimisee-pour-iis
 layout: post
 title: 'Zend Core 2.0 : première version optimisée pour IIS'
 date: '2007-01-19 06:29:22'

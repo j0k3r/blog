@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/firefox-1-5-beta-2-en-francais
 layout: post
 title: 'Firefox 1.5 bêta 2 en français'
 date: '2005-10-14 12:45:29'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/la-taille-des-polices-en-accessibilite
 layout: post
 title: 'La taille des polices en accessibilité'
 date: '2006-02-27 07:26:32'

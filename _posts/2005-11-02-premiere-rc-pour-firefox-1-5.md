@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/premiere-rc-pour-firefox-1-5
 layout: post
 title: 'Première RC pour Firefox 1.5'
 date: '2005-11-02 09:04:13'

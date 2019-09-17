@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/faire-des-formulaires-simples-et-accessibles
 layout: post
 title: 'Faire des formulaires simples et accessibles'
 date: '2005-10-22 11:43:36'

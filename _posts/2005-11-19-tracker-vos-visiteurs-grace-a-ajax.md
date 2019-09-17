@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/tracker-vos-visiteurs-grace-a-ajax
 layout: post
 title: 'Tracker vos visiteurs grâce à AJAX'
 date: '2005-11-19 12:23:51'

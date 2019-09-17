@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/html-premiere-maquette-de-votre-site-web
 layout: post
 title: 'HTML - Première maquette de votre site Web'
 date: '2003-03-23 13:21:54'

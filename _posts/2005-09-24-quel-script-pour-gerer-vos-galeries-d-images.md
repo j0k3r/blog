@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/quel-script-pour-gerer-vos-galeries-d-images
 layout: post
 title: 'Quel script pour gérer vos galeries d''images ?'
 date: '2005-09-24 01:43:46'

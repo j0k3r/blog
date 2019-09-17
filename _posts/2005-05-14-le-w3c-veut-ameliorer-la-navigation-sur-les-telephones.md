@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-w3c-veut-ameliorer-la-navigation-sur-les-telephones
 layout: post
 title: 'Le W3C veut améliorer la navigation sur les téléphones'
 date: '2005-05-14 12:12:14'

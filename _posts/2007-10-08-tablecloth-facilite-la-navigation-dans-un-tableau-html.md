@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/tablecloth-facilite-la-navigation-dans-un-tableau-html
 layout: post
 title: 'Tablecloth facilite la navigation dans un tableau HTML'
 date: '2007-10-08 11:05:48'

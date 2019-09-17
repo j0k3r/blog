@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/php-fete-sa-decennie
 layout: post
 title: 'PHP fête sa décennie !'
 date: '2005-06-08 11:31:56'

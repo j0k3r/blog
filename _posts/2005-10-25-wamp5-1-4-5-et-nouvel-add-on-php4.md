@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/wamp5-1-4-5-et-nouvel-add-on-php4
 layout: post
 title: 'Wamp5 1.4.5 et nouvel add-on PHP4'
 date: '2005-10-25 01:42:31'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-classes-en-php4-et-en-php5
 layout: post
 title: 'Les classes en PHP4 et en PHP5'
 date: '2005-12-20 05:06:28'

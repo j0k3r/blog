@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-nouveau-nexen-net
 layout: post
 title: 'Le nouveau nexen.net'
 date: '2006-01-24 07:17:16'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/securise-mysql
 layout: post
 title: 'Sécurisé MySQL'
 date: '2005-06-28 09:23:47'

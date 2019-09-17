@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/hl2-et-les-news-du-oueb
 layout: post
 title: 'HL² et les news du Oueb'
 date: '2004-11-16 05:42:54'

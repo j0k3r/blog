@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/si-vous-lisez-ce-message-tout-c-est-bien-passe
 layout: post
 title: 'Si vous lisez ce message, tout c''est bien passé !'
 date: '2007-08-19 11:05:23'

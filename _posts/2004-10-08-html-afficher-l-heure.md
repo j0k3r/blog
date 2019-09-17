@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/html-afficher-l-heure
 layout: post
 title: 'HTML - Afficher l''heure'
 date: '2004-10-08 18:30:36'

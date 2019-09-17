@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/afficher-vos-images-par-dessus-votre-site
 layout: post
 title: 'Afficher vos images par dessus votre site'
 date: '2006-01-10 09:22:29'

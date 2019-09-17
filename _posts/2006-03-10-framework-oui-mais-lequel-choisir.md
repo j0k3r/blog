@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/framework-oui-mais-lequel-choisir
 layout: post
 title: 'Framework : Oui, mais lequel choisir ...'
 date: '2006-03-10 08:40:42'

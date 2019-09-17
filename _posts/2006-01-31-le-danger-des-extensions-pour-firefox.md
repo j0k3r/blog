@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-danger-des-extensions-pour-firefox
 layout: post
 title: 'Le danger des extensions pour Firefox'
 date: '2006-01-31 11:09:24'

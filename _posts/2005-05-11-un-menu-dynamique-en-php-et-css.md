@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-menu-dynamique-en-php-et-css
 layout: post
 title: 'Un menu dynamique en PHP et CSS'
 date: '2005-05-11 05:31:38'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/stats-de-php-et-apache-en-avril-2005
 layout: post
 title: 'Stats de PHP et Apache en avril 2005'
 date: '2005-04-14 07:21:38'

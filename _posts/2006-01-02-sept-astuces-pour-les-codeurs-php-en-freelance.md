@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/sept-astuces-pour-les-codeurs-php-en-freelance
 layout: post
 title: 'Sept astuces pour les codeurs PHP en freelance'
 date: '2006-01-02 04:31:21'

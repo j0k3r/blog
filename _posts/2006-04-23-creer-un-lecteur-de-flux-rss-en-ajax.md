@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/creer-un-lecteur-de-flux-rss-en-ajax
 layout: post
 title: 'Créer un lecteur de flux RSS en AJAX'
 date: '2006-04-23 10:13:29'

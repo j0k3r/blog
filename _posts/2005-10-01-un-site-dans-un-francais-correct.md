@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/un-site-dans-un-francais-correct
 layout: post
 title: 'Un site dans un français correct'
 date: '2005-10-01 00:00:00'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/magazine-developpez-com-disponible
 layout: post
 title: 'Magazine Developpez.com disponible'
 date: '2006-09-26 09:11:30'

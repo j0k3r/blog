@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/adapter-son-site-au-malvoyant-grace-aux-css
 layout: post
 title: 'Adapter son site au malvoyant grâce aux CSS'
 date: '2005-12-02 12:27:15'

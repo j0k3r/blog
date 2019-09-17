@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/premier-patch-pour-phpmyadmin-2-6-1
 layout: post
 title: 'Premier patch pour phpMyAdmin 2.6.1'
 date: '2005-02-24 12:53:42'

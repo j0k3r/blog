@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/cinq-points-de-php-inconnu-de-vous
 layout: post
 title: 'Cinq points de php inconnu de vous ?'
 date: '2005-03-24 01:18:27'

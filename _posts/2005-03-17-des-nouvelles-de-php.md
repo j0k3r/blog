@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/des-nouvelles-de-php
 layout: post
 title: 'Des nouvelles de php'
 date: '2005-03-17 01:12:13'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/intercepter-les-timeouts-en-ajax
 layout: post
 title: 'Intercepter les timeouts en AJAX'
 date: '2006-03-26 11:32:43'

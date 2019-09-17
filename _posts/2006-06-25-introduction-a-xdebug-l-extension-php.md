@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/introduction-a-xdebug-l-extension-php
 layout: post
 title: 'Introduction à Xdebug, l''extension PHP'
 date: '2006-06-25 10:10:57'

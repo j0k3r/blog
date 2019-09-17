@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/le-parrainage-adsense
 layout: post
 title: 'Le parrainage AdSense'
 date: '2005-11-05 01:06:01'

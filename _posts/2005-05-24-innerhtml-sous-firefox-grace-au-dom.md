@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/innerhtml-sous-firefox-grace-au-dom
 layout: post
 title: 'innerHTML sous Firefox grâce au DOM'
 date: '2005-05-24 07:30:13'

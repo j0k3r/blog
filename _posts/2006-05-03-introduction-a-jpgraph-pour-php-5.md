@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/introduction-a-jpgraph-pour-php-5
 layout: post
 title: 'Introduction à JpGraph pour PHP 5'
 date: '2006-05-03 08:04:45'

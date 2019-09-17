@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/guide-de-securite-en-php
 layout: post
 title: 'Guide de sécurité en PHP'
 date: '2005-04-24 04:56:13'

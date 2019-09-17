@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/webmasters-expo-j0k3r-n3t
 layout: post
 title: 'Webmasters Expo @ j0k3r.n3t'
 date: '2005-05-18 12:42:13'

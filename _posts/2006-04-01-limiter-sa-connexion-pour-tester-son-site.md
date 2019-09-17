@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/limiter-sa-connexion-pour-tester-son-site
 layout: post
 title: 'Limiter sa connexion pour tester son site'
 date: '2006-04-01 00:00:00'

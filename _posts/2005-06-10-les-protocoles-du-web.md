@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/les-protocoles-du-web
 layout: post
 title: 'Les protocoles du Web'
 date: '2005-06-10 01:17:05'

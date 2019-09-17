@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /article/php-fonction-substr
 layout: post
 title: 'PHP - Fonction substr'
 date: '2004-10-05 23:12:20'

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/mise-a-jour-de-l-article-sur-easyphp
 layout: post
 title: 'Mise à jour de l''article sur EasyPHP'
 date: '2005-01-31 12:08:27'

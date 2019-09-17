@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/la-phase-de-conception-logicielle-en-5-conseils
 layout: post
 title: 'La phase de conception logicielle en 5 conseils'
 date: '2005-06-10 01:36:33'

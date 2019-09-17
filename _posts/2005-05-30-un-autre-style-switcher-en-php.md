@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/un-autre-style-switcher-en-php
 layout: post
 title: 'Un autre style switcher en PHP'
 date: '2005-05-30 10:51:41'
