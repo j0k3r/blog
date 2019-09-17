@@ -1,40 +1,5 @@
-# Tale
-Tale is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://chesterhow.github.io/tale/).
+# j0k3r.net
 
-![Tale screenshot](http://i.imgur.com/pXZrtmo.png)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/718a9e3c-0891-4397-a791-95efde9fa8c7/deploy-status)](https://app.netlify.com/sites/j0k3r-net/deploys)
 
-## Features
-- Compatible with GitHub Pages
-- Responsive design (looks just as good on mobile)
-- Syntax highlighting, with the help of Pygments
-- Markdown and HTML text formatting
-- Pagination of posts
-
-## Usage
-### 1. Fork and Clone
-Fork this repository then clone it.
-
-### 2. Install dependencies
-Tale uses Jekyll's built-SCSS compiler to generate CSS. You'll need to install the Jekyll gem:
-
-```bash
-$ gem install jekyll
-```
-
-### 3. Create your site
-Edit the `_config.yml` file to suit your site. Also replace posts and content with your own.
-
-### 4. Running Locally
-To test your site locally, run this in your site's root directory
-
-```bash
-$ jekyll serve --watch
-```
-
-Head to http://localhost:4000/tale/ to see your site in action.
-
-## Contributing
-Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
-
-## License
-See [LICENSE](https://github.com/chesterhow/tale/blob/master/LICENSE)
+This my [personal website](https://www.j0k3r.net) hosted on Netlify, built using Jekyll and the [Hydeout theme](https://github.com/fongandrew/hydeout).
