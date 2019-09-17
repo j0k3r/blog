@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/obtenez-webexpert-6-gratuitement
 layout: post
 title: 'Obtenez Webexpert 6 gratuitement'
 date: '2006-10-02 11:17:41'

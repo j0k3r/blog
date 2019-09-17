@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/concours-php-niveau-avance
 layout: post
 title: 'Concours PHP Niveau Avancé'
 date: '2005-03-07 12:40:34'

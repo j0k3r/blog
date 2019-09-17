@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/coupler-apache-et-tomcat
 layout: post
 title: 'Coupler Apache et Tomcat'
 date: '2006-02-20 11:29:29'

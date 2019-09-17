@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-tag-engine
 layout: post
 title: 'PHP Tag Engine'
 date: '2006-08-03 09:53:42'

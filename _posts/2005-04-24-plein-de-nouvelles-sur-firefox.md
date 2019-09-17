@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/plein-de-nouvelles-sur-firefox
 layout: post
 title: 'Plein de nouvelles sur FireFox'
 date: '2005-04-24 05:13:29'

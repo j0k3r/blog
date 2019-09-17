@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/on-parle-de-easyphp-v2
 layout: post
 title: 'On parle de EasyPHP v2'
 date: '2005-12-26 07:28:43'

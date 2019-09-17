@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/l-accessibilite-des-sites-web-francais-encore-a-la-traine
 layout: post
 title: 'L''accessibilité des sites web français encore à la traine'
 date: '2006-04-20 10:37:56'

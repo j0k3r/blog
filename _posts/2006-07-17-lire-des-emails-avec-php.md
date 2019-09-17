@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/lire-des-emails-avec-php
 layout: post
 title: 'Lire des emails avec Php !'
 date: '2006-07-17 08:41:53'

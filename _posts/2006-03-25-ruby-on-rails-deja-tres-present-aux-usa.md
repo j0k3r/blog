@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ruby-on-rails-deja-tres-present-aux-usa
 layout: post
 title: 'Ruby on Rails déjà très présent aux USA !'
 date: '2006-03-25 07:06:14'

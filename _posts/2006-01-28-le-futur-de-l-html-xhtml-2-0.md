@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/le-futur-de-l-html-xhtml-2-0
 layout: post
 title: 'Le futur de l''HTML : XHTML 2.0'
 date: '2006-01-28 04:03:12'

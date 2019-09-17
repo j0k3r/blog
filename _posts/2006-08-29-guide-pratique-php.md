@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/guide-pratique-php
 layout: post
 title: 'Guide pratique PHP'
 date: '2006-08-29 12:20:23'

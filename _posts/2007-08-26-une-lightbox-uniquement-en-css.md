@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-lightbox-uniquement-en-css
 layout: post
 title: 'Une lightbox uniquement en CSS'
 date: '2007-08-26 04:31:15'

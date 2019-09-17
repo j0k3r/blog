@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/tester-votre-connexion
 layout: post
 title: 'Tester votre connexion'
 date: '2003-04-01 00:00:00'

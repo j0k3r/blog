@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ie-7-est-disponible-en-anglais
 layout: post
 title: 'IE 7 est disponible en anglais'
 date: '2006-10-19 12:11:43'

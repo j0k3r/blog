@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/interview-de-jared-white-le-chef-de-projet-de-xajax
 layout: post
 title: 'Interview de Jared White, le chef de projet de XAJAX'
 date: '2006-05-06 11:03:20'

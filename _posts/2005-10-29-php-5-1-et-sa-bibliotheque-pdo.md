@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-5-1-et-sa-bibliotheque-pdo
 layout: post
 title: 'PHP 5.1 et sa bibliothèque PDO'
 date: '2005-10-29 12:52:45'

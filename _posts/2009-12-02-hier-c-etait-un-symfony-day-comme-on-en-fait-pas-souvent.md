@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/hier-c-etait-un-symfony-day-comme-on-en-fait-pas-souvent
 layout: post
 title: 'Hier c''était un #symfony day comme on en fait pas souvent !'
 date: '2009-12-02 14:13:13'

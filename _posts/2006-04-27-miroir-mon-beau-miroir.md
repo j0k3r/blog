@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/miroir-mon-beau-miroir
 layout: post
 title: 'Miroir mon beau miroir'
 date: '2006-04-27 07:57:57'

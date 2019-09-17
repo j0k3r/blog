@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/easyphp-v2-montre-le-bout-de-son-nez
 layout: post
 title: 'EasyPHP v2 montre le bout de son nez'
 date: '2006-01-17 11:18:05'

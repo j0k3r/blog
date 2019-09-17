@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/firefox-thunderbird-1-0-6
 layout: post
 title: 'FireFox / ThunderBird 1.0.6'
 date: '2005-07-20 07:35:04'

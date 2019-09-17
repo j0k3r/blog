@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mysql-5-0-15-pret-pour-de-la-production
 layout: post
 title: 'MySQL 5.0.15 prêt pour de la production'
 date: '2005-10-24 05:58:18'

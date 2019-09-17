@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/sondage-la-mise-en-page-de-vos-sites
 layout: post
 title: 'Sondage : La mise en page de vos sites'
 date: '2005-05-25 01:12:16'

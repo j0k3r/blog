@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-listes-de-taches-en-details-pour-rien-oublier
 layout: post
 title: 'Les listes de tâches en détails pour rien oublier'
 date: '2006-05-11 11:20:52'

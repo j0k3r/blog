@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/gerer-des-onglets-en-ajax
 layout: post
 title: 'Gérer des onglets en AJAX'
 date: '2006-02-22 07:27:50'

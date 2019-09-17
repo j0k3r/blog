@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/signee-ces-images-grace-a-php
 layout: post
 title: 'Signée ces images grâce à PHP'
 date: '2005-02-19 10:36:49'

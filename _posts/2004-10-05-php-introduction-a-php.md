@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/php-introduction-a-php
 layout: post
 title: 'PHP - Introduction à PHP'
 date: '2004-10-05 22:47:08'

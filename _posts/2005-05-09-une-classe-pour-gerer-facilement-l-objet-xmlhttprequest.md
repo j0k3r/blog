@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-classe-pour-gerer-facilement-l-objet-xmlhttprequest
 layout: post
 title: 'Une classe pour gérer facilement l''objet XMLHttpRequest'
 date: '2005-05-09 11:24:18'

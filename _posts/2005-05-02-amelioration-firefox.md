@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/amelioration-firefox
 layout: post
 title: 'Amélioration FireFox'
 date: '2005-05-02 08:33:05'

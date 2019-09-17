@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/web-2-0-c-est-l-internet-qu-on-reinvente
 layout: post
 title: 'Web 2.0: c''est l''Internet qu''on réinvente!'
 date: '2006-03-31 09:22:01'

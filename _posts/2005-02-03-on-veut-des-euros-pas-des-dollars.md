@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/on-veut-des-euros-pas-des-dollars
 layout: post
 title: 'On veut des Euros pas des Dollars !'
 date: '2005-02-03 05:35:28'

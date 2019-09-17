@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/adsense-tracking-script
 layout: post
 title: 'Adsense Tracking Script'
 date: '2005-05-10 02:07:33'

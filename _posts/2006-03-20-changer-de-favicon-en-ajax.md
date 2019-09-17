@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/changer-de-favicon-en-ajax
 layout: post
 title: 'Changer de favicon en AJAX'
 date: '2006-03-20 12:33:47'

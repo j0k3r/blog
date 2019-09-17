@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/installer-postgresql-8-sous-windows
 layout: post
 title: 'Installer PostgreSQL 8 sous Windows'
 date: '2005-12-26 12:01:04'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/un-wiki-securite-pour-php
 layout: post
 title: 'Un wiki sécurité pour PHP'
 date: '2005-12-14 10:51:07'

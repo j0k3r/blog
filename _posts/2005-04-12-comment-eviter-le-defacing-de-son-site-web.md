@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/comment-eviter-le-defacing-de-son-site-web
 layout: post
 title: 'Comment éviter le defacing de son site Web ?'
 date: '2005-04-12 01:59:34'

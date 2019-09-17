@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-meilleure-appli-php-selon-php-quebec
 layout: post
 title: 'La meilleure appli PHP selon PHP Quebec'
 date: '2005-04-22 12:24:41'

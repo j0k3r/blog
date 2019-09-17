@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/invision-power-board-2-1-3
 layout: post
 title: 'Invision Power Board 2.1.3'
 date: '2005-11-03 10:11:45'

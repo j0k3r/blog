@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/optimiser-globalement-son-site
 layout: post
 title: 'Optimiser globalement son site'
 date: '2005-12-05 03:20:04'

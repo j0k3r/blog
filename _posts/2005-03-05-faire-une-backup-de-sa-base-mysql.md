@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/faire-une-backup-de-sa-base-mysql
 layout: post
 title: 'Faire une backup de sa base MySQL'
 date: '2005-03-05 01:22:37'

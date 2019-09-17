@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-resultats-du-trophees-du-libre
 layout: post
 title: 'Les résultats du Trophées du Libre'
 date: '2005-05-27 02:43:07'

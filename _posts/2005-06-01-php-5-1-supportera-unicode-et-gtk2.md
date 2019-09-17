@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-5-1-supportera-unicode-et-gtk2
 layout: post
 title: 'PHP 5.1 supportera Unicode et Gtk2'
 date: '2005-06-01 12:08:22'

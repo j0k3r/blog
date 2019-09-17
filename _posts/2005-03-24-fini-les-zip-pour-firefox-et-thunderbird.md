@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/fini-les-zip-pour-firefox-et-thunderbird
 layout: post
 title: 'Fini les zip pour Firefox et Thunderbird'
 date: '2005-03-24 12:49:32'

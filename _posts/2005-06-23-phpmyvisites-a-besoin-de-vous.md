@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/phpmyvisites-a-besoin-de-vous
 layout: post
 title: 'phpMyVisites a besoin de vous !'
 date: '2005-06-23 09:19:33'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/apprendre-le-php-par-des-videos
 layout: post
 title: 'Apprendre le PHP par des vidéos !'
 date: '2005-10-24 01:19:28'

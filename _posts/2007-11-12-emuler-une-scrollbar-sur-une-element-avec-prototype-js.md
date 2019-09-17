@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/emuler-une-scrollbar-sur-une-element-avec-prototype-js
 layout: post
 title: 'Emuler une scrollbar sur une élément avec prototype.js'
 date: '2007-11-12 02:09:46'

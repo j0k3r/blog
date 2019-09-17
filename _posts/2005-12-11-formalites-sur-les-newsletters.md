@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/formalites-sur-les-newsletters
 layout: post
 title: 'Formalités sur les newsletters'
 date: '2005-12-11 12:40:37'

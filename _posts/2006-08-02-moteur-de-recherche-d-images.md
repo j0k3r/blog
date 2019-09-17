@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/moteur-de-recherche-d-images
 layout: post
 title: 'Moteur de recherche d''images'
 date: '2006-08-02 09:55:28'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/zend-rend-disponible-son-framework
 layout: post
 title: 'Zend rend disponible son Framework'
 date: '2006-03-05 05:34:07'

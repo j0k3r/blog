@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/script-aculo-us-dans-l-avenir
 layout: post
 title: 'script.aculo.us dans l''avenir'
 date: '2007-10-17 10:59:55'

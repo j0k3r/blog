@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/evaluer-l-accessibilite-d-un-site-web-aller-plus-loin
 layout: post
 title: 'Évaluer l''accessibilité d''un site web : Aller plus loin'
 date: '2006-11-21 10:18:55'

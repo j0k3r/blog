@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/interaction-php-et-javascript-3ieme-partie
 layout: post
 title: 'Intéraction PHP et JavaScript - 3ieme partie'
 date: '2005-05-19 12:00:43'

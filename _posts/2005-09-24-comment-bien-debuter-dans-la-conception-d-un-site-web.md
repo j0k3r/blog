@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/comment-bien-debuter-dans-la-conception-d-un-site-web
 layout: post
 title: 'Comment bien débuter dans la conception d''un site web ?'
 date: '2005-09-24 01:22:49'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/note-de-service-migration-de-serveur-ce-soir
 layout: post
 title: 'Note de service: migration de serveur ce soir'
 date: '2008-07-09 09:48:11'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-fonction-qui-rapporte-le-niveau-de-securite-de-php
 layout: post
 title: 'Une fonction qui rapporte le niveau de sécurité de PHP'
 date: '2006-10-23 03:09:00'

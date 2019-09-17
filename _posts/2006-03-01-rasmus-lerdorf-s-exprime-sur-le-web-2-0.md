@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/rasmus-lerdorf-s-exprime-sur-le-web-2-0
 layout: post
 title: 'Rasmus Lerdorf s''exprime sur le Web 2.0'
 date: '2006-03-01 10:09:32'

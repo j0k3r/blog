@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/cinq-astuces-pour-organiser-vos-css
 layout: post
 title: 'Cinq astuces pour organiser vos CSS'
 date: '2006-01-19 02:21:20'

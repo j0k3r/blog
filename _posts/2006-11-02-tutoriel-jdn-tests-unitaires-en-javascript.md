@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/tutoriel-jdn-tests-unitaires-en-javascript
 layout: post
 title: 'Tutoriel JDN : Tests unitaires en JavaScript'
 date: '2006-11-02 07:01:08'

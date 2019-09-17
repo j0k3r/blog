@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/google-talk-beta
 layout: post
 title: 'Google Talk ( béta )'
 date: '2005-08-25 11:55:00'

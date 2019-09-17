@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-bufferisation-php-pourquoi-comment
 layout: post
 title: 'La bufferisation PHP : Pourquoi, Comment ...'
 date: '2006-02-12 06:15:42'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/lire-un-fichier-rss-en-php-1iere-partie
 layout: post
 title: 'Lire un fichier RSS en PHP - 1ière partie'
 date: '2005-10-08 12:59:27'

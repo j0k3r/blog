@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/xajax-0-2-en-version-stable
 layout: post
 title: 'xajax 0.2 en version stable'
 date: '2006-01-04 08:21:02'

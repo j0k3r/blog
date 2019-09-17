@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-3d-dans-les-pages-web
 layout: post
 title: 'La 3D dans les pages Web'
 date: '2006-11-21 09:38:56'

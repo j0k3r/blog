@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/detecter-la-presence-d-une-police-avec-java-script
 layout: post
 title: 'Détecter la présence d''une police avec JavaScript'
 date: '2007-03-14 03:16:39'

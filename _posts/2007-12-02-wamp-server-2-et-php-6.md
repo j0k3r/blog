@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/wamp-server-2-et-php-6
 layout: post
 title: 'WampServer 2 et PHP 6 !'
 date: '2007-12-02 10:41:38'

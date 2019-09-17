@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/doctrine-1-0-vient-de-sortir
 layout: post
 title: 'Doctrine 1.0 vient de sortir !!'
 date: '2008-09-01 11:56:29'

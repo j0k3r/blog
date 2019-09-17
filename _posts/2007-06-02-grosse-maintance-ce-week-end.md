@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/grosse-maintance-ce-week-end
 layout: post
 title: 'Grosse maintance ce week end'
 date: '2007-06-02 01:59:15'

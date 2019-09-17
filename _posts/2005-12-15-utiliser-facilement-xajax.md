@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/utiliser-facilement-xajax
 layout: post
 title: 'Utiliser facilement xajax'
 date: '2005-12-15 09:31:12'

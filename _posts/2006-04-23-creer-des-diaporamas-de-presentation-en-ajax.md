@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/creer-des-diaporamas-de-presentation-en-ajax
 layout: post
 title: 'Créer des diaporamas de présentation en AJAX'
 date: '2006-04-23 10:01:26'

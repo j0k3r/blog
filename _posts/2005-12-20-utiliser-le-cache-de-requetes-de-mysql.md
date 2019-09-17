@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/utiliser-le-cache-de-requetes-de-mysql
 layout: post
 title: 'Utiliser le cache de requêtes de MySQL'
 date: '2005-12-20 05:10:21'

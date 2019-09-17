@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/faire-son-frameworks-php
 layout: post
 title: 'Faire son frameworks PHP'
 date: '2005-07-02 12:11:08'

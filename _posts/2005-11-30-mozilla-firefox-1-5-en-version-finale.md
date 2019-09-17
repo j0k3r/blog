@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mozilla-firefox-1-5-en-version-finale
 layout: post
 title: 'Mozilla Firefox 1.5 en version finale'
 date: '2005-11-30 06:33:06'

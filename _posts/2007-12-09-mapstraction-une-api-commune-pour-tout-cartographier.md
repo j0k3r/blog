@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mapstraction-une-api-commune-pour-tout-cartographier
 layout: post
 title: 'Mapstraction, une API commune pour tout cartographier !'
 date: '2007-12-09 09:17:41'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/attention-au-spam-via-la-fonction-mail-de-php
 layout: post
 title: 'Attention au spam via la fonction mail de PHP'
 date: '2006-04-14 12:30:12'

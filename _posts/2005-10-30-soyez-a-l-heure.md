@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/soyez-a-l-heure
 layout: post
 title: 'Soyez à l''heure !'
 date: '2005-10-30 12:15:14'

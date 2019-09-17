@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/premiere-beta-pour-script-aculo-us-1-7
 layout: post
 title: 'Première bêta pour script.aculo.us 1.7'
 date: '2006-11-21 10:24:45'

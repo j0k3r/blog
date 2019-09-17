@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/introduction-a-html_ajax
 layout: post
 title: 'Introduction à HTML_AJAX'
 date: '2005-11-20 06:42:54'

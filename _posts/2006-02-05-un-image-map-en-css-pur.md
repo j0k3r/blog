@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/un-image-map-en-css-pur
 layout: post
 title: 'Un image map en CSS pur'
 date: '2006-02-05 05:34:19'

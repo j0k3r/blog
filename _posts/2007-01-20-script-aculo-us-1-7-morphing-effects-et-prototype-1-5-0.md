@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/script-aculo-us-1-7-morphing-effects-et-prototype-1-5-0
 layout: post
 title: 'Script.aculo.us 1.7, morphing effects et prototype 1.5.0'
 date: '2007-01-20 12:04:34'

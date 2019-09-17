@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/bien-valider-un-formulaire-avec-ajax
 layout: post
 title: 'Bien valider un formulaire avec AJAX'
 date: '2005-06-17 10:50:32'

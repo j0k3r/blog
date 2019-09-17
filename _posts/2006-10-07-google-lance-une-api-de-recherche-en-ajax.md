@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/google-lance-une-api-de-recherche-en-ajax
 layout: post
 title: 'Google lance une API de recherche en AJAX'
 date: '2006-10-07 12:03:04'

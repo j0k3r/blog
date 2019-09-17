@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/securisez-votre-serveur-my-sql-sous-linux
 layout: post
 title: 'Sécurisez votre serveur MySQL sous linux'
 date: '2007-02-24 02:00:38'

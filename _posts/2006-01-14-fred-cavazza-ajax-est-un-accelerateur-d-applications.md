@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/fred-cavazza-ajax-est-un-accelerateur-d-applications
 layout: post
 title: 'Fred Cavazza : Ajax est un accélérateur d''applications'
 date: '2006-01-14 10:38:46'

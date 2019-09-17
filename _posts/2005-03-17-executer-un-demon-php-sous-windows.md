@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/executer-un-demon-php-sous-windows
 layout: post
 title: 'Exécuter un "demon" php sous windows'
 date: '2005-03-17 04:29:26'

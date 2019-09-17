@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/premiere-beta-pour-symfony-1-0
 layout: post
 title: 'Première bêta pour symfony 1.0'
 date: '2006-11-30 11:04:46'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/verifier-la-vulnerabilite-de-votre-pc
 layout: post
 title: 'Vérifier la vulnérabilité de votre pc'
 date: '2004-12-01 00:00:00'

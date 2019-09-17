@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/creer-des-listes-classables-en-ajax
 layout: post
 title: 'Créer des listes classables en AJAX'
 date: '2006-03-05 06:17:24'

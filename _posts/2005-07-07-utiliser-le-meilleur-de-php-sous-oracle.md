@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/utiliser-le-meilleur-de-php-sous-oracle
 layout: post
 title: 'Utiliser le meilleur de PHP sous Oracle'
 date: '2005-07-07 12:13:37'

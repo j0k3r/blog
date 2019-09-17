@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/des-infos-sur-les-prochaines-versions-de-php
 layout: post
 title: 'Des infos sur les prochaines versions de PHP'
 date: '2005-02-28 04:48:58'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-petite-reflexion-sur-ajax
 layout: post
 title: 'Une petite réflexion sur AJAX'
 date: '2005-11-05 12:26:55'

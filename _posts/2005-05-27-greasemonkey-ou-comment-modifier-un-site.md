@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/greasemonkey-ou-comment-modifier-un-site
 layout: post
 title: 'GreaseMonkey, ou comment modifier un site'
 date: '2005-05-27 02:34:53'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/stocker-vos-sessions-dans-mysql
 layout: post
 title: 'Stocker vos sessions dans MySQL'
 date: '2006-05-03 08:55:22'

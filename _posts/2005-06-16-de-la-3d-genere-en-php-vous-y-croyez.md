@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/de-la-3d-genere-en-php-vous-y-croyez
 layout: post
 title: 'De la 3D généré en PHP vous y croyez ?'
 date: '2005-06-16 06:22:47'

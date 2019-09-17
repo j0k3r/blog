@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/premiere-rc-pour-php4-3-11-et-php5-0-4
 layout: post
 title: 'Première RC pour php4.3.11 et php5.0.4'
 date: '2005-03-15 08:26:49'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/un-autre-worm-pour-phpbb
 layout: post
 title: 'Un autre worm pour phpBB'
 date: '2005-12-10 11:56:01'

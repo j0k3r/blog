@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/symfony-1-0-0-disponible-en-version-finale
 layout: post
 title: 'Symfony 1.0.0 disponible en version finale !'
 date: '2007-02-19 04:27:51'

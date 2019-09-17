@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/creer-des-menus-simples-en-css
 layout: post
 title: 'Créer des menus simples en CSS'
 date: '2007-01-14 11:29:41'

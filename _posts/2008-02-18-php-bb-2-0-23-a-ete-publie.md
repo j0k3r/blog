@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-bb-2-0-23-a-ete-publie
 layout: post
 title: 'phpBB 2.0.23 a été publié !'
 date: '2008-02-18 08:23:48'

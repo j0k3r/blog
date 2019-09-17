@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/joyeux-noel
 layout: post
 title: 'Joyeux Noël !!'
 date: '2004-12-24 10:53:53'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/seamonkey-1-0-est-enfin-la
 layout: post
 title: 'SeaMonkey 1.0 est enfin là !'
 date: '2006-01-31 11:35:57'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/aie-headers-already-sent
 layout: post
 title: 'Aïe .. Headers already sent'
 date: '2005-04-04 12:48:55'

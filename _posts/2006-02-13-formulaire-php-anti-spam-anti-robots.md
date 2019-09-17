@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/formulaire-php-anti-spam-anti-robots
 layout: post
 title: 'Formulaire PHP anti-spam, anti-robots'
 date: '2006-02-13 12:49:35'

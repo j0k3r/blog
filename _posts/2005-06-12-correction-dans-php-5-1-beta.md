@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/correction-dans-php-5-1-beta
 layout: post
 title: 'Correction dans PHP 5.1 bêta'
 date: '2005-06-12 01:56:23'

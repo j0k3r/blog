@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/creer-ses-widgets-en-php
 layout: post
 title: 'Créer ses Widgets en PHP'
 date: '2006-05-30 11:08:29'

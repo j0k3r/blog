@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/creer-un-formulaire-compose-de-plusieurs-etapes
 layout: post
 title: 'Créer un formulaire composé de plusieurs étapes'
 date: '2005-12-02 12:06:48'

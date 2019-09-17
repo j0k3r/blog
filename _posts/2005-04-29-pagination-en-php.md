@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/pagination-en-php
 layout: post
 title: 'Pagination en PHP'
 date: '2005-04-29 12:12:46'

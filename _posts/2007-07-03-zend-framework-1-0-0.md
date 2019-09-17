@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/zend-framework-1-0-0
 layout: post
 title: 'Zend Framework 1.0.0'
 date: '2007-07-03 06:59:23'

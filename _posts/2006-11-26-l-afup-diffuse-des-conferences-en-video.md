@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/l-afup-diffuse-des-conferences-en-video
 layout: post
 title: 'L''AFUP diffuse des conférences en vidéo'
 date: '2006-11-26 02:54:19'

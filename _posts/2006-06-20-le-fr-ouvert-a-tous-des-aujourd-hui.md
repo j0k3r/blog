@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/le-fr-ouvert-a-tous-des-aujourd-hui
 layout: post
 title: 'Le .fr ouvert à tous dès aujourd''hui'
 date: '2006-06-20 09:26:36'

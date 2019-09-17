@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/statistiques-des-navigateurs-par-la-w3schools
 layout: post
 title: 'Statistiques des navigateurs par la W3Schools'
 date: '2005-06-15 09:23:57'

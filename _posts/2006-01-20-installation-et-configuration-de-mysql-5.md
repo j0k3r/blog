@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/installation-et-configuration-de-mysql-5
 layout: post
 title: 'Installation et configuration de MySQL 5'
 date: '2006-01-20 03:49:53'

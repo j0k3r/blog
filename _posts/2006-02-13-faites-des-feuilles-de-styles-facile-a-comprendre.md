@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/faites-des-feuilles-de-styles-facile-a-comprendre
 layout: post
 title: 'Faites des feuilles de styles facile à comprendre'
 date: '2006-02-13 12:24:16'

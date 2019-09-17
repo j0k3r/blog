@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/prototip-les-infobulles-tooltips-pour-prototype-js
 layout: post
 title: 'Prototip, les infobulles (tooltips) pour prototype.js'
 date: '2007-08-16 12:12:46'

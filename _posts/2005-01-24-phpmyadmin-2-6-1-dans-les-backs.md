@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/phpmyadmin-2-6-1-dans-les-backs
 layout: post
 title: 'phpMyAdmin 2.6.1 dans les backs !'
 date: '2005-01-24 10:08:19'

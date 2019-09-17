@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/status-du-projet-eaccelerator
 layout: post
 title: 'Status du projet eAccelerator'
 date: '2005-09-10 12:09:42'

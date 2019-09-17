@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/regrouper-tous-vos-fils-rss-en-un-seul
 layout: post
 title: 'Regrouper tous vos fils RSS en un seul'
 date: '2006-04-19 11:38:09'

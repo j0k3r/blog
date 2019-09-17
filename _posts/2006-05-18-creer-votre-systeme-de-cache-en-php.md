@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/creer-votre-systeme-de-cache-en-php
 layout: post
 title: 'Créer votre système de cache en PHP'
 date: '2006-05-18 08:38:54'

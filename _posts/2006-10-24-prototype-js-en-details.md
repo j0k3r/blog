@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/prototype-js-en-details
 layout: post
 title: 'Prototype.js en détails'
 date: '2006-10-24 10:50:29'

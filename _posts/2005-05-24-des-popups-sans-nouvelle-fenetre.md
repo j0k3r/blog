@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/des-popups-sans-nouvelle-fenetre
 layout: post
 title: 'Des popups sans nouvelle fenêtre'
 date: '2005-05-24 06:48:49'

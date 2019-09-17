@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-introduction-a-l-url-rewriting
 layout: post
 title: 'Une introduction à l''url rewriting'
 date: '2005-05-13 02:09:10'

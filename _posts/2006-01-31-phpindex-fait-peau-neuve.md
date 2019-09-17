@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/phpindex-fait-peau-neuve
 layout: post
 title: 'PHPIndex fait peau neuve'
 date: '2006-01-31 11:06:31'

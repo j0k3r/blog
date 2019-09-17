@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/faire-un-rectangle-aux-coins-arrondis-en-css
 layout: post
 title: 'Faire un rectangle aux coins arrondis en CSS'
 date: '2005-03-18 04:19:14'

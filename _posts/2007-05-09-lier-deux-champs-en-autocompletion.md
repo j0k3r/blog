@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/lier-deux-champs-en-autocompletion
 layout: post
 title: 'Lier deux champs en autocompletion'
 date: '2007-05-09 10:36:55'

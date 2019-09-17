@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/conception-d-une-galerie-d-images-generee-a-la-volee-en-php
 layout: post
 title: 'Conception d''une galerie d''images générée à la volée en PHP'
 date: '2006-09-20 11:54:41'

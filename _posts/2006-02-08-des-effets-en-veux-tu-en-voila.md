@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/des-effets-en-veux-tu-en-voila
 layout: post
 title: 'Des effets, en veux-tu, en voilà !'
 date: '2006-02-08 10:27:48'

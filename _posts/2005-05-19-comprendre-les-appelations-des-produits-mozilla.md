@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/comprendre-les-appelations-des-produits-mozilla
 layout: post
 title: 'Comprendre les appelations des produits Mozilla'
 date: '2005-05-19 12:11:03'

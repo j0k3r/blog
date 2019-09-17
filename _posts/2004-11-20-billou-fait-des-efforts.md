@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/billou-fait-des-efforts
 layout: post
 title: 'Billou fait des efforts'
 date: '2004-11-20 12:04:03'

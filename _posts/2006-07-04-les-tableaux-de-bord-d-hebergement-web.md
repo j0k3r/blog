@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-tableaux-de-bord-d-hebergement-web
 layout: post
 title: 'Les tableaux de bord d''hébergement Web'
 date: '2006-07-04 09:59:23'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/besoin-d-un-menu-en-css
 layout: post
 title: 'Besoin d''un menu en CSS ?'
 date: '2005-05-09 02:22:10'

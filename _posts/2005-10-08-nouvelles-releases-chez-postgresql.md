@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/nouvelles-releases-chez-postgresql
 layout: post
 title: 'Nouvelles releases chez PostgreSQL'
 date: '2005-10-08 12:35:48'

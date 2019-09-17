@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/quelques-tutoriels-pour-developper-avec-nvu
 layout: post
 title: 'Quelques tutoriels pour developper avec Nvu'
 date: '2006-01-14 09:49:43'

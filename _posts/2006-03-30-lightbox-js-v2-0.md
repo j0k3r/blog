@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/lightbox-js-v2-0
 layout: post
 title: 'Lightbox JS v2.0'
 date: '2006-03-30 12:30:55'

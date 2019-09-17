@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/plus-de-details-sur-nvu-0-80-fr
 layout: post
 title: 'Plus de détails sur Nvu 0.80 Fr'
 date: '2005-02-04 01:25:53'

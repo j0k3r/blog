@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/afficher-des-fichiers-psd-avec-php
 layout: post
 title: 'Afficher des fichiers PSD avec PHP'
 date: '2007-01-25 10:51:27'

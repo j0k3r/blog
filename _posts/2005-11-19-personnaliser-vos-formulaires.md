@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/personnaliser-vos-formulaires
 layout: post
 title: 'Personnaliser vos formulaires'
 date: '2005-11-19 12:10:14'

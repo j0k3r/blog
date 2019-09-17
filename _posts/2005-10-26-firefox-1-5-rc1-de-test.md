@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/firefox-1-5-rc1-de-test
 layout: post
 title: 'Firefox 1.5 RC1 de test'
 date: '2005-10-26 10:19:32'

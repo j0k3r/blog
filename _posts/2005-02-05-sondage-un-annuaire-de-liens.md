@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/sondage-un-annuaire-de-liens
 layout: post
 title: 'Sondage : Un annuaire de liens'
 date: '2005-02-05 02:58:48'

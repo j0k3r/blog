@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-ameliorations-css-pour-ie7
 layout: post
 title: 'Les améliorations CSS pour IE7'
 date: '2006-08-24 09:58:42'

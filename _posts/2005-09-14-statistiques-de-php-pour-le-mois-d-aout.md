@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/statistiques-de-php-pour-le-mois-d-aout
 layout: post
 title: 'Statistiques de PHP pour le mois d''août'
 date: '2005-09-14 11:42:07'

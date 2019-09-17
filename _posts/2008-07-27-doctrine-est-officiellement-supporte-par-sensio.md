@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/doctrine-est-officiellement-supporte-par-sensio
 layout: post
 title: 'Doctrine est officiellement supporté par Sensio !'
 date: '2008-07-27 05:32:15'

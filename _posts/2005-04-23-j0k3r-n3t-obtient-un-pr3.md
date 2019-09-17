@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/j0k3r-n3t-obtient-un-pr3
 layout: post
 title: 'j0k3r.n3t obtient un PR3 !!'
 date: '2005-04-23 02:51:46'

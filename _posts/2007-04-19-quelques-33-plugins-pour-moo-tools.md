@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/quelques-33-plugins-pour-moo-tools
 layout: post
 title: 'Quelques 33 plugins pour MooTools'
 date: '2007-04-19 08:00:07'

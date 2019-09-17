@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/tests-de-performance-javascript
 layout: post
 title: 'Tests de Performance Javascript'
 date: '2006-04-25 10:03:43'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/phpinfo-net-re-ouvre-ses-portes
 layout: post
 title: 'phpinfo.net ré-ouvre ses portes !'
 date: '2006-04-23 10:34:24'

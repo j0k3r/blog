@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-documentation-francaise-du-zend-framework-est-disponible
 layout: post
 title: 'La documentation française du Zend Framework est disponible'
 date: '2006-04-13 02:29:42'

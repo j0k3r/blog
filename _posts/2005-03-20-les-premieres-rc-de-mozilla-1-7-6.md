@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-premieres-rc-de-mozilla-1-7-6
 layout: post
 title: 'Les premières RC de Mozilla 1.7.6'
 date: '2005-03-20 09:17:13'

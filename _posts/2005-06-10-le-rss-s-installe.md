@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/le-rss-s-installe
 layout: post
 title: 'Le RSS s''installe'
 date: '2005-06-10 01:43:29'

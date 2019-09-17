@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ce-qui-fait-le-succes-des-langages-web-scriptes
 layout: post
 title: 'Ce qui fait le succés des langages Web scriptés'
 date: '2006-09-07 09:05:29'

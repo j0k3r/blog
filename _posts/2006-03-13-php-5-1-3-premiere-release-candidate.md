@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-5-1-3-premiere-release-candidate
 layout: post
 title: 'PHP 5.1.3, première release candidate'
 date: '2006-03-13 03:14:21'

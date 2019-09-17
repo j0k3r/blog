@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-nouveautes-de-mysql-5-0
 layout: post
 title: 'Les nouveautés de MySQL 5.0'
 date: '2005-11-03 12:32:19'

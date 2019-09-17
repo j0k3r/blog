@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/classe-php-de-gestion-de-fichiers-de-configuration
 layout: post
 title: 'Classe Php de gestion de fichiers de configuration'
 date: '2006-06-26 09:12:41'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/visualiser-son-site-sur-plusieurs-navigateurs
 layout: post
 title: 'Visualiser son site sur plusieurs navigateurs'
 date: '2005-05-28 09:35:27'

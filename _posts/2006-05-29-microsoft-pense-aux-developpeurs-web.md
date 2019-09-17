@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/microsoft-pense-aux-developpeurs-web
 layout: post
 title: 'Microsoft pense aux développeurs WEB ?'
 date: '2006-05-29 04:56:48'

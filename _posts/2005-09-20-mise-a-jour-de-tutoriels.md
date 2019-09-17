@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mise-a-jour-de-tutoriels
 layout: post
 title: 'Mise à jour de tutoriels'
 date: '2005-09-20 05:51:06'

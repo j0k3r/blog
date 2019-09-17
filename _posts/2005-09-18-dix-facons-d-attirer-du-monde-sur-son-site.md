@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/dix-facons-d-attirer-du-monde-sur-son-site
 layout: post
 title: 'Dix façons d''attirer du monde sur son site'
 date: '2005-09-18 09:34:38'

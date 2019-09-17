@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/revue-des-lecteurs-rss-en-ligne
 layout: post
 title: 'Revue des lecteurs RSS en ligne'
 date: '2006-04-01 04:20:23'

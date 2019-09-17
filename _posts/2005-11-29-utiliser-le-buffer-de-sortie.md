@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/utiliser-le-buffer-de-sortie
 layout: post
 title: 'Utiliser le buffer de sortie'
 date: '2005-11-29 10:11:12'

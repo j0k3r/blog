@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/wamp-mss-en-version-1-0-finale
 layout: post
 title: 'Wamp MSS en version 1.0 finale'
 date: '2006-12-13 09:41:12'

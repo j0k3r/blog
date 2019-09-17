@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mozilla-firefox-1-0-7-rc
 layout: post
 title: 'Mozilla Firefox 1.0.7 RC'
 date: '2005-09-15 07:49:40'

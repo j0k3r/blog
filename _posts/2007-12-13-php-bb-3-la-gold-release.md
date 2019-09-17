@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-bb-3-la-gold-release
 layout: post
 title: 'phpBB 3, la Gold Release !'
 date: '2007-12-13 09:29:42'

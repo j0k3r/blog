@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/quelques-notions-de-securite-en-php
 layout: post
 title: 'Quelques notions de sécurité en PHP'
 date: '2006-01-18 08:30:56'

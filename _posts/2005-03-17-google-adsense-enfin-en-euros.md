@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/google-adsense-enfin-en-euros
 layout: post
 title: 'Google AdSense enfin en euros !'
 date: '2005-03-17 12:49:26'

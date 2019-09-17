@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/visualiser-et-modifier-les-champs-caches
 layout: post
 title: 'Visualiser et modifier les champs cachés'
 date: '2006-06-07 02:16:10'

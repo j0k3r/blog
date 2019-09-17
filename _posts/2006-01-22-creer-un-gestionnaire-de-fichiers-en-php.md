@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/creer-un-gestionnaire-de-fichiers-en-php
 layout: post
 title: 'Créer un gestionnaire de fichiers en PHP'
 date: '2006-01-22 11:20:46'

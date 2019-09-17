@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/petit-point-sur-php-suite-a-ces-10-ans
 layout: post
 title: 'Petit point sur PHP suite à ces 10 ans'
 date: '2005-06-14 02:00:01'

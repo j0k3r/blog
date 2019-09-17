@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/webmasters-expo-2006
 layout: post
 title: 'Webmasters Expo 2006'
 date: '2006-01-07 08:36:25'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/thunderbird-firefox-1-5-0-8
 layout: post
 title: 'Thunderbird/Firefox 1.5.0.8'
 date: '2006-11-08 06:24:14'

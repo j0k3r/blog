@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/le-rendez-vous-cosmique-de-la-journee
 layout: post
 title: 'Le rendez vous cosmique de la journée !'
 date: '2005-10-03 09:51:51'

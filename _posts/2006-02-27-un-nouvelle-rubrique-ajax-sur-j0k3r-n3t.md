@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/un-nouvelle-rubrique-ajax-sur-j0k3r-n3t
 layout: post
 title: 'Un nouvelle rubrique AJAX sur j0k3r.n3t'
 date: '2006-02-27 12:07:24'

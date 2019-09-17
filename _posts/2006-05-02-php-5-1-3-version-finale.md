@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-5-1-3-version-finale
 layout: post
 title: 'PHP 5.1.3, version finale'
 date: '2006-05-02 08:06:05'

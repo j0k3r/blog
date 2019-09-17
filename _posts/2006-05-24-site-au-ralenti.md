@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/site-au-ralenti
 layout: post
 title: 'Site au ralenti ...'
 date: '2006-05-24 01:53:28'

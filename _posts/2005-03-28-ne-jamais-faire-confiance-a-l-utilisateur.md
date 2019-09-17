@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ne-jamais-faire-confiance-a-l-utilisateur
 layout: post
 title: 'Ne jamais faire confiance à l''utilisateur !'
 date: '2005-03-28 11:23:26'

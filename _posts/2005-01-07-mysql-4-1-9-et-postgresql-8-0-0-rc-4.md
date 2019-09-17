@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mysql-4-1-9-et-postgresql-8-0-0-rc-4
 layout: post
 title: 'MySQL 4.1.9 et PostgreSQL 8.0.0 RC 4'
 date: '2005-01-07 06:07:28'

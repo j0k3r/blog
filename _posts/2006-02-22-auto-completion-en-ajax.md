@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/auto-completion-en-ajax
 layout: post
 title: 'Auto complétion en AJAX'
 date: '2006-02-22 07:51:50'

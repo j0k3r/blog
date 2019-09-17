@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/postgresql-8-1-beta-3
 layout: post
 title: 'PostgreSQL 8.1 Beta 3'
 date: '2005-10-13 08:26:18'

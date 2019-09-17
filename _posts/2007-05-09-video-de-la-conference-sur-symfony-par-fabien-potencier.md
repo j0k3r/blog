@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/video-de-la-conference-sur-symfony-par-fabien-potencier
 layout: post
 title: 'Vidéo de la conférence sur Symfony par Fabien Potencier'
 date: '2007-05-09 10:11:35'

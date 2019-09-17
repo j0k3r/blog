@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/gerer-facilement-les-raccourcis-clavier-en-java-script
 layout: post
 title: 'Gérer facilement les raccourcis clavier en JavaScript'
 date: '2007-04-19 02:11:06'

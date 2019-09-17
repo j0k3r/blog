@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-simple-routine-de-verification-d-email
 layout: post
 title: 'Une simple routine de vérification d''email'
 date: '2005-11-29 10:04:08'

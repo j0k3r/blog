@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-securite-des-formulaires-en-php
 layout: post
 title: 'La sécurité des formulaires en PHP'
 date: '2005-09-21 09:14:10'

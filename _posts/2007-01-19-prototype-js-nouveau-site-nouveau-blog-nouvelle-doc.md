@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/prototype-js-nouveau-site-nouveau-blog-nouvelle-doc
 layout: post
 title: 'Prototype.js : nouveau site, nouveau blog, nouvelle doc ...'
 date: '2007-01-19 12:01:49'

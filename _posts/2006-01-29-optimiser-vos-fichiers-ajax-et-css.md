@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/optimiser-vos-fichiers-ajax-et-css
 layout: post
 title: 'Optimiser vos fichiers AJAX et CSS'
 date: '2006-01-29 07:07:06'

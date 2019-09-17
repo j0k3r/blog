@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/un-bureau-anime
 layout: post
 title: 'Un bureau animé'
 date: '2006-02-01 00:00:00'

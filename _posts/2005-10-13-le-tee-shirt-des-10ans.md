@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/le-tee-shirt-des-10ans
 layout: post
 title: 'Le tee-shirt des 10ans !'
 date: '2005-10-13 08:50:27'

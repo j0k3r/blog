@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/et-voila-le-truc-de-fevrier
 layout: post
 title: 'Et voila le truc de février'
 date: '2005-02-05 01:09:35'

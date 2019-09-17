@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-choix-du-lecteur-chez-php-magazin
 layout: post
 title: 'Les choix du lecteur chez PHP Magazin'
 date: '2005-03-26 01:05:55'

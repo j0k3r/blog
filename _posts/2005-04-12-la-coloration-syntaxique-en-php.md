@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-coloration-syntaxique-en-php
 layout: post
 title: 'La coloration syntaxique en PHP'
 date: '2005-04-12 01:32:06'

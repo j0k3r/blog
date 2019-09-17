@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/tester-son-site-sous-differents-navigateurs
 layout: post
 title: 'Tester son site sous différents navigateurs'
 date: '2004-09-01 00:00:00'

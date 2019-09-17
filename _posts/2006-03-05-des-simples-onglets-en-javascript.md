@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/des-simples-onglets-en-javascript
 layout: post
 title: 'Des simples onglets en JavaScript'
 date: '2006-03-05 04:31:47'

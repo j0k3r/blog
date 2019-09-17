@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/firefox-one-est-un-succes
 layout: post
 title: 'Firefox One est un succès'
 date: '2005-10-25 01:31:23'

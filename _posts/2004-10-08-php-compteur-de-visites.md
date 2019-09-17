@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/php-compteur-de-visites
 layout: post
 title: 'PHP - Compteur de visites'
 date: '2004-10-08 20:03:33'

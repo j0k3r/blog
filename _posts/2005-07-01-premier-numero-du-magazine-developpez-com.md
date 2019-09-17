@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/premier-numero-du-magazine-developpez-com
 layout: post
 title: 'Premier numéro du Magazine Developpez.com'
 date: '2005-07-01 03:52:46'

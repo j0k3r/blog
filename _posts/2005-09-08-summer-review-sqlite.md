@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/summer-review-sqlite
 layout: post
 title: 'Summer Review: SQLite'
 date: '2005-09-08 01:54:48'

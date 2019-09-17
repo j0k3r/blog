@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ou-en-est-php
 layout: post
 title: 'Où en est php ?'
 date: '2005-03-08 02:23:35'

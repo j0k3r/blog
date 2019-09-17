@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ipb-2-1-disponible
 layout: post
 title: 'IPB 2.1 disponible'
 date: '2005-09-16 12:08:40'

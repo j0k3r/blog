@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/comprendre-le-framework-zend
 layout: post
 title: 'Comprendre le framework Zend'
 date: '2006-08-03 09:46:03'

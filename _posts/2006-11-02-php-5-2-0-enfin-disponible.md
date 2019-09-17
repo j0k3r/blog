@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-5-2-0-enfin-disponible
 layout: post
 title: 'PHP 5.2.0 enfin disponible !'
 date: '2006-11-02 11:59:54'

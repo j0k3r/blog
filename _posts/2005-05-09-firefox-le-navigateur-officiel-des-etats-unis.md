@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/firefox-le-navigateur-officiel-des-etats-unis
 layout: post
 title: 'Firefox : Le navigateur officiel des Etats-Unis ?'
 date: '2005-05-09 10:36:40'

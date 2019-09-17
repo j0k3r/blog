@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/opera-le-plus-rapide-des-browsers
 layout: post
 title: 'Opéra, le plus rapide des Browsers ...'
 date: '2006-11-07 07:48:42'

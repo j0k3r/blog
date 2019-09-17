@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/summer-review-tutos-css
 layout: post
 title: 'Summer Review: Tutos CSS'
 date: '2005-09-08 02:06:32'

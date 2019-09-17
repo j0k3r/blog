@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/outil-de-referencement
 layout: post
 title: 'Outil de référencement'
 date: '2004-11-01 00:00:00'

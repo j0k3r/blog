@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/nvu-0-90-parmis-nous-et-deja-en-francais
 layout: post
 title: 'Nvu 0.90 parmis nous et déjà en français'
 date: '2005-03-12 03:38:48'

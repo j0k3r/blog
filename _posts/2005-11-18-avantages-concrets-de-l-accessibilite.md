@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/avantages-concrets-de-l-accessibilite
 layout: post
 title: 'Avantages concrets de l''accessibilité'
 date: '2005-11-18 07:32:51'

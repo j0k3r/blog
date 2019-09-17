@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-introduction-aux-bases-de-donnees
 layout: post
 title: 'Une introduction aux bases de données'
 date: '2005-10-29 12:16:52'

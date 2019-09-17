@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/calculer-votre-pagerank-en-php
 layout: post
 title: 'Calculer votre pagerank en PHP'
 date: '2006-04-13 01:43:19'

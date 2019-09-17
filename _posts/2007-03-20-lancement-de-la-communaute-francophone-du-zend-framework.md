@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/lancement-de-la-communaute-francophone-du-zend-framework
 layout: post
 title: 'Lancement de la communauté francophone du Zend Framework'
 date: '2007-03-20 03:05:48'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/optimiser-une-base-de-donnee-mysql
 layout: post
 title: 'Optimiser une base de donnée MySQL'
 date: '2005-01-18 01:34:54'

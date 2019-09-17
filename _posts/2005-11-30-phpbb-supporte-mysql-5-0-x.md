@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/phpbb-supporte-mysql-5-0-x
 layout: post
 title: 'phpBB supporte MySQL 5.0.x'
 date: '2005-11-30 06:43:04'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-difference-entre-strict-et-transitional-en-xhtml
 layout: post
 title: 'La différence entre Strict et Transitional en XHTML'
 date: '2005-04-06 10:26:02'

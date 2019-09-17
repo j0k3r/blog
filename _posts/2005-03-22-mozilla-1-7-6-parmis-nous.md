@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mozilla-1-7-6-parmis-nous
 layout: post
 title: 'Mozilla 1.7.6 parmis nous'
 date: '2005-03-22 05:03:50'

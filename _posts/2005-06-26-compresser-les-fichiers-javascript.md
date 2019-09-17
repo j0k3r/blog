@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/compresser-les-fichiers-javascript
 layout: post
 title: 'Compresser les fichiers JavaScript'
 date: '2005-06-26 10:40:25'

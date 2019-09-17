@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-newsletter-de-j0k3r-n3t
 layout: post
 title: 'La newsletter de j0k3r.n3t'
 date: '2005-04-01 01:39:37'

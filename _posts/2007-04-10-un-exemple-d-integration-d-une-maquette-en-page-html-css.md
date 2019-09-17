@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/un-exemple-d-integration-d-une-maquette-en-page-html-css
 layout: post
 title: 'Un exemple d''intégration d''une maquette en page HTML/CSS'
 date: '2007-04-10 01:34:39'

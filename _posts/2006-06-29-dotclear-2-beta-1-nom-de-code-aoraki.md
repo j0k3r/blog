@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/dotclear-2-beta-1-nom-de-code-aoraki
 layout: post
 title: 'DotClear 2 beta 1, nom de code Aoraki'
 date: '2006-06-29 09:14:29'

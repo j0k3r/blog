@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-triggers-avec-mysql-5
 layout: post
 title: 'Les triggers avec MySQL 5'
 date: '2005-11-02 09:41:10'

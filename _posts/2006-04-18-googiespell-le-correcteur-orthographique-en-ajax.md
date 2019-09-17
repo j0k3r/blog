@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/googiespell-le-correcteur-orthographique-en-ajax
 layout: post
 title: 'GoogieSpell, le correcteur orthographique en AJAX'
 date: '2006-04-18 08:39:11'

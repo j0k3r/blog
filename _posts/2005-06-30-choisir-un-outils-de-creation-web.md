@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/choisir-un-outils-de-creation-web
 layout: post
 title: 'Choisir un outils de création Web'
 date: '2005-06-30 10:09:11'

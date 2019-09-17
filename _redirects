@@ -1,0 +1,13 @@
+# redirect for netlify
+# https://www.netlify.com/docs/redirects/
+/feed                       /feed.xml
+
+/tag/:tag                   /tags#:tag
+/category/ch-tits-trucs     /tags#ch-tits
+/category/developpement     /tags#développement
+/category/divers            /tags#divers
+/category/j0k3r-n3t         /tags#j0k3r-net
+/category/webdesign         /tags#webdesign
+
+/blog/:slug                 /:slug
+/article/:slug              /:slug

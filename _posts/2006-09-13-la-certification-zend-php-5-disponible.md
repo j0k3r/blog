@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-certification-zend-php-5-disponible
 layout: post
 title: 'La certification Zend PHP 5 disponible'
 date: '2006-09-13 09:01:07'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-difficultes-pour-passer-aux-standards
 layout: post
 title: 'Les difficultés pour passer aux standards'
 date: '2006-02-05 02:48:51'

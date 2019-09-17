@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/phpbb-2-0-13-beware-of-the-furries
 layout: post
 title: 'phpBB 2.0.13 "Beware of the furries"'
 date: '2005-02-28 12:45:13'

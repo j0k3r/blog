@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/banque-d-images-gratuites
 layout: post
 title: 'Banque d''images gratuites'
 date: '2005-05-01 00:00:00'

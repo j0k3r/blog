@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/metier-web-ergonome
 layout: post
 title: 'Métier : Web-ergonome'
 date: '2005-05-24 01:31:14'

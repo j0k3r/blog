@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/vous-ne-revez-pas-vous-etes-bien-sur-la-v3
 layout: post
 title: 'Vous ne rêvez pas, vous êtes bien sur la v3 !!'
 date: '2009-04-30 00:11:49'

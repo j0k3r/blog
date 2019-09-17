@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-net-nous-aurait-fait-son-poisson-d-avril
 layout: post
 title: 'php.net nous aurait fait son poisson d''avril ?'
 date: '2005-04-02 05:35:53'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/garder-son-pagerank-quand-on-change-de-site
 layout: post
 title: 'Garder son pagerank quand on change de site'
 date: '2006-01-03 11:30:06'

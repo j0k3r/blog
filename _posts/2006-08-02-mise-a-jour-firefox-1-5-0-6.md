@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mise-a-jour-firefox-1-5-0-6
 layout: post
 title: 'Mise à jour Firefox 1.5.0.6'
 date: '2006-08-02 09:47:36'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/des-formulaires-en-css-dit-web-2-0
 layout: post
 title: 'Des formulaires en CSS dit web 2.0'
 date: '2006-11-25 12:27:24'

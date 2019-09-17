@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/bien-commenter-son-code
 layout: post
 title: 'Bien commenter son code'
 date: '2005-11-27 04:54:01'

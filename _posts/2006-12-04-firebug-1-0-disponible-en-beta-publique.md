@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/firebug-1-0-disponible-en-beta-publique
 layout: post
 title: 'Firebug 1.0 disponible en bêta publique'
 date: '2006-12-04 10:00:14'

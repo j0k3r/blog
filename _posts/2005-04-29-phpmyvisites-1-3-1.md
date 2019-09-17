@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/phpmyvisites-1-3-1
 layout: post
 title: 'phpMyVisites 1.3.1'
 date: '2005-04-29 12:35:53'

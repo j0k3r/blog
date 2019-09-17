@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ouverture-du-mobi
 layout: post
 title: 'Ouverture du .mobi'
 date: '2006-06-28 09:53:24'

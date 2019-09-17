@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/probleme-normalement-regle
 layout: post
 title: 'Problème (normalement) réglé'
 date: '2005-05-28 09:00:44'

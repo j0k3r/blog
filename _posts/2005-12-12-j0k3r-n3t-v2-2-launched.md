@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/j0k3r-n3t-v2-2-launched
 layout: post
 title: 'j0k3r.n3t v2.2 launched !'
 date: '2005-12-12 12:07:25'

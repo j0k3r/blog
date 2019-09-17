@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mozilla-abandonne-le-support-de-mac-os-x-10-1
 layout: post
 title: 'Mozilla abandonne le support de Mac OS X 10.1'
 date: '2005-07-07 12:29:22'

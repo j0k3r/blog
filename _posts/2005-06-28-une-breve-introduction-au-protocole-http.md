@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-breve-introduction-au-protocole-http
 layout: post
 title: 'Une brève introduction au protocole HTTP'
 date: '2005-06-28 08:16:00'

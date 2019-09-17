@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/xajax-0-1-beta3-manipule-les-applications-ajax
 layout: post
 title: 'xajax 0.1 beta3 manipule les applications AJAX'
 date: '2005-06-30 09:59:37'

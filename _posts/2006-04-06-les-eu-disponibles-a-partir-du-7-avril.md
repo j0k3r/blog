@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-eu-disponibles-a-partir-du-7-avril
 layout: post
 title: 'Les .eu disponibles à partir du 7 avril'
 date: '2006-04-06 08:29:49'

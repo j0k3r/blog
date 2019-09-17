@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/favicon-avec-ou-sans-animation
 layout: post
 title: 'favicon avec ou sans animation ?'
 date: '2006-05-17 09:36:39'

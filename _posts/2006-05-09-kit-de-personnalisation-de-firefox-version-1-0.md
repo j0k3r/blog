@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/kit-de-personnalisation-de-firefox-version-1-0
 layout: post
 title: 'Kit de personnalisation de Firefox, version 1.0'
 date: '2006-05-09 11:56:47'

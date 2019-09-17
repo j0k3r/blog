@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/du-nouveau-chez-netvibes
 layout: post
 title: 'Du nouveau chez NetVibes'
 date: '2006-04-07 10:05:23'

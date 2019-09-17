@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/vulnerabilite-des-mots-de-passe-firefox
 layout: post
 title: 'Vulnérabilité des mots de passe Firefox'
 date: '2007-07-24 01:42:01'

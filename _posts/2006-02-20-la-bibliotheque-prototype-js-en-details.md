@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-bibliotheque-prototype-js-en-details
 layout: post
 title: 'La bibliothèque prototype.js en détails'
 date: '2006-02-20 12:50:49'

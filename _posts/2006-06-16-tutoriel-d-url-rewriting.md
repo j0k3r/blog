@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/tutoriel-d-url-rewriting
 layout: post
 title: 'Tutoriel d''URL Rewriting'
 date: '2006-06-16 11:12:04'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-vs-ruby-on-rails
 layout: post
 title: 'PHP vs Ruby On Rails'
 date: '2005-12-28 11:52:04'

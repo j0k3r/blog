@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/faire-une-feuille-de-style-pour-l-impression
 layout: post
 title: 'Faire une feuille de style pour l''impression'
 date: '2007-05-19 12:32:43'

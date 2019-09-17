@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mamp-pour-macintosh-apache-mysql-et-php
 layout: post
 title: 'MAMP pour Macintosh, Apache, Mysql et PHP'
 date: '2005-06-17 10:21:10'

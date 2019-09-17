@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-4-3-10rc1-et-mozilla-1-8-alpha-5
 layout: post
 title: 'PHP 4.3.10RC1 et Mozilla 1.8 alpha 5'
 date: '2004-11-24 08:05:27'

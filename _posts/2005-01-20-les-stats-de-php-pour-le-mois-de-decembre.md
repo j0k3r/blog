@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-stats-de-php-pour-le-mois-de-decembre
 layout: post
 title: 'Les stats de PHP pour le mois de décembre'
 date: '2005-01-20 06:26:14'

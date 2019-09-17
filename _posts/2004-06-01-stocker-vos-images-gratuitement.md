@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/stocker-vos-images-gratuitement
 layout: post
 title: 'Stocker vos images gratuitement !'
 date: '2004-06-01 00:00:00'

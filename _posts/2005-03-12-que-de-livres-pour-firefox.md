@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/que-de-livres-pour-firefox
 layout: post
 title: 'Que de livres pour Firefox !'
 date: '2005-03-12 03:24:30'

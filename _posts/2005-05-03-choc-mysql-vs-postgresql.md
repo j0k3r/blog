@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/choc-mysql-vs-postgresql
 layout: post
 title: 'Choc : MySQL vs PostGreSQL'
 date: '2005-05-03 02:49:09'

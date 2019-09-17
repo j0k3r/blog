@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/js-loader-propose-toutes-les-librairies-js-a-la-demande
 layout: post
 title: 'JSLoader propose toutes les librairies JS à la demande'
 date: '2007-10-23 10:13:17'

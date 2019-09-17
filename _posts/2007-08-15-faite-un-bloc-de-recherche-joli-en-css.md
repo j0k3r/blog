@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/faite-un-bloc-de-recherche-joli-en-css
 layout: post
 title: 'Faite un bloc de recherche joli en CSS'
 date: '2007-08-15 07:15:39'

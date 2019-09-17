@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/du-gnu-gpl-pour-le-gouvernement-francais
 layout: post
 title: 'Du GNU/GPL pour le gouvernement français'
 date: '2006-04-07 03:52:54'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/quiz-alsacreations-testez-vos-connaissances
 layout: post
 title: 'Quiz Alsacréations : testez vos connaissances'
 date: '2007-01-22 11:39:02'

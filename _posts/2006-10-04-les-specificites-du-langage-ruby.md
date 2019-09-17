@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-specificites-du-langage-ruby
 layout: post
 title: 'Les spécificités du langage Ruby'
 date: '2006-10-04 09:35:01'

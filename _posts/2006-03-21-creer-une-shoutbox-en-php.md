@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/creer-une-shoutbox-en-php
 layout: post
 title: 'Créer une shoutbox en PHP'
 date: '2006-03-21 11:05:47'

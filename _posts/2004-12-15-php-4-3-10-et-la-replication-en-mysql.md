@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-4-3-10-et-la-replication-en-mysql
 layout: post
 title: 'PHP 4.3.10 et la réplication en MySQL'
 date: '2004-12-15 09:07:34'

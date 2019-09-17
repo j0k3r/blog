@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/securise-un-serveur-mysql-sous-windows
 layout: post
 title: 'Sécurisé un serveur MySQL sous Windows'
 date: '2005-02-01 12:18:15'

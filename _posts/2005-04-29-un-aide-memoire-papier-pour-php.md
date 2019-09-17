@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/un-aide-memoire-papier-pour-php
 layout: post
 title: 'Un aide mémoire papier pour PHP'
 date: '2005-04-29 09:38:51'

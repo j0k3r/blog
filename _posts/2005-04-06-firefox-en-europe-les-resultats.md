@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/firefox-en-europe-les-resultats
 layout: post
 title: 'Firefox en Europe, les résultats'
 date: '2005-04-06 11:35:24'

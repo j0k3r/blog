@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/guide-d-utilisation-de-firefox
 layout: post
 title: 'Guide d''utilisation de Firefox'
 date: '2005-01-17 10:54:20'

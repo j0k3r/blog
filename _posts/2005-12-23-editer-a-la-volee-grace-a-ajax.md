@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/editer-a-la-volee-grace-a-ajax
 layout: post
 title: 'Editer à la volée grâce à AJAX'
 date: '2005-12-23 02:37:37'

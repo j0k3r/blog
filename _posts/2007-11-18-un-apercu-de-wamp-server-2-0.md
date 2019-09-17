@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/un-apercu-de-wamp-server-2-0
 layout: post
 title: 'Un aperçu de WampServer 2.0'
 date: '2007-11-18 12:30:09'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/maj-phpbb-2-0-18-the-halloween-special
 layout: post
 title: '[MAJ] phpBB 2.0.18, The Halloween Special'
 date: '2005-10-30 09:30:54'

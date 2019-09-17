@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-et-optimisation
 layout: post
 title: 'PHP et Optimisation'
 date: '2005-03-03 12:39:37'

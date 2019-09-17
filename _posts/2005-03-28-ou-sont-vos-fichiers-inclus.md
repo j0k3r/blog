@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ou-sont-vos-fichiers-inclus
 layout: post
 title: 'Ou sont vos fichiers inclus ?'
 date: '2005-03-28 11:05:10'

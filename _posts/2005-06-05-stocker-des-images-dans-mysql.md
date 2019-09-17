@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/stocker-des-images-dans-mysql
 layout: post
 title: 'Stocker des images dans MySQL'
 date: '2005-06-05 05:47:14'

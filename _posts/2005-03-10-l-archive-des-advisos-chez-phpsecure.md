@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/l-archive-des-advisos-chez-phpsecure
 layout: post
 title: 'L''archive des advisos chez phpSecure'
 date: '2005-03-10 10:02:45'

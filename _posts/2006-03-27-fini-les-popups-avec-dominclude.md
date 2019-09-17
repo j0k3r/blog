@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/fini-les-popups-avec-dominclude
 layout: post
 title: 'Fini les popups avec DOMinclude'
 date: '2006-03-27 11:44:45'

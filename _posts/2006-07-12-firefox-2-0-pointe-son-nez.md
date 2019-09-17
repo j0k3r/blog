@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/firefox-2-0-pointe-son-nez
 layout: post
 title: 'FireFox 2.0 pointe son nez'
 date: '2006-07-12 10:23:48'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/csv-adstats-2-7-1-disponible-et-recommande
 layout: post
 title: 'CSV AdStats 2.7.1 disponible et recommandé !'
 date: '2005-02-23 12:15:29'

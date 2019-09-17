@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-bb3-rc1-publiee
 layout: post
 title: 'phpBB3 RC1 publiée !'
 date: '2007-05-20 06:22:12'

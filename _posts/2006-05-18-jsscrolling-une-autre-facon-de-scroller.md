@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/jsscrolling-une-autre-facon-de-scroller
 layout: post
 title: 'jsScrolling une autre façon de scroller'
 date: '2006-05-18 07:15:08'

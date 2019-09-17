@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/faire-des-diagrammes-en-php-swf
 layout: post
 title: 'Faire des diagrammes en PHP/SWF'
 date: '2005-06-22 05:11:58'

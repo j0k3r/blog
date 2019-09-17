@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/manipuler-les-dates-en-php
 layout: post
 title: 'Manipuler les dates en PHP'
 date: '2006-04-13 01:52:15'

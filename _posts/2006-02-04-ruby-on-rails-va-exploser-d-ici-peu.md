@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ruby-on-rails-va-exploser-d-ici-peu
 layout: post
 title: 'Ruby on Rails va exploser d''ici peu'
 date: '2006-02-04 11:50:14'

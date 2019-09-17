@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/atos-et-son-autoresponse-fragilise
 layout: post
 title: 'Atos et son autoresponse fragilisé ...'
 date: '2009-02-19 02:17:27'

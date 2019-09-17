@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/la-meilleure-facon-de-gerer-vos-favoris
 layout: post
 title: 'La meilleure façon de gérer vos favoris'
 date: '2004-05-01 00:00:00'

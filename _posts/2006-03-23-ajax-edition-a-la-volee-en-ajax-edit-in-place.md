@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/ajax-edition-a-la-volee-en-ajax-edit-in-place
 layout: post
 title: 'Ajax - Edition à la volée en AJAX (Edit in place)'
 date: '2006-03-23 21:14:27'

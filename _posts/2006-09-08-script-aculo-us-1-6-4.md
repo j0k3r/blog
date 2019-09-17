@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/script-aculo-us-1-6-4
 layout: post
 title: 'Script.aculo.us 1.6.4'
 date: '2006-09-08 12:18:57'

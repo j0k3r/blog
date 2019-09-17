@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/construire-un-chat-base-sur-ajax
 layout: post
 title: 'Construire un chat basé sur AJAX'
 date: '2005-11-23 12:51:13'

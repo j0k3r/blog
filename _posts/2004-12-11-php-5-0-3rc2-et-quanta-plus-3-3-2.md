@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-5-0-3rc2-et-quanta-plus-3-3-2
 layout: post
 title: 'PHP 5.0.3RC2 et Quanta Plus 3.3.2'
 date: '2004-12-11 02:20:26'

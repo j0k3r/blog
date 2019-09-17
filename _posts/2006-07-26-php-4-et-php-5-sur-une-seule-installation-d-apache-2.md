@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-4-et-php-5-sur-une-seule-installation-d-apache-2
 layout: post
 title: 'PHP 4 et PHP 5 sur une seule installation d''Apache 2'
 date: '2006-07-26 08:08:36'

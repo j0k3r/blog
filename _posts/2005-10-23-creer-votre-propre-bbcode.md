@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/creer-votre-propre-bbcode
 layout: post
 title: 'Créer votre propre BBCode'
 date: '2005-10-23 11:47:32'

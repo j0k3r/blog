@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/trois-exemples-de-failles-en-php
 layout: post
 title: 'Trois exemples de failles en PHP'
 date: '2005-10-02 05:07:00'

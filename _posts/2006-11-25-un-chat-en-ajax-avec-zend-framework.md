@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/un-chat-en-ajax-avec-zend-framework
 layout: post
 title: 'Un chat en AJAX avec Zend Framework'
 date: '2006-11-25 12:20:07'

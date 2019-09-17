@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/v5-1-2-pour-la-branche-de-php-5-1
 layout: post
 title: 'v5.1.2 pour la branche de PHP 5.1'
 date: '2006-01-12 11:30:46'

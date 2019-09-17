@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/google-mmaim-une-interface-pour-mysql
 layout: post
 title: 'Google mMaim, une interface pour MySQL'
 date: '2005-05-24 01:35:59'

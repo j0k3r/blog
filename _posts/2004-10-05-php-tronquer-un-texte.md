@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/php-tronquer-un-texte
 layout: post
 title: 'PHP - Tronquer un texte'
 date: '2004-10-05 23:35:25'

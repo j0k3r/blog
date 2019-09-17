@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ibm-recommande-une-liste-de-livre-php-a-lire
 layout: post
 title: 'IBM recommande une liste de livre PHP à lire'
 date: '2006-03-20 12:06:15'

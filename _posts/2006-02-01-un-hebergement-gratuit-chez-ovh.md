@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/un-hebergement-gratuit-chez-ovh
 layout: post
 title: 'Un hébergement gratuit chez OVH !'
 date: '2006-02-01 12:04:42'

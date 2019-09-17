@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/comment-fonctionne-notre-cher-interpreteur-php
 layout: post
 title: 'Comment fonctionne notre cher interpréteur PHP ?'
 date: '2006-03-12 01:35:17'

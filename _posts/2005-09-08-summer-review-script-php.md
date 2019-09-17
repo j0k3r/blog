@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/summer-review-script-php
 layout: post
 title: 'Summer Review: Script PHP'
 date: '2005-09-08 01:55:10'

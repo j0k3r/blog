@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/deer-park-alpha-2-montre-le-bout-de-son-nez
 layout: post
 title: 'Deer Park Alpha 2 montre le bout de son nez'
 date: '2005-06-17 09:12:27'

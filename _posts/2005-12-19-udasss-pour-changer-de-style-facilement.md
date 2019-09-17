@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/udasss-pour-changer-de-style-facilement
 layout: post
 title: 'UDASSS pour changer de style facilement'
 date: '2005-12-19 12:36:28'

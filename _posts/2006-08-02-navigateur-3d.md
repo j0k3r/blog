@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/navigateur-3d
 layout: post
 title: 'Navigateur 3D'
 date: '2006-08-02 09:45:17'

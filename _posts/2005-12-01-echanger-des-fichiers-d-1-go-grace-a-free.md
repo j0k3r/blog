@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/echanger-des-fichiers-d-1-go-grace-a-free
 layout: post
 title: 'Échanger des fichiers d''1Go grâce à Free'
 date: '2005-12-01 00:00:00'

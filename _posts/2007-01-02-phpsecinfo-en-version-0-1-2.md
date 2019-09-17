@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/phpsecinfo-en-version-0-1-2
 layout: post
 title: 'PHPSecInfo en version 0.1.2'
 date: '2007-01-02 09:54:49'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/eaccelerator-0-9-4-rc1
 layout: post
 title: 'eAccelerator 0.9.4 RC1'
 date: '2005-11-24 10:45:15'

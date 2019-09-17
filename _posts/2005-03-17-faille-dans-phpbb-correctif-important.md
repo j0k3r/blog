@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/faille-dans-phpbb-correctif-important
 layout: post
 title: 'Faille dans phpBB, correctif important !!'
 date: '2005-03-17 06:52:02'

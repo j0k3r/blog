@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/quel-est-le-rendu-de-votre-site-sur-un-telephone-portable
 layout: post
 title: 'Quel est le rendu de votre site sur un téléphone portable?'
 date: '2007-05-29 11:26:22'

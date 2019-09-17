@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-liberte-derriere-les-grilles
 layout: post
 title: 'La liberté derrière les grilles ...'
 date: '2006-05-30 11:32:05'

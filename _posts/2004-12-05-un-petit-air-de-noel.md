@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/un-petit-air-de-noel
 layout: post
 title: 'Un petit air de Noel'
 date: '2004-12-05 11:42:45'

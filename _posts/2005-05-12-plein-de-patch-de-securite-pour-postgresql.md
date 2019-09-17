@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/plein-de-patch-de-securite-pour-postgresql
 layout: post
 title: 'Plein de patch de sécurité pour PostgreSQL'
 date: '2005-05-12 03:50:22'

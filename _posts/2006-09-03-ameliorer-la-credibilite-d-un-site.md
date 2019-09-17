@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ameliorer-la-credibilite-d-un-site
 layout: post
 title: 'Améliorer la crédibilité d''un site'
 date: '2006-09-03 03:50:46'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mysql-5-0-en-production-le-29-juin
 layout: post
 title: 'MySQL 5.0 en production le 29 juin'
 date: '2005-05-19 12:11:02'

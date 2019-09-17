@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/des-bonnes-pratiques-pour-php-et-mysql
 layout: post
 title: 'Des bonnes pratiques pour PHP et MySQL'
 date: '2005-06-22 04:56:33'

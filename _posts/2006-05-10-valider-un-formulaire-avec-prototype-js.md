@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/valider-un-formulaire-avec-prototype-js
 layout: post
 title: 'Valider un formulaire avec prototype.js'
 date: '2006-05-10 12:05:08'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/navigation-simple-et-rapide-par-onglet
 layout: post
 title: 'Navigation simple et rapide par onglet'
 date: '2006-02-25 06:21:55'

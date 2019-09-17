@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-securite-en-php-par-l-exemple
 layout: post
 title: 'La sécurité en PHP par l''exemple'
 date: '2005-09-17 12:00:58'

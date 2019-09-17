@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-5-1-4-correction-d-un-joli-bug
 layout: post
 title: 'PHP 5.1.4, correction d''un joli buG'
 date: '2006-05-05 11:36:02'

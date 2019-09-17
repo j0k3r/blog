@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/dix-trucs-css-que-vous-ne-connaissez-peut-etre-pas
 layout: post
 title: 'Dix trucs CSS que vous ne connaissez peut-être pas'
 date: '2005-06-12 06:46:38'

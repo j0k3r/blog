@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-securite-de-firefox-par-rapport-a-celle-d-ie
 layout: post
 title: 'La sécurité de Firefox par rapport à celle d''IE'
 date: '2005-04-29 12:01:45'

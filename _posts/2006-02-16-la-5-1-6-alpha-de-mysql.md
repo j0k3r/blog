@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-5-1-6-alpha-de-mysql
 layout: post
 title: 'LA 5.1.6 alpha de MySQL'
 date: '2006-02-16 10:39:14'

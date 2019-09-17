@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/a-quoi-faut-il-s-attendre-avec-css-3
 layout: post
 title: 'A quoi faut-il s''attendre avec CSS 3 ?'
 date: '2006-04-30 06:28:27'

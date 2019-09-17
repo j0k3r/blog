@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/100-ieme-news-sur-j0k3r-n3t
 layout: post
 title: '100 ième news sur j0k3r.n3t !!'
 date: '2005-02-03 06:48:26'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/le-w3c-se-penche-sur-une-standardisation-d-ajax
 layout: post
 title: 'Le W3C se penche sur une standardisation d''AJAX'
 date: '2006-04-07 12:02:00'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-introduction-a-xml-rpc-en-php
 layout: post
 title: 'Une introduction à XML-RPC en PHP'
 date: '2006-02-02 11:47:29'

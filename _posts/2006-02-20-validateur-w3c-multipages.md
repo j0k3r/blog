@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/validateur-w3c-multipages
 layout: post
 title: 'Validateur W3C Multipages'
 date: '2006-02-20 11:24:25'

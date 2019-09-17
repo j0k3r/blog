@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/verification-de-formulaires-via-captcha
 layout: post
 title: 'Vérification de formulaires via CAPTCHA'
 date: '2006-03-05 05:00:51'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/php-gestion-de-fichiers-texte
 layout: post
 title: 'PHP - Gestion de fichiers texte'
 date: '2004-10-05 22:59:45'

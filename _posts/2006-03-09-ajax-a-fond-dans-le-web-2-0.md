@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ajax-a-fond-dans-le-web-2-0
 layout: post
 title: 'AJAX à fond dans le Web 2.0'
 date: '2006-03-09 04:49:50'

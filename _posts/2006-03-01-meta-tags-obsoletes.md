@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/meta-tags-obsoletes
 layout: post
 title: 'Meta tags obsolètes ?'
 date: '2006-03-01 09:05:19'

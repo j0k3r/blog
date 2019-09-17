@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-super-selecteurs-pour-changer-facilement-de-style
 layout: post
 title: 'Les Super-Sélecteurs pour changer facilement de style !'
 date: '2007-01-07 11:50:29'

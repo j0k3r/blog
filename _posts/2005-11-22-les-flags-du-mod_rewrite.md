@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-flags-du-mod_rewrite
 layout: post
 title: 'Les flags du mod_rewrite'
 date: '2005-11-22 11:59:13'

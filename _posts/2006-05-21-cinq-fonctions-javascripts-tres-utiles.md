@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/cinq-fonctions-javascripts-tres-utiles
 layout: post
 title: 'Cinq fonctions JavaScripts très utiles'
 date: '2006-05-21 10:38:34'

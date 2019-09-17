@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/creer-des-elements-avec-prototype-js
 layout: post
 title: 'Créer des éléments avec prototype.js'
 date: '2006-03-31 07:11:12'

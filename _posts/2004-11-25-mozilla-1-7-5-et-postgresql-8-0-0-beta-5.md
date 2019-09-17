@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mozilla-1-7-5-et-postgresql-8-0-0-beta-5
 layout: post
 title: 'Mozilla 1.7.5 et PostgreSQL 8.0.0 Beta 5'
 date: '2004-11-25 08:15:41'

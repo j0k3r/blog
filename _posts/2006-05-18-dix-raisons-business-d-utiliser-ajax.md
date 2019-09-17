@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/dix-raisons-business-d-utiliser-ajax
 layout: post
 title: 'Dix raisons business d''utiliser AJAX'
 date: '2006-05-18 07:08:01'

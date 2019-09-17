@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/gagnez-un-t-shirt-php-5
 layout: post
 title: 'Gagnez un T-Shirt PHP 5 !'
 date: '2005-05-10 05:03:34'

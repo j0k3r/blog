@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/php-les-structures-de-controle-php
 layout: post
 title: 'PHP - Les structures de contrôle PHP'
 date: '2004-10-05 22:54:41'

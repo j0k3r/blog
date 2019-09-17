@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/emule-les-liens-de-l-outils-du-w3c
 layout: post
 title: 'Émulé les liens de l''outils du W3C'
 date: '2005-10-29 12:30:39'

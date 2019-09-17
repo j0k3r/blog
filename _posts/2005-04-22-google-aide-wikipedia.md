@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/google-aide-wikipedia
 layout: post
 title: 'Google aide Wikipedia'
 date: '2005-04-22 12:31:16'

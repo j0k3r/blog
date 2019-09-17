@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-bibliotheque-php-evitant-l-utilisation-des-regex
 layout: post
 title: 'Une bibliothèque PHP évitant l''utilisation des RegEx'
 date: '2005-12-14 11:22:51'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-sessions-php-et-google
 layout: post
 title: 'Les sessions PHP et Google'
 date: '2006-01-14 11:00:40'

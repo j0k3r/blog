@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/php-nombre-de-connectes-counter-live
 layout: post
 title: 'PHP - Nombre de connectés (counter live)'
 date: '2004-10-05 23:32:36'

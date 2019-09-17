@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/recuperer-les-erreurs-de-vos-scripts-ajax-php
 layout: post
 title: 'Récupérer les erreurs de vos scripts AJAX/PHP'
 date: '2006-01-02 03:39:35'

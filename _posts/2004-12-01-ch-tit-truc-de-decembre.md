@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ch-tit-truc-de-decembre
 layout: post
 title: 'Ch''tit truc de décembre'
 date: '2004-12-01 12:11:30'

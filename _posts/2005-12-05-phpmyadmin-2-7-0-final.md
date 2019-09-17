@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/phpmyadmin-2-7-0-final
 layout: post
 title: 'phpMyAdmin 2.7.0 final'
 date: '2005-12-05 03:28:47'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/suivez-vos-flux-rss-grace-a-feedburner
 layout: post
 title: 'Suivez vos flux RSS grâce à Feedburner'
 date: '2006-02-28 09:10:51'

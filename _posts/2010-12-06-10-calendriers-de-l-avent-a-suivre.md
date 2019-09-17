@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/10-calendriers-de-l-avent-a-suivre
 layout: post
 title: '10+ calendriers de l''avent à suivre'
 date: '2010-12-06 13:33:40'

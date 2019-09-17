@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mettre-en-place-des-meta-tags-dynamiques
 layout: post
 title: 'Mettre en place des meta-tags dynamiques'
 date: '2006-03-30 03:53:03'

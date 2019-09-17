@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ruby-on-rails-arriverait-chez-ovh
 layout: post
 title: 'Ruby on Rails arriverait chez OVH ?'
 date: '2006-03-23 10:35:38'

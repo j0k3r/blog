@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/un-voyage-dans-l-espace-grace-a-oracle
 layout: post
 title: 'Un voyage dans l''espace grâce à Oracle'
 date: '2005-05-29 03:50:50'

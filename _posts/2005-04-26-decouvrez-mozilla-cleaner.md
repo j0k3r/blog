@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/decouvrez-mozilla-cleaner
 layout: post
 title: 'Découvrez Mozilla Cleaner'
 date: '2005-04-26 09:49:19'

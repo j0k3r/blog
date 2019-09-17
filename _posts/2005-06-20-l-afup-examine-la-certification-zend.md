@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/l-afup-examine-la-certification-zend
 layout: post
 title: 'L''AFUP examine la certification Zend'
 date: '2005-06-20 03:33:39'

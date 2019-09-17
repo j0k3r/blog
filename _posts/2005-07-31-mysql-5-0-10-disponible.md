@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mysql-5-0-10-disponible
 layout: post
 title: 'MySQL 5.0.10 disponible'
 date: '2005-07-31 03:32:08'

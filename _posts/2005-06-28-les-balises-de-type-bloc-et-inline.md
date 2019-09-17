@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-balises-de-type-bloc-et-inline
 layout: post
 title: 'Les balises de type bloc et inline'
 date: '2005-06-28 09:17:24'

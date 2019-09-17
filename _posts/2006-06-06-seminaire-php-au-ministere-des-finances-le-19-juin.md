@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/seminaire-php-au-ministere-des-finances-le-19-juin
 layout: post
 title: 'Séminaire PHP au Ministère des Finances le 19 juin'
 date: '2006-06-06 07:49:26'

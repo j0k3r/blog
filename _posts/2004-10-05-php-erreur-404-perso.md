@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/php-erreur-404-perso
 layout: post
 title: 'PHP - Erreur 404 perso'
 date: '2004-10-05 23:19:01'

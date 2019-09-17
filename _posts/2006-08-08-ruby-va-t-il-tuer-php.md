@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ruby-va-t-il-tuer-php
 layout: post
 title: 'Ruby va-t-il tuer PHP ?'
 date: '2006-08-08 10:31:21'

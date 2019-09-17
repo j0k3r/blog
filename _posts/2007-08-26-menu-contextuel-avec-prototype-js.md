@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/menu-contextuel-avec-prototype-js
 layout: post
 title: 'Menu contextuel avec prototype.js'
 date: '2007-08-26 11:21:10'

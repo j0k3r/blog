@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/l-equivalent-de-file_put_contents-en-php4
 layout: post
 title: 'L''équivalent de file_put_contents en php4'
 date: '2005-03-14 07:51:47'

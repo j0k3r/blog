@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/chargement-d-images-au-fil-du-scroll-avec-prototype-js
 layout: post
 title: 'Chargement d''images au fil du scroll avec prototype.js'
 date: '2007-09-12 09:42:39'

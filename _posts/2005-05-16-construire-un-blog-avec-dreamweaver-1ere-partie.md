@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/construire-un-blog-avec-dreamweaver-1ere-partie
 layout: post
 title: 'Construire un blog avec Dreamweaver - 1ère partie'
 date: '2005-05-16 01:04:19'

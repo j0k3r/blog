@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/fancy-form-remplace-vos-vieux-checkbox-via-mootools
 layout: post
 title: 'FancyForm remplace vos vieux checkbox via mootools'
 date: '2007-08-29 12:31:23'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/passer-a-apache-2
 layout: post
 title: 'Passer à Apache 2'
 date: '2005-09-14 04:36:51'

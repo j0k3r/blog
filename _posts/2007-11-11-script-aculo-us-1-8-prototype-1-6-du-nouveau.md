@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/script-aculo-us-1-8-prototype-1-6-du-nouveau
 layout: post
 title: 'script.aculo.us 1.8, Prototype 1.6, du nouveau !'
 date: '2007-11-11 11:05:41'

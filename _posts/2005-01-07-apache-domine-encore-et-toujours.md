@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/apache-domine-encore-et-toujours
 layout: post
 title: 'Apache domine encore et toujours'
 date: '2005-01-07 12:50:58'

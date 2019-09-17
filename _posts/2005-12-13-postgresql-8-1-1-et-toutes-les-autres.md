@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/postgresql-8-1-1-et-toutes-les-autres
 layout: post
 title: 'PostgreSQL 8.1.1 et toutes les autres'
 date: '2005-12-13 02:21:46'

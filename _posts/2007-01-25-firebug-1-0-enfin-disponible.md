@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/firebug-1-0-enfin-disponible
 layout: post
 title: 'Firebug 1.0 enfin disponible !'
 date: '2007-01-25 09:43:43'

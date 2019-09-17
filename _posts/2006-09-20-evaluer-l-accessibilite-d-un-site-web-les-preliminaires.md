@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/evaluer-l-accessibilite-d-un-site-web-les-preliminaires
 layout: post
 title: 'Évaluer l''accessibilité d''un site web : Les préliminaires'
 date: '2006-09-20 10:31:56'

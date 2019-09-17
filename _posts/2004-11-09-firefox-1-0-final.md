@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/firefox-1-0-final
 layout: post
 title: 'Firefox 1.0 final !'
 date: '2004-11-09 01:14:02'

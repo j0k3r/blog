@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/symfony-1-1-et-la-belle-roadmap-de-symfony-1-2
 layout: post
 title: 'symfony 1.1 et la (belle) roadmap de symfony 1.2 !'
 date: '2008-07-01 03:44:50'

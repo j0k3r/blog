@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/sortie-d-opera-8-50-et-surprise-en-freeware
 layout: post
 title: 'Sortie d''Opera 8.50, et, surprise, en freeware!'
 date: '2005-09-22 05:39:27'

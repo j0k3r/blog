@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/venkman-la-machine-a-debugger-pour-firefox
 layout: post
 title: 'Venkman, la machine à debugger pour Firefox'
 date: '2006-06-15 10:40:56'

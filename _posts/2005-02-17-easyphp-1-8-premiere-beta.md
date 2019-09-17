@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/easyphp-1-8-premiere-beta
 layout: post
 title: 'EasyPHP 1.8 : Première bêta'
 date: '2005-02-17 05:57:02'

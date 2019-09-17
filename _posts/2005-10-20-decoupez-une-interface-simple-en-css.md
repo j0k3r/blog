@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/decoupez-une-interface-simple-en-css
 layout: post
 title: 'Découpez une interface simple en CSS'
 date: '2005-10-20 12:41:30'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/bloquer-certains-robots-venant-sur-son-site
 layout: post
 title: 'Bloquer certains robots venant sur son site'
 date: '2005-05-31 01:27:56'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/firefox-recommande-par-ebay
 layout: post
 title: 'Firefox recommandé par eBay'
 date: '2005-05-27 02:50:16'

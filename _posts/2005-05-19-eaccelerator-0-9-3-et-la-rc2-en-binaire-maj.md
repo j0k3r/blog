@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/eaccelerator-0-9-3-et-la-rc2-en-binaire-maj
 layout: post
 title: 'eAccelerator 0.9.3 et la rc2 en binaire ! MAJ'
 date: '2005-05-19 01:15:39'

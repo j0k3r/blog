@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/eviter-la-validation-multiple-d-un-formulaire
 layout: post
 title: 'Eviter la validation multiple d''un formulaire'
 date: '2005-11-23 12:10:05'

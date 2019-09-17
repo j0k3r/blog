@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/creer-un-panier-avec-ajax
 layout: post
 title: 'Créer un panier avec AJAX'
 date: '2005-12-02 11:54:10'

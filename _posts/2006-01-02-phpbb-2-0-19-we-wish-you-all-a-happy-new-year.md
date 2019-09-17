@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/phpbb-2-0-19-we-wish-you-all-a-happy-new-year
 layout: post
 title: 'phpBB 2.0.19, we wish you all a happy new year'
 date: '2006-01-02 03:58:47'

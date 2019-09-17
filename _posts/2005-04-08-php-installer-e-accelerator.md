@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/php-installer-e-accelerator
 layout: post
 title: 'PHP - Installer eAccelerator'
 date: '2005-04-08 20:35:12'

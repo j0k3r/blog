@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/easyphp-repars
 layout: post
 title: 'EasyPHP repars !'
 date: '2004-12-08 08:09:00'

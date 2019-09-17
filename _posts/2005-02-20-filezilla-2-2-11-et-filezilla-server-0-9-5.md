@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/filezilla-2-2-11-et-filezilla-server-0-9-5
 layout: post
 title: 'FileZilla 2.2.11 et FileZilla Server 0.9.5'
 date: '2005-02-20 03:51:54'

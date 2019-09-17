@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/stats-de-firefox-en-europe
 layout: post
 title: 'Stats de FireFox en Europe'
 date: '2005-03-17 12:28:38'

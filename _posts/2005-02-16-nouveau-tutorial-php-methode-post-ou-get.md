@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/nouveau-tutorial-php-methode-post-ou-get
 layout: post
 title: 'Nouveau tutorial php : Méthode post ou get'
 date: '2005-02-16 12:15:49'

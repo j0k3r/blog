@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/du-phishing-ciblant-la-banque-agf
 layout: post
 title: 'Du phishing ciblant la banque AGF'
 date: '2005-09-14 01:35:55'

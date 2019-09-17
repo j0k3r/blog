@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/des-explications-par-rapport-a-phpbb-2-0-15
 layout: post
 title: 'Des explications par rapport à phpBB 2.0.15'
 date: '2005-05-25 10:08:53'

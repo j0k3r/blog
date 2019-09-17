@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/google-s-summer-of-code
 layout: post
 title: 'Google''s Summer of Code'
 date: '2006-05-01 11:57:52'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mozilla-1-8-alpha-6-et-nvu-0-7-fr
 layout: post
 title: 'Mozilla 1.8 alpha 6 et Nvu 0.7 FR'
 date: '2005-01-13 12:56:32'

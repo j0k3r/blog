@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/un-exemple-basique-d-une-faille-xss-sur-server
 layout: post
 title: 'Un exemple basique d''une faille XSS sur `$_SERVER`'
 date: '2007-03-09 10:02:01'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mozilla-1-8-beta-2-retarde
 layout: post
 title: 'Mozilla 1.8 bêta 2 retardé'
 date: '2005-03-17 09:53:15'

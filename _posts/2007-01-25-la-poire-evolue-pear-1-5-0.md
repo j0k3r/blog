@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-poire-evolue-pear-1-5-0
 layout: post
 title: 'La poire évolue : PEAR 1.5.0'
 date: '2007-01-25 09:25:26'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/html-listes
 layout: post
 title: 'HTML - Listes'
 date: '2003-03-14 05:52:30'

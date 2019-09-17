@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/creer-un-chat-avec-php-et-ajax-partie-2
 layout: post
 title: 'Créer un chat avec PHP et AJAX - Partie 2'
 date: '2006-04-04 02:53:27'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/alterner-les-couleurs-des-lignes-d-un-tableau-en-js
 layout: post
 title: 'Alterner les couleurs des lignes d''un tableau en JS'
 date: '2006-10-20 03:01:44'

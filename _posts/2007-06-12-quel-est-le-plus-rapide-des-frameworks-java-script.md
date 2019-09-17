@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/quel-est-le-plus-rapide-des-frameworks-java-script
 layout: post
 title: 'Quel est le plus rapide des frameworks JavaScript ?'
 date: '2007-06-12 11:31:45'

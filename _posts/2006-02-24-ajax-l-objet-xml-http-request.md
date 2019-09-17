@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/ajax-l-objet-xml-http-request
 layout: post
 title: 'Ajax - L''objet XmlHttpRequest'
 date: '2006-02-24 22:08:24'

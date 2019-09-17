@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-4-4-4-et-5-2-0-en-preparation
 layout: post
 title: 'PHP 4.4.4 et 5.2.0 en préparation'
 date: '2006-08-16 10:59:54'

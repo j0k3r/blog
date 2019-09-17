@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/c-est-quoi-ajax
 layout: post
 title: 'C''est quoi AJAX ?'
 date: '2005-06-14 10:21:57'

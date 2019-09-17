@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/rechercher-directement-dans-yahoo-et-google
 layout: post
 title: 'Rechercher directement dans Yahoo et Google'
 date: '2005-03-17 12:24:08'

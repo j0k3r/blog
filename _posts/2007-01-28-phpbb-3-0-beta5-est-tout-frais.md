@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/phpbb-3-0-beta5-est-tout-frais
 layout: post
 title: 'phpBB 3.0 Beta5 est tout frais'
 date: '2007-01-28 11:28:33'

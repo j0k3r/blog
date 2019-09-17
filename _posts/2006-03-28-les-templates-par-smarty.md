@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-templates-par-smarty
 layout: post
 title: 'Les templates par Smarty'
 date: '2006-03-28 11:13:13'

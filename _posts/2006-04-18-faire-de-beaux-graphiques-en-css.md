@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/faire-de-beaux-graphiques-en-css
 layout: post
 title: 'Faire de beaux graphiques en CSS'
 date: '2006-04-18 08:27:52'

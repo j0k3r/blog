@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/des-nouvelles-de-firefox-1-1
 layout: post
 title: 'Des nouvelles de FireFox 1.1'
 date: '2005-01-27 01:03:06'

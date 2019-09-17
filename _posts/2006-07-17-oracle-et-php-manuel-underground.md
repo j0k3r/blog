@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/oracle-et-php-manuel-underground
 layout: post
 title: 'Oracle et Php : Manuel underground'
 date: '2006-07-17 08:27:34'

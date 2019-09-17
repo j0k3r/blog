@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/firefox-1-0-5-est-sorti
 layout: post
 title: 'Firefox 1.0.5 est sorti'
 date: '2005-07-14 12:39:27'

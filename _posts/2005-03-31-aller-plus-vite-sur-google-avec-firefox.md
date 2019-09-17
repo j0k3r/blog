@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/aller-plus-vite-sur-google-avec-firefox
 layout: post
 title: 'Aller plus vite sur Google avec Firefox'
 date: '2005-03-31 03:51:14'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/le-support-des-normes-des-navigateurs
 layout: post
 title: 'Le support des normes des navigateurs'
 date: '2005-12-15 09:16:31'

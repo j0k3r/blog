@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/bon-echo-2-0-le-futur-de-firefox
 layout: post
 title: 'Bon Echo 2.0 : Le futur de FireFox'
 date: '2006-05-15 10:21:18'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/l-avenir-de-la-suite-mozilla
 layout: post
 title: 'L''avenir de la suite Mozilla'
 date: '2005-03-11 10:28:35'

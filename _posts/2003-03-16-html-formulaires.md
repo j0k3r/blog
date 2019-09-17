@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/html-formulaires
 layout: post
 title: 'HTML - Formulaires'
 date: '2003-03-16 04:04:21'

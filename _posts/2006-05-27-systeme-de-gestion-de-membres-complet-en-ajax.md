@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/systeme-de-gestion-de-membres-complet-en-ajax
 layout: post
 title: 'Système de gestion de membres complet en AJAX'
 date: '2006-05-27 01:10:00'

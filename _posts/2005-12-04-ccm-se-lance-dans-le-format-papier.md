@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ccm-se-lance-dans-le-format-papier
 layout: post
 title: 'CCM se lance dans le format papier'
 date: '2005-12-04 12:10:03'

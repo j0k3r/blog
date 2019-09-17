@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/zend-framework-0-7-0-en-attendant-la-rc1
 layout: post
 title: 'Zend Framework 0.7.0, en attendant la RC1'
 date: '2007-01-20 11:52:33'

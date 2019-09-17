@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/sf-lightbox-plugin-le-plugin-lightbox-pour-symfony
 layout: post
 title: 'sfLightboxPlugin : Le plugin lightbox pour Symfony !'
 date: '2007-02-21 05:42:07'

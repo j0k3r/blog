@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/my-sql-connexion-a-une-base-1
 layout: post
 title: 'MySQL - Connexion à une base'
 date: '2004-03-19 23:28:11'

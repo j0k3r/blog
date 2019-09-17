@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/my-sql-soumission-d-une-requete
 layout: post
 title: 'MySQL - Soumission d''une requête'
 date: '2004-03-19 08:05:17'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/nouvel-add-on-php4-pour-wampserver
 layout: post
 title: 'Nouvel add-on php4 pour WampServer'
 date: '2005-03-02 06:02:39'

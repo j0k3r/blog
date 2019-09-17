@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/tester-votre-memoire
 layout: post
 title: 'Tester votre mémoire'
 date: '2003-08-01 00:00:00'

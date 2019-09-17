@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/construire-un-mvc-simple-en-php5
 layout: post
 title: 'Construire un MVC simple en PHP5'
 date: '2006-08-22 11:30:13'

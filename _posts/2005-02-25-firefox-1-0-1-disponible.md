@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/firefox-1-0-1-disponible
 layout: post
 title: 'Firefox 1.0.1 disponible'
 date: '2005-02-25 09:38:08'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-tarifs-pour-la-creation-de-site-internet
 layout: post
 title: 'Les tarifs pour la creation de site internet'
 date: '2005-01-20 06:39:40'

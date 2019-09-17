@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-5-avance-3eme-edition
 layout: post
 title: 'PHP 5 avancé, 3ème edition'
 date: '2006-01-28 05:22:30'

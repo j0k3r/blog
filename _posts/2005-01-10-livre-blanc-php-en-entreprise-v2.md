@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/livre-blanc-php-en-entreprise-v2
 layout: post
 title: 'Livre Blanc "PHP en entreprise" v2'
 date: '2005-01-10 06:14:24'

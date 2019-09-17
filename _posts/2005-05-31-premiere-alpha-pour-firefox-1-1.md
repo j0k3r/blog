@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/premiere-alpha-pour-firefox-1-1
 layout: post
 title: 'Première alpha pour Firefox 1.1'
 date: '2005-05-31 09:43:52'

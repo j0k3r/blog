@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-10-conseils-en-referencement-d-une-specialiste
 layout: post
 title: 'Les 10 conseils en référencement d''une spécialiste'
 date: '2005-10-14 06:31:36'

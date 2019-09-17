@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/html-architecture-html
 layout: post
 title: 'HTML - Architecture HTML'
 date: '2003-03-27 09:13:44'

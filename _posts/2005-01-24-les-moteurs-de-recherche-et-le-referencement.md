@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-moteurs-de-recherche-et-le-referencement
 layout: post
 title: 'Les moteurs de recherche et le référencement'
 date: '2005-01-24 09:45:29'

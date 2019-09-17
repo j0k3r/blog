@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ch-tit-truc-de-juin-creez-vous-des-mails-jetables
 layout: post
 title: 'Ch''tit truc de juin : Créez vous des mails jetables'
 date: '2005-06-01 10:58:09'

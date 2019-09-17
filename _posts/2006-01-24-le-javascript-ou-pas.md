@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/le-javascript-ou-pas
 layout: post
 title: 'Le JavaScript ... ou pas ...'
 date: '2006-01-24 10:58:47'

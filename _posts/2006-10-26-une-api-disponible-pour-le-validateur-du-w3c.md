@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-api-disponible-pour-le-validateur-du-w3c
 layout: post
 title: 'Une API disponible pour le validateur du W3C'
 date: '2006-10-26 02:57:44'

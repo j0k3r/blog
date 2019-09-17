@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/utiliser-une-grille-de-fond-pour-placer-vos-elements
 layout: post
 title: 'Utiliser une grille de fond pour placer vos éléments'
 date: '2006-07-18 09:03:36'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mysql-supporte-la-fonction-substr
 layout: post
 title: 'MySQL supporte la fonction substr'
 date: '2005-05-19 12:38:10'

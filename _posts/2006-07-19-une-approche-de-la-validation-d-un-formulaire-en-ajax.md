@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-approche-de-la-validation-d-un-formulaire-en-ajax
 layout: post
 title: 'Une approche de la validation d''un formulaire en AJAX'
 date: '2006-07-19 12:19:13'

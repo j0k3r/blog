@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/le-w3-c-relance-l-activite-html
 layout: post
 title: 'Le W3C relance l''activité HTML'
 date: '2007-03-08 11:02:13'

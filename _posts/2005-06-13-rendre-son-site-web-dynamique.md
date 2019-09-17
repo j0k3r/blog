@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/rendre-son-site-web-dynamique
 layout: post
 title: 'Rendre son site web dynamique'
 date: '2005-06-13 09:59:02'

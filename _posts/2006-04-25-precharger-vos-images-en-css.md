@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/precharger-vos-images-en-css
 layout: post
 title: 'Précharger vos images en CSS'
 date: '2006-04-25 01:48:41'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/nvu-0-80-nvu-1-0-beta-pre-release-3
 layout: post
 title: 'Nvu 0.80 (Nvu 1.0 Beta pre-Release 3)'
 date: '2005-02-02 10:01:50'

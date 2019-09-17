@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/css2-pratique-du-design-web
 layout: post
 title: 'CSS2 Pratique du design web'
 date: '2005-06-13 09:48:52'

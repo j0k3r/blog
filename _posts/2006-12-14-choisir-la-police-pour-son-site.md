@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/choisir-la-police-pour-son-site
 layout: post
 title: 'Choisir la police pour son site'
 date: '2006-12-14 06:59:01'

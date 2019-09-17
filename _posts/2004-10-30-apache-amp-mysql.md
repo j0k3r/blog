@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/apache-amp-mysql
 layout: post
 title: 'Apache &amp; MySQL'
 date: '2004-10-30 10:28:51'

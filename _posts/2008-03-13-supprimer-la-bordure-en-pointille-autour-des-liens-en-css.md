@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/supprimer-la-bordure-en-pointille-autour-des-liens-en-css
 layout: post
 title: 'Supprimer la bordure en pointillé autour des liens en CSS'
 date: '2008-03-13 08:47:07'

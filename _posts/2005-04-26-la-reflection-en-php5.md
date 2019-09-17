@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-reflection-en-php5
 layout: post
 title: 'La reflection en PHP5'
 date: '2005-04-26 10:17:41'

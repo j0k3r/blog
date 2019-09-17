@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/utiliser-les-mots-de-passes-sans-risque-en-php
 layout: post
 title: 'Utiliser les mots de passes sans risque en PHP'
 date: '2006-02-06 09:45:03'

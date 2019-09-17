@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-classe-pour-creer-un-carrousel-d-images-avec-prototype
 layout: post
 title: 'Une classe pour créer un carrousel d''images avec prototype'
 date: '2006-09-08 09:50:58'

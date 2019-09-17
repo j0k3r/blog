@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/interview-du-directeur-de-mozilla-europe
 layout: post
 title: 'Interview du directeur de Mozilla Europe'
 date: '2005-06-02 02:49:56'

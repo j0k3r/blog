@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/12-astuces-d-optimisation-des-scripts-php
 layout: post
 title: '12 astuces d''optimisation des scripts PHP'
 date: '2006-11-23 11:31:20'

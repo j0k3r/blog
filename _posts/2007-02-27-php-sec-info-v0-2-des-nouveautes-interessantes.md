@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-sec-info-v0-2-des-nouveautes-interessantes
 layout: post
 title: 'PHPSecInfo v0.2, des nouveautés intéressantes'
 date: '2007-02-27 10:16:32'

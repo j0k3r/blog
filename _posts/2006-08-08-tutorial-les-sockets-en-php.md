@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/tutorial-les-sockets-en-php
 layout: post
 title: 'Tutorial : Les Sockets en Php'
 date: '2006-08-08 09:59:32'

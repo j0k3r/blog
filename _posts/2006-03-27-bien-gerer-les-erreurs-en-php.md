@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/bien-gerer-les-erreurs-en-php
 layout: post
 title: 'Bien gérer les erreurs en PHP'
 date: '2006-03-27 10:48:53'

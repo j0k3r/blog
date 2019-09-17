@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/assurez-l-ergonomie-de-votre-site
 layout: post
 title: 'Assurez l''ergonomie de votre site'
 date: '2006-07-17 08:34:08'

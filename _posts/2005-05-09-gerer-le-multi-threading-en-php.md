@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/gerer-le-multi-threading-en-php
 layout: post
 title: 'Gérer le Multi-threading en PHP'
 date: '2005-05-09 02:25:08'

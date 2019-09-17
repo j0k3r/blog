@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/msn-7-en-version-finale
 layout: post
 title: 'MSN 7 en version finale'
 date: '2005-04-07 10:38:05'

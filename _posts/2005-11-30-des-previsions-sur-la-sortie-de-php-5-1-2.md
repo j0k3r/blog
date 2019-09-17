@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/des-previsions-sur-la-sortie-de-php-5-1-2
 layout: post
 title: 'Des prévisions sur la sortie de PHP 5.1.2'
 date: '2005-11-30 07:07:42'

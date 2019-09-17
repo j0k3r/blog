@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-on-the-fly
 layout: post
 title: 'PHP on the fly'
 date: '2005-02-17 03:20:06'

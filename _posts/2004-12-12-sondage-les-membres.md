@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/sondage-les-membres
 layout: post
 title: 'Sondage : Les membres'
 date: '2004-12-12 02:12:47'

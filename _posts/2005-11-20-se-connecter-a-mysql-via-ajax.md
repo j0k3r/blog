@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/se-connecter-a-mysql-via-ajax
 layout: post
 title: 'Se connecter à MySQL via AJAX'
 date: '2005-11-20 12:00:21'

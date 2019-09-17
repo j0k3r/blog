@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/decouvrez-the-gimp
 layout: post
 title: 'Découvrez The gimp !'
 date: '2005-11-05 12:33:38'

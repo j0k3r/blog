@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/l-encyclopedie-de-commentcamarche-v-2-0-5
 layout: post
 title: 'L''encyclopédie de CommentCaMarche v 2.0.5'
 date: '2005-04-01 04:02:48'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/faire-en-sorte-qu-un-texte-englobe-bien-une-image
 layout: post
 title: 'Faire en sorte qu''un texte englobe bien une image'
 date: '2006-09-09 02:33:01'

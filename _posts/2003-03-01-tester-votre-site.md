@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/tester-votre-site
 layout: post
 title: 'Tester votre site'
 date: '2003-03-01 00:00:00'

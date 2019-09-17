@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/internet-explorer-7-integrera-des-onglets
 layout: post
 title: 'Internet Explorer 7 integrera des onglets'
 date: '2005-05-17 01:27:56'

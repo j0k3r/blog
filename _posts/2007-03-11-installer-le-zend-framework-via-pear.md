@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/installer-le-zend-framework-via-pear
 layout: post
 title: 'Installer le Zend Framework via PEAR'
 date: '2007-03-11 03:11:58'

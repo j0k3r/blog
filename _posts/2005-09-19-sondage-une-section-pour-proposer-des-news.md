@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/sondage-une-section-pour-proposer-des-news
 layout: post
 title: 'Sondage : Une section pour proposer des news'
 date: '2005-09-19 06:58:00'

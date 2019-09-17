@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-5-se-porte-plutot-bien
 layout: post
 title: 'PHP 5 se porte plutôt bien'
 date: '2006-07-18 07:59:48'

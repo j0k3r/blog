@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ruby-on-rails-aux-editions-eyrolles
 layout: post
 title: 'Ruby on Rails aux éditions Eyrolles !'
 date: '2006-01-23 08:48:42'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/gerer-un-serveur-d-annuaire-ldap-en-php
 layout: post
 title: 'Gérer un serveur d''annuaire LDAP en PHP'
 date: '2005-06-10 01:21:49'

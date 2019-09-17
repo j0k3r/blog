@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/personnaliser-l-affichage-des-dossiers-sous-apache
 layout: post
 title: 'Personnaliser l''affichage des dossiers sous Apache'
 date: '2006-01-20 05:24:27'

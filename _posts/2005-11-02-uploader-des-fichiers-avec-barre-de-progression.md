@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/uploader-des-fichiers-avec-barre-de-progression
 layout: post
 title: 'Uploader des fichiers avec barre de progression'
 date: '2005-11-02 04:28:38'

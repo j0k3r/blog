@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/dix-conseils-pour-une-bonne-gestion-des-formulaires
 layout: post
 title: 'Dix conseils pour une bonne gestion des formulaires'
 date: '2005-10-26 10:37:08'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-xxx-bientot-disponible
 layout: post
 title: 'Les .xxx bientôt disponible'
 date: '2005-06-02 06:29:33'

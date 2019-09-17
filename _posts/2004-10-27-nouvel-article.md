@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/nouvel-article
 layout: post
 title: 'Nouvel Article'
 date: '2004-10-27 01:24:16'

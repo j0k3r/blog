@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/changement-d-heure-1
 layout: post
 title: 'Changement d''heure : +1'
 date: '2005-03-27 04:41:28'

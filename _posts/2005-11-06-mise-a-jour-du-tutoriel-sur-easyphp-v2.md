@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mise-a-jour-du-tutoriel-sur-easyphp-v2
 layout: post
 title: 'Mise à jour du tutoriel sur EasyPHP v2'
 date: '2005-11-06 11:38:02'

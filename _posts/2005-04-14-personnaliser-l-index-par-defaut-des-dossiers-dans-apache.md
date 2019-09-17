@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/personnaliser-l-index-par-defaut-des-dossiers-dans-apache
 layout: post
 title: 'Personnaliser l''index par défaut des dossiers dans Apache'
 date: '2005-04-14 12:47:32'

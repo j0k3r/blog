@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/nouveau-script-et-maj-des-editeurs-php
 layout: post
 title: 'Nouveau script et MAJ des éditeurs PHP'
 date: '2004-12-06 01:03:38'

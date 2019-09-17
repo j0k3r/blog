@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/chez-pixmania-les-produits-avec-des-prix-massacres-ne-sont-jamais-expedies
 layout: post
 title: 'Chez @pixmania, les produits avec des prix massacrés ne sont jamais expédiés …'
 date: '2010-06-13 13:03:14'

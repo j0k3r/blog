@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/maj-firefox-1-5-beta-1
 layout: post
 title: '[MAJ] Firefox 1.5 beta 1'
 date: '2005-09-09 01:05:57'

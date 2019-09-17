@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/systeme-de-login-via-ajax
 layout: post
 title: 'Système de login via AJAX'
 date: '2006-01-11 08:42:30'

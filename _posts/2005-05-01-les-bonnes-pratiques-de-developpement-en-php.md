@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-bonnes-pratiques-de-developpement-en-php
 layout: post
 title: 'Les bonnes pratiques de développement en php'
 date: '2005-05-01 09:20:39'

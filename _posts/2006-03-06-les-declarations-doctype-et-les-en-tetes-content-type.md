@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-declarations-doctype-et-les-en-tetes-content-type
 layout: post
 title: 'Les déclarations Doctype et les en-têtes Content-type'
 date: '2006-03-06 06:10:25'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-bibliotheque-d-erreurs-php
 layout: post
 title: 'La bibliothèque d''erreurs PHP'
 date: '2006-01-02 04:14:43'

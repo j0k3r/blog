@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/recherche-de-plagiat-de-site
 layout: post
 title: 'Recherche de plagiat de site'
 date: '2005-08-01 00:00:00'

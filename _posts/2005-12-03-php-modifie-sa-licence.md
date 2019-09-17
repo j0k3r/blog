@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-modifie-sa-licence
 layout: post
 title: 'PHP modifie sa licence'
 date: '2005-12-03 06:24:08'

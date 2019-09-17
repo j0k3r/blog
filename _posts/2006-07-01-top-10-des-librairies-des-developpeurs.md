@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/top-10-des-librairies-des-developpeurs
 layout: post
 title: 'Top 10 des librairies des développeurs'
 date: '2006-07-01 01:14:24'

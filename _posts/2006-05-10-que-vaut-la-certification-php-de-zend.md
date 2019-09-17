@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/que-vaut-la-certification-php-de-zend
 layout: post
 title: 'Que vaut la certification PHP de Zend ?'
 date: '2006-05-10 07:02:06'

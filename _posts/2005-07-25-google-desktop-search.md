@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/google-desktop-search
 layout: post
 title: 'Google Desktop Search'
 date: '2005-07-25 02:07:33'

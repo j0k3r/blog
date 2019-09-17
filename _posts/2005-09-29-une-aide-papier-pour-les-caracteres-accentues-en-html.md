@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-aide-papier-pour-les-caracteres-accentues-en-html
 layout: post
 title: 'Une aide papier pour les caractères accentués en HTML'
 date: '2005-09-29 12:48:01'

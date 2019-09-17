@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/listes-liees-avec-ajax
 layout: post
 title: 'Listes liées avec AJAX'
 date: '2006-01-11 11:27:30'

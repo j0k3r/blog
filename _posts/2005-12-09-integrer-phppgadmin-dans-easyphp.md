@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/integrer-phppgadmin-dans-easyphp
 layout: post
 title: 'Intégrer phpPgAdmin dans EasyPHP'
 date: '2005-12-09 04:14:22'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/recapitulatif-des-astuces-pour-faire-des-bords-arrondis
 layout: post
 title: 'Récapitulatif des astuces pour faire des bords arrondis'
 date: '2006-10-16 10:35:08'

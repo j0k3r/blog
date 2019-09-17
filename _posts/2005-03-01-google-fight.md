@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/google-fight
 layout: post
 title: 'Google Fight'
 date: '2005-03-01 00:00:00'

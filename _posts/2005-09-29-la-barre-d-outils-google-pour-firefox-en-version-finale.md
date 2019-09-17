@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-barre-d-outils-google-pour-firefox-en-version-finale
 layout: post
 title: 'La barre d''outils Google pour Firefox en version finale'
 date: '2005-09-29 12:18:17'

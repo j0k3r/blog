@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/trucs-et-astuces-css-1ere-partie
 layout: post
 title: 'Trucs et astuces CSS - 1ère partie'
 date: '2005-05-23 12:55:28'

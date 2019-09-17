@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/le-web-et-la-f-f-f
 layout: post
 title: 'Le Web et la F.F.F.'
 date: '2006-06-27 08:55:56'

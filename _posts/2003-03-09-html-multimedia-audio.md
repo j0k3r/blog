@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/html-multimedia-audio
 layout: post
 title: 'HTML - Multimedia - Audio'
 date: '2003-03-09 19:50:38'

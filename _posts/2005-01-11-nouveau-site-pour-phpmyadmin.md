@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/nouveau-site-pour-phpmyadmin
 layout: post
 title: 'Nouveau site pour phpMyAdmin'
 date: '2005-01-11 02:02:12'

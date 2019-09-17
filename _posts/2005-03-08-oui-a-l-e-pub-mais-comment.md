@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/oui-a-l-e-pub-mais-comment
 layout: post
 title: 'Oui à l''e-pub mais comment ?'
 date: '2005-03-08 05:57:15'

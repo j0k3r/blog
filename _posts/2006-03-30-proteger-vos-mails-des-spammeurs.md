@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/proteger-vos-mails-des-spammeurs
 layout: post
 title: 'Protéger vos mails des spammeurs'
 date: '2006-03-30 12:40:59'

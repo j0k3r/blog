@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/asus-maximus-formula-et-e8400-pas-vraiment-copain
 layout: post
 title: 'Asus Maximus Formula et E8400, pas vraiment copain !'
 date: '2008-05-24 08:49:06'

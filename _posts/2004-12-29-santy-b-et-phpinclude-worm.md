@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/santy-b-et-phpinclude-worm
 layout: post
 title: 'Santy.B et PhpInclude.Worm'
 date: '2004-12-29 08:45:32'

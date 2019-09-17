@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/interview-de-zeev-suraski-de-chez-zend-technologies
 layout: post
 title: 'Interview de Zeev Suraski (de chez Zend Technologies)'
 date: '2005-02-03 07:16:41'

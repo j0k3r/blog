@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/developper-son-systeme-de-gestion-de-banniere
 layout: post
 title: 'Développer son système de gestion de bannière'
 date: '2005-12-02 11:58:58'

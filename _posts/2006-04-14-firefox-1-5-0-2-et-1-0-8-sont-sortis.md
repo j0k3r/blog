@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/firefox-1-5-0-2-et-1-0-8-sont-sortis
 layout: post
 title: 'Firefox 1.5.0.2 et 1.0.8 sont sortis'
 date: '2006-04-14 09:07:59'

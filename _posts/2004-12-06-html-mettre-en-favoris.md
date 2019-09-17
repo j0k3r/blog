@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/html-mettre-en-favoris
 layout: post
 title: 'HTML - Mettre en favoris'
 date: '2004-12-06 11:03:22'

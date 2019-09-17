@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/nvu-1-0pr-en-francais
 layout: post
 title: 'Nvu 1.0PR en français'
 date: '2005-04-14 09:44:53'

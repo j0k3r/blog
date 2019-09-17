@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/creez-votre-blog-avec-rails
 layout: post
 title: 'Créez votre blog avec Rails'
 date: '2006-03-16 10:10:23'

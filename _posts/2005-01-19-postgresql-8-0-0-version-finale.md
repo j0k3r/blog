@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/postgresql-8-0-0-version-finale
 layout: post
 title: 'PostgreSQL 8.0.0 version finale !'
 date: '2005-01-19 08:11:28'

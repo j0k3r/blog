@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/mobile-mule
 layout: post
 title: MobileMule
 date: '2004-03-01 00:00:00'

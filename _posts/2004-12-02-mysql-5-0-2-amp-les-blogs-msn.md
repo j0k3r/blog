@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mysql-5-0-2-amp-les-blogs-msn
 layout: post
 title: 'MySQL 5.0.2 &amp; Les blogs MSN'
 date: '2004-12-02 06:00:42'

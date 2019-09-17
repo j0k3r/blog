@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/systeme-de-vote-par-etoiles-en-css
 layout: post
 title: 'Système de vote par étoiles en CSS'
 date: '2006-01-18 08:39:58'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/webdesign-international-festival-2006
 layout: post
 title: 'Webdesign International Festival 2006'
 date: '2005-11-03 12:21:01'

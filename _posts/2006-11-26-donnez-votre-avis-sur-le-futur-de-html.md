@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/donnez-votre-avis-sur-le-futur-de-html
 layout: post
 title: 'Donnez votre avis sur le futur de HTML'
 date: '2006-11-26 02:41:37'

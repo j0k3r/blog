@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/comment-faut-il-afficher-une-image-sur-un-site
 layout: post
 title: 'Comment faut-il afficher une image sur un site ?'
 date: '2006-04-22 11:00:24'

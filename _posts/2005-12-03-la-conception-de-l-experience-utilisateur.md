@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-conception-de-l-experience-utilisateur
 layout: post
 title: 'La conception de l''expérience utilisateur'
 date: '2005-12-03 07:42:03'

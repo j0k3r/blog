@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/deux-designs-patterns-en-php
 layout: post
 title: 'Deux designs patterns en PHP'
 date: '2006-04-15 09:26:43'

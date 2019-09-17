@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/en-vrac-de-retour-de-vacances-partie-2
 layout: post
 title: 'En vrac, de retour de vacances .. (partie 2)'
 date: '2008-05-15 12:12:23'

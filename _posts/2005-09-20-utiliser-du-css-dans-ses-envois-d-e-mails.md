@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/utiliser-du-css-dans-ses-envois-d-e-mails
 layout: post
 title: 'Utiliser du CSS dans ses envois d''e-mails'
 date: '2005-09-20 12:08:19'

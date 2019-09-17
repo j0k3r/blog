@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/detecter-l-inactivite-de-l-utilisateur-avec-prototype-js
 layout: post
 title: 'Détecter l''inactivité de l''utilisateur avec prototype.js'
 date: '2007-11-11 01:44:18'

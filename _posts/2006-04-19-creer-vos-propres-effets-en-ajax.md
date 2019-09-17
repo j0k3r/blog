@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/creer-vos-propres-effets-en-ajax
 layout: post
 title: 'Créer vos propres effets en AJAX'
 date: '2006-04-19 02:02:28'

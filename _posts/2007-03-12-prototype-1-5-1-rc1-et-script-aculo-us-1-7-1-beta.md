@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/prototype-1-5-1-rc1-et-script-aculo-us-1-7-1-beta
 layout: post
 title: 'Prototype 1.5.1 RC1 et script.aculo.us 1.7.1 beta'
 date: '2007-03-12 10:26:21'

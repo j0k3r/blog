@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/re-captcha-c-est-vous-qui-digitalisez-des-livres-anciens
 layout: post
 title: 'reCAPTCHA, c''est vous qui digitalisez des livres anciens'
 date: '2007-05-27 10:51:24'

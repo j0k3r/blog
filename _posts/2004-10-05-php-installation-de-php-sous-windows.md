@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/php-installation-de-php-sous-windows
 layout: post
 title: 'PHP - Installation de PHP sous Windows'
 date: '2004-10-05 22:50:45'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-net-parle-de-santy-et-de-phpbb
 layout: post
 title: 'PHP.net parle de Santy et de phpBB'
 date: '2005-01-05 06:25:15'

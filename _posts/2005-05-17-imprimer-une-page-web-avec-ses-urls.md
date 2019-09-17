@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/imprimer-une-page-web-avec-ses-urls
 layout: post
 title: 'Imprimer une page Web avec ses URLs'
 date: '2005-05-17 12:56:18'

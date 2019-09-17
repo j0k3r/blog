@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/des-failles-dans-postgresql
 layout: post
 title: 'Des failles dans PostgreSQL'
 date: '2005-05-03 12:46:27'

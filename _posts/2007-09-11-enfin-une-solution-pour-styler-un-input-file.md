@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/enfin-une-solution-pour-styler-un-input-file
 layout: post
 title: 'Enfin une solution pour styler un input file !'
 date: '2007-09-11 10:24:00'

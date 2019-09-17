@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/des-sms-gratuits-via-skype
 layout: post
 title: 'Des SMS gratuits via Skype'
 date: '2005-02-26 10:49:48'

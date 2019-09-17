@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/safari-3-disponible-pour-windows
 layout: post
 title: 'Safari 3 disponible pour Windows !'
 date: '2007-06-11 11:43:21'

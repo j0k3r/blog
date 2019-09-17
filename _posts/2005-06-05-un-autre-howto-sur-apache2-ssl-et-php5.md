@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/un-autre-howto-sur-apache2-ssl-et-php5
 layout: post
 title: 'Un autre HOWTO sur Apache2, SSL et PHP5'
 date: '2005-06-05 05:54:09'

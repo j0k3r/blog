@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/bilan-2004-du-bureau-de-l-afup
 layout: post
 title: 'Bilan 2004 du bureau de l''AFUP'
 date: '2005-02-02 12:40:56'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-tv-gratuite-des-developpeurs-francophones
 layout: post
 title: 'La TV gratuite des développeurs francophones'
 date: '2006-01-13 10:44:49'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/wamp5-1-4-6-propulse-par-php-5-1
 layout: post
 title: 'WAMP5 1.4.6 propulsé par PHP 5.1'
 date: '2005-11-25 07:48:59'

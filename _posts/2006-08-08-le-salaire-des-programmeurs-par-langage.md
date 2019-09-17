@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/le-salaire-des-programmeurs-par-langage
 layout: post
 title: 'Le salaire des programmeurs par langage'
 date: '2006-08-08 10:13:35'

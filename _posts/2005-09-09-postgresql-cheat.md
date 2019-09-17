@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/postgresql-cheat
 layout: post
 title: 'PostgreSQL Cheat'
 date: '2005-09-09 11:33:20'

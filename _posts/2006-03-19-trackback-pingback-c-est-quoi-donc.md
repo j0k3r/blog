@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/trackback-pingback-c-est-quoi-donc
 layout: post
 title: 'TrackBack, PingBack, c''est quoi donc ?'
 date: '2006-03-19 07:18:27'

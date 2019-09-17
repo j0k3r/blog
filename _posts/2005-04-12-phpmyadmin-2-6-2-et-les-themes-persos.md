@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/phpmyadmin-2-6-2-et-les-themes-persos
 layout: post
 title: 'phpMyAdmin 2.6.2 et les thèmes persos'
 date: '2005-04-12 01:38:36'

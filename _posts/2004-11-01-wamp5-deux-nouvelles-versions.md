@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/wamp5-deux-nouvelles-versions
 layout: post
 title: 'WAMP5 : Deux nouvelles versions'
 date: '2004-11-01 03:07:11'

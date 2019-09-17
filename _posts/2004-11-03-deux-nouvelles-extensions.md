@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/deux-nouvelles-extensions
 layout: post
 title: 'Deux nouvelles extensions'
 date: '2004-11-03 01:25:16'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ips-in-place-select-un-select-a-la-volee-customisable
 layout: post
 title: 'IPS (In Place Select), un select à la volée customisable'
 date: '2007-12-23 03:08:02'

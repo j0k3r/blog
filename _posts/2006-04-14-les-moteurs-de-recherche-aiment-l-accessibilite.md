@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-moteurs-de-recherche-aiment-l-accessibilite
 layout: post
 title: 'Les moteurs de recherche aiment l''accessibilité !'
 date: '2006-04-14 12:18:25'

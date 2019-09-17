@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-images-et-les-fights-de-google
 layout: post
 title: 'Les images et les fights de Google'
 date: '2005-02-08 01:03:19'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/le-zend-framework-prevu-pour-fin-mars-2007
 layout: post
 title: 'Le Zend Framework prévu pour ... fin mars 2007 !'
 date: '2006-12-13 10:08:03'

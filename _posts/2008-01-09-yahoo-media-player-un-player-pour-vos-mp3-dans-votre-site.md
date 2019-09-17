@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/yahoo-media-player-un-player-pour-vos-mp3-dans-votre-site
 layout: post
 title: 'Yahoo! Media Player, un player pour vos mp3 dans votre site'
 date: '2008-01-09 07:54:42'

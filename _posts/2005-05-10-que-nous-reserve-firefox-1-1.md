@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/que-nous-reserve-firefox-1-1
 layout: post
 title: 'Que nous réserve Firefox 1.1 ?'
 date: '2005-05-10 10:40:41'

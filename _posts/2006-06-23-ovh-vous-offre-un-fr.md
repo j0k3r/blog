@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/ovh-vous-offre-un-fr
 layout: post
 title: 'OVH vous offre un .fr'
 date: '2006-06-23 02:05:42'

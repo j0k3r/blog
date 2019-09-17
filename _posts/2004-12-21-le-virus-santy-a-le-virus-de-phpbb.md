@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/le-virus-santy-a-le-virus-de-phpbb
 layout: post
 title: 'Le virus Santy.A, le virus de phpBB'
 date: '2004-12-21 07:47:37'

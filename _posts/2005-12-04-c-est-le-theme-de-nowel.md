@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/c-est-le-theme-de-nowel
 layout: post
 title: 'C''est le thème de nowel !'
 date: '2005-12-04 12:18:57'

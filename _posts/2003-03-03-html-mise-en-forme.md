@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/html-mise-en-forme
 layout: post
 title: 'HTML - Mise en forme'
 date: '2003-03-03 03:02:02'

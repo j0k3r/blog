@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/nouvelle-fenetre-d-options-de-firefox
 layout: post
 title: 'Nouvelle fenêtre d''options de Firefox'
 date: '2004-12-30 11:39:36'

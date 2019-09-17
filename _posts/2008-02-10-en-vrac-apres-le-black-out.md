@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/en-vrac-apres-le-black-out
 layout: post
 title: 'En vrac, après le black out...'
 date: '2008-02-10 04:30:13'

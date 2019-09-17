@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mootols-script-aculo-us-version-plus-leger
 layout: post
 title: 'Mootols, script.aculo.us version plus léger'
 date: '2006-09-11 08:16:11'

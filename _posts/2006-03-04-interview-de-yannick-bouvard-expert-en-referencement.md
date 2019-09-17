@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/interview-de-yannick-bouvard-expert-en-referencement
 layout: post
 title: 'Interview de Yannick Bouvard, expert en référencement'
 date: '2006-03-04 02:24:57'

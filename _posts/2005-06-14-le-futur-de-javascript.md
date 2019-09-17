@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/le-futur-de-javascript
 layout: post
 title: 'Le futur de JavaScript'
 date: '2005-06-14 10:44:34'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/php-formulaires-methode-post-ou-get
 layout: post
 title: 'PHP - Formulaires : Méthode post ou get ?'
 date: '2005-02-15 22:44:09'

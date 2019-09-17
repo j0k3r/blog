@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/introduction-a-la-poo-en-php
 layout: post
 title: 'Introduction à la POO en PHP'
 date: '2006-06-29 08:53:39'

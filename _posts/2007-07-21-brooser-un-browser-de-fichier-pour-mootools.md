@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/brooser-un-browser-de-fichier-pour-mootools
 layout: post
 title: 'Brooser, un browser de fichier pour Mootools'
 date: '2007-07-21 11:12:02'

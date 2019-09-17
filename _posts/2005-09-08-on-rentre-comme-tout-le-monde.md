@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/on-rentre-comme-tout-le-monde
 layout: post
 title: 'On rentre comme tout le monde !'
 date: '2005-09-08 01:23:51'

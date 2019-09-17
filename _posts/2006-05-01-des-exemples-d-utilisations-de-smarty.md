@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/des-exemples-d-utilisations-de-smarty
 layout: post
 title: 'Des exemples d''utilisations de Smarty'
 date: '2006-05-01 09:12:20'

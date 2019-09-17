@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/des-nouvelles-sur-gmail
 layout: post
 title: 'Des nouvelles sur Gmail'
 date: '2004-11-11 01:24:41'

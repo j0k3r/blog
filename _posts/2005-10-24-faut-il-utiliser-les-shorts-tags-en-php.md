@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/faut-il-utiliser-les-shorts-tags-en-php
 layout: post
 title: 'Faut-il utiliser les shorts tags en PHP ?'
 date: '2005-10-24 06:42:41'

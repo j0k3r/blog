@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/un-rollover-avec-une-seule-image
 layout: post
 title: 'Un rollover avec une seule image'
 date: '2005-04-08 07:09:43'

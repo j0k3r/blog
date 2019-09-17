@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-extension-firefox-pour-imageshack
 layout: post
 title: 'Une extension Firefox pour ImageShack'
 date: '2005-11-13 12:38:25'

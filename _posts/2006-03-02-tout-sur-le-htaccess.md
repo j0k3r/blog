@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/tout-sur-le-htaccess
 layout: post
 title: 'Tout sur le .htaccess'
 date: '2006-03-02 08:17:29'

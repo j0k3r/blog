@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/p-tit-patch-de-securite-pour-postgresql-8-1-3
 layout: post
 title: 'P''tit patch de sécurité pour PostgreSQL 8.1.3'
 date: '2006-02-14 06:28:20'

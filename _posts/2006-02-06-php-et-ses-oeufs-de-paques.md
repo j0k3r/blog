@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/php-et-ses-oeufs-de-paques
 layout: post
 title: 'PHP et ses oeufs de Pâques'
 date: '2006-02-06 12:01:26'

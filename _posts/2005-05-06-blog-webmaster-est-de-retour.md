@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/blog-webmaster-est-de-retour
 layout: post
 title: 'Blog-Webmaster est de retour'
 date: '2005-05-06 10:58:33'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-doc-php-dans-la-recherche-de-firefox
 layout: post
 title: 'La doc PHP dans la recherche de Firefox'
 date: '2005-10-08 12:42:21'

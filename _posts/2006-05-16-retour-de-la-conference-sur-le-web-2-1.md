@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/retour-de-la-conference-sur-le-web-2-1
 layout: post
 title: 'Retour de la conférence sur le Web 2.1'
 date: '2006-05-16 10:58:36'

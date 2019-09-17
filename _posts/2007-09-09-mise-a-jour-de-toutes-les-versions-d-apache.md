@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mise-a-jour-de-toutes-les-versions-d-apache
 layout: post
 title: 'Mise à jour de toutes les versions d''Apache'
 date: '2007-09-09 12:07:54'

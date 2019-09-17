@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/cinq-trucs-pour-accelerer-votre-developpement-en-php
 layout: post
 title: 'Cinq trucs pour accélérer votre développement en PHP'
 date: '2005-10-24 01:10:44'

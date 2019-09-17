@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/le-tour-de-france-macromedia-studio-8
 layout: post
 title: 'Le Tour de France Macromedia Studio 8'
 date: '2005-09-14 01:44:06'

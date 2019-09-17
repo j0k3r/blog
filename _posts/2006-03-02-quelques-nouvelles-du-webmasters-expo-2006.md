@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/quelques-nouvelles-du-webmasters-expo-2006
 layout: post
 title: 'Quelques nouvelles du Webmasters Expo 2006'
 date: '2006-03-02 11:38:31'

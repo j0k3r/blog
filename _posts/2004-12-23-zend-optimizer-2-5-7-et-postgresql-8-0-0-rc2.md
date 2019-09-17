@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/zend-optimizer-2-5-7-et-postgresql-8-0-0-rc2
 layout: post
 title: 'Zend Optimizer 2.5.7 et PostgreSQL 8.0.0 RC2'
 date: '2004-12-23 12:06:26'

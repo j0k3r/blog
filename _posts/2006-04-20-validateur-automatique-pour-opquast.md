@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/validateur-automatique-pour-opquast
 layout: post
 title: 'Validateur automatique pour OpQuast'
 date: '2006-04-20 10:20:35'

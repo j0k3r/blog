@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/mysql-vs-oracle
 layout: post
 title: 'MySQL vs Oracle'
 date: '2005-04-14 07:16:49'

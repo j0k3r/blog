@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/permettre-les-tabulations-dans-les-textareas
 layout: post
 title: 'Permettre les tabulations dans les textareas'
 date: '2006-05-06 05:17:32'

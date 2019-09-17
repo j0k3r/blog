@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/sauvegarder-sa-base-mysql-par-mail
 layout: post
 title: 'Sauvegarder sa base MySQL par mail'
 date: '2006-02-21 08:46:01'

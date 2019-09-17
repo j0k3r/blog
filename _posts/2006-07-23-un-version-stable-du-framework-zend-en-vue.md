@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/un-version-stable-du-framework-zend-en-vue
 layout: post
 title: 'Un version stable du framework Zend en vue ?'
 date: '2006-07-23 01:30:14'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/google-booste-le-web
 layout: post
 title: 'Google booste le web ?'
 date: '2005-05-06 10:51:33'

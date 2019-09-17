@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/qu-en-est-il-du-nommage-des-fonctions-en-php
 layout: post
 title: 'Qu''en est-il du nommage des fonctions en PHP ?'
 date: '2007-02-28 11:30:18'

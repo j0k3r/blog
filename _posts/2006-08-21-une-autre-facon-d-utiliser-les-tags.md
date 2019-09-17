@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-autre-facon-d-utiliser-les-tags
 layout: post
 title: 'Une autre façon d''utiliser les tags'
 date: '2006-08-21 09:41:42'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/comment-bien-coder-en-javascript
 layout: post
 title: 'Comment bien coder en Javascript ?'
 date: '2006-10-11 06:12:24'

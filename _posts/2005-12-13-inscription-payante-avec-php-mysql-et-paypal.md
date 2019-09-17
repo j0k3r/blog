@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/inscription-payante-avec-php-mysql-et-paypal
 layout: post
 title: 'Inscription payante avec PHP/MySQL et PayPal'
 date: '2005-12-13 12:26:57'

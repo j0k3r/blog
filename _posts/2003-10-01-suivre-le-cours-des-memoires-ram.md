@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/suivre-le-cours-des-memoires-ram
 layout: post
 title: 'Suivre le cours des mémoires RAM'
 date: '2003-10-01 00:00:00'

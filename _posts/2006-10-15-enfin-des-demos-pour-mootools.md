@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/enfin-des-demos-pour-mootools
 layout: post
 title: 'Enfin des démos pour Mootools !'
 date: '2006-10-15 07:53:22'

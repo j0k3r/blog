@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/edition-a-la-volee-en-ajax-sur-j0k3r-n3t
 layout: post
 title: 'Edition à la volée en AJAX sur j0k3r.n3t'
 date: '2006-03-23 10:27:15'

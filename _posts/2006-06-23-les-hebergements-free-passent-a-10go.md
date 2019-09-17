@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-hebergements-free-passent-a-10go
 layout: post
 title: 'Les hébergements Free passent à 10Go'
 date: '2006-06-23 01:57:06'

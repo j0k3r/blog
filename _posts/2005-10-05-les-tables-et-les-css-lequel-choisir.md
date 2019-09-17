@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-tables-et-les-css-lequel-choisir
 layout: post
 title: 'Les tables et les CSS, lequel choisir ?'
 date: '2005-10-05 12:27:42'

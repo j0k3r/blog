@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/le-projet-du-framework-de-zend
 layout: post
 title: 'Le projet du Framework de Zend'
 date: '2005-11-16 12:23:20'

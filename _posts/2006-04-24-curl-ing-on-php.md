@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/curl-ing-on-php
 layout: post
 title: 'Curl''ing on PHP'
 date: '2006-04-24 08:54:44'

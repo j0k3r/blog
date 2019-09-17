@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/nouvelles-rc-pour-firefox-1-0-3
 layout: post
 title: 'Nouvelles RC pour Firefox 1.0.3'
 date: '2005-04-07 12:01:03'

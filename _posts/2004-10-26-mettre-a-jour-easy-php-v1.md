@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/mettre-a-jour-easy-php-v1
 layout: post
 title: 'Mettre à jour EasyPHP v1'
 date: '2004-10-26 18:40:03'

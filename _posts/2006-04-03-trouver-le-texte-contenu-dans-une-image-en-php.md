@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/trouver-le-texte-contenu-dans-une-image-en-php
 layout: post
 title: 'Trouver le texte contenu dans une image en PHP'
 date: '2006-04-03 07:29:41'

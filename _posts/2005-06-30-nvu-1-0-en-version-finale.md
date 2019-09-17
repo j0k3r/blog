@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/nvu-1-0-en-version-finale
 layout: post
 title: 'Nvu 1.0 en version finale !'
 date: '2005-06-30 09:46:03'

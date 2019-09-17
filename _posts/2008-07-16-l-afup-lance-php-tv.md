@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/l-afup-lance-php-tv
 layout: post
 title: 'L''AFUP lance PHP TV !'
 date: '2008-07-16 09:47:42'

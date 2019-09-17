@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/wamp-amp-hotmail
 layout: post
 title: 'Wamp &amp; Hotmail'
 date: '2004-11-17 05:54:03'

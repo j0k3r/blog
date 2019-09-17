@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/decouvrir-ruby-on-rails
 layout: post
 title: 'Découvrir Ruby On Rails'
 date: '2006-03-07 08:33:08'

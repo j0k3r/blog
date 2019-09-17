@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/sondage-alors-cette-v2
 layout: post
 title: 'Sondage : Alors cette v2 ?'
 date: '2004-11-13 12:49:05'

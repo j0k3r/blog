@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/des-tutoriels-pour-utiliser-xml-et-php
 layout: post
 title: 'Des tutoriels pour utiliser XML et PHP'
 date: '2005-12-23 07:44:12'

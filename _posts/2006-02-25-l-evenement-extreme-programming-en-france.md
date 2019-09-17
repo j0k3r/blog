@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/l-evenement-extreme-programming-en-france
 layout: post
 title: 'L''événement eXtreme Programming en France'
 date: '2006-02-25 06:35:20'

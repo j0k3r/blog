@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/un-nouveau-consortium-de-securite-php
 layout: post
 title: 'Un nouveau consortium de sécurité PHP'
 date: '2005-01-31 07:09:21'

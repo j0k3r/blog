@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/phpmyadmin-2-6-1-rc1-nvu-0-6-et-postgresql-8-0
 layout: post
 title: 'phpMyAdmin 2.6.1-rc1, Nvu 0.6 et PostgreSQL 8.0'
 date: '2004-12-13 03:00:03'

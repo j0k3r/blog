@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/joyeux-nowel
 layout: post
 title: 'Joyeux nowel !'
 date: '2005-12-24 05:59:31'

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/sourceforge-atteints-les-100-000-projets
 layout: post
 title: 'SourceForge atteints les 100 000 projets'
 date: '2005-05-20 03:16:57'

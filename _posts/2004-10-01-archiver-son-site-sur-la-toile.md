@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/archiver-son-site-sur-la-toile
 layout: post
 title: 'Archiver son site sur la toile'
 date: '2004-10-01 00:00:00'

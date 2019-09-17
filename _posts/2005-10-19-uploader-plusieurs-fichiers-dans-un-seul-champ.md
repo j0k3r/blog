@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/uploader-plusieurs-fichiers-dans-un-seul-champ
 layout: post
 title: 'Uploader plusieurs fichiers dans un seul champ !'
 date: '2005-10-19 04:04:24'

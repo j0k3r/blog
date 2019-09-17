@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/site-en-maintenance
 layout: post
 title: 'Site en maintenance'
 date: '2005-05-08 12:51:28'

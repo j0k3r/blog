@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/calculer-un-age-en-php
 layout: post
 title: 'Calculer un âge en PHP'
 date: '2005-09-15 07:46:06'

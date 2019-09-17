@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/comment-mieux-connaitre-mon-brouteur-internet
 layout: post
 title: 'Comment mieux connaitre mon Brouteur internet ?!'
 date: '2003-12-01 00:00:00'

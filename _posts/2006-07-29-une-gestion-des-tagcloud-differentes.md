@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-gestion-des-tagcloud-differentes
 layout: post
 title: 'Une gestion des TagCloud différentes'
 date: '2006-07-29 10:38:32'

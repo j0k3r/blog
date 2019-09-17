@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/ajax-lier-deux-champs-en-autocompletion
 layout: post
 title: 'Ajax - Lier deux champs en autocompletion'
 date: '2007-05-09 20:22:13'

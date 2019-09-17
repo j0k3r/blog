@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/une-autre-introduction-a-ajax
 layout: post
 title: 'Une autre introduction à AJAX'
 date: '2006-09-08 12:36:38'

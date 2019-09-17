@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/sauvegarder-ses-marque-pages
 layout: post
 title: 'Sauvegarder ses marque-pages'
 date: '2005-07-04 11:44:41'

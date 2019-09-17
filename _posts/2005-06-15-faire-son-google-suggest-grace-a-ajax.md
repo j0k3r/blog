@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/faire-son-google-suggest-grace-a-ajax
 layout: post
 title: 'Faire son Google Suggest grâce à AJAX'
 date: '2005-06-15 04:28:30'

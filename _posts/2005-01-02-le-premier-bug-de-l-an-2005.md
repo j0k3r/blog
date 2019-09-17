@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/le-premier-bug-de-l-an-2005
 layout: post
 title: 'Le premier buG de l''an 2005'
 date: '2005-01-02 11:25:29'

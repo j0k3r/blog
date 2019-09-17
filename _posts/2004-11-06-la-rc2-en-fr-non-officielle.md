@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/la-rc2-en-fr-non-officielle
 layout: post
 title: 'La RC2 en FR ... non officielle'
 date: '2004-11-06 08:09:42'

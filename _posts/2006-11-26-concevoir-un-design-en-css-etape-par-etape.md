@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/concevoir-un-design-en-css-etape-par-etape
 layout: post
 title: 'Concevoir un design en CSS étape par étape'
 date: '2006-11-26 04:00:16'

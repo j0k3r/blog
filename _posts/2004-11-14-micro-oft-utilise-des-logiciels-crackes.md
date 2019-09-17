@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/micro-oft-utilise-des-logiciels-crackes
 layout: post
 title: 'Micro$oft utilise des logiciels crackés !'
 date: '2004-11-14 12:20:42'

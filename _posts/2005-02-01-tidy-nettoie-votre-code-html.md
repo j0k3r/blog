@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /article/tidy-nettoie-votre-code-html
 layout: post
 title: 'Tidy nettoie votre code HTML'
 date: '2005-02-01 00:00:00'

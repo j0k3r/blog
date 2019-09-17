@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/netscape-8-beta
 layout: post
 title: 'Netscape 8 bêta'
 date: '2005-03-03 11:14:12'

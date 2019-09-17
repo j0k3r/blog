@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/les-nouveautes-de-firefox-1-1
 layout: post
 title: 'Les nouveautés de Firefox 1.1'
 date: '2005-06-10 01:26:17'

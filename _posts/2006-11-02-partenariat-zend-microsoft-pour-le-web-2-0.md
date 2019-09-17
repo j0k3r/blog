@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/partenariat-zend-microsoft-pour-le-web-2-0
 layout: post
 title: 'Partenariat Zend / Microsoft pour le Web 2.0'
 date: '2006-11-02 06:51:52'

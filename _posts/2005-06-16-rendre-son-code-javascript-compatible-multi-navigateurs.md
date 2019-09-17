@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /blog/rendre-son-code-javascript-compatible-multi-navigateurs
 layout: post
 title: 'Rendre son code JavaScript compatible multi-navigateurs'
 date: '2005-06-16 08:07:31'
