@@ -9,6 +9,7 @@ baseurl: ""
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Assets
 sass:
