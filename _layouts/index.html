@@ -17,7 +17,7 @@ layout: default
     {% include post-meta.html post=post %}
 
     {% if post.excerpt %}
-      <p>{{ post.excerpt }}</p>
+      <p>{{ post.excerpt | markdownify }}</p>
     {% else %}
       {{ post.content }}
     {% endif %}

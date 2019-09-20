@@ -4,7 +4,7 @@ title: 'Faire une feuille de style pour l''impression'
 date: '2007-05-19 12:32:43'
 author: j0k
 tags: css print
-excerpt: "On se focalise souvent sur les feuilles de style pour le rendu à l'écran, mais une page web peut également se décliner sous la forme d'un document imprimé. Coup de chance : les feuilles de style CSS servent aussi à définir les styles pour l'impression des pages web.     \nLe collectif AlsacreationS publie un nouveau tutoriel sur [les feuilles de styles dédiés à      …"
+excerpt: "On se focalise souvent sur les feuilles de style pour le rendu à l'écran, mais une page web peut également se décliner sous la forme d'un document imprimé. Coup de chance : les feuilles de style CSS servent aussi à définir les styles pour l'impression des pages web."
 ---
 
 On se focalise souvent sur les feuilles de style pour le rendu à l'écran, mais une page web peut également se décliner sous la forme d'un document imprimé. Coup de chance : les feuilles de style CSS servent aussi à définir les styles pour l'impression des pages web.

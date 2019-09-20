@@ -4,7 +4,7 @@ title: 'MiniAjax centralise les scripts AJAX rapidement utilisables'
 date: '2007-02-27 08:57:52'
 author: j0k
 tags: ajax
-excerpt: "C'est une bonne idée pour se faire connaître : centraliser les meilleurs tutoriels/scripts AJAX rapides et faciles à mettre en place.     \nAinsi, une trentaine de scripts DHTML et AJAX sont rassemblés sur [MiniAjax](http://www.miniajax.com/).   On retrouve les stars des scripts, je dirai :   * [Prototype      …"
+excerpt: "C'est une bonne idée pour se faire connaître : centraliser les meilleurs tutoriels/scripts AJAX rapides et faciles à mettre en place.     \nAinsi, une trentaine de scripts DHTML et AJAX sont rassemblés sur [MiniAjax](http://www.miniajax.com/)."
 ---
 
 C'est une bonne idée pour se faire connaître : centraliser les meilleurs tutoriels/scripts AJAX rapides et faciles à mettre en place.

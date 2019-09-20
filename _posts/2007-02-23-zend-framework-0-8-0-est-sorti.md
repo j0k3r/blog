@@ -4,7 +4,7 @@ title: 'Zend Framework 0.8.0 est sorti'
 date: '2007-02-23 01:38:11'
 author: rod
 tags: zend_framework
-excerpt: "Cette nouvelle version apporte son lot de nouveautés et corrige 131 bugs. Des composants sont sortis de l'incubateur, on peut notament citer : un composant d'authentification, de filtrage et de validation des données, de lecture de mails, et encore bien d'autres choses.     \nDes liens intéressants sur cette nouvelle version:   *      …"
+excerpt: "Cette nouvelle version apporte son lot de nouveautés et corrige 131 bugs. Des composants sont sortis de l'incubateur, on peut notament citer : un composant d'authentification, de filtrage et de validation des données, de lecture de mails, et encore bien d'autres choses."
 ---
 
 Cette nouvelle version apporte son lot de nouveautés et corrige 131 bugs. Des composants sont sortis de l'incubateur, on peut notament citer : un composant d'authentification, de filtrage et de validation des données, de lecture de mails, et encore bien d'autres choses.

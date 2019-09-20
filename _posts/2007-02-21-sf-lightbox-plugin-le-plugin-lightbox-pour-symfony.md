@@ -4,7 +4,7 @@ title: 'sfLightboxPlugin : Le plugin lightbox pour Symfony !'
 date: '2007-02-21 05:42:07'
 author: j0k
 tags: lightbox plugin symfony
-excerpt: "Lightbox est très facile d'intégration dans n'importe quel site : une librairie, une url type à mettre et tout est place.     \nL'intégration dans Symfony pourrait se faire aussi facilement, mais c'est un peu moins propre on dira.    Symfony utilise des plugins qui sont facilement intégrable dans votre projet (surtout depuis la [version      …"
+excerpt: "Lightbox est très facile d'intégration dans n'importe quel site : une librairie, une url type à mettre et tout est place.     \nL'intégration dans Symfony pourrait se faire aussi facilement, mais c'est un peu moins propre on dira.    Symfony utilise des plugins qui sont facilement intégrable dans votre projet …"
 ---
 
 Lightbox est très facile d'intégration dans n'importe quel site : une librairie, une url type à mettre et tout est place.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ma version de sfDoctrineSimpleForumPlugin est sur #github !'
+title: 'Ma version de forum avec Doctrine est sur #github !'
 date: '2010-03-20 18:51:49'
 author: j0k
 tags: doctrine github phpBB2 sfDoctrineSimpleForumPlugin symfony

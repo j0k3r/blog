@@ -4,7 +4,7 @@ title: 'script.aculo.us dans l''avenir'
 date: '2007-10-17 10:59:55'
 author: j0k
 tags: future scriptaculous
-excerpt: "script.aculo.us a fait un peu parler de lui dernièrement.     \nTout d'abord, ils ont lancé un p'tit teaser concernant leur prochaine version 2.0, qui sera en fait une grande refonte de la librairie :  \n  \n )   \n  \nSi la librairie pouvait être plus rapide, moins lourde et avec plus de fonctionnalités, ça serait le pied :-)  \n  \n…"
+excerpt: "script.aculo.us a fait un peu parler de lui dernièrement. Tout d'abord, ils ont lancé un p'tit teaser concernant leur prochaine version 2.0, qui sera en fait une grande refonte de la librairie. Si la librairie pouvait être plus rapide, moins lourde et avec plus de fonctionnalités, ça serait le pied :-)"
 ---
 
 script.aculo.us a fait un peu parler de lui dernièrement.

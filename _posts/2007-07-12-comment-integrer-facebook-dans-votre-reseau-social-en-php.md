@@ -4,7 +4,7 @@ title: 'Comment intégrer Facebook dans votre réseau social en PHP ?'
 date: '2007-07-12 08:17:51'
 author: j0k
 tags: facebook
-excerpt: 'Vous ne connaissez peut-être pas Facebook.   Facebook est un site web de réseau social destiné au départ à rassembler les lycéens et les étudiants (puis les jeunes employés et les militaires, une fois les diplômes acquis). Facebook prend une grosse ampleur depuis ces derniers temps. Alexa le classe même dans [le top20 des sites      ...'
+excerpt: 'Vous ne connaissez peut-être pas Facebook.   Facebook est un site web de réseau social destiné au départ à rassembler les lycéens et les étudiants (puis les jeunes employés et les militaires, une fois les diplômes acquis). Facebook prend une grosse ampleur depuis ces derniers temps.'
 ---
 
 Vous ne connaissez peut-être pas Facebook.   Facebook est un site web de réseau social destiné au départ à rassembler les lycéens et les étudiants (puis les jeunes employés et les militaires, une fois les diplômes acquis). Facebook prend une grosse ampleur depuis ces derniers temps. Alexa le classe même dans [le top20 des sites internets](http://www.alexa.com/data/details/traffic_details?url=http://www.facebook.com).

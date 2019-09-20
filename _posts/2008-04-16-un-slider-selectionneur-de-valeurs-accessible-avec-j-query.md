@@ -4,7 +4,7 @@ title: 'Un slider (sélectionneur de valeurs) accessible avec jQuery'
 date: '2008-04-16 07:19:55'
 author: j0k
 tags: jquery slider
-excerpt: "Depuis le temps que je cherchais un slider digne de ce nom, en Javascript et qui me permettait de prendre une sélection de valeurs qui ne soit des dates !! Je l'ai enfin trouvé. Certes j'utilise prototype plutôt que jQuery, mais déjà el fait d'en avoir trouver un, ça me soulage.     \n )   \n  \nBon tout d'abord, un slider c'est quoi?  \n     …"
+excerpt: "Depuis le temps que je cherchais un slider digne de ce nom, en Javascript et qui me permettait de prendre une sélection de valeurs qui ne soit des dates !! Je l'ai enfin trouvé. Certes j'utilise prototype plutôt que jQuery, mais déjà el fait d'en avoir trouver un, ça me soulage.) Bon tout d'abord, un slider c'est quoi?"
 ---
 
 Depuis le temps que je cherchais un slider digne de ce nom, en Javascript et qui me permettait de prendre une sélection de valeurs qui ne soit des dates !! Je l'ai enfin trouvé. Certes j'utilise prototype plutôt que jQuery, mais déjà el fait d'en avoir trouver un, ça me soulage.

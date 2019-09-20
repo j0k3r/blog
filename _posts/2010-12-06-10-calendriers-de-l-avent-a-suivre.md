@@ -4,7 +4,7 @@ title: '10+ calendriers de l''avent à suivre'
 date: '2010-12-06 13:33:40'
 author: j0k
 tags: avent calendrier webdesign
-excerpt: "Fin d'année oblige, on voit fleurir des calendriers de l'avent un peu partout.Je vous en propose une dizaine (webdesign, php, html5, css3, iPhone, etc ..), en espérant vous en faire découvrir quelques uns !"
+excerpt: "Fin d'année oblige, on voit fleurir des calendriers de l'avent un peu partout. Je vous en propose une dizaine (webdesign, php, html5, css3, iPhone, etc ..), en espérant vous en faire découvrir quelques uns !"
 ---
 
 Je l'avais déjà fait y'a deux ans (déjà) mais je trouve la chose intéressante !
