@@ -10,6 +10,7 @@ baseurl: ""
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-pwa-plugin
 
 # Assets
 sass:
@@ -36,3 +37,9 @@ exclude:
 
 include:
   - _redirects
+
+pwa:
+  sw_src_filepath: assets/js/service-worker.js
+  sw_dest_filename: service-worker.js
+  dest_js_directory: assets/js
+  precache_recent_posts_num: 5
