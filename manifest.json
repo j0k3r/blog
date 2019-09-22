@@ -1,0 +1,27 @@
+{
+  "name": "j0k3r.net",
+  "short_name": "j0k",
+  "icons": [
+    {
+      "src": "/assets/images/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/images/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#0F6EB5",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#0F6EB5",
+  "orientation": "portrait",
+  "serviceworker": {
+    "src": "sw.js",
+    "scope": "/",
+    "use_cache": false
+  }
+}
