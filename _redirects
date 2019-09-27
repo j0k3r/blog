@@ -15,3 +15,7 @@ https://j0k3r-net.netlify.com/* https://www.j0k3r.net/:splat 301!
 
 /blog/:slug                 /:slug
 /article/:slug              /:slug
+
+/blog                       /
+/apropos                    /about
+/vrac                       /tags#vrac
