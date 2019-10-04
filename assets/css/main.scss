@@ -5,6 +5,17 @@
 $sidebar-bg-color: #0F6EB5;
 $heading-color: #0F6BB3;
 
+/* abril-fatface-regular - latin */
+@font-face {
+  font-family: 'Abril Fatface';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Abril Fatface'), local('AbrilFatface-Regular'),
+       url('/assets/fonts/abril-fatface-v11-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts/abril-fatface-v11-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
 @import "hydeout";
 
 @media (min-width: 49rem) {
