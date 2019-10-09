@@ -23,3 +23,30 @@ $heading-color: #0F6BB3;
     border-left: #1DB0E4 5px solid;
   }
 }
+
+@media (prefers-color-scheme: dark) {
+  @media (min-width: 49rem) {
+    .container {
+      background-color: #444;
+    }
+  }
+  .content {
+    background-color: #444;
+    color: #c3b6a2;
+  }
+  a, .page-title, .post-title, .post-title a {
+    color: #269cc1;
+  }
+  article+*, .post-body ~ section {
+    border-color: #6d6060
+  }
+  #sidebar .site-title a, #sidebar .site-title, #sidebar a {
+    color: #444;
+  }
+  #sidebar a svg {
+    filter: invert(80%);
+  }
+  img {
+    filter: grayscale(30%);
+  }
+}
