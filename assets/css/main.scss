@@ -24,6 +24,11 @@ $heading-color: #0F6BB3;
   }
 }
 
+.highlight pre.highlight {
+  padding: 0;
+  margin: 0;
+}
+
 // contrast adjustment
 .tags-list a .tag-count {
   background: none;
