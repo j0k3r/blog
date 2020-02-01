@@ -13,12 +13,11 @@ addons:
 
 before_install:
   - nvm install 10
-  - node -v
   - npm install -g @lhci/cli@0.3.x
 
 install:
-  - gem install jekyll
-  - gem install public_suffix --version 4.0.1
+  - gem install jekyll --no-document --local
+  - bundle clean --force
   - bundle install
 
 script: jekyll build
