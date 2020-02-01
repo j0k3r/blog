@@ -16,7 +16,7 @@ before_install:
   - npm install -g @lhci/cli@0.3.x
 
 install:
-  - gem install jekyll --no-document --local
+  - gem install jekyll --no-document
   - bundle clean --force
   - bundle install
 
