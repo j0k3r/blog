@@ -17,8 +17,6 @@ before_install:
 
 install:
   - gem install jekyll --no-document
-  - gem install public_suffix --version 4.0.1
-  - bundle clean --force
   - bundle install
 
 script: jekyll build
