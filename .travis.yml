@@ -24,4 +24,5 @@ notifications:
   email: false
 
 after_success:
+  - jekyll serve &
   - lhci autorun
