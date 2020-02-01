@@ -2,9 +2,9 @@
   "ci": {
     "collect": {
       "url": [
-        "<CHANGE URL>http://localhost:3000/",
-        "<CHANGE URL>http://localhost:3000/tags#symfony",
-        "<CHANGE URL>http://localhost:3000/10-calendriers-de-l-avent-a-suivre"
+        "http://localhost:3000/",
+        "http://localhost:3000/tags#symfony",
+        "http://localhost:3000/10-calendriers-de-l-avent-a-suivre"
       ],
       "numberOfRuns": 2,
       "staticDistDir": "./_site"

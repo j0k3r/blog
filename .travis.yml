@@ -25,4 +25,5 @@ notifications:
 
 after_success:
   - jekyll serve &
+  - sleep 2
   - lhci autorun
