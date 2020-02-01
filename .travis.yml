@@ -1,0 +1,26 @@
+language: ruby
+
+cache: bundler
+
+rvm:
+  - 2.6.3
+
+addons:
+  apt:
+    packages:
+      - libcurl4-openssl-dev
+  chrome: stable
+
+before_install:
+  - npm install -g @lhci/cli@0.3.x
+
+install:
+  - gem install jekyll
+
+script: jekyll build
+
+notifications:
+  email: false
+
+after_success:
+  - lhci autorun
