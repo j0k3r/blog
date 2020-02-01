@@ -12,10 +12,13 @@ addons:
   chrome: stable
 
 before_install:
+  - node -v
   - npm install -g @lhci/cli@0.3.x
 
 install:
   - gem install jekyll
+  - gem install public_suffix
+  - bundle install
 
 script: jekyll build
 
