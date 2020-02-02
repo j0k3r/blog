@@ -1,6 +1,8 @@
 language: ruby
 
-cache: bundler
+cache:
+  bundler: true
+  npm: true
 
 rvm:
   - 2.6.3
@@ -22,6 +24,7 @@ before_script:
   - mkdir -p _site
   - cd _site
   - zero &
+  - cd
 
 script:
   - jekyll build
