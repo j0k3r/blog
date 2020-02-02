@@ -19,6 +19,8 @@ install:
   - bundle install
 
 before_script:
+  - mkdir -p _site
+  - cd _site
   - zero &
 
 script:
