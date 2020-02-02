@@ -13,7 +13,7 @@ addons:
 
 before_install:
   - nvm install 10
-  - npm install -g @lhci/cli@0.3.x
+  - npm install -g @lhci/cli@0.3.x zero
 
 install:
   - bundle install
@@ -24,6 +24,6 @@ notifications:
   email: false
 
 after_success:
-  - jekyll serve &
+  - zero &
   - sleep 2
   - lhci autorun
