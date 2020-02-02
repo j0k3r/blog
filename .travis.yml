@@ -21,10 +21,12 @@ install:
   - bundle install
 
 before_script:
+  - pwd
   - mkdir -p _site
   - cd _site
   - zero &
-  - cd
+  - cd $TRAVIS_BUILD_DIR
+  - pwd
 
 script:
   - jekyll build
