@@ -20,14 +20,6 @@ before_install:
 install:
   - bundle install
 
-before_script:
-  - pwd
-  - mkdir -p _site
-  - cd _site
-  - zero &
-  - cd $TRAVIS_BUILD_DIR
-  - pwd
-
 script:
   - jekyll build
 
@@ -35,4 +27,7 @@ notifications:
   email: false
 
 after_success:
+  - cd _site
+  - zero &
+  - sleep 10
   - lhci autorun
