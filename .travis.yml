@@ -18,12 +18,14 @@ before_install:
 install:
   - bundle install
 
-script: jekyll build
+before_script:
+  - zero &
+
+script:
+  - jekyll build
 
 notifications:
   email: false
 
 after_success:
-  - zero &
-  - sleep 2
   - lhci autorun
