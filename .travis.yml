@@ -15,7 +15,7 @@ addons:
 
 before_install:
   - nvm install 10
-  - npm install -g @lhci/cli@0.3.x zero
+  - npm install -g @lhci/cli@0.3.x
 
 install:
   - bundle install
@@ -27,7 +27,5 @@ notifications:
   email: false
 
 after_success:
-  - cd _site
-  - zero &
-  - sleep 10
+  - php -S localhost:3000 -t _site/
   - lhci autorun
