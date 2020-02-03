@@ -3,8 +3,8 @@
     "collect": {
       "url": [
         "http://localhost:3000/",
-        "http://localhost:3000/tags#symfony",
-        "http://localhost:3000/10-calendriers-de-l-avent-a-suivre"
+        "http://localhost:3000/tags.html#symfony",
+        "http://localhost:3000/10-calendriers-de-l-avent-a-suivre.html"
       ],
       "numberOfRuns": 2,
       "staticDistDir": "./_site"
