@@ -16,16 +16,12 @@ addons:
 before_install:
   - nvm install 10
   - npm install -g @lhci/cli@0.3.x
-  - gem install bundler
 
 install:
   - bundle install
 
 script:
   - jekyll build
-  - pwd
-  - ls -la
-  - ls -la _site
 
 notifications:
   email: false
