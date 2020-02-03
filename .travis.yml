@@ -27,5 +27,5 @@ notifications:
   email: false
 
 after_success:
-  - php -S localhost:3000 -t _site/
+  - php -S localhost:3000 -t _site/ &
   - lhci autorun
