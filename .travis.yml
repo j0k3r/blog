@@ -28,7 +28,5 @@ notifications:
 
 after_success:
   - php -S localhost:3000 -t _site/ &
-  - sleep 5
-  - curl -v http://localhost:3000
-  - curl -v http://localhost:3000/tags.html
+  - sleep 3
   - lhci autorun
