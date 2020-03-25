@@ -4,18 +4,18 @@
 # Redirect default Netlify subdomain to primary domain
 https://j0k3r-net.netlify.com/* https://www.j0k3r.net/:splat 301!
 
-/feed                       /feed.xml
+/feed                       /feed.xml             301!
 
 /tag/:tag                   /tags#:tag
-/category/ch-tits-trucs     /tags#ch-tits
-/category/developpement     /tags#développement
-/category/divers            /tags#divers
-/category/j0k3r-n3t         /tags#j0k3r-net
-/category/webdesign         /tags#webdesign
+/category/ch-tits-trucs     /tags#ch-tits         301!
+/category/developpement     /tags#développement   301!
+/category/divers            /tags#divers          301!
+/category/j0k3r-n3t         /tags#j0k3r-net       301!
+/category/webdesign         /tags#webdesign       301!
 
 /blog/:slug                 /:slug
 /article/:slug              /:slug
 
-/blog                       /
-/apropos                    /about
-/vrac                       /tags#vrac
+/blog                       /                     301!
+/apropos                    /about                301!
+/vrac                       /tags#vrac            301!
