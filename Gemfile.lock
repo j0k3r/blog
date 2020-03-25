@@ -4,7 +4,7 @@ GEM
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
-    concurrent-ruby (1.1.5)
+    concurrent-ruby (1.1.6)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -38,8 +38,8 @@ GEM
       sass (~> 3.4)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-theme-hydeout (4.0.2)
-      jekyll (~> 3.4)
+    jekyll-theme-hydeout (4.1.0)
+      jekyll (>= 3.6, < 5.0)
       jekyll-feed (~> 0.6)
       jekyll-gist (~> 1.4)
       jekyll-paginate (~> 1.1)
@@ -52,7 +52,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
     multipart-post (2.1.1)
-    octokit (4.15.0)
+    octokit (4.17.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
@@ -61,7 +61,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rouge (3.15.0)
+    rouge (3.17.0)
     safe_yaml (1.0.5)
     sass (3.7.4)
       sass-listen (~> 4.0.0)
@@ -78,7 +78,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-sitemap
-  jekyll-theme-hydeout (~> 4.0)
+  jekyll-theme-hydeout (~> 4.1)
 
 BUNDLED WITH
    1.17.3
