@@ -1,0 +1,32 @@
+language: ruby
+
+cache:
+  bundler: true
+  npm: true
+
+rvm:
+  - 2.6.3
+
+addons:
+  apt:
+    packages:
+      - libcurl4-openssl-dev
+  chrome: stable
+
+before_install:
+  - nvm install 10
+  - npm install -g @lhci/cli@0.3.x
+
+install:
+  - bundle install
+
+script:
+  - jekyll build
+
+notifications:
+  email: false
+
+after_success:
+  - php -S localhost:3000 -t _site/ &
+  - sleep 3
+  - lhci autorun
