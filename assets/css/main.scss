@@ -23,3 +23,83 @@ $heading-color: #0F6BB3;
     border-left: #1DB0E4 5px solid;
   }
 }
+
+// contrast adjustment
+.tags-list a .tag-count {
+  background: none;
+  border: 1px #207ab9 solid;
+  color: #207ab9;
+}
+.posts-list li small {
+  color: #757575;
+}
+a {
+  color: #207ab9;
+}
+.post-tags a, .tags-list a {
+  opacity: 1;
+}
+// contrast adjustment
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #183d5d;
+    background-image: linear-gradient(to bottom, #0c5a94, #072540);
+  }
+
+  @media (min-width: 49rem) {
+    .container {
+      background-color: #183d5d;
+      border-left: #126b8a 5px solid;
+    }
+    .container > header {
+      color: #269cc1;
+    }
+  }
+  .content {
+    background-color: #183d5d;
+    color: #e6dfd5;
+  }
+  a, .page-title, .post-title, .post-title a {
+    color: #0eb1e3;
+  }
+  article+*, .post-body ~ section {
+    border-color: #6d6060
+  }
+  #sidebar .site-title a, #sidebar .site-title, #sidebar a, h2 {
+    color: #c3b6a2;
+  }
+  #sidebar a svg {
+    // because fill is defined in the tag svg
+    fill: #c3b6a2 !important;
+  }
+  #sidebar a svg:hover {
+    fill: #fff !important;
+  }
+  img {
+    filter: grayscale(30%);
+  }
+  .post-meta {
+    color: #c3b6a2;
+  }
+  strong {
+    color: #a89f9f;
+  }
+  .pagination > a {
+    background-color: #072846;
+    border: solid #0b5993;
+    border-width: 1px;
+  }
+  .pagination > a:hover {
+    background-color: #0b5993;
+  }
+  .tags-list a .tag-count {
+    color: #70acd7;
+  }
+  blockquote {
+    color: #a4a4a4;
+  }
+  code {
+    color: #bd4f59;
+  }
+}

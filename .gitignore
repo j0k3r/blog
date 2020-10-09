@@ -5,3 +5,4 @@ vendor
 composer*
 dump.sql
 *.php
+.lighthouseci

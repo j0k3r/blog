@@ -36,7 +36,7 @@ J'avais pour habitude de mettre des numéros de version à mon site web (je n'av
 
 Cette version serait logiquement **la v4**.
 
-Une description des autres versions (avec screenshot):
+Une description des autres versions :
 
  - **v1** (circa 2003) : Ouh c'était moche. Un design en `<table>` de 3 colonnes, ultra *hype* pour l'époque avec l'affichage de l'heure en temps réel et du nombre total de visiteurs
  - **v2** (2004) : Complètement ré-écrite avec [plein de nouveautés](/la-v2-est-publique.html)
