@@ -2,6 +2,10 @@ os: linux
 dist: xenial
 language: ruby
 
+if: |
+    type = pull_request OR \
+    branch = blog
+
 cache:
   bundler: true
   npm: true
