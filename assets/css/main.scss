@@ -36,6 +36,9 @@ $heading-color: #0F6BB3;
 a {
   color: #207ab9;
 }
+.post-tags a, .tags-list a {
+  opacity: 1;
+}
 // contrast adjustment
 
 @media (prefers-color-scheme: dark) {
