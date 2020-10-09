@@ -6,3 +6,4 @@ composer*
 dump.sql
 *.php
 .lighthouseci
+.jekyll-cache
