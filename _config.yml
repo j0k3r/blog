@@ -36,3 +36,13 @@ exclude:
 
 include:
   - _redirects
+
+cloudinary:
+  cloud_name: j0k
+  verbose: true
+
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true

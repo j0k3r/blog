@@ -8,3 +8,7 @@ require 'rbconfig'
 if RbConfig::CONFIG['target_os'] =~ /darwin(1[0-3])/i
   gem 'rb-fsevent', '<= 0.9.4'
 end
+
+group :jekyll_plugins do
+  gem 'jekyll-cloudinary'
+end
