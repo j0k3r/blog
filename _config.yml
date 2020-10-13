@@ -36,3 +36,7 @@ exclude:
 
 include:
   - _redirects
+
+cloudinary:
+  cloud_name: j0k
+  verbose: true

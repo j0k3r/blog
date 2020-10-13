@@ -11,6 +11,7 @@ GEM
     eventmachine (1.2.7)
     faraday (1.0.1)
       multipart-post (>= 1.2, < 3)
+    fastimage (2.2.0)
     ffi (1.13.1)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
@@ -31,6 +32,9 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 1.8)
+    jekyll-cloudinary (1.14.1)
+      fastimage (~> 2.0)
+      jekyll (>= 3.6, < 5)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-gist (1.5.0)
@@ -83,6 +87,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-cloudinary
   jekyll-sitemap
   jekyll-theme-hydeout (~> 4.1)
 

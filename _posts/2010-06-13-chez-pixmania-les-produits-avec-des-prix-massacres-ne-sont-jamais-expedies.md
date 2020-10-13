@@ -19,7 +19,7 @@ Mardi 1er juin
 
 8h. J'ai reçu une newsletter de PIXmania dans la nuit avec plein de promos dedans (comme d'hab') mais j'en remarque une qui me semble bien intéressante: Red Dead Redemption à -23%, soit 50€ ! 15€ de moins que sur le marché. Le jeu est un poil plus cher qu'en U, où il était à vendre à 47€.
 
-![Red Dead Redemption à -23%, soit 50€][3]
+{% cloudinary /assets/images/box_view_pix_1.png alt="Red Dead Redemption à -23%, soit 50€" %}
 
 Ni une, ni deux, je vais sur le site, le produit est marqué en stock livraison en 24/48h. Parfait. Ma CB étant bloquée suite à mon retour de vacances un peu couteux, je choisis la livraison en point retrait PIXmania (à 2 minutes du boulot, top !) et de payer à la réception.
 
@@ -63,7 +63,7 @@ Toujours aucune réponse du service client PIXmania, si je compte bien, ça fait
 
 Et puis là, le [twitter de pixmania se réveille][4] ! Je réponds que j'attends ma commande depuis le 01/06 ... Joie, on me réponds qu'une personne va entrer en contact avec moi.
 
-![Réponse de PIXmania sur twitter][5]
+{% cloudinary /assets/images/gallery_view_pix_2.png alt="Réponse de PIXmania sur twitter" %}
 
 Noëlla me demande la "référence CCL" (le numéro de commande). En fin de journée, j'ai une réponse qui fait rire (jaune) :
 
@@ -116,7 +116,7 @@ Alors bon, si je voulais le commander en UK, je l'aurai fait moi même sans pass
 
 Deuxième surprise, le jeu est maintenant à 37.90 !! En même temps, ça fait 10 jours que je l'ai commandé, même sur la Fnac le prix a baissé ... mais pas dans ma commande (logique ceci dit).
 
-![Red Dead Redemption à 37.90€][6]
+{% cloudinary /assets/images/gallery_index_pix_3.png alt="Red Dead Redemption à 37.90€" %}
 
 En re-regardant le détail de ma commande, je survole le "en savoir plus" du retrait en magasin PIXmania :
 
@@ -162,8 +162,5 @@ Je ne retournerais certainement jamais chez PIXmania pour faire une commande. On
 
   [1]: http://www.jeuxvideo.com/reportages-videos-jeux/0000/00000436/red-dead-redemption-serie-de-gameplay-introduction.htm#containerlienVoirDirectementlaVideo
   [2]: http://www.fnac.com
-  [3]: https://www.j0k3r.net/media/news/thumbnail/box_view_pix_1.png
   [4]: http://twitter.com/pixmania/status/15837080706
-  [5]: https://www.j0k3r.net/media/news/thumbnail/gallery_view_pix_2.png
-  [6]: https://www.j0k3r.net/media/news/thumbnail/gallery_index_pix_3.png
   [7]: http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000018048016&dateTexte=2010061
