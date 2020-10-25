@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Comment recevoir 1200$ de crédit par an pour s’amuser sur AWS'
-date: '2020-10-25 18:21:34'
+date: '2020-10-25 10:21:34'
 author: j0k
 tags: aws credit astuce
 excerpt: "Si comme moi vous aimez bien mettre vos projets persos sur AWS (parce que c'est quand même plus pratique que d'avoir un serveur dédié à gérer), j'ai une petite astuce pour avoir des 1200$ de crédits AWS par an. Il suffit de créer une Flash Briefing Skill Alexa et le tour est joué !"
