@@ -15,9 +15,11 @@ A tel point que bien souvent maintenant, j’utilise aussi AWS pour mes projets 
 Mais comme tout le monde le sait, (la console) AWS est facile à utiliser et on arrive rapidement à déployer plusieurs services sans vraiment savoir combien cela va coûter à la fin (et on a souvent des surprises).
 Il existe évidemment des services pour estimer la facture finale mais je les ai toujours trouvés trop difficiles à paramétrer pour avoir une vraie estimation.
 
+## L'astuce
+
 C’est là qu’entre en jeu **une petite astuce pour avoir des crédits AWS** de façon à limiter les coûts. Je parle ici d’un petit plus, pas d’un moyen de faire tourner l’infra complète d’un gros site gratos.
 
-**AWS vous offre 100$ par mois** sans limite de temps pour couvrir les frais que pourrait engendrer une skill Alexa.
+**AWS vous offre 100$ par mois**, sans limite de temps, pour couvrir les frais que pourrait engendrer une skill Alexa.
 Et il existe une façon très simple d’y arriver : créer une [Flash Briefing Skill](https://developer.amazon.com/en-US/docs/alexa/flashbriefing/understand-the-flash-briefing-skill-api.html).
 
 Trois choses sont nécessaires :
@@ -26,6 +28,8 @@ Trois choses sont nécessaires :
 - un flux RSS (dont la dernière publication date de moins de 7 jours). _Pour info, un flux ATOM ne fonctionnera pas._
 
 Prenez votre flux RSS et faites-en une skill.
+
+## La mise en place
 
 Connectez-vous sur [la console Alexa](https://developer.amazon.com/alexa/console/ask) avec vos identifiants Amazon (mon compte perso Amazon est le même que mon compte AWS) :
 
@@ -46,6 +50,8 @@ Quand votre skill sera validée, vous pouvez soumettre la demande de crédits [d
 Une fois confirmé, vous recevrez le mois suivant (aux alentours du 15) un mail vous disant que votre compte AWS a été crédité de 100$ parce que votre skill a généré des frais AWS (même si votre skill n’est pas hébergée sur AWS et que les frais générés n’ont rien à voir avec votre skill).
 
 {% cloudinary /assets/images/mail-aws-credit.png alt="Email d'AWS indiquant le gain de crédit" %}
+
+## Profit
 
 À noter que vous recevrez aussi 100$ de plus la première fois.
 
