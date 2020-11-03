@@ -10,14 +10,14 @@ redirect_from:
 
 ### Qui suis-je ?
 
-Je m'appelle **[Jérémy Benoist](http://www.j0k3r.net)** et je travaille dans le domaine du web et généralement en tant que **Lead Developer** depuis quelques années maintenant.
-J'ai déambulé chez [Ypok](http://www.ypok.com/), [Baobaz](http://www.baobaz.com/), [Fnac.com](https://www.fnac.com), [L'Express](http://www.lexpress.Fr) et je suis maintenant chez [20 Minutes](http://www.20minutes.fr).
+Je m'appelle **[Jérémy Benoist](https://www.j0k3r.net)** et je travaille dans le domaine du web et généralement en tant que **Lead Developer** depuis quelques années maintenant.
+J'ai déambulé chez [Ypok](http://www.ypok.com/), [Baobaz](https://www.baobaz.com/), [Fnac.com](https://www.fnac.com), [L'Express](https://www.lexpress.Fr) et je suis maintenant chez [20 Minutes](https://www.20minutes.fr).
 
-J'ai fait des interventions dans mon ancienne école, [HETIC](http://www.hetic.net/), pour essayer de convertir quelques élèves à Symfony en leur présentant le framework et en leur faisant une rapide initiation.
+J'ai fait des interventions dans mon ancienne école, [HETIC](https://www.hetic.net/), pour essayer de convertir quelques élèves à Symfony en leur présentant le framework et en leur faisant une rapide initiation.
 
 Avant de rentrer dans le monde des heures supplémentaires, j'ai fait mes études à HETIC justement où j'ai pu me former et apprendre énormément de choses intéressantes sur le multimédia, la gestion de projet et tout ce qui touche de prêt ou de loin à une agence web.
 
-Vous pouvez me retrouver sur [Twitter](https://twitter.com/j0k), [Facebook](https://www.facebook.com/jeremy.benoist), [Last.fm](http://www.lastfm.fr/user/j0k3r_n0ir) mais aussi sur [Flickr](http://www.flickr.com/photos/j0k/) et surement ailleurs.
+Vous pouvez me retrouver sur [Twitter](https://twitter.com/j0k), [Facebook](https://www.facebook.com/jeremy.benoist), [Last.fm](https://www.lastfm.fr/user/j0k3r_n0ir) mais aussi sur [Flickr](https://www.flickr.com/photos/j0k/) et surement ailleurs.
 
 #### Les voyages
 
