@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
-gem "jekyll-theme-hydeout", "~> 4.1"
+gem "jekyll-theme-hydeout", "~> 4.2"
 gem 'jekyll-sitemap'
 
 require 'rbconfig'
