@@ -17,7 +17,7 @@ J'ai fait des interventions dans mon ancienne école, [HETIC](https://www.hetic.
 
 Avant de rentrer dans le monde des heures supplémentaires, j'ai fait mes études à HETIC justement où j'ai pu me former et apprendre énormément de choses intéressantes sur le multimédia, la gestion de projet et tout ce qui touche de prêt ou de loin à une agence web.
 
-Vous pouvez me retrouver sur [Twitter](https://twitter.com/j0k), [Facebook](https://www.facebook.com/jeremy.benoist), [Last.fm](https://www.lastfm.fr/user/j0k3r_n0ir) mais aussi sur [Flickr](https://www.flickr.com/photos/j0k/) et surement ailleurs.
+Vous pouvez me retrouver sur [Twitter](https://twitter.com/j0k), [Facebook](https://www.facebook.com/jeremy.benoist), [Last.fm](https://www.last.fm/fr/user/j0k3r_n0ir) mais aussi sur [Flickr](https://www.flickr.com/photos/j0k/) et surement ailleurs.
 
 #### Les voyages
 
