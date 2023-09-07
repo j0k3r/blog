@@ -147,4 +147,4 @@ Mais ce petit projet m’a permis de :
 - jouer avec Expo pour faire une application iOS en React Native
 - jouer avec une table DynamoDB très basique
 
-La seule dépense que j’ai faite dans tout ça (outre l’achat des thermomètres en 2015) c’est le Raspberry Pi Zéro puisque tout le reste tourne sur AWS et que grâce aux [crédits AWS](https://www.j0k3r.net/recevoir-1200-dollars-credit-aws)https://www.j0k3r.net/recevoir-1200-dollars-credit-aws annuel que j’ai, elle ne me coûte rien !
+La seule dépense que j’ai faite dans tout ça (outre l’achat des thermomètres en 2015) c’est le Raspberry Pi Zéro puisque tout le reste tourne sur AWS et que grâce aux [crédits AWS](https://www.j0k3r.net/recevoir-1200-dollars-credit-aws) annuel que j’ai, elle ne me coûte rien !
