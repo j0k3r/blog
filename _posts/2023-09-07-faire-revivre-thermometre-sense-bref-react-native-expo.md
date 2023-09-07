@@ -142,7 +142,7 @@ Les seuls bémols :
 - le proxy depuis le Raspberry doit aussi être tout le temps allumé
 
 Mais ce petit projet m’a permis de :
-- découvrir la simplicité avec laquelle il est possible de faire fonctionner une application PHP dans une Lambda grâce à Bref (bravo Mathieu !!)
+- découvrir la simplicité avec laquelle il est possible de faire fonctionner une application PHP dans une Lambda grâce à Bref (bravo Matthieu !!)
 - découvrir la puissance et la simplicité d’InfluxDB pour stocker des données pour faire des graphiques
 - jouer avec Expo pour faire une application iOS en React Native
 - jouer avec une table DynamoDB très basique
