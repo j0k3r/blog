@@ -1,3 +1,4 @@
+import fs from "fs";
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
@@ -50,12 +51,6 @@ export default async function(eleventyConfig) {
 		type: "atom", // or "rss", "json"
 		outputPath: "/feed.xml",
 		stylesheet: "feed/pretty-atom-feed.xsl",
-		templateData: {
-			eleventyNavigation: {
-				key: "Feed",
-				order: 4
-			}
-		},
 		collection: {
 			name: "posts",
 			limit: 10,
@@ -104,6 +99,20 @@ export default async function(eleventyConfig) {
 		return (new Date()).toISOString();
 	});
 
+	eleventyConfig.addShortcode("svg", (file) => {
+		let relativeFilePath = `./public/svg/${file}.svg`;
+		let data = fs.readFileSync(
+			relativeFilePath,
+			function(err, contents) {
+				if (err) return err
+				return contents
+			}
+		);
+
+		return data.toString('utf8');
+	});
+
+
 	// Features to make your build faster (when you need them)
 
 	// If your passthrough copy gets heavy and cumbersome, add this line
@@ -111,6 +120,8 @@ export default async function(eleventyConfig) {
 	// https://www.11ty.dev/docs/copy/#emulate-passthrough-copy-during-serve
 
 	// eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
+
+	eleventyConfig.addPassthroughCopy({ "public/favicon": "/" });
 };
 
 export const config = {

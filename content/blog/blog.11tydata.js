@@ -3,5 +3,5 @@ export default {
 		"posts"
 	],
 	"layout": "layouts/post.njk",
-	"permalink": "blog/{{ page.fileSlug }}/",
+	"permalink": "{{ page.fileSlug }}/",
 };

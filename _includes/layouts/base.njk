@@ -22,46 +22,79 @@
 		#}
 
 		{#- Add an arbitrary string to the bundle #}
-		{%- css %}/* This is an arbitrary CSS string added to the bundle */{% endcss %}
+		{# {%- css %}/* This is an arbitrary CSS string added to the bundle */{% endcss %} #}
 		{#- Add the contents of a file to the bundle #}
-		{%- css %}{% include "public/css/index.css" %}{% endcss %}
+		{%- css %}{% include "public/css/hydeout.css" %}{% endcss %}
 		{#- Or you can add from node_modules #}
 		{# {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %} #}
 
 		{#- Render the CSS bundle using inlined CSS (for the fastest site performance in production) #}
-		{# <style>{% getBundle "css" %}</style> #}
+		<style>{% getBundle "css" %}</style>
 		{#- Renders the CSS bundle using a separate file, if you can't set CSP directive style-src: 'unsafe-inline' #}
-		<link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
+		{# <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> #}
 
 		{#- Add the heading-anchors web component to the JavaScript bundle #}
 		{# {%- js %}{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}{% endjs %} #}
 	</head>
-	<body>
-		<a href="#skip" class="visually-hidden">Skip to main content</a>
 
-		<header>
-			<a href="/" class="home-link">{{ metadata.title }}</a>
+  <body class="{% if page.url == '/' %}index home{% endif %}">
 
-			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-			<nav>
-				<h2 class="visually-hidden">Top level navigation menu</h2>
-				<ul class="nav">
-				{%- for entry in collections.all | eleventyNavigation %}
-					<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
+    <div id="sidebar">
+      <header>
+        <{% if page.url == '/' %}h1{% else %}div{% endif %} class="site-title">
+          <a href="/">
+            {% if page.url != "/" %}
+              <span class="back-arrow icon">{% svg "back-arrow" %}</span>
+            {% endif %}
+            {{ metadata.title }}
+          </a>
+        </{% if page.url == '/' %}h1{% else %}div{% endif %}>
+        <p class="lead">{{ metadata.description }}</p>
+      </header>
+
+      <nav id="sidebar-nav-links">
+      	{%- for entry in collections.all | eleventyNavigation %}
+      		<a class="page-link {% if entry.url == page.url %} active{% endif %}" href="{{ entry.url }}">{{ entry.title }}</a>
 				{%- endfor %}
-				</ul>
-			</nav>
-		</header>
 
-		<main id="skip">
+      </nav>
+
+      <nav id="sidebar-icon-links">
+        <a rel="me"
+           class="icon" title="Github Profile" aria-label="Github Profile"
+           href="https://github.com/j0k3r">
+          {% svg "github" %}
+        </a>
+
+        <a rel="me"
+           class="icon" title="Mastodon Profile" aria-label="Mastodon Profile"
+           href="https://mamot.fr/@j0k">
+          {% svg "mastodon" %}
+        </a>
+
+        <a rel="me"
+           class="icon" title="Twitter Profile" aria-label="Twitter Profile"
+           href="https://twitter.com/j0k">
+          {% svg "twitter" %}
+        </a>
+
+        <a class="icon" title="Subscribe" aria-label="Subscribe"
+           href="/feed.xml">
+          {% svg "feed" %}
+        </a>
+
+        <a class="icon" title="Tags" aria-label="Tags"
+           href="/tags">
+          {% svg "tags" %}
+        </a>
+      </nav>
+    </div>
+
+    <main class="container">
 			{{ content | safe }}
-		</main>
+    </main>
 
-		<footer>
-			<p><em>Built with <a href="https://www.11ty.dev/">{{ eleventy.generator }}</a></em></p>
-		</footer>
-
-		<!-- This page `{{ page.url }}` was built on {% currentBuildDate %} -->
+		<!-- This page `{{ page.url }}` was built on {% currentBuildDate %} by 11ty -->
 		<script type="module" src="{% getBundleFileUrl "js" %}"></script>
-	</body>
+  </body>
 </html>

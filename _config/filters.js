@@ -1,14 +1,46 @@
 import { DateTime } from "luxon";
 
+const commontTags = ['all', 'posts']
+
+/**
+ * Convert flat tag (string comma separated) to array
+ */
+const convertTags = (tags) => {
+	const newTags = [];
+
+	(tags || []).forEach(tag => {
+		if (tag && tag.includes(' ')) {
+			tag.split(' ').forEach(tag => {
+				newTags.push(tag)
+			})
+		} else {
+			newTags.push(tag)
+		}
+	})
+
+	return newTags
+}
+
+/**
+ * Same as previous function but without commont tags
+ */
+const convertAndFilterTags = (tags) => {
+	return convertTags(tags).filter(tag => !commontTags.includes(tag));
+}
+
 export default function(eleventyConfig) {
 	eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
+		if (typeof dateObj === 'string') {
+			return DateTime.fromISO(dateObj, { zone: zone || "utc", locale: "fr" }).toFormat(format || "d LLLL yyyy");
+		}
+
 		// Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
-		return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(format || "dd LLLL yyyy");
+		return DateTime.fromJSDate(dateObj, { zone: zone || "utc", locale: "fr" }).toFormat(format || "d LLLL yyyy");
 	});
 
 	eleventyConfig.addFilter("htmlDateString", (dateObj) => {
 		// dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-		return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat('yyyy-LL-dd');
+		return DateTime.fromJSDate(dateObj, { zone: "utc", locale: "fr" }).toFormat('yyyy-LL-d');
 	});
 
 	// Get the first `n` elements of a collection.
@@ -34,7 +66,24 @@ export default function(eleventyConfig) {
 	});
 
 	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
-		return (tags || []).filter(tag => ["all", "posts"].indexOf(tag) === -1);
+		return convertAndFilterTags(tags);
 	});
 
+	eleventyConfig.addFilter("hasSomeTags", function hasSomeTags(collection, currentItemUrl, number, tags) {
+		if (!tags) {
+			return []
+		}
+
+    return collection.filter((item) => {
+      if (item.data.page.url === currentItemUrl) {
+        return false;
+      }
+
+      return convertAndFilterTags(tags).filter((tag) => item.data.tags.includes(tag)).length >= number;
+    });
+	});
+
+	eleventyConfig.addFilter("limit", function limit(array, limit) {
+    return array.slice(0, limit);
+	});
 };

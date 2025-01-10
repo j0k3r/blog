@@ -4,25 +4,42 @@ layout: layouts/base.njk
 {# Only include the syntax highlighter CSS on blog posts, included with the CSS per-page bundle #}
 {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
 {%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
-<h1>{{ title }}</h1>
 
-<ul class="post-metadata">
-	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
-	{%- for tag in tags | filterTagList %}
-	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
-	{%- endfor %}
-</ul>
+<header>
+  <h1 class="post-title">{{ title }}</h1>
+</header>
+<div class="content">
+  {% include "post-meta.njk" %}
 
-{{ content | safe }}
+  <div class="post-body">
+    {{ content | safe }}
 
-{%- if collections.posts %}
-{%- set previousPost = collections.posts | getPreviousCollectionItem %}
-{%- set nextPost = collections.posts | getNextCollectionItem %}
-{%- if nextPost or previousPost %}
-<ul class="links-nextprev">
-	{%- if previousPost %}<li class="links-nextprev-prev">← Previous<br> <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></li>{% endif %}
-	{%- if nextPost %}<li class="links-nextprev-next">Next →<br><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a></li>{% endif %}
-</ul>
-{%- endif %}
-{%- endif %}
+    <div class="post-tags">
+      {% for tag in tags | filterTagList %}
+        <a href="/tags/{{ tag | slugify }}/">
+          <span class="icon">{% svg "tags" %}</span>&nbsp;<span class="tag-name">{{ tag }}</span>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+
+  {% set tagsNumber = tags | length | min(2) %}
+	{% set linkedContent = collections.posts | hasSomeTags(page.url, tagsNumber, tags) %}
+	{% if linkedContent | length > 0 %}
+	  <section class="related">
+	    <h2>Related Posts</h2>
+	    <ul class="posts-list">
+	    	{% for item in linkedContent | limit(5) %}
+	        <li>
+	          <h3>
+	            <a href="{{ item.url }}">
+	              {{ item.data.title }}
+	              <small>{{ item.date | readableDate }}</small>
+	            </a>
+	          </h3>
+	        </li>
+	      {% endfor %}
+	    </ul>
+	  </section>
+	{% endif %}
+</div>

@@ -2,7 +2,7 @@
 title: 'Faire revivre les ThermoPeanut de Sense grâce à Bref et React Native'
 date: '2023-09-07'
 author: j0k
-tags: ["php", "bref", "aws", "react"]
+tags: php bref aws react
 excerpt: "Comment j'ai bidouillé une API en PHP avec une appli iOS en React Native pour ne pas jeter mes thermomètres connectés suite à la fermeture des serveurs de la boite qui les fournissait. Je me suis bien amusé alors je vous partage tout ça !"
 ---
 _Note : j'ai créé ce projet y'a 3 ans (en aout 2019), j'ai commencé à écrire cet article en février 2020 et depuis j'ai tout le temps repousser le moment de le finir, jusqu'à aujourd'hui ! :)_
@@ -125,6 +125,10 @@ J’aurais pu partir sur une simple application en ligne de type PWA mais je me 
 
 Je suis rapidement arrivé à une interface concluante pour le listing. J’ai surtout refait l’interface de l’ancienne application de Sense pour ne pas trop être perdu (et puis le design, c'est pas mon truc).
 Pour les graphiques, j’ai utilisé la librairie Victory qui permet d’avoir le choix dans le rendu.
+
+<img src="/img/thermo-app/home_light.jpg" alt="La home en mode jour">
+<img src="/img/thermo-app/view_dark.jpg" alt="Les graphiques d'un thermomètre en mode sombre">
+<img src="/img/thermo-app/view_light.jpg" alt="Les graphiques d'un thermomètre en mode jouer">
 
 Le [code est disponible sur GitHub](https://github.com/j0k3r/thermo-app).
 

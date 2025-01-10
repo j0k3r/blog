@@ -2,7 +2,7 @@ export default {
 	title: "j0k3r.n3t",
 	url: "https://www.j0k3r.net/",
 	language: "fr",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "Là où Jérémy écrit des trucs, des fois ...",
 	author: {
 		name: "Jérémy Benoist",
 		email: "youremailaddress@example.com",
