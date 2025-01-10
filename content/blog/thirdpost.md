@@ -15,8 +15,8 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 ```js
 // this is a command
 function myCommand() {
-	let counter = 0;
-	counter++;
+  let counter = 0;
+  counter++;
 }
 
 // Test with a line break above this line.
@@ -30,8 +30,8 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 ```
 // this is a command
 function myCommand() {
-	let counter = 0;
-	counter++;
+  let counter = 0;
+  counter++;
 }
 
 // Test with a line break above this line.

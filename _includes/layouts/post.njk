@@ -24,22 +24,22 @@ layout: layouts/base.njk
   </div>
 
   {% set tagsNumber = tags | length | min(2) %}
-	{% set linkedContent = collections.posts | hasSomeTags(page.url, tagsNumber, tags) %}
-	{% if linkedContent | length > 0 %}
-	  <section class="related">
-	    <h2>Related Posts</h2>
-	    <ul class="posts-list">
-	    	{% for item in linkedContent | limit(5) %}
-	        <li>
-	          <h3>
-	            <a href="{{ item.url }}">
-	              {{ item.data.title }}
-	              <small>{{ item.date | readableDate }}</small>
-	            </a>
-	          </h3>
-	        </li>
-	      {% endfor %}
-	    </ul>
-	  </section>
-	{% endif %}
+  {% set linkedContent = collections.posts | hasSomeTags(page.url, tagsNumber, tags) %}
+  {% if linkedContent | length > 0 %}
+    <section class="related">
+      <h2>Related Posts</h2>
+      <ul class="posts-list">
+        {% for item in linkedContent | limit(5) %}
+          <li>
+            <h3>
+              <a href="{{ item.url }}">
+                {{ item.data.title }}
+                <small>{{ item.date | readableDate }}</small>
+              </a>
+            </h3>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
 </div>
