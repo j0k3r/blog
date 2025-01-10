@@ -1,11 +1,13 @@
----js
-const eleventyNavigation = {
-  key: "Home",
-  order: 1
-};
-
-const numberOfLatestPostsToShow = 3;
 ---
-{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
+eleventyNavigation:
+  key: "Home"
+  order: 1
+
+pagination:
+  data: collections.posts
+  size: 30
+  reverse: true
+---
+{% set postslist = pagination.items.reverse() %}
 
 {% include "posts-list.njk" %}

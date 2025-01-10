@@ -8,6 +8,7 @@ import { eleventyImageTransformPlugin } from '@11ty/eleventy-img';
 import pluginNavigation from '@11ty/eleventy-navigation';
 import { feedPlugin } from '@11ty/eleventy-plugin-rss';
 import pluginSyntaxHighlight from '@11ty/eleventy-plugin-syntaxhighlight';
+import dayjs from 'dayjs';
 
 import pluginFilters from './_config/filters.js';
 
@@ -88,6 +89,9 @@ export default async function (eleventyConfig) {
     sharpOptions: {
       animated: true,
     },
+
+    // because a lot of old articles have dead images
+    failOnError: false,
   });
 
   // Filters
@@ -122,6 +126,10 @@ export default async function (eleventyConfig) {
   // eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
 
   eleventyConfig.addPassthroughCopy({ 'public/favicon': '/' });
+
+  eleventyConfig.addDateParsing((dateValue) => {
+    return dayjs(dateValue).toDate();
+  });
 }
 
 export const config = {

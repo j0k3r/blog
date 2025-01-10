@@ -6,7 +6,6 @@ const eleventyNavigation = {
 
 const title = "À propos";
 const layout = "layouts/post.njk";
-const date = false;
 ---
 ### Qui suis-je ?
 

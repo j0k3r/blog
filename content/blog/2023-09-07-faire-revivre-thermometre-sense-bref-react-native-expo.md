@@ -1,6 +1,6 @@
 ---
 title: 'Faire revivre les ThermoPeanut de Sense grâce à Bref et React Native'
-date: '2023-09-07'
+date: '2023-09-07 20:41:34'
 author: j0k
 tags: php bref aws react
 excerpt: "Comment j'ai bidouillé une API en PHP avec une appli iOS en React Native pour ne pas jeter mes thermomètres connectés suite à la fermeture des serveurs de la boite qui les fournissait. Je me suis bien amusé alors je vous partage tout ça !"

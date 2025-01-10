@@ -6,44 +6,31 @@
     <title>{{ title or metadata.title }}</title>
     <meta name="description" content="{{ description or metadata.description }}">
     <link rel="alternate" href="/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
-
-    {#- Uncomment this if you’d like folks to know that you used Eleventy to build your site!  #}
-    {#- <meta name="generator" content="{{ eleventy.generator }}"> #}
-
-    {#-
-    Plain-text bundles are provided via the `eleventy-plugin-bundle` plugin:
-    1. CSS:
-      * Add to a per-page bundle using `{% css %}{% endcss %}`
-      * Retrieve bundle content using `{% getBundle "css" %}` or `{% getBundleFileUrl "css" %}`
-    2. Or for JavaScript:
-      * Add to a per-page bundle using `{% js %}{% endjs %}`
-      * Retrieve via `{% getBundle "js" %}` or `{% getBundleFileUrl "js" %}`
-    3. Learn more: https://github.com/11ty/eleventy-plugin-bundle
-    #}
-
-    {#- Add an arbitrary string to the bundle #}
-    {# {%- css %}/* This is an arbitrary CSS string added to the bundle */{% endcss %} #}
-    {#- Add the contents of a file to the bundle #}
+    <link rel="preload" href="/fonts/abril-fatface-v11-latin-regular.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="apple-touch-icon" href="/favicon.png" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="source" href="https://github.com/j0k3r/blog" />
+    <meta name="generator" content="{{ eleventy.generator }}">
+    <meta name="theme-color" content="#0F6EB5" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="{{ metadata.title }}" />
+    <meta name="application-name" content="{{ metadata.title }}" />
+    <meta property="og:title" content="{{ metadata.title }}" />
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:description" content="j0k3r.net, le blog de Jérémy Benoist sur le développement web avec de tout dedans" />
+    <meta property="og:url" content="https://www.j0k3r.net/" />
+    <meta property="og:site_name" content="{{ metadata.title }}" />
+    <meta property="og:type" content="website" />
     {%- css %}{% include "public/css/hydeout.css" %}{% endcss %}
-    {#- Or you can add from node_modules #}
-    {# {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %} #}
-
-    {#- Render the CSS bundle using inlined CSS (for the fastest site performance in production) #}
     <style>{% getBundle "css" %}</style>
-    {#- Renders the CSS bundle using a separate file, if you can't set CSP directive style-src: 'unsafe-inline' #}
-    {# <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> #}
-
-    {#- Add the heading-anchors web component to the JavaScript bundle #}
-    {# {%- js %}{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}{% endjs %} #}
   </head>
 
   <body class="{% if page.url == '/' %}index home{% endif %}">
-
     <div id="sidebar">
       <header>
         <{% if page.url == '/' %}h1{% else %}div{% endif %} class="site-title">
           <a href="/">
-            {% if page.url != "/" %}
+            {%- if page.url != "/" %}
               <span class="back-arrow icon">{% svg "back-arrow" %}</span>
             {% endif %}
             {{ metadata.title }}
@@ -56,7 +43,6 @@
         {%- for entry in collections.all | eleventyNavigation %}
           <a class="page-link {% if entry.url == page.url %} active{% endif %}" href="{{ entry.url }}">{{ entry.title }}</a>
         {%- endfor %}
-
       </nav>
 
       <nav id="sidebar-icon-links">
@@ -70,12 +56,6 @@
            class="icon" title="Mastodon Profile" aria-label="Mastodon Profile"
            href="https://mamot.fr/@j0k">
           {% svg "mastodon" %}
-        </a>
-
-        <a rel="me"
-           class="icon" title="Twitter Profile" aria-label="Twitter Profile"
-           href="https://twitter.com/j0k">
-          {% svg "twitter" %}
         </a>
 
         <a class="icon" title="Subscribe" aria-label="Subscribe"

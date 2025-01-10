@@ -1,4 +1,5 @@
-import { DateTime } from 'luxon';
+import dayjs from 'dayjs';
+import 'dayjs/locale/fr.js';
 
 const commontTags = ['all', 'posts'];
 
@@ -29,26 +30,12 @@ const convertAndFilterTags = (tags) => {
 };
 
 export default function (eleventyConfig) {
-  eleventyConfig.addFilter('readableDate', (dateObj, format, zone) => {
-    if (typeof dateObj === 'string') {
-      return DateTime.fromISO(dateObj, {
-        zone: zone || 'utc',
-        locale: 'fr',
-      }).toFormat(format || 'd LLLL yyyy');
-    }
-
-    // Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
-    return DateTime.fromJSDate(dateObj, {
-      zone: zone || 'utc',
-      locale: 'fr',
-    }).toFormat(format || 'd LLLL yyyy');
+  eleventyConfig.addFilter('readableDate', (dateObj) => {
+    return dayjs(dateObj).locale('fr').format('D MMMM YYYY');
   });
 
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-    // dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-    return DateTime.fromJSDate(dateObj, { zone: 'utc', locale: 'fr' }).toFormat(
-      'yyyy-LL-d',
-    );
+    return dayjs(dateObj).format('YYYY-MM-D');
   });
 
   // Get the first `n` elements of a collection.
