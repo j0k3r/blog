@@ -1,16 +1,12 @@
 import fs from 'node:fs';
-import {
-  HtmlBasePlugin,
-  IdAttributePlugin,
-  InputPathToUrlTransformPlugin,
-} from '@11ty/eleventy';
+import { HtmlBasePlugin, IdAttributePlugin, InputPathToUrlTransformPlugin } from '@11ty/eleventy';
 import { eleventyImageTransformPlugin } from '@11ty/eleventy-img';
 import pluginNavigation from '@11ty/eleventy-navigation';
 import { feedPlugin } from '@11ty/eleventy-plugin-rss';
 import pluginSyntaxHighlight from '@11ty/eleventy-plugin-syntaxhighlight';
 import dayjs from 'dayjs';
 
-import pluginFilters from './_config/filters.js';
+import pluginFilters, { filterTags } from './_config/filters.js';
 
 export default async function (eleventyConfig) {
   // Drafts, see also _data/eleventyDataSchema.js
@@ -129,6 +125,29 @@ export default async function (eleventyConfig) {
 
   eleventyConfig.addDateParsing((dateValue) => {
     return dayjs(dateValue).toDate();
+  });
+
+  // build list of tags with number of contents per tag sorted by most contennts per tag
+  eleventyConfig.addCollection('tagsList', (collection) => {
+    const tagsObject = {};
+    for (const item of collection.getAll()) {
+      if (item.data.tags) {
+        for (const tag of filterTags(item.data.tags)) {
+          if (typeof tagsObject[tag] === 'undefined') {
+            tagsObject[tag] = 1;
+          } else {
+            tagsObject[tag] += 1;
+          }
+        }
+      }
+    }
+
+    const tagList = [];
+    for (const tagObject of Object.keys(tagsObject)) {
+      tagList.push({ tagName: tagObject, tagCount: tagsObject[tagObject] });
+    }
+
+    return tagList.sort((a, b) => b.tagCount - a.tagCount);
   });
 }
 

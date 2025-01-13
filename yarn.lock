@@ -3,9 +3,9 @@
 
 
 "@11ty/dependency-tree-esm@^1.0.0":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@11ty/dependency-tree-esm/-/dependency-tree-esm-1.0.1.tgz#68c52dc5b14aeec0cb6e11d2307f66a160bcd4ef"
-  integrity sha512-CaCD5dTwyJlQqzzIVMR7Bqa3JApjmILl6+VfOrA1gDjDO+7J5EPhTxE/b7nyGICMc1UtcUnvKputl+EfLpP/PA==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@11ty/dependency-tree-esm/-/dependency-tree-esm-1.0.2.tgz#a71e26e6529670ee10fd1bd6ef4229307fffd8ff"
+  integrity sha512-dM0ncKfMMWyz+xxujrB5xO4sf8DJygkmzb8OyXWP5AYY0kLMGrumYTf+YKyQHsoZli2rfjxrlEYLEXOt0utUqA==
   dependencies:
     "@11ty/eleventy-utils" "^1.0.3"
     acorn "^8.14.0"

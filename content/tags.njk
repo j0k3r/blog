@@ -1,8 +1,14 @@
-<h1>Tags</h1>
-
-<ul>
-{% for tag in collections | getKeys | filterTagList %}
-  {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-  <li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a></li>
-{% endfor %}
-</ul>
+---
+title: Tous les tags
+layout: layouts/page.njk
+---
+<div id="tags-page">
+  <div class="tags-list">
+    {% for data in collections.tagsList %}
+    <a href="/tags/{{ data.tagName | slugify }}/" class="tag-link">
+      <span class="tag-name">{{ data.tagName }}</span>
+      <span class="tag-count">{{ data.tagCount }}</span>
+    </a>
+    {% endfor %}
+  </div>
+</div>

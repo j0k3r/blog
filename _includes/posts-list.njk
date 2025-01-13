@@ -1,7 +1,13 @@
 <div class="content">
-  {# {% include pagination-newer.html %} #}
-
-  {# {{ content }} #}
+  {% if pagination.href.previous %}
+    {% set previous = pagination.href.previous %}
+    {% if previous == '/page1/' %}
+      {% set previous = '/' %}
+    {% endif -%}
+  <div class="pagination">
+    <a class="pagination-item newer" href="{{ previous }}">Voir la page précédente</a>
+  </div>
+  {% endif %}
 
   {%- for post in postslist | reverse %}
   <article class="post-body">
@@ -20,5 +26,13 @@
   </article>
   {% endfor %}
 
-  {# {% include pagination-older.html %} #}
+  {% if numberOfLatestPostsToShow %}
+    <div class="pagination">
+      <a class="pagination-item older" href="/page2">Voir la page suivante</a>
+    </div>
+  {% elif pagination.href.next %}
+    <div class="pagination">
+      <a class="pagination-item older" href="{{ pagination.href.next }}">Voir la page suivante</a>
+    </div>
+  {% endif %}
 </div>

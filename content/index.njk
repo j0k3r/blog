@@ -3,11 +3,8 @@ eleventyNavigation:
   key: "Home"
   order: 1
 
-pagination:
-  data: collections.posts
-  size: 30
-  reverse: true
+numberOfLatestPostsToShow: 30
 ---
-{% set postslist = pagination.items.reverse() %}
+{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 
 {% include "posts-list.njk" %}

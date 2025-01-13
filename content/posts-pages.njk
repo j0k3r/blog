@@ -1,0 +1,15 @@
+---
+# this will generate all paginate pages
+pagination:
+  data: collections.posts
+  size: 30
+  reverse: true
+
+permalink: "page{{ pagination.pageNumber + 1 }}/index.html"
+
+eleventyComputed:
+  title: "Tous les articles, page {{ pagination.pageNumber + 1 }}"
+---
+{% set postslist = pagination.items.reverse() %}
+
+{% include "posts-list.njk" %}

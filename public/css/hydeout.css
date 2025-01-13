@@ -818,26 +818,8 @@ body {
   }
 }
 
-.masthead {
-  margin-bottom: 3rem;
-  padding-bottom: 1rem;
-  padding-top: 1rem
-}
-
-.masthead-title {
-  color: #515151;
-  margin-bottom: 0;
-  margin-top: 0
-}
-
-.masthead-title a {
-  color: inherit
-}
-
-.masthead-title small {
-  font-size: 75%;
-  font-weight: 400;
-  opacity: .5
+.posts-by-tag {
+  padding-top: 1rem;
 }
 
 .posts-by-tag h2 {
@@ -1037,25 +1019,6 @@ button.disqus-load {
 .tags-list a:hover {
   opacity: 1;
   text-decoration: none
-}
-
-@keyframes posts-for-tag-fade-in {
-  from {
-    opacity: 0
-  }
-
-  to {
-    opacity: 1
-  }
-}
-
-.posts-for-tag {
-  display: none
-}
-
-.posts-for-tag:target {
-  animation: posts-for-tag-fade-in .6s ease-in-out;
-  display: block
 }
 
 .back-link {

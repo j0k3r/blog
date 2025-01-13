@@ -4,29 +4,10 @@ import 'dayjs/locale/fr.js';
 const commontTags = ['all', 'posts'];
 
 /**
- * Convert flat tag (string comma separated) to array
+ * Remove commont tags
  */
-const convertTags = (tags) => {
-  const newTags = [];
-
-  for (const tag of tags || []) {
-    if (tag?.includes(' ')) {
-      for (const tagLower of tag.split(' ')) {
-        newTags.push(tagLower);
-      }
-    } else {
-      newTags.push(tag);
-    }
-  }
-
-  return newTags;
-};
-
-/**
- * Same as previous function but without commont tags
- */
-const convertAndFilterTags = (tags) => {
-  return convertTags(tags).filter((tag) => !commontTags.includes(tag));
+export const filterTags = (tags) => {
+  return (tags || []).filter((tag) => !commontTags.includes(tag));
 };
 
 export default function (eleventyConfig) {
@@ -55,35 +36,27 @@ export default function (eleventyConfig) {
     return Math.min.apply(null, numbers);
   });
 
-  // Return the keys used in an object
-  eleventyConfig.addFilter('getKeys', (target) => {
-    return Object.keys(target);
-  });
-
   eleventyConfig.addFilter('filterTagList', (tags) => {
-    return convertAndFilterTags(tags);
+    return filterTags(tags);
   });
 
-  eleventyConfig.addFilter(
-    'hasSomeTags',
-    function hasSomeTags(collection, currentItemUrl, number, tags) {
-      if (!tags) {
-        return [];
+  // display "related posts" based on matching tags
+  eleventyConfig.addFilter('hasSomeTags', (collection, currentItemUrl, number, tags) => {
+    if (!tags) {
+      return [];
+    }
+
+    const newCollection = collection.filter((item) => {
+      if (item.data.page.url === currentItemUrl) {
+        return false;
       }
 
-      return collection.filter((item) => {
-        if (item.data.page.url === currentItemUrl) {
-          return false;
-        }
+      return filterTags(tags).filter((tag) => item.data.tags.includes(tag)).length >= number;
+    });
 
-        return (
-          convertAndFilterTags(tags).filter((tag) =>
-            item.data.tags.includes(tag),
-          ).length >= number
-        );
-      });
-    },
-  );
+    // ensure recent posts are coming first
+    return newCollection.reverse();
+  });
 
   eleventyConfig.addFilter('limit', (array, limit) => {
     return array.slice(0, limit);
