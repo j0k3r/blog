@@ -11,7 +11,7 @@ const pagination = {
 const eleventyExcludeFromCollections = true;
 
 const eleventyComputed = {
-  title: "Contenus avec le tag '{{ tag }}'",
+  title: "Contenus avec le tag '{{ tag | safe }}'",
   permalink: function(data) {
     return `/tags/${this.slugify(data.tag)}/`;
   }
