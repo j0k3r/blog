@@ -1,0 +1,24 @@
+name: Linter
+
+on:
+  push:
+    branches: [ blog ]
+  pull_request:
+    branches: [ blog ]
+
+jobs:
+  biome:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: '.nvmrc'
+          cache: 'yarn'
+
+      - run: yarn install
+
+      - run: yarn lint

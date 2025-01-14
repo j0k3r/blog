@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /forums
-Disallow: /user
-
-Sitemap: https://www.j0k3r.net/sitemap.xml

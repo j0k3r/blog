@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.url == '/' %}{{ metadata.title }}{% else %}{{ title }} · j0k3r.net{% endif %}</title>
+    <meta name="description" content="{{ description or metadata.description }}">
+    <link rel="alternate" href="/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
+    <link rel="preload" href="/fonts/abril-fatface-v11-latin-regular.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="apple-touch-icon" href="/favicon.png" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="source" href="https://github.com/j0k3r/blog" />
+    <meta name="generator" content="{{ eleventy.generator }}">
+    <meta name="theme-color" content="#0F6EB5" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="{{ metadata.title }}" />
+    <meta name="application-name" content="{{ metadata.title }}" />
+    <meta property="og:title" content="{{ metadata.title }}" />
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:description" content="j0k3r.net, le blog de Jérémy Benoist sur le développement web avec de tout dedans" />
+    <meta property="og:url" content="https://www.j0k3r.net/" />
+    <meta property="og:site_name" content="{{ metadata.title }}" />
+    <meta property="og:type" content="website" />
+    {%- css %}{% include "public/css/hydeout.css" %}{% endcss %}
+    <style>{% getBundle "css" %}</style>
+  </head>
+
+  <body class="{% if page.url == '/' %}index home{% endif %}{% if page.url == '/tags/' %}tags{% endif %}">
+    <div id="sidebar">
+      <header>
+        <{% if page.url == '/' %}h1{% else %}div{% endif %} class="site-title">
+          <a href="/">
+            {%- if page.url != "/" %}
+              <span class="back-arrow icon">{% svg "back-arrow" %}</span>
+            {% endif %}
+            {{ metadata.title }}
+          </a>
+        </{% if page.url == '/' %}h1{% else %}div{% endif %}>
+        <p class="lead">{{ metadata.description }}</p>
+      </header>
+
+      <nav id="sidebar-nav-links">
+        {%- for entry in collections.all | eleventyNavigation %}
+          <a class="page-link {% if entry.url == page.url %} active{% endif %}" href="{{ entry.url }}">{{ entry.title }}</a>
+        {%- endfor %}
+      </nav>
+
+      <nav id="sidebar-icon-links">
+        <a rel="me"
+           class="icon" title="Github Profile" aria-label="Github Profile"
+           href="https://github.com/j0k3r">
+          {% svg "github" %}
+        </a>
+
+        <a rel="me"
+           class="icon" title="Mastodon Profile" aria-label="Mastodon Profile"
+           href="https://mamot.fr/@j0k">
+          {% svg "mastodon" %}
+        </a>
+
+        <a class="icon" title="Subscribe" aria-label="Subscribe"
+           href="/feed.xml">
+          {% svg "feed" %}
+        </a>
+
+        <a class="icon" title="Tags" aria-label="Tags"
+           href="/tags">
+          {% svg "tags" %}
+        </a>
+      </nav>
+    </div>
+
+    <main class="container">
+      {{ content | safe }}
+    </main>
+
+    <!-- This page `{{ page.url }}` was built on {% currentBuildDate %} by 11ty -->
+    <script type="module" src="{% getBundleFileUrl "js" %}"></script>
+  </body>
+</html>

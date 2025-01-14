@@ -1,0 +1,27 @@
+---
+permalink: /_redirects
+layout: false
+eleventyExcludeFromCollections: true
+---
+# redirect for netlify
+# https://www.netlify.com/docs/redirects/
+
+# Redirect default Netlify subdomain to primary domain
+https://j0k3r-net.netlify.com/* https://www.j0k3r.net/:splat 301!
+
+/feed                       /feed.xml             301!
+
+/tag/:tag                   /tags/:tag
+/category/ch-tits-trucs     /tags/ch-tits-trucs   301!
+/category/developpement     /tags/développement   301!
+/category/divers            /tags/divers          301!
+/category/j0k3r-n3t         /tags/j0k3r_net       301!
+/category/webdesign         /tags/webdesign       301!
+
+#/:slug.html                 /:slug
+/blog/:slug                 /:slug
+/article/:slug              /:slug
+
+/blog                       /                     301!
+/apropos                    /about                301!
+/vrac                       /tags/vrac            301!

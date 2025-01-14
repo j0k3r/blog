@@ -1,0 +1,40 @@
+---js
+// this will generate all tags pages
+// <script>
+const pagination = {
+  data: "collections",
+  size: 1,
+  alias: "tag",
+  filter: ["all", "posts"],
+};
+
+const eleventyExcludeFromCollections = true;
+
+const eleventyComputed = {
+  title: "Contenus avec le tag '{{ tag | safe }}'",
+  permalink: function(data) {
+    return `/tags/${this.slugify(data.tag)}/`;
+  }
+};
+const layout = 'layouts/page.njk';
+---
+{% set postslist = collections[tag] %}
+
+<div class="posts-by-tag">
+  <div id="{{ tag | slugify }}" class="posts-for-tag">
+    <ul class="posts-list">
+      {%- for post in postslist | reverse %}
+        <li>
+          <h3>
+            <a href="{{ post.url }}">
+              {{ post.data.title }}
+              <small>{{ post.data.date | readableDate }}</small>
+            </a>
+          </h3>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<p>Voir <a href="tags.njk">tous les tags</a>.</p>

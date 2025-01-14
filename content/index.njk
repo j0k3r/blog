@@ -1,0 +1,10 @@
+---
+eleventyNavigation:
+  key: "Home"
+  order: 1
+
+numberOfLatestPostsToShow: 30
+---
+{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
+
+{% include "posts-list.njk" %}

@@ -1,9 +1,4 @@
-_site
-.sass-cache
-.jekyll-metadata
-vendor
-composer*
-dump.sql
-*.php
-.lighthouseci
-.jekyll-cache
+_site/
+node_modules/
+.cache
+OLD
