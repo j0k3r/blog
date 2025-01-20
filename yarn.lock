@@ -49,10 +49,10 @@
     graceful-fs "^4.2.11"
     p-queue "6.6.2"
 
-"@11ty/eleventy-img@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@11ty/eleventy-img/-/eleventy-img-6.0.0.tgz#6ad55a64ef73815efc4761daa8898e240f168c30"
-  integrity sha512-5vQj6NMxaRwI/rkRkrDajUvNy4p4xJz2DJrlgk0JpvYegkC8OxAoLE+sXqd5Ij5IgqfoPHiepf/3FbTHAnYXzg==
+"@11ty/eleventy-img@^6.0.1":
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/@11ty/eleventy-img/-/eleventy-img-6.0.1.tgz#626aa4d30a9a5948a4cb3f7816763f6865a485a4"
+  integrity sha512-Ktr1C42cu7rHR7M0lT+JfMjWaOIwS2rXqzrXkNfKAEljgJxCPVg2vsWr5iyPBg2IL7OY8ipPCr5jbovMAz6B9w==
   dependencies:
     "@11ty/eleventy-fetch" "^5.0.2"
     "@11ty/eleventy-utils" "^2.0.0"
