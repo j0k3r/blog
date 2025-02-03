@@ -9,7 +9,7 @@ eleventyExcludeFromCollections: true
   {% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
   <url>
     <loc>{{ absoluteUrl }}</loc>
-    <lastmod>{{ page.date | htmlDateString }}</lastmod>
+    <lastmod>{{ page.date | sitemapDate }}</lastmod>
   </url>
 {%- endfor %}
 </urlset>
