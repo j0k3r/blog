@@ -1,3 +1,9 @@
 [build]
   publish = "_site"
   command = "yarn build"
+
+[[plugins]]
+package = "netlify-plugin-cache"
+
+  [plugins.inputs]
+  paths = [ ".cache" ]

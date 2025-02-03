@@ -35,5 +35,7 @@
     "zod": "^3.23.8",
     "zod-validation-error": "^3.3.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "netlify-plugin-cache": "^1.0.3"
+  }
 }

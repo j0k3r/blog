@@ -15,8 +15,8 @@ export default function (eleventyConfig) {
     return dayjs(dateObj).locale('fr').format('D MMMM YYYY');
   });
 
-  eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-    return dayjs(dateObj).format('YYYY-MM-D');
+  eleventyConfig.addFilter('sitemapDate', (dateObj) => {
+    return dayjs(dateObj).format('YYYY-MM-DD');
   });
 
   // Get the first `n` elements of a collection.
