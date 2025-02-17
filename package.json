@@ -32,7 +32,7 @@
     "@biomejs/biome": "1.9.4",
     "cross-env": "^7.0.3",
     "dayjs": "^1.11.13",
-    "zod": "^3.23.8",
+    "zod": "^3.24.2",
     "zod-validation-error": "^3.3.1"
   },
   "dependencies": {
