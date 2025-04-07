@@ -63,10 +63,10 @@
     p-queue "^6.6.2"
     sharp "^0.33.5"
 
-"@11ty/eleventy-navigation@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@11ty/eleventy-navigation/-/eleventy-navigation-1.0.2.tgz#07ce0a176e29a56c88108a443b62410f5c83483d"
-  integrity sha512-2LZf2MW0w9gW4uTVjyyd8f7rf9HHtRB+RX+p9U0A5FR0efv8mAjDiutdqjo8HrljT6W+ad47EtZEMVL8PwaMRw==
+"@11ty/eleventy-navigation@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@11ty/eleventy-navigation/-/eleventy-navigation-1.0.4.tgz#d532f7d6d8c66973b83b5695f908f4e1c04a9f04"
+  integrity sha512-FgIfKiFP1e3plQdIvSRph1tFV44bbCXcYs+AWcwnsfrn5I6Gf0t3hBq9IrR4JdnZ06hlEKq8qRbnbb0nfEZg3A==
   dependencies:
     dependency-graph "^1.0.0"
 
