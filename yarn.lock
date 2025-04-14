@@ -49,17 +49,17 @@
     graceful-fs "^4.2.11"
     p-queue "6.6.2"
 
-"@11ty/eleventy-img@^6.0.1":
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/@11ty/eleventy-img/-/eleventy-img-6.0.1.tgz#626aa4d30a9a5948a4cb3f7816763f6865a485a4"
-  integrity sha512-Ktr1C42cu7rHR7M0lT+JfMjWaOIwS2rXqzrXkNfKAEljgJxCPVg2vsWr5iyPBg2IL7OY8ipPCr5jbovMAz6B9w==
+"@11ty/eleventy-img@^6.0.2":
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/@11ty/eleventy-img/-/eleventy-img-6.0.2.tgz#8ef027b3411145b3ff5e0a10d0da4c10651322bf"
+  integrity sha512-7JYo4CX8J2jLW3Bzw7RuwLiUIr2NRPtwbspZkng0/4Hr6SaVPA7P7ZSbJcZl+K4jCpw8MCss4XoGcBZ2XejRjg==
   dependencies:
     "@11ty/eleventy-fetch" "^5.0.2"
-    "@11ty/eleventy-utils" "^2.0.0"
+    "@11ty/eleventy-utils" "^2.0.1"
     brotli-size "^4.0.0"
     debug "^4.4.0"
     entities "^6.0.0"
-    image-size "^1.2.0"
+    image-size "^1.2.1"
     p-queue "^6.6.2"
     sharp "^0.33.5"
 
@@ -102,10 +102,10 @@
   dependencies:
     normalize-path "^3.0.0"
 
-"@11ty/eleventy-utils@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@11ty/eleventy-utils/-/eleventy-utils-2.0.0.tgz#7f438bfdea5cbdb552c45205bdf8aa53194e1969"
-  integrity sha512-rKny6X7+ARuke0TaA6FwNv2PWJCNSdPQqbqDgaZgi+bPXwnPRTEi3CWzvr6vVgh/1XpO1G4FhRPreLhtcwHUyg==
+"@11ty/eleventy-utils@^2.0.0", "@11ty/eleventy-utils@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@11ty/eleventy-utils/-/eleventy-utils-2.0.1.tgz#ae3d3956473f905c5b4aee92caf7d61764cc8b21"
+  integrity sha512-hicG0vPyqfLvgHJQLtoh3XAj6wUbLX4yY2se8bQLdhCIcxK46mt4zDpgcrYVP3Sjx4HPifQOdwRfOEECoUcyXQ==
 
 "@11ty/eleventy@^3.0.0":
   version "3.0.0"
@@ -992,10 +992,10 @@ ieee754@^1.2.1:
   resolved "https://registry.yarnpkg.com/ieee754/-/ieee754-1.2.1.tgz#8eb7a10a63fff25d15a57b001586d177d1b0d352"
   integrity sha512-dcyqhDvX1C46lXZcVqCpK+FtMRQVdIMN6/Df5js2zouUsqG7I6sFxitIC+7KYK29KdXOLHdu9zL4sFnoVQnqaA==
 
-image-size@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/image-size/-/image-size-1.2.0.tgz#312af27a2ff4ff58595ad00b9344dd684c910df6"
-  integrity sha512-4S8fwbO6w3GeCVN6OPtA9I5IGKkcDMPcKndtUlpJuCwu7JLjtj7JZpwqLuyY2nrmQT3AWsCJLSKPsc2mPBSl3w==
+image-size@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/image-size/-/image-size-1.2.1.tgz#ee118aedfe666db1a6ee12bed5821cde3740276d"
+  integrity sha512-rH+46sQJ2dlwfjfhCyNx5thzrv+dtmBIhPHk0zgRUukHzZ/kRueTJXoYYsclBaKcSMBWuGbOFXtioLpzTb5euw==
   dependencies:
     queue "6.0.2"
 
