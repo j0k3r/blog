@@ -5,6 +5,10 @@ updates:
   schedule:
     interval: weekly
   open-pull-requests-limit: 10
+  groups:
+    zod-dependencies:
+      patterns:
+        - "*zod*"
 - package-ecosystem: github-actions
   directory: "/"
   schedule:
