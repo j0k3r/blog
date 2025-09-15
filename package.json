@@ -29,7 +29,7 @@
     "@11ty/eleventy-navigation": "^1.0.4",
     "@11ty/eleventy-plugin-rss": "^2.0.4",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
-    "@biomejs/biome": "2.2.3",
+    "@biomejs/biome": "2.2.4",
     "cross-env": "^10.0.0",
     "dayjs": "^1.11.18",
     "zod": "^4.1.5",
