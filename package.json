@@ -33,7 +33,7 @@
     "cross-env": "^10.1.0",
     "dayjs": "^1.11.18",
     "zod": "^4.1.12",
-    "zod-validation-error": "^4.0.2"
+    "zod-validation-error": "^5.0.0"
   },
   "dependencies": {
     "netlify-plugin-cache": "^1.0.3"
