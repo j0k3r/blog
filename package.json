@@ -31,7 +31,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
     "@biomejs/biome": "2.4.7",
     "cross-env": "^10.1.0",
-    "dayjs": "^1.11.19",
+    "dayjs": "^1.11.20",
     "zod": "^4.3.6",
     "zod-validation-error": "^5.0.0"
   },
