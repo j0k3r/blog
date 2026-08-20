@@ -4,10 +4,9 @@
   "description": "Blog based the starter repository using the Eleventy site generator.",
   "type": "module",
   "scripts": {
-    "build": "npx @11ty/eleventy",
-    "start": "npx @11ty/eleventy --serve --quiet",
-    "debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
-    "benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
+    "build": "eleventy",
+    "start": "eleventy --serve --quiet",
+    "debug": "cross-env DEBUG=Eleventy* eleventy",
     "lint": "biome check"
   },
   "repository": {
@@ -29,10 +28,10 @@
     "@11ty/eleventy-navigation": "^1.0.5",
     "@11ty/eleventy-plugin-rss": "^3.0.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
-    "@biomejs/biome": "2.5.8",
+    "@biomejs/biome": "2.5.9",
     "cross-env": "^10.1.0",
-    "dayjs": "^1.11.21",
-    "zod": "^4.3.6",
+    "dayjs": "^1.11.23",
+    "zod": "^4.4.3",
     "zod-validation-error": "^5.0.0"
   },
   "dependencies": {
